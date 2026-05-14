@@ -1,0 +1,278 @@
+[
+    {
+        "id": 0,
+        "count": {
+            "occurrence": 19,
+            "mention_ratio": 0.475
+        },
+        "gender": {
+            "ratio": 0.6842,
+            "inference": {
+                "Male": 1.0,
+                "Female": 0.0
+            },
+            "max": 1.0,
+            "argmax": "Male"
+        },
+        "number": {
+            "ratio": 1.0,
+            "inference": {
+                "Singular": 1.0,
+                "Plural": 0.0
+            },
+            "max": 1.0,
+            "argmax": "Singular"
+        },
+        "mentions": {
+            "proper": [
+                {
+                    "n": "louis xviii",
+                    "c": 1
+                },
+                {
+                    "n": "le maître de l’ europe",
+                    "c": 1
+                },
+                {
+                    "n": "napoléon",
+                    "c": 1
+                }
+            ],
+            "common": [
+                {
+                    "n": "cet homme terrassé",
+                    "c": 1
+                },
+                {
+                    "n": "le vaincu",
+                    "c": 1
+                },
+                {
+                    "n": "ce fantôme",
+                    "c": 1
+                }
+            ],
+            "pronoun": [
+                {
+                    "n": "le",
+                    "c": 5
+                },
+                {
+                    "n": "-il",
+                    "c": 2
+                },
+                {
+                    "n": "il",
+                    "c": 2
+                },
+                {
+                    "n": "lui",
+                    "c": 2
+                },
+                {
+                    "n": "son",
+                    "c": 1
+                },
+                {
+                    "n": "ses",
+                    "c": 1
+                }
+            ]
+        },
+        "agent": [
+            {
+                "w": "rentrer",
+                "i": 163
+            },
+            {
+                "w": "être",
+                "i": 697
+            },
+            {
+                "w": "faire",
+                "i": 702
+            },
+            {
+                "w": "mourir",
+                "i": 708
+            },
+            {
+                "w": "avoir",
+                "i": 838
+            },
+            {
+                "w": "avoir",
+                "i": 947
+            },
+            {
+                "w": "donner",
+                "i": 964
+            }
+        ],
+        "patient": [
+            {
+                "w": "chercher",
+                "i": 692
+            },
+            {
+                "w": "connaître",
+                "i": 734
+            },
+            {
+                "w": "déifier",
+                "i": 740
+            },
+            {
+                "w": "grandir",
+                "i": 883
+            },
+            {
+                "w": "garder",
+                "i": 907
+            },
+            {
+                "w": "guetter",
+                "i": 916
+            },
+            {
+                "w": "nommer",
+                "i": 931
+            }
+        ],
+        "mod": [
+            {
+                "w": "xviii",
+                "i": 162
+            }
+        ],
+        "poss": [
+            {
+                "w": "entrée",
+                "i": 835
+            },
+            {
+                "w": "étoile",
+                "i": 843
+            },
+            {
+                "w": "bras",
+                "i": 921
+            }
+        ]
+    },
+    {
+        "id": 1,
+        "count": {
+            "occurrence": 2,
+            "mention_ratio": 0.05
+        },
+        "gender": {
+            "ratio": 0.5,
+            "inference": {
+                "Male": 1.0,
+                "Female": 0.0
+            },
+            "max": 1.0,
+            "argmax": "Male"
+        },
+        "number": {
+            "ratio": 0.5,
+            "inference": {
+                "Singular": 1.0,
+                "Plural": 0.0
+            },
+            "max": 1.0,
+            "argmax": "Singular"
+        },
+        "mentions": {
+            "proper": [
+                {
+                    "n": "le pape pie vii",
+                    "c": 1
+                }
+            ],
+            "common": [],
+            "pronoun": [
+                {
+                    "n": "qui",
+                    "c": 1
+                }
+            ]
+        },
+        "agent": [
+            {
+                "w": "faire",
+                "i": 433
+            },
+            {
+                "w": "bénir",
+                "i": 442
+            }
+        ],
+        "patient": [],
+        "mod": [],
+        "poss": []
+    },
+    {
+        "id": 2,
+        "count": {
+            "occurrence": 2,
+            "mention_ratio": 0.05
+        },
+        "gender": {
+            "ratio": 0,
+            "inference": {
+                "Male": 0,
+                "Female": 0
+            },
+            "max": 0,
+            "argmax": "Null"
+        },
+        "number": {
+            "ratio": 0,
+            "inference": {
+                "Singular": 0,
+                "Plural": 0
+            },
+            "max": 0,
+            "argmax": "Null"
+        },
+        "mentions": {
+            "proper": [],
+            "common": [
+                {
+                    "n": "une petite ombre âgée de quatre ans",
+                    "c": 1
+                }
+            ],
+            "pronoun": [
+                {
+                    "n": "qu’",
+                    "c": 1
+                }
+            ]
+        },
+        "agent": [],
+        "patient": [
+            {
+                "w": "avoir",
+                "i": 455
+            }
+        ],
+        "mod": [
+            {
+                "w": "petit",
+                "i": 459
+            },
+            {
+                "w": "âgé",
+                "i": 461
+            },
+            {
+                "w": "séditieux",
+                "i": 468
+            }
+        ],
+        "poss": []
+    }
+]

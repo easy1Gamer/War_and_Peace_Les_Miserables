@@ -1,0 +1,78 @@
+start_token	end_token	cat	confidence	text	mention_len	paragraph_ID	sentence_ID	start_token_ID_within_sentence	out_to_in_nested_level	in_to_out_nested_level	nested_entities_count	temp_index	head_id	head_word	head_dependency_relation	head_syntactic_head_ID	POS_tag	prop	number	gender	grammatical_person	COREF
+19	20	TIME	0.5180002450942993	cette bataille	2	1	1	8	0	0	0	0	20	bataille	nmod	17	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+32	34	PER	0.4622303744157155	les deux armées	3	1	1	21	0	0	0	1	34	armées	obl:mod	30	NOUN	NOM	Plural	Ambiguous	3	4
+38	39	PER	0.85075443983078	les anglais	2	1	1	27	0	0	0	2	39	anglais	conj	34	NOUN	NOM	Plural	Ambiguous	3	5
+44	45	PER	0.9054592251777649	les français	2	1	1	33	0	0	0	3	45	français	dep	41	NOUN	NOM	Plural	Ambiguous	3	6
+53	55	TIME	0.8475822408994039	toute la nuit	3	2	2	6	0	0	0	4	55	nuit	obl:mod	49	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+79	80	LOC	0.7062363028526306	la plaine	2	2	2	32	0	0	0	5	80	plaine	nmod	77	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+93	94	VEH	0.8713110387325287	du train	2	2	2	46	0	0	0	6	94	train	nmod	92	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+105	106	VEH	0.765351802110672	des attelages	2	2	2	58	0	0	0	7	106	attelages	nmod	104	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+144	149	LOC	0.4378695587317149	les vallons du côté de papelotte	6	2	2	97	0	1	1	8	145	vallons	nmod	140	NOUN	PROP	Not_Assigned	Not_Assigned	3	
+149	149	GPE	0.8435801863670349	papelotte	1	2	2	102	1	0	0	9	149	papelotte	nmod	147	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+161	161	PER	0.8301889896392822	napoléon	1	3	3	6	0	0	0	10	161	napoléon	nsubj	166	PROPN	PROP	Singular	Male	3	1
+163	163	PER	0.994439959526062	nous	1	3	3	8	0	0	0	11	163	nous	nsubj	166	PRON	PRON	Plural	Ambiguous	1	7
+177	177	PER	0.8666695356369019	sa	1	3	3	22	0	0	0	12	177	sa	det	178	DET	PRON	Singular	Ambiguous	3	1
+192	193	LOC	0.6799722909927368	la bataille	2	3	3	37	0	0	0	13	193	bataille	nmod	190	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+196	196	PER	0.9932070374488831	il	1	3	3	41	0	0	0	14	196	il	nsubj	198	PRON	PRON	Singular	Male	3	1
+201	203	VEH	0.9024833838144938	les batteries attelées	3	3	3	46	0	0	0	15	202	batteries	nsubj	204	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+216	217	LOC	0.8642129302024841	le soleil	2	3	3	61	0	0	0	16	217	soleil	nsubj	218	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+225	226	LOC	0.8425348997116089	le soleil	2	3	4	1	0	0	0	17	226	soleil	nsubj	228	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+238	238	GPE	0.8064789175987244	austerlitz	1	3	5	7	0	0	0	18	238	austerlitz	nmod	236	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+249	252	PER	0.9019466936588287	le général anglais colville	4	3	6	9	0	0	0	19	250	général	nsubj	253	NOUN	PROP	Singular	Male	3	2
+255	255	PER	0.9973365664482117	sa	1	3	6	15	0	0	0	20	255	sa	det	256	DET	PRON	Singular	Ambiguous	3	2
+262	265	TIME	0.6467830687761307	onze heures trente-cinq minutes	4	3	6	22	0	0	0	21	263	heures	ccomp	258	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+291	291	GPE	0.8580322265625	hougomont	1	4	7	24	0	0	0	22	291	hougomont	nmod	287	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+296	296	PER	0.813384473323822	napoléon	1	4	8	3	0	0	0	23	296	napoléon	nsubj	297	PROPN	PROP	Singular	Male	3	8
+302	304	PER	0.7978635827700297	la brigade quiot	3	4	8	9	0	0	0	24	303	brigade	obj	301	NOUN	PROP	Plural	Ambiguous	3	9
+306	309	GPE	0.7862928211688995	la haie - sainte	4	4	8	13	0	0	0	25	306	la	nmod	303	DET	PROP	Not_Assigned	Not_Assigned	3	
+312	312	PER	0.9846934080123901	ney	1	4	8	19	0	0	0	26	312	ney	nsubj	313	PROPN	PROP	Singular	Not_Assigned	3	10
+314	317	PER	0.5544608309864998	l’ aile droite française	4	4	8	21	0	0	0	27	315	aile	obj	313	NOUN	NOM	Singular	Not_Assigned	3	11
+327	327	GPE	0.4685176610946655	papelotte	1	4	8	34	0	0	0	28	327	papelotte	obl:arg	325	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+332	332	GPE	0.7504212260246277	hougomont	1	5	9	3	0	0	0	29	332	hougomont	nmod	330	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+340	340	PER	0.6213706135749817	wellington	1	5	9	11	0	0	0	30	340	wellington	obj	338	PROPN	PROP	Singular	Not_Assigned	3	3
+342	342	PER	0.9236878752708435	le	1	5	9	13	0	0	0	31	342	le	obj	344	PRON	PRON	Singular	Male	3	3
+362	364	PER	0.5252407838900884	des gardes anglaises	3	5	10	9	0	0	0	32	363	gardes	nmod	361	NOUN	NOM	Plural	Ambiguous	3	12
+366	372	PER	0.6389482276780265	les braves belges de la division perponcher	7	5	10	13	0	0	0	33	368	belges	conj	361	NOUN	PROP	Plural	Not_Assigned	3	13
+377	378	LOC	0.5397796034812927	la position	2	5	10	24	0	0	0	34	378	position	obj	376	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+381	381	PER	0.683580219745636	wellington	1	5	10	28	0	0	0	35	381	wellington	nsubj	388	PROPN	PROP	Singular	Not_Assigned	3	14
+387	387	GPE	0.6201159358024597	y	1	5	10	34	0	0	0	36	387	y	iobj	388	PRON	PRON	Not_Assigned	Not_Assigned	3	
+394	394	GPE	0.7656455039978027	y	1	5	10	41	0	0	0	37	394	y	iobj	395	PRON	PRON	Not_Assigned	Not_Assigned	3	
+405	408	PER	0.4843117967247963	un bataillon de brunswick	4	5	10	52	0	0	0	38	406	bataillon	conj	401	NOUN	PROP	Plural	Ambiguous	3	15
+418	418	PER	0.4079039990901947	papelotte	1	6	11	8	0	0	0	39	418	papelotte	nmod	414	PROPN	PROP	Singular	Not_Assigned	3	16
+433	433	GPE	0.9349815845489502	bruxelles	1	6	11	23	0	0	0	40	433	bruxelles	nmod	431	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+438	440	PER	0.6928703188896179	aux prussiens possibles	3	6	11	28	0	0	0	41	439	prussiens	obl:arg	435	NOUN	NOM	Plural	Ambiguous	3	17
+443	443	GPE	0.43344148993492126	mont-saint-jean	1	6	11	33	0	0	0	42	443	mont-saint-jean	obj	442	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+446	446	GPE	0.4515147805213928	wellington	1	6	11	36	0	0	0	43	446	wellington	obj	445	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+448	448	GPE	0.8687916398048401	hougomont	1	6	11	38	0	0	0	44	448	hougomont	obl:arg	445	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+453	456	GPE	0.6430067867040634	braine - l’ alleud	4	6	11	43	0	0	0	45	456	alleud	dep	451	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+461	461	GPE	0.9617328643798828	hal	1	6	11	51	0	0	0	46	461	hal	obl:mod	445	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+477	477	PER	0.3951658010482788	papelotte	1	6	13	0	0	0	0	47	477	papelotte	nsubj:pass	479	PROPN	PROP	Singular	Not_Assigned	3	18
+482	485	GPE	0.7330861836671829	la haie - sainte	4	6	13	5	0	0	0	48	483	haie	nsubj:pass	487	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+503	506	PER	0.8363843262195587	la brigade de kempt	4	7	15	10	0	0	0	49	504	brigade	obl:mod	495	NOUN	PROP	Plural	Ambiguous	3	0
+511	513	PER	0.9374406735102335	ces jeunes soldats	3	7	16	0	0	0	0	50	513	soldats	nsubj	521	NOUN	NOM	Plural	Ambiguous	3	0
+516	516	PER	0.9478134512901306	nos	1	7	16	5	0	0	0	51	516	nos	det	518	DET	PRON	Plural	Ambiguous	1	19
+524	524	PER	0.9890646934509277	leur	1	7	16	13	0	0	0	52	524	leur	det	525	DET	PRON	Plural	Ambiguous	3	0
+533	533	PER	0.9961126446723938	ils	1	7	16	22	0	0	0	53	533	ils	nsubj	534	PRON	PRON	Plural	Ambiguous	3	0
+563	564	PER	0.674514502286911	ces recrues	2	7	16	52	0	0	0	54	564	recrues	nsubj	565	NOUN	NOM	Plural	Not_Assigned	3	0
+577	579	PER	0.6690060893694559	cette infanterie novice	3	7	17	0	0	0	0	55	578	infanterie	nsubj	580	NOUN	NOM	Singular	Not_Assigned	3	0
+588	588	PER	0.8061317205429077	wellington	1	7	18	3	0	0	0	56	588	wellington	obl:arg	586	PROPN	PROP	Singular	Not_Assigned	3	20
+594	597	GPE	0.6477450579404831	la haie - sainte	4	8	19	4	0	0	0	57	594	la	nmod	592	DET	PROP	Not_Assigned	Not_Assigned	3	
+599	600	TIME	0.4330272823572159	la bataille	2	8	19	9	0	0	0	58	600	bataille	nsubj	601	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+607	608	TIME	0.6250736713409424	cette journée	2	9	20	4	0	0	0	59	608	journée	obl:mod	605	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+610	614	TIME	0.5745319932699203	de midi à quatre heures	5	9	20	7	0	0	0	60	611	midi	obl:mod	605	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+621	625	TIME	0.6407406210899353	le milieu de cette bataille	5	9	20	18	0	0	0	61	622	milieu	nsubj	628	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+708	708	GPE	0.8904543519020081	brunswick	1	9	22	65	0	0	0	62	708	brunswick	nmod	705	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+715	715	GPE	0.7448973059654236	angleterre	1	9	22	72	0	0	0	63	715	angleterre	ROOT	715	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+768	768	PER	0.7861080765724182	nos	1	9	22	125	0	0	0	64	768	nos	det	769	DET	PRON	Plural	Ambiguous	1	21
+796	796	PER	0.8703160881996155	gribeauval	1	9	22	153	0	0	0	65	796	gribeauval	obl:arg	794	PROPN	PROP	Singular	Not_Assigned	3	22
+879	882	LOC	0.6577981114387512	du champ de bataille	4	10	27	2	0	0	0	66	880	champ	nmod	878	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+1103	1105	PER	0.7070631782213846	van der meulen	3	10	35	0	0	0	0	67	1103	van	ROOT	1103	PROPN	PROP	Singular	Not_Assigned	3	23
+1109	1109	TIME	0.7241804003715515	midi	1	10	35	6	0	0	0	68	1109	midi	obl:mod	1107	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+1112	1114	TIME	0.6012567480405172	à trois heures	3	10	35	9	0	0	0	69	1114	heures	dep	1103	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+1133	1133	PER	0.8410094380378723	folard	1	10	37	6	0	0	0	70	1133	folard	obl:arg	1131	PROPN	PROP	Singular	Not_Assigned	3	24
+1146	1148	TIME	0.5079919199148814	un certain instant	3	10	38	6	0	0	0	71	1148	instant	obj	1144	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+1149	1149	TIME	0.4989025890827179	où	1	10	38	9	0	0	0	72	1149	où	iobj	1152	PRON	PRON	Not_Assigned	Not_Assigned	3	
+1270	1270	GPE	0.9506003260612488	waterloo	1	11	41	16	0	0	0	73	1270	waterloo	obl:arg	1268	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+1274	1276	TIME	0.6823768814404806	dans l’ après-midi	3	12	42	2	0	0	0	74	1276	après-midi	obl:mod	1286	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+1278	1281	TIME	0.6348468661308289	à un certain moment	4	12	42	6	0	0	0	75	1281	moment	obl:mod	1286	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+1283	1284	TIME	0.5690204054117203	la bataille	2	12	42	11	0	0	0	76	1284	bataille	nsubj	1286	NOUN	NOM	Not_Assigned	Not_Assigned	3	

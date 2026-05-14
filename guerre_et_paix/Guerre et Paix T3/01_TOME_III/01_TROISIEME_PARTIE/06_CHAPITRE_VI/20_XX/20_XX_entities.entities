@@ -1,0 +1,81 @@
+start_token	end_token	cat	confidence	text	mention_len	paragraph_ID	sentence_ID	start_token_ID_within_sentence	out_to_in_nested_level	in_to_out_nested_level	nested_entities_count	temp_index	head_id	head_word	head_dependency_relation	head_syntactic_head_ID	POS_tag	prop	number	gender	grammatical_person	COREF
+7	7	PER	0.9992309808731079	il	1	1	1	6	0	0	0	0	7	il	nsubj	8	PRON	PRON	Singular	Male	3	0
+10	10	PER	0.9993060827255249	il	1	1	1	9	0	0	0	1	10	il	nsubj:pass	12	PRON	PRON	Singular	Male	3	0
+14	14	PER	0.9942586421966553	hélène	1	2	2	0	0	0	0	2	14	hélène	obj	15	PROPN	PROP	Singular	Female	3	1
+20	20	PER	0.998392641544342	lui	1	2	2	6	0	0	0	3	20	lui	obl:mod	17	PRON	PRON	Singular	Ambiguous	3	0
+22	22	PER	0.9994390606880188	il	1	2	3	0	0	0	0	4	22	il	nsubj	24	PRON	PRON	Singular	Male	3	0
+31	31	PER	0.9567887187004089	je	1	3	4	4	0	0	0	5	31	je	nsubj	33	PRON	PRON	Singular	Ambiguous	1	0
+32	32	PER	0.9944169521331787	vous	1	3	4	5	0	0	0	6	32	vous	obj	33	PRON	PRON	Ambiguous	Ambiguous	2	1
+36	36	PER	0.9991401433944702	il	1	3	4	9	0	0	0	7	36	il	nsubj	38	PRON	PRON	Singular	Male	3	0
+37	37	PER	0.9969691634178162	lui	1	3	4	10	0	0	0	8	37	lui	iobj	38	PRON	PRON	Singular	Ambiguous	3	1
+55	55	PER	0.9991945624351501	il	1	4	5	12	0	0	0	9	55	il	nsubj	61	PRON	PRON	Singular	Male	3	0
+62	62	PER	0.9541118741035461	leur	1	5	6	5	0	0	0	10	62	leur	det	63	DET	PRON	Plural	Ambiguous	3	3
+66	66	PER	0.9993245601654053	il	1	5	6	9	0	0	0	11	66	il	nsubj	69	PRON	PRON	Singular	Male	3	0
+74	74	PER	0.9997687935829163	il	1	6	8	0	0	0	0	12	74	il	nsubj	77	PRON	PRON	Singular	Male	3	0
+80	80	PER	0.9875816106796265	il	1	6	8	6	0	0	0	13	80	il	nsubj	81	PRON	PRON	Singular	Male	3	0
+98	98	PER	0.9996849298477173	il	1	7	10	0	0	0	0	14	98	il	nsubj	100	PRON	PRON	Singular	Male	3	0
+119	119	PER	0.9948817491531372	-il	1	9	12	2	0	0	0	15	119	il	expl:subj	122	PRON	PRON	Singular	Male	3	0
+126	126	PER	0.997036337852478	-il	1	9	12	9	0	0	0	16	126	il	cop	129	PRON	PRON	Singular	Male	3	0
+131	131	PER	0.9872574210166931	son	1	9	12	14	0	0	0	17	131	son	det	132	DET	PRON	Singular	Ambiguous	3	0
+134	136	PER	0.9576559464136759	la princesse marie	3	10	13	0	0	0	0	18	135	princesse	nsubj	142	NOUN	PROP	Singular	Female	3	1
+140	140	PER	0.9792833924293518	-elle	1	10	13	6	0	0	0	19	140	elle	expl:subj	142	PRON	PRON	Singular	Female	3	1
+144	144	PER	0.9635522961616516	natacha	1	10	14	0	0	0	0	20	144	natacha	nsubj	157	PROPN	PROP	Singular	Female	3	1
+146	146	PER	0.9970351457595825	lui	1	10	14	2	0	0	0	21	146	lui	iobj	157	PRON	PRON	Singular	Ambiguous	3	0
+148	148	PER	0.9244746565818787	-elle	1	11	15	1	0	0	0	22	148	elle	dep	147	PRON	PRON	Singular	Female	3	1
+162	162	PER	0.9823915362358093	-il	1	12	16	1	0	0	0	23	162	il	nsubj	161	PRON	PRON	Singular	Male	3	0
+165	165	PER	0.9902488589286804	il	1	12	16	4	0	0	0	24	165	il	nsubj	170	PRON	PRON	Singular	Male	3	0
+172	174	PER	0.5014806091785431	tous les autres	3	12	16	11	0	0	0	25	174	autres	nmod	170	PRON	PRON	Plural	Ambiguous	3	4
+178	178	PER	0.996462881565094	moi	1	13	17	1	0	0	0	26	178	moi	parataxis	161	PRON	PRON	Singular	Ambiguous	1	0
+179	179	PER	0.9990420937538147	je	1	13	17	2	0	0	0	27	179	je	nsubj	182	PRON	PRON	Singular	Ambiguous	1	0
+184	184	PER	0.9643706679344177	lui	1	13	17	7	0	0	0	28	184	lui	dep	182	PRON	PRON	Singular	Ambiguous	3	0
+193	193	PER	0.9996633529663086	il	1	14	19	6	0	0	0	29	193	il	nsubj	195	PRON	PRON	Singular	Male	3	0
+204	204	PER	0.9976898431777954	lui	1	15	20	3	0	0	0	30	204	lui	obl:arg	202	PRON	PRON	Singular	Ambiguous	3	0
+207	207	PER	0.994232714176178	sa	1	15	21	0	0	0	0	31	207	sa	det	208	DET	PRON	Singular	Ambiguous	3	0
+217	217	PER	0.9990919828414917	lui	1	16	22	1	0	0	0	32	217	lui	obl:mod	231	PRON	PRON	Singular	Ambiguous	3	0
+219	219	PER	0.9988886713981628	son	1	16	22	3	0	0	0	33	219	son	det	220	DET	PRON	Singular	Ambiguous	3	0
+222	222	PER	0.9988197684288025	elle	1	16	22	6	0	0	0	34	222	elle	nmod	220	PRON	PRON	Singular	Female	3	1
+233	233	PER	0.9996161460876465	il	1	17	23	0	0	0	0	35	233	il	ROOT	233	PRON	PRON	Singular	Male	3	0
+253	253	PER	0.9996490478515625	il	1	18	25	0	0	0	0	36	253	il	nsubj	254	PRON	PRON	Singular	Male	3	0
+257	257	PER	0.687869668006897	qui	1	19	26	0	0	0	0	37	257	qui	nsubj	259	PRON	PRON	Ambiguous	Ambiguous	4	2
+258	258	PER	0.993310809135437	le	1	19	26	1	0	0	0	38	258	le	obj	259	PRON	PRON	Singular	Male	3	0
+261	261	PER	0.989615797996521	son	1	19	26	4	0	0	0	39	261	son	det	262	DET	PRON	Singular	Ambiguous	3	0
+264	264	PER	0.9939188957214355	son	1	19	26	7	0	0	0	40	264	son	det	265	DET	PRON	Singular	Ambiguous	3	0
+270	270	PER	0.999698281288147	il	1	20	28	0	0	0	0	41	270	il	nsubj	271	PRON	PRON	Singular	Male	3	0
+276	276	PER	0.9752748608589172	le	1	20	28	6	0	0	0	42	276	le	obj	277	PRON	PRON	Singular	Male	3	0
+284	284	PER	0.9080187082290649	leur	1	21	29	4	0	0	0	43	284	leur	iobj	285	PRON	PRON	Plural	Ambiguous	3	2
+287	287	PER	0.7106375098228455	ils	1	21	29	7	0	0	0	44	287	ils	nsubj	288	PRON	PRON	Plural	Ambiguous	3	2
+289	289	PER	0.7219478487968445	leur	1	21	29	9	0	0	0	45	289	leur	det	290	DET	PRON	Plural	Ambiguous	3	2
+298	298	PER	0.994178056716919	lui	1	22	31	2	0	0	0	46	298	lui	iobj	299	PRON	PRON	Singular	Ambiguous	3	0
+309	309	PER	0.9938179850578308	lui	1	23	32	4	0	0	0	47	309	lui	obl:arg	307	PRON	PRON	Singular	Ambiguous	3	0
+329	329	PER	0.9993724226951599	il	1	25	34	0	0	0	0	48	329	il	nsubj	330	PRON	PRON	Singular	Male	3	0
+336	337	PER	0.8518262803554535	ses auditeurs	2	25	34	7	0	1	1	49	337	auditeurs	obj	335	NOUN	NOM	Plural	Ambiguous	3	2
+336	336	PER	0.9589139223098755	ses	1	25	34	7	1	0	0	50	336	ses	det	337	DET	PRON	Singular	Ambiguous	3	0
+342	342	PER	0.9915077686309814	ses	1	26	35	1	0	0	0	51	342	ses	det	343	DET	PRON	Singular	Ambiguous	3	0
+351	351	PER	0.9982624650001526	son	1	26	36	6	0	0	0	52	351	son	det	352	DET	PRON	Singular	Ambiguous	3	0
+356	356	PER	0.5651073455810547	sa	1	27	37	0	0	0	0	53	356	sa	det	357	DET	PRON	Singular	Ambiguous	3	0
+359	366	PER	0.545972540974617	tous ceux qu' il trouvait sur son chemin	8	27	37	3	0	1	2	54	363	trouvait	acl:relcl	360	VERB	NOM	Not_Assigned	Not_Assigned	3	5
+362	362	PER	0.9987092018127441	il	1	27	37	6	1	0	0	55	362	il	nsubj	363	PRON	PRON	Singular	Male	3	0
+365	365	PER	0.9928309917449951	son	1	27	37	9	1	0	0	56	365	son	det	366	DET	PRON	Singular	Ambiguous	3	6
+368	368	PER	0.9977042078971863	lui	1	27	37	12	0	0	0	57	368	lui	iobj	397	PRON	PRON	Singular	Ambiguous	3	0
+393	394	PER	0.9858051836490631	sa femme	2	29	39	9	0	1	1	58	394	femme	obl:agent	391	NOUN	NOM	Singular	Female	3	1
+393	393	PER	0.9985439777374268	sa	1	29	39	9	1	0	0	59	393	sa	det	394	DET	PRON	Singular	Ambiguous	3	0
+409	409	PER	0.9977153539657593	son	1	30	40	11	0	0	0	60	409	son	det	410	DET	PRON	Singular	Ambiguous	3	0
+415	417	PER	0.9121494690577189	le prince basile	3	31	41	2	0	0	0	61	416	prince	nsubj	442	NOUN	PROP	Singular	Male	3	0
+436	436	PER	0.9988152980804443	ses	1	32	42	8	0	0	0	62	436	ses	det	437	DET	PRON	Singular	Ambiguous	3	0
+440	442	PER	0.6798304915428162	un pauvre vieillard	3	32	42	12	0	0	0	63	442	vieillard	ccomp	443	NOUN	NOM	Singular	Male	3	0
+443	443	PER	0.4502219259738922	qu'	1	32	42	15	0	0	0	64	443	qu'	obj	477	PRON	PRON	Ambiguous	Ambiguous	4	0
+444	444	PER	0.9959119558334351	il	1	32	42	16	0	0	0	65	444	il	nsubj	477	PRON	PRON	Singular	Male	3	0
+453	453	PER	0.9997256398200989	il	1	33	43	8	0	0	0	66	453	il	nsubj	454	PRON	PRON	Singular	Male	3	0
+463	463	TIME	0.6972043514251709	pendant	1	34	44	6	0	0	0	67	463	pendant	case	465	ADP	PRON	Not_Assigned	Not_Assigned	3	
+464	468	TIME	0.8847874522209167	cette période de sa vie	5	34	44	7	0	1	1	68	465	période	obl:mod	454	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+467	467	PER	0.9973880648612976	sa	1	34	44	10	1	0	0	69	467	sa	det	468	DET	PRON	Singular	Ambiguous	3	0
+473	473	PER	0.9985657334327698	lui	1	35	45	2	0	0	0	70	473	lui	dep	471	PRON	PRON	Singular	Ambiguous	3	0
+479	479	PER	0.9977113008499146	l'	1	35	45	8	0	0	0	71	479	l'	expl:comp	480	PRON	PRON	Singular	Ambiguous	3	0
+487	487	PER	0.9921086430549622	ses	1	36	46	5	0	0	0	72	487	ses	det	488	DET	PRON	Singular	Ambiguous	3	0
+491	491	PER	0.9984269142150879	j'	1	36	46	9	0	0	0	73	491	j'	nsubj	494	PRON	PRON	Singular	Ambiguous	1	0
+497	499	TIME	0.610090414683024	à cette époque	3	37	47	2	0	0	0	74	499	époque	obl:mod	531	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+503	503	PER	0.9924284815788269	-il	1	37	47	8	0	0	0	75	503	il	nsubj	502	PRON	PRON	Singular	Male	3	0
+511	511	PER	0.9971417784690857	j'	1	38	48	0	0	0	0	76	511	j'	nsubj	513	PRON	PRON	Singular	Ambiguous	1	0
+517	517	PER	0.999413013458252	mon	1	38	49	0	0	0	0	77	517	mon	det	518	DET	PRON	Singular	Ambiguous	1	0
+526	526	PER	0.999697208404541	je	1	39	50	2	0	0	0	78	526	je	nsubj	527	PRON	PRON	Singular	Ambiguous	1	0
+546	546	PER	0.9976341724395752	j'	1	40	51	9	0	0	0	79	546	j'	nsubj	548	PRON	PRON	Singular	Ambiguous	1	0

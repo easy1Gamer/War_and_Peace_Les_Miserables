@@ -1,0 +1,64 @@
+start_token	end_token	cat	confidence	text	mention_len	paragraph_ID	sentence_ID	start_token_ID_within_sentence	out_to_in_nested_level	in_to_out_nested_level	nested_entities_count	temp_index	head_id	head_word	head_dependency_relation	head_syntactic_head_ID	POS_tag	prop	number	gender	grammatical_person	COREF
+7	7	GPE	0.960540771484375	waterloo	1	0	0	7	0	0	0	0	7	waterloo	obj	5	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+21	21	GPE	0.9519054889678955	waterloo	1	1	1	11	0	0	0	1	21	waterloo	obj	19	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+23	23	PER	0.9723940491676331	nous	1	1	2	0	0	0	0	2	23	nous	nsubj	26	PRON	PRON	Plural	Ambiguous	1	1
+30	30	PER	0.9942938685417175	nous	1	1	3	1	0	0	0	3	30	nous	obl:mod	37	PRON	PRON	Plural	Ambiguous	1	1
+32	32	GPE	0.9606223702430725	waterloo	1	1	3	3	0	0	0	4	32	waterloo	nsubj	37	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+61	61	GPE	0.9469127058982849	waterloo	1	2	5	0	0	0	0	5	61	waterloo	nsubj	80	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+85	86	GPE	0.8719917833805084	l’ europe	2	2	6	2	0	0	0	6	86	europe	ROOT	86	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+88	89	GPE	0.9213932156562805	la france	2	2	6	5	0	0	0	7	89	france	nmod	86	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+93	93	GPE	0.7601336240768433	pétersbourg	1	2	6	10	0	0	0	8	93	pétersbourg	conj	86	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+95	95	GPE	0.9625667929649353	berlin	1	2	6	12	0	0	0	9	95	berlin	conj	93	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+97	97	GPE	0.9787542223930359	vienne	1	2	6	14	0	0	0	10	97	vienne	conj	95	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+99	99	GPE	0.9754660129547119	paris	1	2	6	16	0	0	0	11	99	paris	nmod	93	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+119	122	TIME	0.6491966098546982	le 20 mars 1815	4	2	6	36	0	0	0	12	120	20	obl:mod	116	NUM	NOM	Not_Assigned	Not_Assigned	3	
+143	145	PER	0.5047963311274847	ce vaste peuple	3	2	7	2	0	0	0	13	145	peuple	obj	141	NOUN	NOM	Plural	Ambiguous	3	5
+148	150	TIME	0.6277079184850057	depuis vingt-six ans	3	2	7	7	0	0	0	14	150	ans	obl:mod	141	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+159	159	GPE	0.6112769246101379	brunswick	1	2	8	2	0	0	0	15	159	brunswick	nmod	157	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+161	162	PER	0.8465085327625275	des nassau	2	2	8	4	0	0	0	16	162	nassau	conj	159	PROPN	PROP	Ambiguous	Not_Assigned	3	6
+164	165	PER	0.5929301381111145	des romanoff	2	2	8	7	0	0	0	17	165	romanoff	conj	159	PROPN	PROP	Ambiguous	Not_Assigned	3	7
+167	168	PER	0.7594790160655975	des hohenzollern	2	2	8	10	0	0	0	18	168	hohenzollern	conj	159	PROPN	PROP	Ambiguous	Not_Assigned	3	8
+170	171	PER	0.7820289433002472	des habsbourg	2	2	8	13	0	0	0	19	171	habsbourg	conj	159	PROPN	PROP	Ambiguous	Not_Assigned	3	9
+174	175	PER	0.7941493391990662	les bourbons	2	2	8	17	0	0	0	20	175	bourbons	nmod	157	NOUN	NOM	Plural	Not_Assigned	3	10
+177	177	GPE	0.9315881133079529	waterloo	1	2	9	0	0	0	0	21	177	waterloo	nsubj	178	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+221	221	GPE	0.9607848525047302	waterloo	1	2	10	36	0	0	0	22	221	waterloo	obl:arg	219	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+226	227	PER	0.7248806357383728	des vainqueurs	2	2	10	41	0	0	0	23	227	vainqueurs	nmod	225	NOUN	NOM	Plural	Ambiguous	3	11
+253	253	GPE	0.8904352784156799	waterloo	1	2	11	24	0	0	0	24	253	waterloo	obl:mod	249	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+256	256	PER	0.6705946326255798	bonaparte	1	2	11	27	0	0	0	25	256	bonaparte	obl:mod	249	PROPN	PROP	Singular	Male	3	12
+264	264	GPE	0.8702290058135986	waterloo	1	2	11	35	0	0	0	26	264	waterloo	obl:mod	257	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+267	268	PER	0.6957699656486511	louis xviii	2	2	11	38	0	0	0	27	267	louis	nmod	256	PROPN	PROP	Singular	Male	3	13
+275	275	PER	0.5650296211242676	bonaparte	1	2	12	0	0	0	0	28	275	bonaparte	nsubj	276	PROPN	PROP	Singular	Male	3	2
+283	283	GPE	0.9139890670776367	naples	1	2	12	8	0	0	0	29	283	naples	nmod	281	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+294	294	GPE	0.799348771572113	suède	1	2	12	19	0	0	0	30	294	suède	nmod	292	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+308	308	GPE	0.9105740785598755	saint-ouen	1	2	12	33	0	0	0	31	308	saint-ouen	nmod	305	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+319	319	PER	0.9235546588897705	-vous	1	2	13	1	0	0	0	32	319	vous	dep	318	PRON	PRON	Ambiguous	Ambiguous	2	3
+339	339	PER	0.9463332295417786	-vous	1	2	13	21	0	0	0	33	339	vous	dep	338	PRON	PRON	Ambiguous	Ambiguous	2	3
+357	357	TIME	0.8869878649711609	demain	1	2	14	0	0	0	0	34	357	demain	advmod	358	ADV	NOM	Not_Assigned	Not_Assigned	3	
+379	379	PER	0.7925840616226196	il	1	2	16	0	0	0	0	35	379	il	nsubj	380	PRON	PRON	Singular	Male	3	2
+381	381	PER	0.9018279910087585	wellington	1	2	16	2	0	0	0	36	381	wellington	obj	380	PROPN	PROP	Singular	Not_Assigned	3	14
+385	385	PER	0.7543851733207703	foy	1	2	16	6	0	0	0	37	385	foy	obl:arg	383	PROPN	PROP	Singular	Not_Assigned	3	4
+387	387	PER	0.9308138489723206	qui	1	2	16	8	0	0	0	38	387	qui	nsubj	392	PRON	PRON	Ambiguous	Ambiguous	4	4
+403	403	GPE	0.5688517093658447	hougomont	1	2	17	6	0	0	0	39	403	hougomont	obl:arg	401	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+441	442	LOC	0.4724031239748001	les alpes	2	2	20	16	0	0	0	40	442	alpes	obj	440	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+477	477	GPE	0.9532262086868286	waterloo	1	2	22	0	0	0	0	41	477	waterloo	nsubj	494	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+525	525	GPE	0.8907706141471863	waterloo	1	2	24	3	0	0	0	42	525	waterloo	nsubj	526	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+557	557	GPE	0.9654507040977478	waterloo	1	3	26	10	0	0	0	43	557	waterloo	obl:mod	555	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+563	563	PER	0.9193568229675293	wellington	1	3	26	16	0	0	0	44	563	wellington	obl:mod	561	PROPN	PROP	Singular	Not_Assigned	3	0
+566	566	PER	0.621629536151886	qui	1	3	26	19	0	0	0	45	566	qui	nsubj	568	PRON	PRON	Ambiguous	Ambiguous	4	0
+567	567	PER	0.9406487941741943	lui	1	3	26	20	0	0	0	46	567	lui	iobj	568	PRON	PRON	Singular	Ambiguous	3	0
+569	576	PER	0.5385864451527596	tous les bâtons de maréchal de l’ europe	8	3	26	22	0	1	1	47	571	bâtons	obj	568	NOUN	PROP	Singular	Not_Assigned	3	0
+575	576	GPE	0.8156899809837341	l’ europe	2	3	26	28	1	0	0	48	576	europe	nmod	571	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+589	589	GPE	0.9315912127494812	france	1	3	26	42	0	0	0	49	589	france	nmod	587	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+592	592	PER	0.6434683799743652	qui	1	3	26	45	0	0	0	50	592	qui	nsubj	593	PRON	PRON	Ambiguous	Ambiguous	4	0
+623	623	TIME	0.7571392059326172	1815	1	3	26	76	0	0	0	51	623	1815	nmod	622	NUM	NOM	Not_Assigned	Not_Assigned	3	
+640	640	GPE	0.3194041848182678	mont-saint-jean	1	3	26	93	0	0	0	52	640	mont-saint-jean	nmod	638	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+644	645	GPE	0.9367678165435791	la france	2	3	26	97	0	0	0	53	645	france	obl:arg	642	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+671	671	GPE	0.9712780714035034	paris	1	3	28	2	0	0	0	54	671	paris	obl:arg	669	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+673	673	PER	0.778840959072113	elle	1	3	28	4	0	0	0	55	673	elle	nsubj	675	PRON	PRON	Singular	Female	3	0
+687	687	PER	0.9445907473564148	lui	1	3	28	18	0	0	0	56	687	lui	iobj	688	PRON	PRON	Singular	Ambiguous	3	0
+693	693	PER	0.8021950125694275	elle	1	3	28	24	0	0	0	57	693	elle	nsubj	696	PRON	PRON	Singular	Female	3	0
+698	698	PER	0.8456746339797974	elle	1	3	29	0	0	0	0	58	698	elle	nsubj	700	PRON	PRON	Singular	Female	3	0
+710	710	GPE	0.9601015448570251	waterloo	1	4	30	3	0	0	0	59	710	waterloo	obl:arg	708	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+716	716	GPE	0.9586751461029053	waterloo	1	4	30	9	0	0	0	60	716	waterloo	obl:arg	714	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+739	739	PER	0.6056593060493469	napoléon	1	4	32	15	0	0	0	61	739	napoléon	nsubj	742	PROPN	PROP	Singular	Male	3	15
+744	747	TIME	0.7055014073848724	le 18 juin 1815	4	4	33	0	0	0	0	62	745	18	obl:mod	753	NUM	NOM	Not_Assigned	Not_Assigned	3	

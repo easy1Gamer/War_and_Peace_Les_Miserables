@@ -1,0 +1,58 @@
+start_token	end_token	cat	confidence	text	mention_len	paragraph_ID	sentence_ID	start_token_ID_within_sentence	out_to_in_nested_level	in_to_out_nested_level	nested_entities_count	temp_index	head_id	head_word	head_dependency_relation	head_syntactic_head_ID	POS_tag	prop	number	gender	grammatical_person	COREF
+13	13	GPE	0.9484326839447021	waterloo	1	1	1	9	0	0	0	0	13	waterloo	nmod	11	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+39	39	GPE	0.6519403457641602	nivelles	1	1	2	10	0	0	0	1	39	nivelles	nmod	37	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+45	48	FAC	0.4475383460521698	la route de genappe	4	1	2	16	0	0	0	2	46	route	conj	37	NOUN	PROP	Not_Assigned	Not_Assigned	3	
+60	60	GPE	0.6526589393615723	ohain	1	1	2	31	0	0	0	3	60	ohain	nmod	57	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+62	65	GPE	0.4677853286266327	braine - l’ alleud	4	1	2	33	0	0	0	4	65	alleud	nmod	37	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+73	73	GPE	0.5357778072357178	mont-saint-jean	1	1	3	6	0	0	0	5	73	mont-saint-jean	ROOT	73	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+75	75	FAC	0.464019775390625	là	1	1	3	8	0	0	0	6	75	là	iobj	77	ADV	NOM	Not_Assigned	Not_Assigned	3	
+77	77	GPE	0.5609937310218811	wellington	1	1	3	10	0	0	0	7	77	wellington	nmod	73	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+85	85	GPE	0.8639035224914551	hougomont	1	1	3	18	0	0	0	8	85	hougomont	ROOT	85	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+87	87	GPE	0.44204890727996826	là	1	1	3	20	0	0	0	9	87	là	advmod	89	ADV	NOM	Not_Assigned	Not_Assigned	3	
+89	89	PER	0.7636868953704834	reille	1	1	3	22	0	0	0	10	89	reille	nmod	85	PROPN	PROP	Singular	Not_Assigned	3	1
+91	92	PER	0.5866827070713043	jérôme bonaparte	2	1	3	24	0	0	0	11	91	jérôme	nmod	89	PROPN	PROP	Singular	Male	3	2
+100	101	LOC	0.6462604403495789	la belle-alliance	2	1	3	33	0	0	0	12	101	belle-alliance	ROOT	101	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+103	103	LOC	0.472023606300354	là	1	1	3	36	0	0	0	13	103	là	case	105	ADV	NOM	Not_Assigned	Not_Assigned	3	
+105	105	GPE	0.8722617030143738	napoléon	1	1	3	38	0	0	0	14	105	napoléon	nmod	101	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+127	130	GPE	0.420835442841053	la haie - sainte	4	1	4	20	0	0	0	15	128	haie	ROOT	128	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+149	150	TIME	0.5124263018369675	la bataille	2	1	5	17	0	0	0	16	150	bataille	nmod	146	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+168	170	PER	0.504136194785436	la garde impériale	3	1	6	16	0	0	0	17	169	garde	nmod	166	NOUN	NOM	Singular	Female	3	3
+193	193	GPE	0.10218535363674164	mont-saint-jean	1	2	7	21	0	0	0	18	193	mont-saint-jean	nmod	191	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+198	199	LOC	0.7887752652168274	ce plateau	2	2	8	3	0	0	0	19	199	plateau	nmod	196	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+221	221	GPE	0.7625818848609924	genappe	1	3	9	16	0	0	0	20	221	genappe	nmod	219	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+224	224	GPE	0.9116173386573792	nivelles	1	3	9	19	0	0	0	21	224	nivelles	conj	221	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+227	228	PER	0.696277916431427	d’ erlon	2	3	9	22	0	0	0	22	228	erlon	ROOT	228	PROPN	PROP	Singular	Not_Assigned	3	4
+232	232	PER	0.8479692339897156	picton	1	3	9	27	0	0	0	23	232	picton	obl:arg	229	PROPN	PROP	Singular	Not_Assigned	3	5
+234	234	PER	0.9135237336158752	reille	1	3	9	29	0	0	0	24	234	reille	nsubj	235	PROPN	PROP	Singular	Not_Assigned	3	6
+238	238	PER	0.7145442962646484	hill	1	3	9	33	0	0	0	25	238	hill	nmod	236	PROPN	PROP	Singular	Not_Assigned	3	7
+244	245	FAC	0.3496679365634918	l’ a	2	4	10	4	0	0	0	26	245	a	nmod	242	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+251	251	GPE	0.12269223481416702	mont-saint-jean	1	4	10	11	0	0	0	27	251	mont-saint-jean	nmod	249	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+254	257	LOC	0.6536905169487	la forêt de soignes	4	4	10	14	0	0	0	28	255	forêt	ROOT	255	NOUN	PROP	Not_Assigned	Not_Assigned	3	
+261	262	LOC	0.8114818036556244	la plaine	2	5	11	2	0	0	0	29	262	plaine	obl:mod	269	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+289	289	GPE	0.5212632417678833	mont-saint-jean	1	5	11	30	0	0	0	30	289	mont-saint-jean	obl:arg	287	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+292	292	GPE	0.7255967259407043	y	1	5	11	33	0	0	0	31	292	y	iobj	293	PRON	PRON	Not_Assigned	Not_Assigned	3	
+295	296	LOC	0.9489019811153412	la forêt	2	5	11	36	0	0	0	32	296	forêt	obl:arg	293	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+302	305	LOC	0.5647982954978943	un champ de bataille	4	6	12	4	0	0	0	33	303	champ	nmod	299	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+380	381	LOC	0.7538269460201263	un bois	2	6	15	56	0	0	0	34	381	bois	conj	364	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+436	438	PER	0.9373499751091003	les deux généraux	3	7	18	0	0	0	0	35	438	généraux	nsubj	441	NOUN	NOM	Plural	Ambiguous	3	8
+442	445	LOC	0.5043448209762573	la plaine de mont-saint-jean	4	7	18	6	0	0	0	36	443	plaine	obj	441	NOUN	PROP	Not_Assigned	Not_Assigned	3	
+451	451	GPE	0.8893653750419617	waterloo	1	7	18	15	0	0	0	37	451	waterloo	nmod	449	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+453	456	TIME	0.7999932020902634	dès l’ année précédente	4	7	19	0	0	0	0	38	455	année	obl:mod	467	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+458	458	PER	0.9532179832458496	wellington	1	7	19	5	0	0	0	39	458	wellington	nsubj	467	PROPN	PROP	Singular	Not_Assigned	3	9
+485	487	TIME	0.8424254457155863	le 18 juin	3	7	20	8	0	0	0	40	486	18	obl:mod	490	NUM	NOM	Not_Assigned	Not_Assigned	3	
+489	489	PER	0.9347516298294067	wellington	1	7	20	12	0	0	0	41	489	wellington	nsubj	490	PROPN	PROP	Singular	Not_Assigned	3	10
+495	495	PER	0.6116746068000793	napoléon	1	7	20	18	0	0	0	42	495	napoléon	conj	490	PROPN	PROP	Singular	Male	3	0
+517	517	GPE	0.4578249156475067	napoléon	1	8	22	5	0	0	0	43	517	napoléon	nmod	515	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+520	520	VEH	0.5856167674064636	cheval	1	8	22	8	0	0	0	44	520	cheval	nmod	515	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+522	522	PER	0.9767034649848938	sa	1	8	22	10	0	0	0	45	522	sa	det	523	DET	PRON	Singular	Ambiguous	3	0
+532	532	GPE	0.7868227362632751	rossomme	1	8	22	20	0	0	0	46	532	rossomme	nmod	530	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+534	540	TIME	0.5514836013317108	à l’ aube du 18 juin 1815	7	8	22	22	0	0	0	47	536	aube	nmod	515	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+551	551	PER	0.8717968463897705	le	1	8	23	3	0	0	0	48	551	le	obj	552	PRON	PRON	Singular	Male	3	0
+606	608	VEH	0.6364436149597168	le cheval blanc	3	8	24	45	0	0	0	49	607	cheval	conj	567	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+610	610	VEH	0.5562848448753357	sa	1	8	24	49	0	0	0	50	610	sa	det	611	DET	PRON	Not_Assigned	Not_Assigned	3	
+644	644	GPE	0.9306222200393677	marengo	1	8	24	83	0	0	0	51	644	marengo	nmod	642	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+649	651	PER	0.5211380223433176	du dernier césar	3	8	24	88	0	0	0	52	651	césar	nmod	648	NOUN	NOM	Singular	Not_Assigned	3	0
+665	666	PER	0.675923615694046	les autres	2	8	24	104	0	0	0	53	666	autres	obl:agent	663	PRON	PRON	Plural	Ambiguous	3	11
+809	809	GPE	0.6131036281585693	babylone	1	10	28	0	0	0	0	54	809	babylone	nsubj	811	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+815	815	GPE	0.8976355791091919	rome	1	10	28	6	0	0	0	55	815	rome	nsubj	817	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+821	821	GPE	0.749493420124054	jérusalem	1	10	28	12	0	0	0	56	821	jérusalem	nsubj	823	PROPN	PROP	Not_Assigned	Not_Assigned	3	

@@ -1,0 +1,667 @@
+[
+    {
+        "id": 0,
+        "count": {
+            "occurrence": 33,
+            "mention_ratio": 0.5156
+        },
+        "gender": {
+            "ratio": 0,
+            "inference": {
+                "Male": 0,
+                "Female": 0
+            },
+            "max": 0,
+            "argmax": "Null"
+        },
+        "number": {
+            "ratio": 0.9394,
+            "inference": {
+                "Singular": 0.0,
+                "Plural": 1.0
+            },
+            "max": 1.0,
+            "argmax": "Plural"
+        },
+        "mentions": {
+            "proper": [
+                {
+                    "n": "la division wathier",
+                    "c": 1
+                },
+                {
+                    "n": "la division delord",
+                    "c": 1
+                },
+                {
+                    "n": "la brigade dubois",
+                    "c": 1
+                },
+                {
+                    "n": "cette brigade dubois",
+                    "c": 1
+                },
+                {
+                    "n": "des cuirassiers de milhaud",
+                    "c": 1
+                }
+            ],
+            "common": [
+                {
+                    "n": "les anglais",
+                    "c": 2
+                },
+                {
+                    "n": "toute l’ armée",
+                    "c": 1
+                },
+                {
+                    "n": "cette masse",
+                    "c": 1
+                },
+                {
+                    "n": "ces vingt-six escadrons",
+                    "c": 1
+                },
+                {
+                    "n": "des anglais",
+                    "c": 1
+                },
+                {
+                    "n": "des cuirassiers",
+                    "c": 1
+                },
+                {
+                    "n": "les cuirassiers",
+                    "c": 1
+                },
+                {
+                    "n": "les français",
+                    "c": 1
+                }
+            ],
+            "pronoun": [
+                {
+                    "n": "ils",
+                    "c": 8
+                },
+                {
+                    "n": "les",
+                    "c": 3
+                },
+                {
+                    "n": "leur",
+                    "c": 3
+                },
+                {
+                    "n": "eux",
+                    "c": 2
+                },
+                {
+                    "n": "leurs",
+                    "c": 1
+                },
+                {
+                    "n": "les uns",
+                    "c": 1
+                },
+                {
+                    "n": "qui",
+                    "c": 1
+                }
+            ]
+        },
+        "agent": [
+            {
+                "w": "faire",
+                "i": 13
+            },
+            {
+                "w": "avoir",
+                "i": 40
+            },
+            {
+                "w": "porter",
+                "i": 90
+            },
+            {
+                "w": "admirer",
+                "i": 124
+            },
+            {
+                "w": "venir",
+                "i": 151
+            },
+            {
+                "w": "monter",
+                "i": 386
+            },
+            {
+                "w": "avoir",
+                "i": 425
+            },
+            {
+                "w": "avoir",
+                "i": 432
+            },
+            {
+                "w": "devenir",
+                "i": 501
+            },
+            {
+                "w": "avoir",
+                "i": 505
+            },
+            {
+                "w": "venir",
+                "i": 905
+            }
+        ],
+        "patient": [
+            {
+                "w": "appuyer",
+                "i": 46
+            },
+            {
+                "w": "admirer",
+                "i": 124
+            },
+            {
+                "w": "apercevoir",
+                "i": 524
+            },
+            {
+                "w": "recevoir",
+                "i": 642
+            },
+            {
+                "w": "écraser",
+                "i": 1024
+            },
+            {
+                "w": "écraser",
+                "i": 1027
+            },
+            {
+                "w": "broyer",
+                "i": 1048
+            }
+        ],
+        "mod": [
+            {
+                "w": "escadron",
+                "i": 35
+            },
+            {
+                "w": "tout",
+                "i": 119
+            },
+            {
+                "w": "colonne",
+                "i": 419
+            }
+        ],
+        "poss": [
+            {
+                "w": "division",
+                "i": 49
+            },
+            {
+                "w": "batterie",
+                "i": 159
+            },
+            {
+                "w": "place",
+                "i": 186
+            },
+            {
+                "w": "droite",
+                "i": 427
+            },
+            {
+                "w": "gauche",
+                "i": 434
+            },
+            {
+                "w": "gauche",
+                "i": 855
+            },
+            {
+                "w": "tête",
+                "i": 864
+            },
+            {
+                "w": "furie",
+                "i": 889
+            },
+            {
+                "w": "tiers",
+                "i": 1085
+            },
+            {
+                "w": "charge",
+                "i": 1187
+            }
+        ]
+    },
+    {
+        "id": 1,
+        "count": {
+            "occurrence": 5,
+            "mention_ratio": 0.0781
+        },
+        "gender": {
+            "ratio": 0.8,
+            "inference": {
+                "Male": 0.0,
+                "Female": 1.0
+            },
+            "max": 1.0,
+            "argmax": "Female"
+        },
+        "number": {
+            "ratio": 1.0,
+            "inference": {
+                "Singular": 1.0,
+                "Plural": 0.0
+            },
+            "max": 1.0,
+            "argmax": "Singular"
+        },
+        "mentions": {
+            "proper": [],
+            "common": [
+                {
+                    "n": "l’ infanterie anglaise",
+                    "c": 1
+                }
+            ],
+            "pronoun": [
+                {
+                    "n": "elle",
+                    "c": 3
+                },
+                {
+                    "n": "la",
+                    "c": 1
+                }
+            ]
+        },
+        "agent": [
+            {
+                "w": "attendre",
+                "i": 710
+            },
+            {
+                "w": "voir",
+                "i": 714
+            },
+            {
+                "w": "écouter",
+                "i": 727
+            },
+            {
+                "w": "entendre",
+                "i": 735
+            }
+        ],
+        "patient": [
+            {
+                "w": "voir",
+                "i": 723
+            }
+        ],
+        "mod": [
+            {
+                "w": "anglais",
+                "i": 663
+            }
+        ],
+        "poss": []
+    },
+    {
+        "id": 2,
+        "count": {
+            "occurrence": 4,
+            "mention_ratio": 0.0625
+        },
+        "gender": {
+            "ratio": 0.75,
+            "inference": {
+                "Male": 1.0,
+                "Female": 0.0
+            },
+            "max": 1.0,
+            "argmax": "Male"
+        },
+        "number": {
+            "ratio": 1.0,
+            "inference": {
+                "Singular": 1.0,
+                "Plural": 0.0
+            },
+            "max": 1.0,
+            "argmax": "Singular"
+        },
+        "mentions": {
+            "proper": [
+                {
+                    "n": "napoléon",
+                    "c": 1
+                }
+            ],
+            "common": [
+                {
+                    "n": "cet homme vaste",
+                    "c": 1
+                },
+                {
+                    "n": "cet homme",
+                    "c": 1
+                },
+                {
+                    "n": "cet individu",
+                    "c": 1
+                }
+            ],
+            "pronoun": []
+        },
+        "agent": [
+            {
+                "w": "avoir",
+                "i": 1355
+            },
+            {
+                "w": "tomber",
+                "i": 1379
+            },
+            {
+                "w": "compter",
+                "i": 1397
+            }
+        ],
+        "patient": [],
+        "mod": [
+            {
+                "w": "vaste",
+                "i": 1378
+            }
+        ],
+        "poss": [
+            {
+                "w": "place",
+                "i": 1358
+            },
+            {
+                "w": "pesanteur",
+                "i": 1383
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "count": {
+            "occurrence": 3,
+            "mention_ratio": 0.0469
+        },
+        "gender": {
+            "ratio": 1.0,
+            "inference": {
+                "Male": 1.0,
+                "Female": 0.0
+            },
+            "max": 1.0,
+            "argmax": "Male"
+        },
+        "number": {
+            "ratio": 1.0,
+            "inference": {
+                "Singular": 1.0,
+                "Plural": 0.0
+            },
+            "max": 1.0,
+            "argmax": "Singular"
+        },
+        "mentions": {
+            "proper": [
+                {
+                    "n": "au guide lacoste",
+                    "c": 1
+                }
+            ],
+            "common": [
+                {
+                    "n": "le guide",
+                    "c": 1
+                },
+                {
+                    "n": "un paysan",
+                    "c": 1
+                }
+            ],
+            "pronoun": []
+        },
+        "agent": [
+            {
+                "w": "répondre",
+                "i": 1262
+            }
+        ],
+        "patient": [],
+        "mod": [],
+        "poss": []
+    },
+    {
+        "id": 4,
+        "count": {
+            "occurrence": 2,
+            "mention_ratio": 0.0312
+        },
+        "gender": {
+            "ratio": 0,
+            "inference": {
+                "Male": 0,
+                "Female": 0
+            },
+            "max": 0,
+            "argmax": "Null"
+        },
+        "number": {
+            "ratio": 1.0,
+            "inference": {
+                "Singular": 1.0,
+                "Plural": 0.0
+            },
+            "max": 1.0,
+            "argmax": "Singular"
+        },
+        "mentions": {
+            "proper": [
+                {
+                    "n": "ney",
+                    "c": 1
+                }
+            ],
+            "common": [],
+            "pronoun": [
+                {
+                    "n": "son",
+                    "c": 1
+                }
+            ]
+        },
+        "agent": [
+            {
+                "w": "tirer",
+                "i": 249
+            },
+            {
+                "w": "prendre",
+                "i": 253
+            }
+        ],
+        "patient": [],
+        "mod": [],
+        "poss": [
+            {
+                "w": "épée",
+                "i": 251
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "count": {
+            "occurrence": 2,
+            "mention_ratio": 0.0312
+        },
+        "gender": {
+            "ratio": 0,
+            "inference": {
+                "Male": 0,
+                "Female": 0
+            },
+            "max": 0,
+            "argmax": "Null"
+        },
+        "number": {
+            "ratio": 1.0,
+            "inference": {
+                "Singular": 0.0,
+                "Plural": 1.0
+            },
+            "max": 1.0,
+            "argmax": "Plural"
+        },
+        "mentions": {
+            "proper": [],
+            "common": [],
+            "pronoun": [
+                {
+                    "n": "notre",
+                    "c": 1
+                },
+                {
+                    "n": "nous",
+                    "c": 1
+                }
+            ]
+        },
+        "agent": [
+            {
+                "w": "répondre",
+                "i": 1303
+            }
+        ],
+        "patient": [],
+        "mod": [],
+        "poss": [
+            {
+                "w": "droite",
+                "i": 861
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "count": {
+            "occurrence": 2,
+            "mention_ratio": 0.0312
+        },
+        "gender": {
+            "ratio": 1.0,
+            "inference": {
+                "Male": 1.0,
+                "Female": 0.0
+            },
+            "max": 1.0,
+            "argmax": "Male"
+        },
+        "number": {
+            "ratio": 1.0,
+            "inference": {
+                "Singular": 1.0,
+                "Plural": 0.0
+            },
+            "max": 1.0,
+            "argmax": "Singular"
+        },
+        "mentions": {
+            "proper": [
+                {
+                    "n": "napoléon",
+                    "c": 1
+                }
+            ],
+            "common": [],
+            "pronoun": [
+                {
+                    "n": "il",
+                    "c": 1
+                }
+            ]
+        },
+        "agent": [
+            {
+                "w": "ordonner",
+                "i": 1185
+            },
+            {
+                "w": "faire",
+                "i": 1243
+            }
+        ],
+        "patient": [],
+        "mod": [],
+        "poss": []
+    },
+    {
+        "id": 7,
+        "count": {
+            "occurrence": 2,
+            "mention_ratio": 0.0312
+        },
+        "gender": {
+            "ratio": 1.0,
+            "inference": {
+                "Male": 1.0,
+                "Female": 0.0
+            },
+            "max": 1.0,
+            "argmax": "Male"
+        },
+        "number": {
+            "ratio": 1.0,
+            "inference": {
+                "Singular": 1.0,
+                "Plural": 0.0
+            },
+            "max": 1.0,
+            "argmax": "Singular"
+        },
+        "mentions": {
+            "proper": [
+                {
+                    "n": "napoléon",
+                    "c": 1
+                }
+            ],
+            "common": [],
+            "pronoun": [
+                {
+                    "n": "il",
+                    "c": 1
+                }
+            ]
+        },
+        "agent": [
+            {
+                "w": "gêner",
+                "i": 1539
+            }
+        ],
+        "patient": [],
+        "mod": [],
+        "poss": []
+    }
+]

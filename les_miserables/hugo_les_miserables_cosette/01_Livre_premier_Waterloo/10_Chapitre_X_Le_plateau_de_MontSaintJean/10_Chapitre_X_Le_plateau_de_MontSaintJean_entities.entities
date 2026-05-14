@@ -1,0 +1,218 @@
+start_token	end_token	cat	confidence	text	mention_len	paragraph_ID	sentence_ID	start_token_ID_within_sentence	out_to_in_nested_level	in_to_out_nested_level	nested_entities_count	temp_index	head_id	head_word	head_dependency_relation	head_syntactic_head_ID	POS_tag	prop	number	gender	grammatical_person	COREF
+6	6	GPE	0.222876638174057	mont-saint-jean	1	0	0	6	0	0	0	0	6	mont-saint-jean	nmod	4	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+14	15	FAC	0.6403766870498657	la batterie	2	1	1	7	0	0	0	1	15	batterie	nsubj	18	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+23	25	VEH	0.7008620103200277	les treize carrés	3	2	2	3	0	0	0	2	25	carrés	conj	21	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+27	28	PER	0.44551709294319153	les cuirassiers	2	2	2	7	0	0	0	3	28	cuirassiers	obj	26	NOUN	NOM	Plural	Not_Assigned	3	0
+33	36	PER	0.8908715695142746	l’ intrépide général delord	4	2	3	0	0	0	0	4	35	général	nsubj	37	NOUN	PROP	Singular	Male	3	24
+59	60	PER	0.6273441314697266	les cuirassiers	2	3	5	0	0	0	0	5	60	cuirassiers	nsubj	62	NOUN	NOM	Plural	Not_Assigned	3	0
+72	74	FAC	0.500372072060903	du chemin creux	3	3	6	2	0	0	0	6	73	chemin	nmod	71	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+75	75	PER	0.9720598459243774	les	1	3	6	5	0	0	0	7	75	les	obj	77	PRON	PRON	Plural	Ambiguous	3	0
+98	100	PER	0.6891608933607737	la colonne wathier	3	4	8	0	0	0	0	8	99	colonne	nsubj	103	NOUN	PROP	Singular	Not_Assigned	3	25
+108	110	PER	0.8114361763000488	la colonne delord	3	4	8	10	0	0	0	9	109	colonne	nsubj	128	NOUN	PROP	Singular	Not_Assigned	3	6
+112	112	PER	0.7186290621757507	que	1	4	8	14	0	0	0	10	112	que	dep	116	PRON	PRON	Ambiguous	Ambiguous	4	6
+113	113	PER	0.876192033290863	ney	1	4	8	15	0	0	0	11	113	ney	nsubj	116	PROPN	PROP	Singular	Not_Assigned	3	26
+122	122	PER	0.9905228018760681	il	1	4	8	24	0	0	0	12	122	il	nsubj	123	PRON	PRON	Singular	Male	3	6
+131	132	PER	0.6520471572875977	les cuirassiers	2	5	9	0	0	0	0	13	132	cuirassiers	nsubj	134	NOUN	NOM	Plural	Not_Assigned	3	0
+191	193	PER	0.4821378290653229	les bataillons anglais	3	7	12	0	0	0	0	14	192	bataillons	nsubj	199	NOUN	NOM	Plural	Not_Assigned	3	11
+225	227	PER	0.9139445424079895	cette froide infanterie	3	9	16	0	0	0	0	15	227	infanterie	nsubj	228	NOUN	NOM	Singular	Not_Assigned	3	27
+240	241	PER	0.408035546541214	les cuirassiers	2	9	17	9	0	0	0	16	241	cuirassiers	obj	239	NOUN	NOM	Plural	Not_Assigned	3	0
+249	249	PER	0.6145904064178467	les	1	9	17	18	0	0	0	17	249	les	obj	250	PRON	PRON	Plural	Ambiguous	3	0
+257	258	PER	0.6552626490592957	les canonniers	2	9	17	26	0	0	0	18	258	canonniers	nsubj	259	NOUN	NOM	Plural	Not_Assigned	3	28
+280	281	PER	0.6415558755397797	les cuirassiers	2	9	18	0	0	0	0	19	281	cuirassiers	nsubj	282	NOUN	NOM	Plural	Not_Assigned	3	0
+287	289	VEH	0.6733662684758505	leurs grands chevaux	3	9	19	0	0	1	1	20	289	chevaux	nsubj	291	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+287	287	PER	0.9407095313072205	leurs	1	9	19	0	1	0	0	21	287	leurs	det	289	DET	PRON	Plural	Ambiguous	3	0
+325	326	VEH	0.5168915838003159	les cuirassiers	2	9	20	9	0	0	0	22	326	cuirassiers	nsubj	327	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+375	377	PER	0.47848570346832275	cette cavalerie forcenée	3	9	24	5	0	0	0	23	376	cavalerie	obl:agent	373	NOUN	NOM	Plural	Ambiguous	3	0
+418	419	PER	0.39875011146068573	ces cuirassiers	2	9	27	14	0	0	0	24	419	cuirassiers	nsubj	424	NOUN	NOM	Plural	Not_Assigned	3	0
+423	424	VEH	0.5800811052322388	une cavalerie	2	9	27	19	0	0	0	25	424	cavalerie	ROOT	424	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+476	479	PER	0.37367887794971466	du 75 ème régiment	4	10	30	3	0	0	0	26	479	régiment	obl:arg	475	NOUN	NOM	Plural	Ambiguous	3	1
+483	488	PER	0.6295899649461111	le joueur de cornemuse au centre	6	10	31	0	0	0	0	27	484	joueur	nsubj	527	NOUN	NOM	Not_Assigned	Not_Assigned	3	1
+497	497	PER	0.9813371300697327	lui	1	10	31	14	0	0	0	28	497	lui	dep	495	PRON	PRON	Singular	Ambiguous	3	1
+504	504	PER	0.9893527030944824	son	1	10	31	21	0	0	0	29	504	son	det	505	DET	PRON	Singular	Ambiguous	3	1
+510	511	LOC	0.5446123033761978	des forêts	2	10	31	27	0	0	0	30	511	forêts	nmod	509	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+513	514	LOC	0.6106779873371124	des lacs	2	10	31	30	0	0	0	31	514	lacs	conj	511	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+521	521	PER	0.9547933340072632	son	1	10	31	38	0	0	0	32	521	son	det	522	DET	PRON	Singular	Ambiguous	3	1
+531	532	LOC	0.8724393546581268	la montagne	2	10	31	48	0	0	0	33	532	montagne	nmod	529	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+534	535	PER	0.7464000582695007	ces écossais	2	10	32	0	0	0	0	34	535	écossais	nsubj	536	NOUN	NOM	Plural	Not_Assigned	3	1
+539	541	PER	0.2720528344313304	au ben lothian	3	10	32	5	0	0	0	35	540	ben	obl:arg	538	PROPN	PROP	Singular	Male	3	1
+555	556	PER	0.8127422034740448	un cuirassier	2	10	33	3	0	0	0	36	556	cuirassier	nmod	553	NOUN	NOM	Singular	Not_Assigned	3	29
+574	575	PER	0.9145894944667816	le chanteur	2	10	33	22	0	0	0	37	575	chanteur	obj	573	NOUN	NOM	Singular	Male	3	1
+577	578	PER	0.6664257049560547	les cuirassiers	2	11	34	0	0	0	0	38	578	cuirassiers	nsubj	591	NOUN	NOM	Plural	Not_Assigned	3	0
+588	589	LOC	0.5682500004768372	du ravin	2	11	34	11	0	0	0	39	589	ravin	nmod	587	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+594	594	PER	0.8903663754463196	eux	1	11	34	17	0	0	0	40	594	eux	obl:arg	591	PRON	PRON	Plural	Ambiguous	3	0
+602	602	PER	0.9590707421302795	ils	1	11	34	25	0	0	0	41	602	ils	nsubj	604	PRON	PRON	Plural	Ambiguous	3	0
+606	607	PER	0.7252433001995087	chaque homme	2	11	34	29	0	0	0	42	607	homme	nsubj	608	NOUN	NOM	Not_Assigned	Not_Assigned	3	1
+612	614	PER	0.6775805354118347	quelques bataillons hanovriens	3	11	35	1	0	0	0	43	613	bataillons	nsubj	615	NOUN	NOM	Plural	Not_Assigned	3	11
+617	617	PER	0.9185225963592529	wellington	1	11	36	0	0	0	0	44	617	wellington	nsubj	619	PROPN	PROP	Singular	Not_Assigned	3	2
+624	624	PER	0.981808602809906	sa	1	11	36	7	0	0	0	45	624	sa	det	625	DET	PRON	Singular	Ambiguous	3	2
+628	628	GPE	0.5317903757095337	napoléon	1	11	37	1	0	0	0	46	628	napoléon	nsubj	637	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+630	634	TIME	0.5264224588871003	en ce moment -là même	5	11	37	3	0	0	0	47	632	moment	nmod	633	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+639	639	PER	0.6934614181518555	son	1	11	37	12	0	0	0	48	639	son	det	640	DET	PRON	Singular	Ambiguous	3	2
+642	642	PER	0.8797963261604309	il	1	11	37	15	0	0	0	49	642	il	nsubj	644	PRON	PRON	Singular	Male	3	2
+651	651	PER	0.9712657928466797	sa	1	11	38	3	0	0	0	50	651	sa	det	653	DET	PRON	Singular	Ambiguous	3	2
+659	660	PER	0.5475530028343201	les cuirassiers	2	12	39	3	0	0	0	51	660	cuirassiers	nsubj	665	NOUN	NOM	Plural	Not_Assigned	3	0
+673	673	PER	0.9459093809127808	leur	1	12	40	5	0	0	0	52	673	leur	det	674	DET	PRON	Plural	Ambiguous	3	0
+677	677	PER	0.9786621928215027	eux	1	12	41	1	0	0	0	53	677	eux	obl:mod	684	PRON	PRON	Plural	Ambiguous	3	0
+682	683	PER	0.3685376048088074	eux somerset	2	12	41	6	0	0	0	54	682	eux	nmod	679	PRON	PROP	Singular	Not_Assigned	3	30
+686	686	PER	0.7310556769371033	somerset	1	12	41	10	0	0	0	55	686	somerset	dep	693	PROPN	PROP	Singular	Not_Assigned	3	31
+690	695	PER	0.6260946492354075	les quatorze cents dragons - gardes	6	12	41	14	0	0	0	56	693	dragons	ROOT	693	NOUN	NOM	Plural	Not_Assigned	3	4
+697	697	PER	0.836219847202301	somerset	1	12	42	0	0	0	0	57	697	somerset	nsubj	698	PROPN	PROP	Singular	Not_Assigned	3	12
+700	700	PER	0.9596495628356934	sa	1	12	42	3	0	0	0	58	700	sa	det	701	DET	PRON	Singular	Ambiguous	3	12
+702	702	PER	0.7457261681556702	dornberg	1	12	42	5	0	0	0	59	702	dornberg	obj	698	PROPN	PROP	Singular	Not_Assigned	3	13
+704	708	PER	0.3446970611810684	les chevau - légers allemands	5	12	42	7	0	0	0	60	706		obl:mod	698	NOUN	NOM	Plural	Not_Assigned	3	32
+712	712	PER	0.9101477861404419	sa	1	12	42	15	0	0	0	61	712	sa	det	713	DET	PRON	Singular	Ambiguous	3	13
+721	722	PER	0.47592587769031525	les cuirassiers	2	12	42	24	0	0	0	62	722	cuirassiers	nsubj	745	NOUN	NOM	Plural	Not_Assigned	3	0
+754	754	PER	0.9826662540435791	leur	1	12	43	1	0	0	0	63	754	leur	iobj	755	PRON	PRON	Plural	Ambiguous	3	0
+758	758	PER	0.8830381631851196	ils	1	12	43	5	0	0	0	64	758	ils	nsubj	760	PRON	PRON	Plural	Ambiguous	3	0
+770	770	PER	0.997408926486969	ils	1	13	45	3	0	0	0	65	770	ils	nsubj	771	PRON	PRON	Plural	Ambiguous	3	0
+773	773	PER	0.98919278383255	eux	1	13	45	6	0	0	0	66	773	eux	obl:mod	771	PRON	PRON	Plural	Ambiguous	3	0
+784	785	PER	0.8784825503826141	ces hommes	2	13	46	5	0	0	0	67	785	hommes	nsubj:pass	787	NOUN	NOM	Plural	Not_Assigned	3	0
+794	794	PER	0.8938986659049988	leurs	1	13	47	2	0	0	0	68	794	leurs	det	795	DET	PRON	Plural	Ambiguous	3	0
+813	813	GPE	0.9388431906700134	waterloo	1	13	47	21	0	0	0	69	813	waterloo	nmod	811	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+816	818	PER	0.6700568397839864	de tels français	3	14	48	1	0	0	0	70	818	français	obl:mod	822	NOUN	NOM	Not_Assigned	Not_Assigned	3	0
+863	868	PER	0.6752773026625315	les quatorze cents dragons - gardes	6	15	50	3	0	0	0	71	866	dragons	nsubj	875	NOUN	NOM	Plural	Not_Assigned	3	4
+877	877	PER	0.936322808265686	fuller	1	15	50	17	0	0	0	72	877	fuller	nsubj	884	PROPN	PROP	Singular	Not_Assigned	3	14
+879	882	PER	0.7761432826519012	leur lieutenant - colonel	4	15	50	19	0	1	1	73	880	lieutenant	appos	877	NOUN	NOM	Singular	Male	3	14
+879	879	PER	0.9833943843841553	leur	1	15	50	19	1	0	0	74	879	leur	det	880	DET	PRON	Plural	Ambiguous	3	4
+887	887	PER	0.9643744230270386	ney	1	15	51	0	0	0	0	75	887	ney	nsubj	888	PROPN	PROP	Singular	Not_Assigned	3	33
+890	891	PER	0.5366718918085098	les lanciers	2	15	51	3	0	0	0	76	891	lanciers	obl:mod	888	NOUN	NOM	Plural	Not_Assigned	3	34
+893	898	PER	0.645615741610527	les chasseurs de lefebvre - desnouettes	6	15	51	6	0	1	1	77	894	chasseurs	conj	891	NOUN	PROP	Plural	Not_Assigned	3	35
+896	898	PER	0.6500526567300161	lefebvre - desnouettes	3	15	51	9	1	0	0	78	896	lefebvre	nmod	894	PROPN	PROP	Singular	Not_Assigned	3	36
+900	903	LOC	0.3181760869920254	le plateau de mont-saint-jean	4	15	52	0	0	0	0	79	901	plateau	nsubj:pass	905	NOUN	PROP	Not_Assigned	Not_Assigned	3	
+912	913	PER	0.5329815745353699	les cuirassiers	2	15	53	0	0	0	0	80	913	cuirassiers	nsubj	914	NOUN	NOM	Plural	Not_Assigned	3	0
+954	954	PER	0.9564666748046875	ney	1	15	56	0	0	0	0	81	954	ney	nsubj	955	PROPN	PROP	Singular	Not_Assigned	3	15
+960	960	PER	0.5721061825752258	lui	1	15	56	6	0	0	0	82	960	lui	obl:mod	958	PRON	PRON	Singular	Ambiguous	3	15
+964	965	PER	0.4423195719718933	des cuirassiers	2	15	57	2	0	0	0	83	965	cuirassiers	nmod	963	NOUN	NOM	Plural	Not_Assigned	3	0
+974	975	TIME	0.6213089376688004	deux heures	2	15	58	3	0	0	0	84	975	heures	obj	973	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+990	990	PER	0.8528978824615479	ils	1	16	60	5	0	0	0	85	990	ils	nsubj:pass	994	PRON	PRON	Plural	Ambiguous	3	4
+1006	1007	PER	0.594420999288559	les cuirassiers	2	16	60	21	0	0	0	86	1007	cuirassiers	nsubj	1009	NOUN	NOM	Plural	Not_Assigned	3	0
+1018	1020	PER	0.5803460876146952	cette cavalerie extraordinaire	3	16	61	0	0	0	0	87	1019	cavalerie	nsubj	1021	NOUN	NOM	Plural	Ambiguous	3	0
+1026	1026	GPE	0.5454025268554688	talavera	1	16	61	8	0	0	0	88	1026	talavera	obj	1025	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+1028	1028	GPE	0.9292181730270386	badajoz	1	16	61	10	0	0	0	89	1028	badajoz	conj	1026	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+1030	1030	PER	0.9142336249351501	wellington	1	16	62	0	0	0	0	90	1030	wellington	nsubj	1037	PROPN	PROP	Singular	Not_Assigned	3	16
+1040	1040	PER	0.9985849857330322	il	1	16	63	0	0	0	0	91	1040	il	nsubj	1041	PRON	PRON	Singular	Male	3	16
+1051	1052	PER	0.4186837822198868	les cuirassiers	2	17	64	0	0	0	0	92	1052	cuirassiers	nsubj	1053	NOUN	NOM	Plural	Not_Assigned	3	0
+1079	1083	PER	0.5498348653316498	trois chasseurs de la garde	5	17	64	28	0	0	0	93	1080	chasseurs	conj	1077	NOUN	NOM	Not_Assigned	Not_Assigned	3	37
+1087	1088	PER	0.7594859302043915	l’ empereur	2	17	64	36	0	0	0	94	1088	empereur	obl:arg	1085	NOUN	NOM	Singular	Male	3	38
+1093	1094	LOC	0.2608274221420288	la belle-alliance	2	17	64	42	0	0	0	95	1094	belle-alliance	nmod	1091	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+1099	1099	PER	0.948574423789978	wellington	1	18	65	3	0	0	0	96	1099	wellington	nmod	1097	PROPN	PROP	Singular	Not_Assigned	3	39
+1172	1176	TIME	0.6546815693378448	le lendemain de la bataille	5	20	70	9	0	0	0	97	1173	lendemain	obl:mod	1184	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+1178	1182	PER	0.40190715789794923	un cuirassier et son cheval	5	20	70	15	0	1	2	98	1179	cuirassier	nsubj:pass	1184	NOUN	NOM	Plural	Not_Assigned	3	40
+1178	1179	PER	0.6170256435871124	un cuirassier	2	20	70	15	1	0	0	99	1179	cuirassier	nsubj:pass	1184	NOUN	NOM	Singular	Not_Assigned	3	41
+1181	1181	PER	0.9249057173728943	son	1	20	70	18	1	0	0	100	1181	son	det	1182	DET	PRON	Singular	Ambiguous	3	42
+1194	1195	VEH	0.5816401094198227	des voitures	2	20	70	31	0	0	0	101	1195	voitures	nmod	1193	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+1197	1197	GPE	0.7747610807418823	mont-saint-jean	1	20	70	34	0	0	0	102	1197	mont-saint-jean	nmod	1191	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+1212	1212	GPE	0.8932054042816162	nivelles	1	20	70	49	0	0	0	103	1212	nivelles	nmod	1210	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+1215	1215	GPE	0.9182390570640564	genappe	1	20	70	52	0	0	0	104	1215	genappe	conj	1212	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+1218	1219	GPE	0.83633753657341	la hulpe	2	20	70	55	0	0	0	105	1219	hulpe	conj	1212	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+1222	1222	GPE	0.9422088861465454	bruxelles	1	20	70	59	0	0	0	106	1222	bruxelles	conj	1212	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+1224	1225	PER	0.8955037295818329	ce cavalier	2	20	71	0	0	0	0	107	1225	cavalier	nsubj	1227	NOUN	NOM	Singular	Male	3	1
+1233	1234	PER	0.6005443930625916	des hommes	2	20	72	1	0	0	0	108	1234	hommes	nmod	1232	NOUN	NOM	Plural	Not_Assigned	3	3
+1235	1235	PER	0.9412975907325745	qui	1	20	72	3	0	0	0	109	1235	qui	nsubj	1237	PRON	PRON	Ambiguous	Ambiguous	4	3
+1243	1243	GPE	0.8338292241096497	mont-saint-jean	1	20	72	11	0	0	0	110	1243	mont-saint-jean	obl:arg	1240	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+1245	1245	PER	0.9615246057510376	il	1	20	73	0	0	0	0	111	1245	il	nsubj	1247	PRON	PRON	Singular	Male	3	3
+1248	1248	PER	0.7286300659179688	dehaze	1	20	73	3	0	0	0	112	1248	dehaze	xcomp	1247	PROPN	PROP	Singular	Not_Assigned	3	3
+1250	1250	PER	0.9935803413391113	il	1	20	74	0	0	0	0	113	1250	il	nsubj	1251	PRON	PRON	Singular	Male	3	3
+1256	1256	PER	0.9745012521743774	wellington	1	21	75	0	0	0	0	114	1256	wellington	nsubj	1258	PROPN	PROP	Singular	Not_Assigned	3	43
+1284	1286	PER	0.70464026927948	tout le monde	3	22	78	0	0	0	0	115	1286	monde	nsubj	1287	NOUN	NOM	Plural	Ambiguous	3	0
+1309	1309	PER	0.9465531706809998	wellington	1	22	79	0	0	0	0	116	1309	wellington	nsubj	1310	PROPN	PROP	Singular	Not_Assigned	3	44
+1311	1312	LOC	0.5520893037319183	le village	2	22	79	2	0	0	0	117	1312	village	obj	1310	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+1314	1316	LOC	0.8046145439147949	la plaine culminante	3	22	79	5	0	0	0	118	1315	plaine	conj	1312	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+1319	1319	PER	0.9425649046897888	ney	1	22	79	10	0	0	0	119	1319	ney	nsubj	1321	PROPN	PROP	Singular	Not_Assigned	3	45
+1323	1324	LOC	0.5276277363300323	la crête	2	22	79	14	0	0	0	120	1324	crête	obj	1321	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+1329	1331	PER	0.580618659655253	des deux côtés	3	22	80	0	0	0	0	121	1331	côtés	obl:mod	1333	NOUN	NOM	Plural	Not_Assigned	3	46
+1343	1344	PER	0.609649658203125	des anglais	2	23	81	3	0	0	0	122	1344	anglais	nmod	1342	NOUN	NOM	Plural	Ambiguous	3	17
+1356	1356	PER	0.5605000257492065	kempt	1	23	83	0	0	0	0	123	1356	kempt	nsubj	1363	PROPN	PROP	Singular	Not_Assigned	3	5
+1376	1376	PER	0.9941701889038086	wellington	1	23	84	9	0	0	0	124	1376	wellington	nsubj	1375	PROPN	PROP	Singular	Not_Assigned	3	18
+1379	1379	PER	0.9829761981964111	il	1	23	84	12	0	0	0	125	1379	il	nsubj:pass	1382	PRON	PRON	Singular	Male	3	5
+1386	1389	TIME	0.5813706368207932	à la même minute	4	23	85	2	0	0	0	126	1389	minute	obl:mod	1402	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+1401	1401	PER	0.9932155609130859	ney	1	23	85	17	0	0	0	127	1401	ney	nsubj	1402	PROPN	PROP	Singular	Not_Assigned	3	47
+1407	1407	PER	0.5919914245605469	napoléon	1	23	85	23	0	0	0	128	1407	napoléon	obl:arg	1402	PROPN	PROP	Singular	Male	3	48
+1410	1410	PER	0.8946321606636047	napoléon	1	23	85	26	0	0	0	129	1410	napoléon	nsubj	1412	PROPN	PROP	Singular	Male	3	49
+1422	1422	PER	0.9347351789474487	-il	1	23	85	38	0	0	0	130	1422	il	dep	1421	PRON	PRON	Singular	Male	3	5
+1424	1424	PER	0.9002773761749268	j’	1	23	85	40	0	0	0	131	1424	j'	nsubj	1426	PRON	PRON	Singular	Ambiguous	1	18
+1430	1430	PER	0.9168257117271423	-il	1	23	86	1	0	0	0	132	1430	il	dep	1429	PRON	PRON	Singular	Male	3	5
+1432	1432	PER	0.9019199013710022	j’	1	23	86	3	0	0	0	133	1432	j'	nsubj	1434	PRON	PRON	Singular	Ambiguous	1	50
+1467	1472	PER	0.4994070678949356	quelques hommes autour d’ un drapeau	6	24	89	0	0	0	0	134	1468	hommes	nsubj	1473	NOUN	NOM	Plural	Not_Assigned	3	51
+1496	1498	PER	0.7233341534932455	la division alten	3	24	89	29	0	0	0	135	1497	division	nsubj:pass	1511	NOUN	PROP	Plural	Ambiguous	3	52
+1504	1507	GPE	0.6149579435586929	la haie - sainte	4	24	89	37	0	0	0	136	1504	la	obl:mod	1502	DET	PROP	Not_Assigned	Not_Assigned	3	
+1518	1521	PER	0.6660148650407791	la brigade van kluze	4	24	89	51	0	0	0	137	1519	brigade	obl:mod	1522	NOUN	PROP	Plural	Ambiguous	3	53
+1531	1531	GPE	0.8434795141220093	nivelles	1	24	89	64	0	0	0	138	1531	nivelles	nmod	1529	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+1540	1542	PER	0.5819203754266103	ces grenadiers hollandais	3	24	89	73	0	0	0	139	1541	grenadiers	obl:arg	1536	NOUN	NOM	Plural	Not_Assigned	3	19
+1548	1549	TIME	0.4548092931509018	en 1811	2	24	89	81	0	0	0	140	1549	1811	obl:mod	1558	NUM	NOM	Not_Assigned	Not_Assigned	3	
+1553	1553	GPE	0.7590929865837097	espagne	1	24	89	86	0	0	0	141	1553	espagne	obl:mod	1551	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+1555	1555	PER	0.952275276184082	nos	1	24	89	88	0	0	0	142	1555	nos	det	1556	DET	PRON	Plural	Ambiguous	1	54
+1559	1559	GPE	0.4647083282470703	wellington	1	24	89	92	0	0	0	143	1559	wellington	obj	1558	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+1562	1562	PER	0.7322778105735779	qui	1	24	89	95	0	0	0	144	1562	qui	nsubj	1571	PRON	PRON	Ambiguous	Ambiguous	4	19
+1565	1565	TIME	0.6849373579025269	1815	1	24	89	98	0	0	0	145	1565	1815	obl:mod	1571	NUM	NOM	Not_Assigned	Not_Assigned	3	
+1568	1569	PER	0.4593343883752823	aux anglais	2	24	89	101	0	0	0	146	1569	anglais	obl:arg	1567	NOUN	NOM	Plural	Ambiguous	3	55
+1572	1572	GPE	0.8241847157478333	napoléon	1	24	89	105	0	0	0	147	1572	napoléon	obj	1571	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+1581	1582	PER	0.9774952530860901	lord uxbridge	2	24	91	0	0	0	0	148	1581	lord	nsubj	1592	NOUN	PROP	Singular	Male	3	7
+1584	1584	PER	0.9921934604644775	qui	1	24	91	3	0	0	0	149	1584	qui	nsubj	1588	PRON	PRON	Ambiguous	Ambiguous	4	7
+1585	1586	TIME	0.8609351515769958	le lendemain	2	24	91	4	0	0	0	150	1586	lendemain	obl:mod	1588	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+1589	1589	PER	0.9969798922538757	sa	1	24	91	8	0	0	0	151	1589	sa	det	1590	DET	PRON	Singular	Ambiguous	3	7
+1601	1602	PER	0.8995851278305054	des français	2	24	92	4	0	0	0	152	1602	français	nmod	1600	NOUN	NOM	Plural	Ambiguous	3	56
+1610	1610	PER	0.9183987975120544	delord	1	24	92	13	0	0	0	153	1610	delord	nsubj	1624	PROPN	PROP	Singular	Male	3	57
+1612	1612	PER	0.8375641107559204	lhéritier	1	24	92	15	0	0	0	154	1612	lhéritier	conj	1610	PROPN	PROP	Singular	Not_Assigned	3	58
+1614	1614	PER	0.5805597901344299	colbert	1	24	92	17	0	0	0	155	1614	colbert	conj	1610	PROPN	PROP	Singular	Male	3	59
+1616	1616	PER	0.7294319868087769	dnop	1	24	92	19	0	0	0	156	1616	dnop	conj	1610	PROPN	PROP	Singular	Not_Assigned	3	60
+1618	1618	PER	0.8455018997192383	travers	1	24	92	21	0	0	0	157	1618	travers	conj	1610	PROPN	PROP	Singular	Not_Assigned	3	61
+1620	1620	PER	0.8265157341957092	blancard	1	24	92	23	0	0	0	158	1620	blancard	conj	1610	PROPN	PROP	Singular	Not_Assigned	3	62
+1628	1629	PER	0.8968214988708496	des anglais	2	24	92	31	0	0	0	159	1629	anglais	nmod	1627	NOUN	NOM	Plural	Ambiguous	3	17
+1631	1631	PER	0.9538242816925049	alten	1	24	92	34	0	0	0	160	1631	alten	nsubj:pass	1633	PROPN	PROP	Singular	Not_Assigned	3	63
+1635	1635	PER	0.9771595597267151	barne	1	24	92	38	0	0	0	161	1635	barne	nsubj:pass	1637	PROPN	PROP	Singular	Not_Assigned	3	64
+1639	1639	PER	0.9180228114128113	delancey	1	24	92	42	0	0	0	162	1639	delancey	nsubj:pass	1641	PROPN	PROP	Singular	Not_Assigned	3	65
+1643	1644	PER	0.9471961259841919	van merlen	2	24	92	46	0	0	0	163	1643	van	nsubj:pass	1646	PROPN	PROP	Singular	Not_Assigned	3	66
+1648	1648	PER	0.7798143625259399	ompteda	1	24	92	51	0	0	0	164	1648	ompteda	nsubj:pass	1650	PROPN	PROP	Singular	Not_Assigned	3	67
+1658	1658	PER	0.8792427778244019	wellington	1	24	92	61	0	0	0	165	1658	wellington	nmod	1656	PROPN	PROP	Singular	Not_Assigned	3	68
+1663	1664	GPE	0.6340548098087311	l’ angleterre	2	24	92	66	0	0	0	166	1664	angleterre	nsubj	1665	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+1684	1687	PER	0.5728474110364914	cinq lieutenants - colonels	4	24	93	10	0	0	0	167	1685	lieutenants	obj	1683	NOUN	NOM	Plural	Not_Assigned	3	69
+1689	1690	PER	0.4662170261144638	quatre capitaines	2	24	93	15	0	0	0	168	1690	capitaines	conj	1687	NOUN	NOM	Plural	Not_Assigned	3	70
+1692	1693	PER	0.4997413530945778	trois enseignes	2	24	93	18	0	0	0	169	1693	enseignes	conj	1687	NOUN	NOM	Plural	Not_Assigned	3	71
+1699	1703	PER	0.4490301668643951	du 30 ème d’ infanterie	5	24	93	25	0	0	0	170	1701	ème	nmod	1698	ADJ	NOM	Not_Assigned	Not_Assigned	3	72
+1709	1711	PER	0.6870303948720297	cent douze soldats	3	24	93	35	0	0	0	171	1711	soldats	conj	1707	NOUN	NOM	Plural	Ambiguous	3	73
+1714	1717	PER	0.3847831077873707	le 79 ème montagnards	4	24	93	40	0	0	0	172	1717	montagnards	nsubj	1718	NOUN	NOM	Singular	Not_Assigned	3	74
+1719	1721	PER	0.5657397905985514	vingt-quatre officiers blessés	3	24	93	45	0	0	0	173	1720	officiers	obj	1718	NOUN	NOM	Plural	Ambiguous	3	75
+1723	1725	PER	0.6539163788159689	dix-huit officiers morts	3	24	93	49	0	0	0	174	1724	officiers	conj	1720	NOUN	NOM	Plural	Ambiguous	3	76
+1727	1731	PER	0.7763268113136291	quatre cent cinquante soldats tués	5	24	93	53	0	0	0	175	1730	soldats	appos	1720	NOUN	NOM	Plural	Not_Assigned	3	77
+1733	1737	PER	0.6933971405029297	les hussards hanovriens de cumberland	5	24	94	0	0	1	1	176	1734	hussards	nsubj	1762	NOUN	PROP	Plural	Not_Assigned	3	20
+1737	1737	PER	0.53305983543396	cumberland	1	24	94	4	1	0	0	177	1737	cumberland	nmod	1734	PROPN	PROP	Singular	Not_Assigned	3	21
+1746	1746	PER	0.7458498477935791	sa	1	24	94	13	0	0	0	178	1746	sa	det	1747	DET	PRON	Singular	Ambiguous	3	20
+1748	1750	PER	0.7479970455169678	son colonel hacke	3	24	94	15	0	1	1	179	1749	colonel	obj	1744	NOUN	PROP	Singular	Male	3	22
+1748	1748	PER	0.6138368248939514	son	1	24	94	15	1	0	0	180	1748	son	det	1749	DET	PRON	Singular	Ambiguous	3	21
+1752	1752	PER	0.9615897536277771	qui	1	24	94	19	0	0	0	181	1752	qui	nsubj	1753	PRON	PRON	Ambiguous	Ambiguous	4	22
+1772	1775	LOC	0.6622631251811981	la forêt de soignes	4	24	94	39	0	0	0	182	1773	forêt	obl:mod	1770	NOUN	PROP	Not_Assigned	Not_Assigned	3	
+1782	1782	GPE	0.9632003307342529	bruxelles	1	24	94	49	0	0	0	183	1782	bruxelles	obl:mod	1777	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+1784	1785	VEH	0.6852917671203613	les charrois	2	24	95	0	0	0	0	184	1785	charrois	nsubj	1814	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+1787	1788	VEH	0.602607399225235	les prolonges	2	24	95	3	0	0	0	185	1788	prolonges	conj	1785	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+1800	1801	PER	0.890177845954895	les français	2	24	95	16	0	0	0	186	1801	français	obj	1799	NOUN	NOM	Plural	Ambiguous	3	78
+1809	1810	LOC	0.944662868976593	la forêt	2	24	95	25	0	0	0	187	1810	forêt	obl:arg	1807	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+1813	1813	LOC	0.6392170190811157	y	1	24	95	29	0	0	0	188	1813	y	iobj	1814	PRON	PRON	Not_Assigned	Not_Assigned	3	
+1817	1818	PER	0.7926891446113586	les hollandais	2	24	95	33	0	0	0	189	1818	hollandais	nsubj	1826	NOUN	NOM	Plural	Not_Assigned	3	79
+1822	1824	PER	0.4410736660162608	la cavalerie française	3	24	95	38	0	0	0	190	1823	cavalerie	obl:agent	1820	NOUN	NOM	Plural	Ambiguous	3	0
+1837	1837	GPE	0.844477653503418	grœnendael	1	24	96	6	0	0	0	191	1837	grœnendael	nmod	1834	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+1851	1851	GPE	0.9454728960990906	bruxelles	1	24	96	20	0	0	0	192	1851	bruxelles	nmod	1849	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+1859	1860	PER	0.8156352937221527	des témoins	2	24	96	28	0	0	0	193	1860	témoins	nmod	1858	NOUN	NOM	Plural	Ambiguous	3	80
+1877	1880	PER	0.5076241046190262	le prince de condé	4	24	97	7	0	0	0	194	1878	prince	obj	1876	NOUN	PROP	Singular	Male	3	81
+1882	1882	GPE	0.9166243672370911	malines	1	24	97	12	0	0	0	195	1882	malines	obl:mod	1876	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+1884	1885	PER	0.7160103619098663	louis xviii	2	24	97	14	0	0	0	196	1884	louis	conj	1876	PROPN	PROP	Singular	Male	3	82
+1887	1887	GPE	0.9647283554077148	gand	1	24	97	17	0	0	0	197	1887	gand	obl:mod	1876	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+1902	1905	FAC	0.45949604362249374	la ferme de mont-saint-jean	4	24	98	13	0	0	0	198	1903	ferme	obl:arg	1900	NOUN	PROP	Not_Assigned	Not_Assigned	3	
+1907	1909	PER	0.8087026476860046	des brigades vivian	3	24	98	18	0	0	0	199	1908	brigades	conj	1903	NOUN	PROP	Ambiguous	Not_Assigned	3	8
+1911	1911	PER	0.726170003414154	vandeleur	1	24	98	22	0	0	0	200	1911	vandeleur	conj	1909	PROPN	PROP	Singular	Not_Assigned	3	8
+1912	1912	PER	0.9047337174415588	qui	1	24	98	23	0	0	0	201	1912	qui	nsubj	1913	PRON	PRON	Ambiguous	Ambiguous	4	8
+1918	1918	PER	0.982384979724884	wellington	1	24	98	29	0	0	0	202	1918	wellington	nsubj	1920	PROPN	PROP	Singular	Not_Assigned	3	83
+1936	1936	PER	0.9866873621940613	siborne	1	24	100	5	0	0	0	203	1936	siborne	obl:agent	1934	PROPN	PROP	Singular	Not_Assigned	3	23
+1940	1940	PER	0.9821202158927917	pringle	1	24	100	9	0	0	0	204	1940	pringle	nsubj	1942	PROPN	PROP	Singular	Not_Assigned	3	23
+1961	1962	PER	0.9441739618778229	le duc-de-fer	2	24	101	0	0	0	0	205	1962	duc-de-fer	nsubj	1963	NOUN	NOM	Singular	Not_Assigned	3	9
+1967	1967	PER	0.9990825653076172	ses	1	24	101	6	0	0	0	206	1967	ses	det	1968	DET	PRON	Singular	Ambiguous	3	9
+1972	1980	PER	0.582089838054445	le commissaire autrichien vincent , le commissaire espagnol alava	9	24	102	0	0	1	2	207	1973	commissaire	nsubj	1993	NOUN	PROP	Singular	Male	3	84
+1972	1975	PER	0.8351150006055832	le commissaire autrichien vincent	4	24	102	0	1	0	0	208	1973	commissaire	nsubj	1993	NOUN	PROP	Singular	Male	3	85
+1977	1980	PER	0.9294513911008835	le commissaire espagnol alava	4	24	102	5	1	0	0	209	1978	commissaire	conj	1973	NOUN	PROP	Singular	Male	3	86
+1994	1996	PER	0.7160330216089884	le duc perdu	3	24	102	22	0	0	0	210	1995	duc	obj	1993	NOUN	NOM	Singular	Male	3	9
+1998	2000	TIME	0.816633145014445	à cinq heures	3	24	103	0	0	0	0	211	2000	heures	obl:mod	2003	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+2002	2002	PER	0.9914842247962952	wellington	1	24	103	4	0	0	0	212	2002	wellington	nsubj	2003	PROPN	PROP	Singular	Not_Assigned	3	10
+2004	2004	PER	0.9931094646453857	sa	1	24	103	6	0	0	0	213	2004	sa	det	2005	DET	PRON	Singular	Ambiguous	3	10
+2009	2009	PER	0.9571273922920227	l’	1	24	103	11	0	0	0	214	2009	l'	obj	2010	PRON	PRON	Singular	Ambiguous	3	10
+2020	2021	TIME	0.6796068251132965	la nuit	2	24	103	22	0	0	0	215	2021	nuit	conj	2017	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+2043	2043	GPE	0.8451693058013916	frischemont	1	25	104	19	0	0	0	216	2043	frischemont	nmod	2041	PROPN	PROP	Not_Assigned	Not_Assigned	3	

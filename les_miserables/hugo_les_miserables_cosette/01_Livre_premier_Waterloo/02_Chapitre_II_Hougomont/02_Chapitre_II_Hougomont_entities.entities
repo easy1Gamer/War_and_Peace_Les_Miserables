@@ -1,0 +1,282 @@
+start_token	end_token	cat	confidence	text	mention_len	paragraph_ID	sentence_ID	start_token_ID_within_sentence	out_to_in_nested_level	in_to_out_nested_level	nested_entities_count	temp_index	head_id	head_word	head_dependency_relation	head_syntactic_head_ID	POS_tag	prop	number	gender	grammatical_person	COREF
+3	3	GPE	0.36555159091949463	hougomont	1	0	0	3	0	0	0	0	3	hougomont	nsubj	4	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+4	4	GPE	0.38303565979003906	hougomont	1	1	1	0	0	0	0	1	4	hougomont	flat:name	4	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+6	6	GPE	0.38629963994026184	ce	1	1	1	2	0	0	0	2	6	ce	nsubj	10	PRON	PRON	Not_Assigned	Not_Assigned	3	
+8	8	FAC	0.39453455805778503	là	1	1	1	4	0	0	0	3	8	là	advmod	10	ADV	NOM	Not_Assigned	Not_Assigned	3	
+9	11	FAC	0.48179303606351215	un lieu funèbre	3	1	1	5	0	0	0	4	10	lieu	ROOT	10	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+25	25	GPE	0.9458153247833252	waterloo	1	1	1	21	0	0	0	5	25	waterloo	obl:mod	23	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+26	31	PER	0.38305987417697906	ce grand bûcheron de l’ europe	6	1	1	22	0	1	1	6	28	bûcheron	nsubj	23	NOUN	PROP	Singular	Male	3	3
+30	31	GPE	0.8108796775341034	l’ europe	2	1	1	26	1	0	0	7	31	europe	nmod	28	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+35	35	GPE	0.7957610487937927	napoléon	1	1	1	31	0	0	0	8	35	napoléon	xcomp	34	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+49	50	FAC	0.8103139996528625	un château	2	2	2	2	0	0	0	9	50	château	ROOT	50	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+52	52	FAC	0.8639010787010193	ce	1	2	2	5	0	0	0	10	52	ce	nsubj	58	PRON	PRON	Not_Assigned	Not_Assigned	3	
+57	58	FAC	0.9083206951618195	une ferme	2	2	2	10	0	0	0	11	58	ferme	conj	50	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+60	60	PER	0.7090792059898376	hougomont	1	2	3	0	0	0	0	12	60	hougomont	nsubj	68	PROPN	PROP	Singular	Not_Assigned	3	18
+70	71	FAC	0.6480469107627869	ce manoir	2	2	4	0	0	0	0	13	71	manoir	nsubj:pass	73	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+75	75	PER	0.7919109463691711	hugo	1	2	4	5	0	0	0	14	75	hugo	obl:agent	73	PROPN	PROP	Singular	Male	3	6
+80	82	PER	0.8474156260490417	sire de somerel	3	2	4	10	0	0	0	15	82	somerel	nmod	80	PROPN	PROP	Singular	Male	3	6
+84	85	PER	0.7892123460769653	le même	2	2	4	14	0	0	0	16	85	même	parataxis	73	ADJ	NOM	Singular	Male	3	6
+86	86	PER	0.976097583770752	qui	1	2	4	16	0	0	0	17	86	qui	nsubj	87	PRON	PRON	Ambiguous	Ambiguous	4	6
+95	95	GPE	0.8023477792739868	villers	1	2	4	25	0	0	0	18	95	villers	nmod	93	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+97	98	PER	0.5968174040317535	le passant	2	3	5	0	0	0	0	19	98	passant	nsubj	99	NOUN	NOM	Singular	Male	3	3
+107	109	VEH	0.7887628078460693	une vieille calèche	3	3	5	10	0	0	0	20	109	calèche	obj	103	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+114	115	FAC	0.9133569896221161	la cour	2	3	5	17	0	0	0	21	115	cour	obl:arg	112	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+121	121	PER	0.9692092537879944	le	1	4	6	4	0	0	0	22	121	le	obj	122	PRON	PRON	Singular	Male	3	3
+124	125	FAC	0.8126478791236877	ce préau	2	4	6	7	0	0	0	23	125	préau	obl:mod	122	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+135	135	FAC	0.8348348140716553	y	1	4	6	18	0	0	0	24	135	y	iobj	136	PRON	PRON	Not_Assigned	Not_Assigned	3	
+181	182	FAC	0.8152225315570831	un verger	2	4	8	25	0	0	0	25	182	verger	nmod	179	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+227	228	FAC	0.7711113095283508	une chapelle	2	4	9	43	0	0	0	26	228	chapelle	conj	185	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+231	233	FAC	0.5342885156472524	un petit clocher	3	4	9	47	0	0	0	27	233	clocher	nsubj	230	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+245	246	FAC	0.8848691582679749	la chapelle	2	4	9	61	0	0	0	28	246	chapelle	nmod	243	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+249	250	FAC	0.7222782969474792	cette cour	2	4	9	65	0	0	0	29	250	cour	obj	248	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+251	251	FAC	0.7090212106704712	dont	1	4	9	67	0	0	0	30	251	dont	nmod	253	PRON	PRON	Not_Assigned	Not_Assigned	4	
+258	258	GPE	0.5942414999008179	napoléon	1	4	9	74	0	0	0	31	258	napoléon	nmod	256	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+266	266	PER	0.9529868960380554	il	1	4	10	6	0	0	0	32	266	il	nsubj	268	PRON	PRON	Singular	Male	3	3
+272	272	PER	0.9393289685249329	lui	1	4	10	12	0	0	0	33	272	lui	iobj	275	PRON	PRON	Singular	Ambiguous	3	3
+279	280	PER	0.47025908529758453	des poules	2	4	11	0	0	0	0	34	280	poules	nsubj	282	NOUN	NOM	Plural	Not_Assigned	3	19
+281	281	FAC	0.7364237904548645	y	1	4	11	2	0	0	0	35	281	y	iobj	282	PRON	PRON	Not_Assigned	Not_Assigned	3	
+306	307	PER	0.5340752601623535	les anglais	2	4	12	18	0	0	0	36	307	anglais	obj	305	NOUN	NOM	Plural	Ambiguous	3	4
+309	310	PER	0.613148033618927	les anglais	2	5	13	0	0	0	0	37	310	anglais	nsubj	314	NOUN	NOM	Plural	Ambiguous	3	4
+319	322	PER	0.4896741881966591	des gardes de cooke	4	5	14	3	0	1	1	38	320	gardes	nmod	318	NOUN	PROP	Plural	Ambiguous	3	20
+322	322	PER	0.9386934041976929	cooke	1	5	14	6	1	0	0	39	322	cooke	nmod	320	PROPN	PROP	Singular	Not_Assigned	3	21
+323	323	GPE	0.508402943611145	y	1	5	14	7	0	0	0	40	323	y	iobj	325	PRON	PRON	Not_Assigned	Not_Assigned	3	
+327	329	TIME	0.7371999621391296	pendant sept heures	3	5	14	11	0	0	0	41	329	heures	obl:mod	325	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+337	337	GPE	0.5653866529464722	hougomont	1	6	15	0	0	0	0	42	337	hougomont	nsubj	353	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+373	375	FAC	0.6505706111590067	la porte méridionale	3	6	16	7	0	0	0	43	374	porte	nsubj	371	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+388	388	GPE	0.576916515827179	hougomont	1	6	17	0	0	0	0	44	388	hougomont	nsubj	389	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+394	396	FAC	0.6609511971473694	la porte méridionale	3	6	17	6	0	0	0	45	395	porte	obl:arg	389	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+399	400	FAC	0.6834600865840912	du château	2	6	17	11	0	0	0	46	400	château	nmod	398	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+403	405	FAC	0.5911034345626831	la porte septentrionale	3	6	17	15	0	0	0	47	404	porte	conj	395	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+409	410	FAC	0.9548474252223969	la ferme	2	6	17	21	0	0	0	48	410	ferme	nmod	407	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+412	412	PER	0.686493992805481	napoléon	1	6	18	0	0	0	0	49	412	napoléon	nsubj	413	PROPN	PROP	Singular	Male	3	9
+415	415	GPE	0.4890083074569702	hougomont	1	6	18	3	0	0	0	50	415	hougomont	obl:arg	413	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+416	416	PER	0.94431072473526	son	1	6	18	4	0	0	0	51	416	son	det	417	DET	PRON	Singular	Ambiguous	3	9
+421	423	PER	0.7781257629394531	les divisions guilleminot	3	6	18	9	0	0	0	52	422	divisions	nsubj	430	NOUN	PROP	Plural	Not_Assigned	3	22
+427	427	PER	0.8863939642906189	bachelu	1	6	18	15	0	0	0	53	427	bachelu	conj	423	PROPN	PROP	Singular	Not_Assigned	3	23
+442	442	GPE	0.602487325668335	y	1	6	18	30	0	0	0	54	442	y	iobj	443	PRON	PRON	Not_Assigned	Not_Assigned	3	
+448	448	PER	0.8358147740364075	kellermann	1	6	18	36	0	0	0	55	448	kellermann	nmod	446	PROPN	PROP	Singular	Not_Assigned	3	24
+464	466	PER	0.7907523314158121	la brigade bauduin	3	6	19	6	0	0	0	56	465	brigade	ROOT	465	NOUN	PROP	Plural	Ambiguous	3	10
+469	469	GPE	0.4114920198917389	hougomont	1	6	19	11	0	0	0	57	469	hougomont	obj	468	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+470	471	LOC	0.586617112159729	au nord	2	6	19	12	0	0	0	58	471	nord	obl:mod	468	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+474	476	PER	0.9291391173998514	la brigade soye	3	6	19	16	0	0	0	59	475	brigade	nsubj	478	NOUN	PROP	Plural	Ambiguous	3	10
+486	486	FAC	0.6888805031776428	le	1	6	19	28	0	0	0	60	486	le	obj	487	PRON	PRON	Not_Assigned	Not_Assigned	3	
+489	493	FAC	0.6665100812911987	les bâtiments de la ferme	5	7	20	0	0	1	1	61	490	bâtiments	nsubj	494	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+492	493	FAC	0.9293398261070251	la ferme	2	7	20	3	1	0	0	62	493	ferme	nmod	490	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+495	496	FAC	0.7842963337898254	la cour	2	7	20	6	0	0	0	63	496	cour	obj	494	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+497	498	FAC	0.5212370529770851	au sud	2	7	20	8	0	0	0	64	498	sud	obl:mod	494	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+509	510	PER	0.9113521873950958	les français	2	7	21	9	0	0	0	65	510	français	obl:agent	507	NOUN	NOM	Plural	Ambiguous	3	25
+543	544	PER	0.9232746958732605	les français	2	8	23	6	0	0	0	66	544	français	obl:agent	541	NOUN	NOM	Plural	Ambiguous	3	7
+569	570	FAC	0.6946833431720734	du préau	2	8	23	32	0	0	0	67	570	préau	nmod	568	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+593	594	FAC	0.7178049087524414	la cour	2	8	23	56	0	0	0	68	594	cour	obj	592	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+595	596	LOC	0.4105214774608612	au nord	2	8	23	58	0	0	0	69	596	nord	obl:mod	592	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+626	627	LOC	0.5352883040904999	des prairies	2	8	24	28	0	0	0	70	627	prairies	ROOT	627	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+658	658	FAC	0.6196213960647583	là	1	8	27	2	0	0	0	71	658	là	ROOT	658	ADV	NOM	Not_Assigned	Not_Assigned	3	
+660	660	PER	0.990519642829895	bauduin	1	8	27	4	0	0	0	72	660	bauduin	nsubj:pass	662	PROPN	PROP	Singular	Male	3	3
+671	672	FAC	0.9273598790168762	cette cour	2	9	28	7	0	0	0	73	672	cour	obl:arg	668	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+677	677	FAC	0.707381546497345	y	1	9	28	13	0	0	0	74	677	y	iobj	679	PRON	PRON	Not_Assigned	Not_Assigned	3	
+736	737	FAC	0.9198378622531891	cette cour	2	10	30	0	0	0	0	75	737	cour	nsubj:pass	744	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+739	740	TIME	0.515443429350853	en 1815	2	10	30	3	0	0	0	76	740	1815	obl:mod	744	NUM	NOM	Not_Assigned	Not_Assigned	3	
+746	746	FAC	0.9485763907432556	elle	1	10	30	10	0	0	0	77	746	elle	nsubj	748	PRON	PRON	Not_Assigned	Not_Assigned	3	
+773	774	PER	0.7746048867702484	les anglais	2	11	32	0	0	0	0	78	774	anglais	nsubj	778	NOUN	NOM	Plural	Ambiguous	3	4
+776	776	FAC	0.5418078899383545	y	1	11	32	3	0	0	0	79	776	y	iobj	778	PRON	PRON	Not_Assigned	Not_Assigned	3	
+781	782	PER	0.9622597694396973	les français	2	11	32	8	0	0	0	80	782	français	nsubj	784	NOUN	NOM	Plural	Ambiguous	3	26
+783	783	GPE	0.5436617732048035	y	1	11	32	10	0	0	0	81	783	y	iobj	784	PRON	PRON	Not_Assigned	Not_Assigned	3	
+790	790	FAC	0.5712332129478455	y	1	11	32	17	0	0	0	82	790	y	iobj	791	PRON	PRON	Not_Assigned	Not_Assigned	3	
+796	797	FAC	0.9277951419353485	la chapelle	2	11	33	3	0	0	0	83	797	chapelle	nmod	794	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+801	802	FAC	0.7152195274829865	du château	2	11	33	8	0	0	0	84	802	château	nmod	800	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+809	812	FAC	0.39695118367671967	du manoir d’ hougomont	4	11	33	16	0	0	0	85	810	manoir	obl:arg	808	NOUN	PROP	Not_Assigned	Not_Assigned	3	
+823	824	FAC	0.8601122796535492	le château	2	11	34	0	0	0	0	86	824	château	nsubj	825	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+827	827	FAC	0.5799084901809692	donjon	1	11	34	4	0	0	0	87	827	donjon	obl:arg	825	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+829	830	FAC	0.8794814944267273	la chapelle	2	11	34	6	0	0	0	88	830	chapelle	nsubj	831	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+837	837	FAC	0.6151280999183655	y	1	11	35	2	0	0	0	89	837	y	iobj	838	PRON	PRON	Not_Assigned	Not_Assigned	3	
+840	841	PER	0.9395394325256348	les français	2	11	36	0	0	0	0	90	841	français	nsubj	880	NOUN	NOM	Plural	Ambiguous	3	27
+855	856	FAC	0.6157722175121307	des greniers	2	11	36	15	0	0	0	91	856	greniers	nmod	854	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+860	861	FAC	0.7729887962341309	des caves	2	11	36	20	0	0	0	92	861	caves	nmod	859	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+890	891	PER	0.5106355398893356	aux hommes	2	11	36	50	0	0	0	93	891	hommes	conj	888	NOUN	NOM	Plural	Not_Assigned	3	28
+905	907	FAC	0.8324546813964844	l’ aile ruinée	3	12	37	3	0	0	0	94	906	aile	obl:mod	903	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+926	928	FAC	0.5182747344175974	logis en brique	3	12	37	24	0	0	0	95	928	brique	nmod	924	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+931	933	PER	0.7973835070927938	les gardes anglaises	3	12	37	29	0	0	0	96	932	gardes	nsubj:pass	935	NOUN	NOM	Plural	Ambiguous	3	11
+937	938	FAC	0.9372808635234833	ces chambres	2	12	37	35	0	0	0	97	938	chambres	obl:mod	935	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+944	945	FAC	0.5718993246555328	l’ escalier	2	12	37	42	0	0	0	98	945	escalier	nmod	942	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+963	964	FAC	0.8341343700885773	l’ escalier	2	12	38	0	0	0	0	99	964	escalier	nsubj	965	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+970	971	PER	0.939080685377121	les anglais	2	12	38	7	0	0	0	100	971	anglais	nsubj	986	NOUN	NOM	Plural	Ambiguous	3	4
+975	976	FAC	0.9056312441825867	l’ escalier	2	12	38	12	0	0	0	101	976	escalier	obl:mod	973	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+1067	1068	TIME	0.6002825498580933	en avril	2	12	43	21	0	0	0	102	1068	avril	obl:mod	1066	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+1070	1071	TIME	0.6220161318778992	depuis 1815	2	12	44	0	0	0	0	103	1071	1815	obl:mod	1076	NUM	NOM	Not_Assigned	Not_Assigned	3	
+1081	1082	FAC	0.7916513681411743	l’ escalier	2	12	44	11	0	0	0	104	1082	escalier	obl:mod	1078	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+1084	1084	PER	0.8091222643852234	on	1	13	45	0	0	0	0	105	1084	on	nsubj	1087	PRON	PRON	Ambiguous	Ambiguous	3	29
+1089	1090	FAC	0.9404778480529785	la chapelle	2	13	45	5	0	0	0	106	1090	chapelle	obl:mod	1087	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+1103	1103	FAC	0.8843051791191101	y	1	13	47	2	0	0	0	107	1103	y	iobj	1106	PRON	PRON	Not_Assigned	Not_Assigned	3	
+1190	1191	FAC	0.9039690494537354	cette chapelle	2	13	49	57	0	0	0	108	1191	chapelle	nsubj	1188	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+1225	1226	PER	0.9411483705043793	les français	2	13	51	0	0	0	0	109	1226	français	nsubj	1240	NOUN	NOM	Plural	Ambiguous	3	7
+1232	1233	FAC	0.9467390179634094	la chapelle	2	13	51	7	0	0	0	110	1233	chapelle	nmod	1230	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+1246	1247	FAC	0.7608020901679993	cette masure	2	13	52	4	0	0	0	111	1247	masure	obj	1245	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+1250	1250	FAC	0.9534608721733093	elle	1	13	52	8	0	0	0	112	1250	elle	nsubj	1253	PRON	PRON	Not_Assigned	Not_Assigned	3	
+1301	1304	PER	0.6685266941785812	des gens du pays	4	13	54	4	0	1	1	113	1302	gens	nmod	1300	NOUN	NOM	Plural	Ambiguous	3	30
+1303	1304	LOC	0.5674508213996887	du pays	2	13	54	6	1	0	0	114	1304	pays	nmod	1302	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+1354	1356	PER	0.3080108438928922	marquesa de almagro	3	14	59	2	0	0	0	115	1356	almagro	nmod	1354	PROPN	PROP	Singular	Not_Assigned	3	31
+1358	1358	GPE	0.6631679534912109	habana	1	14	59	6	0	0	0	116	1358	habana	nmod	1356	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+1377	1377	PER	0.6115718483924866	on	1	14	61	0	0	0	0	117	1377	on	nsubj	1379	PRON	PRON	Ambiguous	Ambiguous	3	32
+1382	1383	TIME	0.4517093896865845	en 1849	2	14	61	5	0	0	0	118	1383	1849	obl:mod	1379	NUM	NOM	Not_Assigned	Not_Assigned	3	
+1385	1386	PER	0.48034101724624634	les nations	2	14	62	0	0	0	0	119	1386	nations	nsubj	1389	NOUN	NOM	Plural	Not_Assigned	3	33
+1397	1398	FAC	0.9228816628456116	cette chapelle	2	15	63	6	0	0	0	120	1398	chapelle	nmod	1395	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+1403	1404	PER	0.7423022389411926	un cadavre	2	15	63	12	0	0	0	121	1404	cadavre	dep	1402	NOUN	NOM	Singular	Ambiguous	3	0
+1405	1405	PER	0.8867852687835693	qui	1	15	63	14	0	0	0	122	1405	qui	nsubj	1406	PRON	PRON	Ambiguous	Ambiguous	4	0
+1413	1414	PER	0.8366996943950653	ce cadavre	2	15	64	0	0	0	0	123	1414	cadavre	nsubj	1417	NOUN	NOM	Singular	Ambiguous	3	0
+1416	1418	PER	0.8650663693745931	le sous-lieutenant legros	3	15	64	3	0	0	0	124	1417	sous-lieutenant	ROOT	1417	NOUN	PROP	Singular	Male	3	0
+1423	1424	FAC	0.9257868528366089	la chapelle	2	16	65	3	0	0	0	125	1424	chapelle	obl:arg	1421	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+1441	1442	FAC	0.9145632982254028	cette cour	2	16	66	6	0	0	0	126	1442	cour	obl:mod	1438	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+1469	1469	FAC	0.6122869849205017	y	1	16	68	5	0	0	0	127	1469	y	iobj	1470	PRON	PRON	Not_Assigned	Not_Assigned	3	
+1477	1477	FAC	0.6314499974250793	y	1	16	69	2	0	0	0	128	1477	y	iobj	1478	PRON	PRON	Not_Assigned	Not_Assigned	3	
+1494	1495	PER	0.92271488904953	le dernier	2	17	71	0	0	0	0	129	1495	dernier	nsubj	1506	ADJ	NOM	Singular	Male	3	0
+1496	1496	PER	0.9346079230308533	qui	1	17	71	2	0	0	0	130	1496	qui	nsubj	1498	PRON	PRON	Ambiguous	Ambiguous	4	0
+1507	1509	PER	0.8760813275973002	guillaume van kylsom	3	17	71	13	0	0	0	131	1507	guillaume	xcomp	1506	PROPN	PROP	Singular	Male	3	0
+1511	1511	PER	0.8033096194267273	c’	1	17	72	0	0	0	0	132	1511	c'	nsubj	1514	PRON	PRON	Ambiguous	Ambiguous	3	0
+1513	1514	PER	0.9047956466674805	un paysan	2	17	72	2	0	0	0	133	1514	paysan	ROOT	1514	NOUN	NOM	Singular	Male	3	0
+1515	1515	PER	0.9895663261413574	qui	1	17	72	4	0	0	0	134	1515	qui	nsubj	1516	PRON	PRON	Ambiguous	Ambiguous	4	0
+1517	1517	GPE	0.9060639142990112	hougomont	1	17	72	6	0	0	0	135	1517	hougomont	obj	1516	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+1519	1519	GPE	0.8216433525085449	y	1	17	72	8	0	0	0	136	1519	y	iobj	1521	PRON	PRON	Not_Assigned	Not_Assigned	3	
+1523	1526	TIME	0.7633845508098602	le 18 juin 1815	4	17	73	0	0	0	0	137	1524	18	obl:mod	1530	NUM	NOM	Not_Assigned	Not_Assigned	3	
+1528	1529	PER	0.9460105001926422	sa famille	2	17	73	5	0	1	1	138	1529	famille	nsubj	1530	NOUN	NOM	Plural	Ambiguous	3	34
+1528	1528	PER	0.9804586172103882	sa	1	17	73	5	1	0	0	139	1528	sa	det	1529	DET	PRON	Singular	Ambiguous	3	0
+1538	1539	LOC	0.8280453979969025	les bois	2	17	73	15	0	0	0	140	1539	bois	obl:mod	1536	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+1548	1548	GPE	0.6712477207183838	villers	1	18	74	7	0	0	0	141	1548	villers	nmod	1546	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+1550	1555	TIME	0.5477353483438492	pendant plusieurs jours et plusieurs nuits	6	18	74	9	0	0	0	142	1552	jours	obl:mod	1549	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+1556	1560	PER	0.48770939707756045	toutes ces malheureuses populations dispersées	5	18	74	15	0	0	0	143	1559	populations	obj	1549	NOUN	NOM	Not_Assigned	Not_Assigned	3	35
+1588	1589	FAC	0.38103093206882477	des halliers	2	18	74	47	0	0	0	144	1589	halliers	nmod	1587	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+1591	1593	PER	0.8384028871854147	guillaume van kylsom	3	19	75	0	0	0	0	145	1591	guillaume	nsubj	1594	PROPN	PROP	Singular	Male	3	2
+1596	1596	GPE	0.9390764832496643	hougomont	1	19	75	5	0	0	0	146	1596	hougomont	obl:arg	1594	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+1601	1602	FAC	0.8709375560283661	le château	2	19	75	10	0	0	0	147	1602	château	obj	1600	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+1609	1610	FAC	0.8954322934150696	une cave	2	19	75	18	0	0	0	148	1610	cave	obl:arg	1607	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+1612	1613	PER	0.7492243945598602	les anglais	2	19	76	0	0	0	0	149	1613	anglais	nsubj	1616	NOUN	NOM	Plural	Ambiguous	3	4
+1614	1614	PER	0.9326989054679871	l’	1	19	76	2	0	0	0	150	1614	l'	obj	1616	PRON	PRON	Singular	Ambiguous	3	2
+1615	1615	FAC	0.7061763405799866	y	1	19	76	3	0	0	0	151	1615	y	iobj	1616	PRON	PRON	Not_Assigned	Not_Assigned	3	
+1618	1618	PER	0.8829306960105896	on	1	19	77	0	0	0	0	152	1618	on	nsubj	1620	PRON	PRON	Ambiguous	Ambiguous	3	36
+1619	1619	PER	0.944300651550293	l’	1	19	77	1	0	0	0	153	1619	l'	obj	1620	PRON	PRON	Singular	Ambiguous	3	2
+1622	1622	PER	0.9892894625663757	sa	1	19	77	4	0	0	0	154	1622	sa	det	1623	DET	PRON	Singular	Ambiguous	3	2
+1634	1635	PER	0.9125834405422211	les combattants	2	19	77	16	0	0	0	155	1635	combattants	nsubj	1638	NOUN	NOM	Plural	Ambiguous	3	5
+1640	1642	PER	0.8896484772364298	cet homme effrayé	3	19	77	22	0	0	0	156	1641	homme	obl:agent	1638	NOUN	NOM	Singular	Male	3	2
+1644	1644	PER	0.9837205410003662	ils	1	19	78	0	0	0	0	157	1644	ils	nsubj	1645	PRON	PRON	Plural	Ambiguous	3	5
+1649	1650	PER	0.9913186132907867	ce guillaume	2	19	78	5	0	0	0	158	1650	guillaume	nsubj	1652	PROPN	PROP	Singular	Male	3	2
+1651	1651	PER	0.9922326803207397	leur	1	19	78	7	0	0	0	159	1651	leur	iobj	1652	PRON	PRON	Plural	Ambiguous	3	5
+1662	1662	PER	0.9957002401351929	il	1	19	79	6	0	0	0	160	1662	il	nsubj	1663	PRON	PRON	Singular	Male	3	2
+1667	1667	PER	0.9427967667579651	beaucoup	1	19	80	0	0	0	0	161	1667	beaucoup	nsubj	1668	PRON	PRON	Plural	Ambiguous	3	5
+1670	1670	PER	0.936338484287262	leur	1	19	80	3	0	0	0	162	1670	leur	det	1672	DET	PRON	Plural	Ambiguous	3	5
+1698	1699	PER	0.6980009973049164	les cadavres	2	20	82	10	0	0	0	163	1699	cadavres	obj	1697	NOUN	NOM	Plural	Not_Assigned	3	37
+1737	1737	FAC	0.872962474822998	en	1	20	85	6	0	0	0	164	1737	en	iobj	1738	PRON	PRON	Not_Assigned	Not_Assigned	3	
+1742	1742	PER	0.6230267882347107	on	1	20	86	0	0	0	0	165	1742	on	nsubj	1744	PRON	PRON	Ambiguous	Ambiguous	3	12
+1757	1757	PER	0.6908857822418213	tous	1	20	88	0	0	0	0	166	1757	tous	nsubj	1760	ADJ	PRON	Plural	Ambiguous	3	5
+1772	1773	TIME	0.8056361973285675	la nuit	2	20	89	4	0	0	0	167	1773	nuit	obl:mod	1780	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+1774	1774	TIME	0.8065370321273804	qui	1	20	89	6	0	0	0	168	1774	qui	nsubj	1775	PRON	PRON	Not_Assigned	Not_Assigned	4	
+1790	1791	FAC	0.5741158574819565	ce puits	2	21	90	0	0	0	0	169	1791	puits	nsubj:pass	1793	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+1797	1798	FAC	0.8679462969303131	la cour	2	21	90	7	0	0	0	170	1798	cour	nmod	1795	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+1837	1837	PER	0.7054611444473267	on	1	21	93	5	0	0	0	171	1837	on	nsubj	1838	PRON	PRON	Ambiguous	Ambiguous	3	12
+1859	1860	FAC	0.718229353427887	cette tourelle	2	21	95	0	0	0	0	172	1860	tourelle	nsubj	1861	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+1920	1921	FAC	0.55430668592453	ce puits	2	22	99	0	0	0	0	173	1921	puits	nsubj	1923	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+1940	1940	GPE	0.8891445994377136	belgique	1	22	99	20	0	0	0	174	1940	belgique	nmod	1938	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+1972	1972	FAC	0.8205140829086304	il	1	22	101	0	0	0	0	175	1972	il	nsubj	1974	PRON	PRON	Not_Assigned	Not_Assigned	3	
+2004	2004	FAC	0.43885326385498047	y	1	22	102	5	0	0	0	176	2004	y	iobj	2005	PRON	PRON	Not_Assigned	Not_Assigned	3	
+2014	2016	LOC	0.857399562994639	des forêts voisines	3	22	102	15	0	0	0	177	2015	forêts	nmod	2013	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+2018	2018	LOC	0.6199012398719788	y	1	22	102	19	0	0	0	178	2018	y	iobj	2019	PRON	PRON	Not_Assigned	Not_Assigned	3	
+2024	2025	FAC	0.6001996099948883	une maison	2	23	103	0	0	0	0	179	2025	maison	nsubj:pass	2038	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+2027	2028	FAC	0.6680320501327515	cette ruine	2	23	103	3	0	0	0	180	2028	ruine	nmod	2025	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+2033	2034	FAC	0.7934531271457672	la ferme	2	23	103	9	0	0	0	181	2034	ferme	nmod	2031	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+2043	2044	FAC	0.9301813542842865	cette maison	2	23	104	3	0	0	0	182	2044	maison	nmod	2041	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+2047	2048	FAC	0.8950968384742737	la cour	2	23	104	7	0	0	0	183	2048	cour	obl:arg	2045	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+2079	2082	PER	0.758461520075798	le lieutenant hanovrien wilda	4	23	106	3	0	0	0	184	2080	lieutenant	nsubj	2083	NOUN	PROP	Singular	Male	3	2
+2090	2091	FAC	0.9614151120185852	la ferme	2	23	106	14	0	0	0	185	2091	ferme	obl:arg	2088	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+2093	2095	PER	0.9225820501645406	un sapeur français	3	23	106	17	0	0	0	186	2094	sapeur	nsubj	2097	NOUN	NOM	Singular	Not_Assigned	3	38
+2096	2096	PER	0.9946985244750977	lui	1	23	106	20	0	0	0	187	2096	lui	iobj	2097	PRON	PRON	Singular	Ambiguous	3	2
+2106	2107	PER	0.944216251373291	la famille	2	24	107	0	0	0	0	188	2107	famille	nsubj	2112	NOUN	NOM	Plural	Ambiguous	3	13
+2108	2108	PER	0.783536970615387	qui	1	24	107	2	0	0	0	189	2108	qui	nsubj	2109	PRON	PRON	Ambiguous	Ambiguous	4	13
+2110	2111	FAC	0.9407232403755188	la maison	2	24	107	4	0	0	0	190	2111	maison	obj	2109	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+2115	2119	PER	0.8243705630302429	l’ ancien jardinier van kylsom	5	24	107	9	0	0	0	191	2117	jardinier	obj	2112	NOUN	PROP	Singular	Male	3	0
+2125	2129	PER	0.8882717490196228	une femme en cheveux gris	5	24	108	0	0	0	0	192	2126	femme	nsubj	2131	NOUN	NOM	Not_Assigned	Not_Assigned	3	1
+2130	2130	PER	0.7877168655395508	vous	1	24	108	5	0	0	0	193	2130	vous	iobj	2131	PRON	PRON	Ambiguous	Ambiguous	2	39
+2135	2135	PER	0.8636938333511353	 	1	24	108	10	0	0	0	194	2135		dep	2131	SPACE	NOM	Not_Assigned	Not_Assigned	3	1
+2136	2136	PER	0.8087965250015259	j’	1	24	108	11	0	0	0	195	2136	j'	nsubj	2137	PRON	PRON	Singular	Ambiguous	1	1
+2140	2140	PER	0.9861316680908203	j’	1	24	109	0	0	0	0	196	2140	j'	nsubj	2141	PRON	PRON	Singular	Ambiguous	1	1
+2145	2146	PER	0.985665500164032	ma sœur	2	24	110	0	0	1	1	197	2146	sœur	nsubj	2151	NOUN	NOM	Singular	Female	3	40
+2145	2145	PER	0.9989185333251953	ma	1	24	110	0	1	0	0	198	2145	ma	det	2146	DET	PRON	Singular	Ambiguous	1	1
+2156	2156	PER	0.6703848838806152	on	1	24	111	0	0	0	0	199	2156	on	nsubj	2159	PRON	PRON	Ambiguous	Ambiguous	3	41
+2157	2157	PER	0.9843136072158813	nous	1	24	111	1	0	0	0	200	2157	nous	obj	2159	PRON	PRON	Plural	Ambiguous	1	14
+2161	2162	LOC	0.785577654838562	les bois	2	24	111	5	0	0	0	201	2162	bois	obl:arg	2159	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+2164	2164	PER	0.9902780652046204	j’	1	24	112	0	0	0	0	202	2164	j'	nsubj	2165	PRON	PRON	Singular	Ambiguous	1	1
+2170	2171	PER	0.9913048446178436	ma mère	2	24	112	6	0	1	1	203	2171	mère	nmod	2168	NOUN	NOM	Singular	Female	3	42
+2170	2170	PER	0.9988270401954651	ma	1	24	112	6	1	0	0	204	2170	ma	det	2171	DET	PRON	Singular	Ambiguous	1	1
+2173	2173	PER	0.8811668753623962	on	1	24	113	0	0	0	0	205	2173	on	nsubj	2175	PRON	PRON	Ambiguous	Ambiguous	3	14
+2183	2183	PER	0.9979760050773621	moi	1	24	114	0	0	0	0	206	2183	moi	dep	2186	PRON	PRON	Singular	Ambiguous	1	1
+2185	2185	PER	0.9897674918174744	j’	1	24	114	2	0	0	0	207	2185	j'	nsubj	2186	PRON	PRON	Singular	Ambiguous	1	1
+2191	2191	PER	0.9993553757667542	je	1	24	114	8	0	0	0	208	2191	je	nsubj	2192	PRON	PRON	Singular	Ambiguous	1	1
+2205	2206	FAC	0.882536917924881	la cour	2	25	115	3	0	0	0	209	2206	cour	nmod	2203	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+2211	2211	PER	0.9973194003105164	nous	1	25	115	9	0	0	0	210	2211	nous	nsubj	2214	PRON	PRON	Plural	Ambiguous	1	43
+2218	2219	FAC	0.9606228172779083	le verger	2	25	115	16	0	0	0	211	2219	verger	obl:mod	2216	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+2221	2222	FAC	0.8777395188808441	le verger	2	26	116	0	0	0	0	212	2222	verger	nsubj	2224	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+2226	2226	FAC	0.7463201880455017	il	1	27	117	0	0	0	0	213	2226	il	nsubj	2233	PRON	PRON	Not_Assigned	Not_Assigned	3	
+2244	2245	FAC	0.9322195947170258	un jardin	2	27	118	4	0	0	0	214	2245	jardin	ROOT	2245	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+2247	2248	FAC	0.694725513458252	la deuxième	2	27	118	7	0	0	0	215	2248	deuxième	nsubj	2251	ADJ	NOM	Not_Assigned	Not_Assigned	3	
+2250	2251	FAC	0.945999413728714	le verger	2	27	118	10	0	0	0	216	2251	verger	conj	2245	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+2256	2257	LOC	0.7531565427780151	un bois	2	27	118	16	0	0	0	217	2257	bois	conj	2245	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+2272	2279	FAC	0.7827132344245911	les bâtiments du château et de la ferme	8	27	119	13	0	1	2	218	2279	ferme	conj	2275	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+2274	2275	FAC	0.6276824474334717	du château	2	27	119	15	1	0	0	219	2275	château	nmod	2273	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+2278	2279	FAC	0.9164242446422577	la ferme	2	27	119	19	1	0	0	220	2279	ferme	conj	2275	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+2315	2318	FAC	0.6224733144044876	le jardin d’ abord	4	27	121	3	0	0	0	221	2316	jardin	obl:arg	2313	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+2320	2320	FAC	0.7838554382324219	il	1	27	122	0	0	0	0	222	2320	il	nsubj	2323	PRON	PRON	Not_Assigned	Not_Assigned	3	
+2351	2353	FAC	0.5540505250295004	un jardin seigneurial	3	27	123	2	0	0	0	223	2352	jardin	ROOT	2352	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+2430	2431	FAC	0.945550262928009	ce jardin	2	28	128	3	0	0	0	224	2431	jardin	ROOT	2431	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+2436	2437	FAC	0.945969820022583	le verger	2	28	128	9	0	0	0	225	2437	verger	dep	2434	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+2440	2445	PER	0.6771151522795359	six voltigeurs du 1 er léger	6	28	128	13	0	0	0	226	2441	voltigeurs	nsubj	2467	NOUN	NOM	Not_Assigned	Not_Assigned	3	15
+2449	2449	FAC	0.6981741189956665	là	1	28	128	22	0	0	0	227	2449	là	obj	2448	ADV	NOM	Not_Assigned	Not_Assigned	3	
+2452	2452	FAC	0.7884867191314697	en	1	28	128	25	0	0	0	228	2452	en	expl:comp	2453	PRON	PRON	Not_Assigned	Not_Assigned	3	
+2464	2464	PER	0.7720481157302856	leur	1	28	128	37	0	0	0	229	2464	leur	det	2465	DET	PRON	Plural	Ambiguous	3	15
+2471	2473	PER	0.8188258012135824	deux compagnies hanovriennes	3	28	128	44	0	0	0	230	2472	compagnies	obl:mod	2467	NOUN	NOM	Plural	Not_Assigned	3	16
+2475	2475	PER	0.847602903842926	dont	1	28	128	48	0	0	0	231	2475	dont	aux:pass	2478	PRON	PRON	Ambiguous	Ambiguous	4	16
+2482	2483	PER	0.669264018535614	les hanovriens	2	28	129	0	0	0	0	232	2483	hanovriens	nsubj	2484	NOUN	NOM	Plural	Not_Assigned	3	44
+2493	2494	PER	0.8232851922512054	ces voltigeurs	2	28	130	0	0	0	0	233	2494	voltigeurs	nsubj	2501	NOUN	NOM	Plural	Not_Assigned	3	45
+2503	2504	PER	0.6025168001651764	deux cents	2	28	130	10	0	0	0	234	2504	cents	nmod	2501	PRON	PRON	Plural	Not_Assigned	3	46
+2517	2522	TIME	0.5613016982873281	un quart d’ heure à mourir	6	28	130	24	0	0	0	235	2518	quart	ROOT	2518	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+2530	2531	FAC	0.9128302037715912	du jardin	2	29	131	6	0	0	0	236	2531	jardin	obl:mod	2533	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+2535	2538	FAC	0.7524334341287613	le verger proprement dit	4	29	131	11	0	0	0	237	2536	verger	obl:arg	2533	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+2540	2540	FAC	0.6143214702606201	là	1	29	132	0	0	0	0	238	2540	là	advmod	2551	ADV	NOM	Not_Assigned	Not_Assigned	3	
+2548	2550	PER	0.6338705519835154	quinze cents hommes	3	29	132	8	0	0	0	239	2550	hommes	nsubj	2551	NOUN	NOM	Plural	Not_Assigned	3	17
+2552	2556	TIME	0.653922176361084	en moins d’ une heure	5	29	132	12	0	0	0	240	2556	heure	obl:mod	2551	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+2572	2573	PER	0.7958513796329498	les anglais	2	29	134	5	0	0	0	241	2573	anglais	obl:agent	2570	NOUN	NOM	Plural	Ambiguous	3	4
+2579	2579	FAC	0.5142519474029541	y	1	29	134	12	0	0	0	242	2579	y	iobj	2580	PRON	PRON	Not_Assigned	Not_Assigned	3	
+2626	2627	PER	0.95906862616539	les français	2	29	137	13	0	0	0	243	2627	français	nsubj	2628	NOUN	NOM	Plural	Ambiguous	3	7
+2651	2653	PER	0.5779992540677389	les gardes anglaises	3	29	137	38	0	0	0	244	2652	gardes	obj	2643	NOUN	NOM	Plural	Ambiguous	3	11
+2675	2677	PER	0.7116811474164327	la brigade soye	3	29	137	62	0	0	0	245	2676	brigade	nsubj	2680	NOUN	PROP	Plural	Ambiguous	3	47
+2682	2682	GPE	0.8427780270576477	waterloo	1	29	138	0	0	0	0	246	2682	waterloo	nsubj	2683	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+2686	2687	FAC	0.8379450440406799	le verger	2	30	139	0	0	0	0	247	2687	verger	nsubj:pass	2690	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+2692	2692	PER	0.8050388693809509	on	1	30	140	0	0	0	0	248	2692	on	nsubj	2694	PRON	PRON	Ambiguous	Ambiguous	3	48
+2699	2700	PER	0.9650565385818481	les français	2	30	140	7	0	0	0	249	2700	français	nsubj	2701	NOUN	NOM	Plural	Ambiguous	3	7
+2706	2706	PER	0.7400939464569092	on	1	30	141	0	0	0	0	250	2706	on	nsubj	2708	PRON	PRON	Ambiguous	Ambiguous	3	49
+2725	2728	PER	0.5148677155375481	un bataillon de nassau	4	30	143	0	0	0	0	251	2726	bataillon	nsubj:pass	2735	NOUN	PROP	Plural	Ambiguous	3	50
+2730	2732	PER	0.5603422522544861	sept cents hommes	3	30	143	5	0	0	0	252	2732	hommes	appos	2726	NOUN	NOM	Plural	Not_Assigned	3	51
+2751	2751	PER	0.9240849018096924	kellermann	1	30	144	13	0	0	0	253	2751	kellermann	nmod	2749	PROPN	PROP	Singular	Not_Assigned	3	52
+2759	2760	FAC	0.899699866771698	ce verger	2	31	145	0	0	0	0	254	2760	verger	nsubj	2762	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+2766	2769	TIME	0.4482274800539017	au mois de mai	4	31	145	7	0	0	0	255	2767	mois	obl:mod	2762	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+2771	2771	FAC	0.6033806204795837	il	1	31	146	0	0	0	0	256	2771	il	nsubj	2772	PRON	PRON	Not_Assigned	Not_Assigned	3	
+2773	2773	FAC	0.5021157264709473	ses	1	31	146	2	0	0	0	257	2773	ses	det	2774	DET	PRON	Not_Assigned	Not_Assigned	3	
+2783	2783	FAC	0.563673198223114	y	1	31	146	12	0	0	0	258	2783	y	iobj	2784	PRON	PRON	Not_Assigned	Not_Assigned	3	
+2787	2790	VEH	0.5425404831767082	des chevaux de charrue	4	31	146	16	0	0	0	259	2788	chevaux	nsubj	2792	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+2791	2791	GPE	0.33383414149284363	y	1	31	146	20	0	0	0	260	2791	y	iobj	2792	PRON	PRON	Not_Assigned	Not_Assigned	3	
+2845	2847	PER	0.8269234895706177	le major blackman	3	31	148	0	0	0	0	261	2846	major	nsubj	2851	NOUN	PROP	Singular	Male	3	53
+2862	2865	PER	0.5924907773733139	le général allemand duplat	4	31	149	7	0	0	0	262	2863	général	nsubj	2861	NOUN	PROP	Singular	Male	3	54
+2935	2936	FAC	0.9271272420883179	ce verger	2	31	153	7	0	0	0	263	2936	verger	obl:mod	2933	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+2950	2954	LOC	0.48369550704956055	un bois plein de violettes	5	31	154	12	0	0	0	264	2951	bois	obj	2949	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+2956	2956	PER	0.4886701703071594	bauduin	1	32	155	0	0	0	0	265	2956	bauduin	ROOT	2956	PROPN	PROP	Singular	Male	3	55
+3003	3003	GPE	0.3612370491027832	brunswick	1	32	155	47	0	0	0	266	3003	brunswick	nmod	3001	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+3006	3006	PER	0.2335798144340515	duplat	1	32	155	50	0	0	0	267	3006	duplat	conj	2959	PROPN	PROP	Singular	Male	3	56
+3009	3009	PER	0.7654814720153809	blackman	1	32	155	53	0	0	0	268	3009	blackman	conj	2959	PROPN	PROP	Singular	Male	3	57
+3012	3015	PER	0.5570359751582146	les gardes anglaises mutilées	4	32	155	56	0	0	0	269	3013	gardes	conj	2959	NOUN	NOM	Plural	Ambiguous	3	58
+3017	3019	PER	0.5777835647265116	vingt bataillons français	3	32	155	61	0	0	0	270	3018	bataillons	conj	2959	NOUN	NOM	Plural	Not_Assigned	3	59
+3027	3027	PER	0.5601423382759094	reille	1	32	155	71	0	0	0	271	3027	reille	nmod	3025	PROPN	PROP	Singular	Not_Assigned	3	60
+3031	3033	PER	0.7238267858823141	trois mille hommes	3	32	155	75	0	0	0	272	3033	hommes	obj	2956	NOUN	NOM	Plural	Not_Assigned	3	17
+3040	3040	GPE	0.8844919204711914	hougomont	1	32	155	84	0	0	0	273	3040	hougomont	nmod	3038	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+3059	3060	PER	0.812728077173233	un paysan	2	32	155	103	0	0	0	274	3060	paysan	nsubj	3061	NOUN	NOM	Singular	Male	3	0
+3067	3067	PER	0.9664639234542847	monsieur	1	32	155	111	0	0	0	275	3067	monsieur	dep	3055	NOUN	NOM	Singular	Male	3	8
+3070	3070	PER	0.9804934859275818	-moi	1	32	155	114	0	0	0	276	3070	moi	dep	3069	PRON	PRON	Singular	Ambiguous	1	0
+3076	3076	PER	0.975380539894104	vous	1	32	155	120	0	0	0	277	3076	vous	nsubj	3077	PRON	PRON	Ambiguous	Ambiguous	2	8
+3079	3079	PER	0.9993205070495605	je	1	32	155	123	0	0	0	278	3079	je	nsubj	3081	PRON	PRON	Singular	Ambiguous	1	0
+3080	3080	PER	0.9943225383758545	vous	1	32	155	124	0	0	0	279	3080	vous	iobj	3081	PRON	PRON	Ambiguous	Ambiguous	2	8
+3085	3085	GPE	0.8979173898696899	waterloo	1	32	155	129	0	0	0	280	3085	waterloo	nmod	3083	PROPN	PROP	Not_Assigned	Not_Assigned	3	

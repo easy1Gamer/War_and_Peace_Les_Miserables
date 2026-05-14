@@ -1,0 +1,1606 @@
+[
+    {
+        "id": 0,
+        "count": {
+            "occurrence": 31,
+            "mention_ratio": 0.1902
+        },
+        "gender": {
+            "ratio": 0,
+            "inference": {
+                "Male": 0,
+                "Female": 0
+            },
+            "max": 0,
+            "argmax": "Null"
+        },
+        "number": {
+            "ratio": 0.9677,
+            "inference": {
+                "Singular": 0.0,
+                "Plural": 1.0
+            },
+            "max": 1.0,
+            "argmax": "Plural"
+        },
+        "mentions": {
+            "proper": [],
+            "common": [
+                {
+                    "n": "les cuirassiers",
+                    "c": 11
+                },
+                {
+                    "n": "cette cavalerie forcenée",
+                    "c": 1
+                },
+                {
+                    "n": "ces cuirassiers",
+                    "c": 1
+                },
+                {
+                    "n": "ces hommes",
+                    "c": 1
+                },
+                {
+                    "n": "de tels français",
+                    "c": 1
+                },
+                {
+                    "n": "des cuirassiers",
+                    "c": 1
+                },
+                {
+                    "n": "cette cavalerie extraordinaire",
+                    "c": 1
+                },
+                {
+                    "n": "tout le monde",
+                    "c": 1
+                },
+                {
+                    "n": "la cavalerie française",
+                    "c": 1
+                }
+            ],
+            "pronoun": [
+                {
+                    "n": "eux",
+                    "c": 3
+                },
+                {
+                    "n": "ils",
+                    "c": 3
+                },
+                {
+                    "n": "les",
+                    "c": 2
+                },
+                {
+                    "n": "leurs",
+                    "c": 2
+                },
+                {
+                    "n": "leur",
+                    "c": 2
+                }
+            ]
+        },
+        "agent": [
+            {
+                "w": "avoir",
+                "i": 62
+            },
+            {
+                "w": "ruer",
+                "i": 134
+            },
+            {
+                "w": "répondre",
+                "i": 282
+            },
+            {
+                "w": "avoir",
+                "i": 591
+            },
+            {
+                "w": "multiplier",
+                "i": 604
+            },
+            {
+                "w": "sentir",
+                "i": 665
+            },
+            {
+                "w": "devoir",
+                "i": 745
+            },
+            {
+                "w": "avoir",
+                "i": 771
+            },
+            {
+                "w": "quitter",
+                "i": 914
+            },
+            {
+                "w": "dire",
+                "i": 927
+            },
+            {
+                "w": "avoir",
+                "i": 1009
+            },
+            {
+                "w": "pétrifier",
+                "i": 1021
+            },
+            {
+                "w": "anéantir",
+                "i": 1053
+            },
+            {
+                "w": "prendre",
+                "i": 1059
+            },
+            {
+                "w": "avoir",
+                "i": 1287
+            }
+        ],
+        "patient": [
+            {
+                "w": "foudroyer",
+                "i": 26
+            },
+            {
+                "w": "décimer",
+                "i": 77
+            },
+            {
+                "w": "recevoir",
+                "i": 239
+            },
+            {
+                "w": "fusiller",
+                "i": 250
+            }
+        ],
+        "mod": [
+            {
+                "w": "cavalerie",
+                "i": 424
+            },
+            {
+                "w": "nombreux",
+                "i": 582
+            },
+            {
+                "w": "tourbillon",
+                "i": 760
+            },
+            {
+                "w": "tel",
+                "i": 817
+            },
+            {
+                "w": "extraordinaire",
+                "i": 1020
+            },
+            {
+                "w": "tout",
+                "i": 1284
+            },
+            {
+                "w": "français",
+                "i": 1824
+            }
+        ],
+        "poss": [
+            {
+                "w": "temps",
+                "i": 66
+            },
+            {
+                "w": "cheval",
+                "i": 289
+            },
+            {
+                "w": "armée",
+                "i": 598
+            },
+            {
+                "w": "dos",
+                "i": 674
+            },
+            {
+                "w": "batterie",
+                "i": 775
+            },
+            {
+                "w": "cuirasse",
+                "i": 795
+            },
+            {
+                "w": "moitié",
+                "i": 963
+            },
+            {
+                "w": "plateau",
+                "i": 1289
+            }
+        ]
+    },
+    {
+        "id": 1,
+        "count": {
+            "occurrence": 10,
+            "mention_ratio": 0.0613
+        },
+        "gender": {
+            "ratio": 0.3,
+            "inference": {
+                "Male": 1.0,
+                "Female": 0.0
+            },
+            "max": 1.0,
+            "argmax": "Male"
+        },
+        "number": {
+            "ratio": 0.8,
+            "inference": {
+                "Singular": 0.75,
+                "Plural": 0.25
+            },
+            "max": 0.75,
+            "argmax": "Singular"
+        },
+        "mentions": {
+            "proper": [
+                {
+                    "n": "au ben lothian",
+                    "c": 1
+                }
+            ],
+            "common": [
+                {
+                    "n": "du 75 ème régiment",
+                    "c": 1
+                },
+                {
+                    "n": "le joueur de cornemuse au centre",
+                    "c": 1
+                },
+                {
+                    "n": "ces écossais",
+                    "c": 1
+                },
+                {
+                    "n": "le chanteur",
+                    "c": 1
+                },
+                {
+                    "n": "chaque homme",
+                    "c": 1
+                },
+                {
+                    "n": "ce cavalier",
+                    "c": 1
+                }
+            ],
+            "pronoun": [
+                {
+                    "n": "son",
+                    "c": 2
+                },
+                {
+                    "n": "lui",
+                    "c": 1
+                }
+            ]
+        },
+        "agent": [
+            {
+                "w": "jouer",
+                "i": 527
+            },
+            {
+                "w": "mourir",
+                "i": 536
+            },
+            {
+                "w": "valoir",
+                "i": 608
+            },
+            {
+                "w": "percer",
+                "i": 1227
+            }
+        ],
+        "patient": [
+            {
+                "w": "tuer",
+                "i": 573
+            }
+        ],
+        "mod": [
+            {
+                "w": "75",
+                "i": 477
+            },
+            {
+                "w": "èm",
+                "i": 478
+            }
+        ],
+        "poss": [
+            {
+                "w": "œil",
+                "i": 505
+            },
+            {
+                "w": "pibroch",
+                "i": 522
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "count": {
+            "occurrence": 5,
+            "mention_ratio": 0.0307
+        },
+        "gender": {
+            "ratio": 0.2,
+            "inference": {
+                "Male": 1.0,
+                "Female": 0.0
+            },
+            "max": 1.0,
+            "argmax": "Male"
+        },
+        "number": {
+            "ratio": 1.0,
+            "inference": {
+                "Singular": 1.0,
+                "Plural": 0.0
+            },
+            "max": 1.0,
+            "argmax": "Singular"
+        },
+        "mentions": {
+            "proper": [
+                {
+                    "n": "wellington",
+                    "c": 1
+                }
+            ],
+            "common": [],
+            "pronoun": [
+                {
+                    "n": "sa",
+                    "c": 2
+                },
+                {
+                    "n": "son",
+                    "c": 1
+                },
+                {
+                    "n": "il",
+                    "c": 1
+                }
+            ]
+        },
+        "agent": [
+            {
+                "w": "voir",
+                "i": 619
+            },
+            {
+                "w": "songer",
+                "i": 622
+            },
+            {
+                "w": "gagner",
+                "i": 644
+            }
+        ],
+        "patient": [],
+        "mod": [],
+        "poss": [
+            {
+                "w": "cavalerie",
+                "i": 625
+            },
+            {
+                "w": "infanterie",
+                "i": 640
+            },
+            {
+                "w": "faute",
+                "i": 653
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "count": {
+            "occurrence": 5,
+            "mention_ratio": 0.0307
+        },
+        "gender": {
+            "ratio": 0.4,
+            "inference": {
+                "Male": 1.0,
+                "Female": 0.0
+            },
+            "max": 1.0,
+            "argmax": "Male"
+        },
+        "number": {
+            "ratio": 0.8,
+            "inference": {
+                "Singular": 0.75,
+                "Plural": 0.25
+            },
+            "max": 0.75,
+            "argmax": "Singular"
+        },
+        "mentions": {
+            "proper": [
+                {
+                    "n": "dehaze",
+                    "c": 1
+                }
+            ],
+            "common": [
+                {
+                    "n": "des hommes",
+                    "c": 1
+                }
+            ],
+            "pronoun": [
+                {
+                    "n": "il",
+                    "c": 2
+                },
+                {
+                    "n": "qui",
+                    "c": 1
+                }
+            ]
+        },
+        "agent": [
+            {
+                "w": "relever",
+                "i": 1237
+            },
+            {
+                "w": "nommer",
+                "i": 1247
+            },
+            {
+                "w": "avoir",
+                "i": 1251
+            }
+        ],
+        "patient": [],
+        "mod": [],
+        "poss": [
+            {
+                "w": "an",
+                "i": 1254
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "count": {
+            "occurrence": 4,
+            "mention_ratio": 0.0245
+        },
+        "gender": {
+            "ratio": 0,
+            "inference": {
+                "Male": 0,
+                "Female": 0
+            },
+            "max": 0,
+            "argmax": "Null"
+        },
+        "number": {
+            "ratio": 1.0,
+            "inference": {
+                "Singular": 0.0,
+                "Plural": 1.0
+            },
+            "max": 1.0,
+            "argmax": "Plural"
+        },
+        "mentions": {
+            "proper": [],
+            "common": [
+                {
+                    "n": "les quatorze cents dragons - gardes",
+                    "c": 2
+                }
+            ],
+            "pronoun": [
+                {
+                    "n": "leur",
+                    "c": 1
+                },
+                {
+                    "n": "ils",
+                    "c": 1
+                }
+            ]
+        },
+        "agent": [],
+        "patient": [],
+        "mod": [],
+        "poss": [
+            {
+                "w": "lieutenant",
+                "i": 880
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "count": {
+            "occurrence": 4,
+            "mention_ratio": 0.0245
+        },
+        "gender": {
+            "ratio": 0.75,
+            "inference": {
+                "Male": 1.0,
+                "Female": 0.0
+            },
+            "max": 1.0,
+            "argmax": "Male"
+        },
+        "number": {
+            "ratio": 1.0,
+            "inference": {
+                "Singular": 1.0,
+                "Plural": 0.0
+            },
+            "max": 1.0,
+            "argmax": "Singular"
+        },
+        "mentions": {
+            "proper": [
+                {
+                    "n": "kempt",
+                    "c": 1
+                }
+            ],
+            "common": [],
+            "pronoun": [
+                {
+                    "n": "-il",
+                    "c": 2
+                },
+                {
+                    "n": "il",
+                    "c": 1
+                }
+            ]
+        },
+        "agent": [
+            {
+                "w": "réclamer",
+                "i": 1363
+            }
+        ],
+        "patient": [],
+        "mod": [],
+        "poss": []
+    },
+    {
+        "id": 6,
+        "count": {
+            "occurrence": 3,
+            "mention_ratio": 0.0184
+        },
+        "gender": {
+            "ratio": 0.3333,
+            "inference": {
+                "Male": 1.0,
+                "Female": 0.0
+            },
+            "max": 1.0,
+            "argmax": "Male"
+        },
+        "number": {
+            "ratio": 0.6667,
+            "inference": {
+                "Singular": 1.0,
+                "Plural": 0.0
+            },
+            "max": 1.0,
+            "argmax": "Singular"
+        },
+        "mentions": {
+            "proper": [
+                {
+                    "n": "la colonne delord",
+                    "c": 1
+                }
+            ],
+            "common": [],
+            "pronoun": [
+                {
+                    "n": "que",
+                    "c": 1
+                },
+                {
+                    "n": "il",
+                    "c": 1
+                }
+            ]
+        },
+        "agent": [
+            {
+                "w": "pressentir",
+                "i": 123
+            },
+            {
+                "w": "arriver",
+                "i": 128
+            }
+        ],
+        "patient": [],
+        "mod": [],
+        "poss": []
+    },
+    {
+        "id": 7,
+        "count": {
+            "occurrence": 3,
+            "mention_ratio": 0.0184
+        },
+        "gender": {
+            "ratio": 0.3333,
+            "inference": {
+                "Male": 1.0,
+                "Female": 0.0
+            },
+            "max": 1.0,
+            "argmax": "Male"
+        },
+        "number": {
+            "ratio": 0.6667,
+            "inference": {
+                "Singular": 1.0,
+                "Plural": 0.0
+            },
+            "max": 1.0,
+            "argmax": "Singular"
+        },
+        "mentions": {
+            "proper": [
+                {
+                    "n": "lord uxbridge",
+                    "c": 1
+                }
+            ],
+            "common": [],
+            "pronoun": [
+                {
+                    "n": "qui",
+                    "c": 1
+                },
+                {
+                    "n": "sa",
+                    "c": 1
+                }
+            ]
+        },
+        "agent": [
+            {
+                "w": "enterrer",
+                "i": 1588
+            },
+            {
+                "w": "avoir",
+                "i": 1592
+            }
+        ],
+        "patient": [],
+        "mod": [],
+        "poss": [
+            {
+                "w": "jambe",
+                "i": 1590
+            },
+            {
+                "w": "genou",
+                "i": 1594
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "count": {
+            "occurrence": 3,
+            "mention_ratio": 0.0184
+        },
+        "gender": {
+            "ratio": 0,
+            "inference": {
+                "Male": 0,
+                "Female": 0
+            },
+            "max": 0,
+            "argmax": "Null"
+        },
+        "number": {
+            "ratio": 0.3333,
+            "inference": {
+                "Singular": 1.0,
+                "Plural": 0.0
+            },
+            "max": 1.0,
+            "argmax": "Singular"
+        },
+        "mentions": {
+            "proper": [
+                {
+                    "n": "des brigades vivian",
+                    "c": 1
+                },
+                {
+                    "n": "vandeleur",
+                    "c": 1
+                }
+            ],
+            "common": [],
+            "pronoun": [
+                {
+                    "n": "qui",
+                    "c": 1
+                }
+            ]
+        },
+        "agent": [
+            {
+                "w": "flanquer",
+                "i": 1913
+            }
+        ],
+        "patient": [],
+        "mod": [],
+        "poss": []
+    },
+    {
+        "id": 9,
+        "count": {
+            "occurrence": 3,
+            "mention_ratio": 0.0184
+        },
+        "gender": {
+            "ratio": 0.3333,
+            "inference": {
+                "Male": 1.0,
+                "Female": 0.0
+            },
+            "max": 1.0,
+            "argmax": "Male"
+        },
+        "number": {
+            "ratio": 1.0,
+            "inference": {
+                "Singular": 1.0,
+                "Plural": 0.0
+            },
+            "max": 1.0,
+            "argmax": "Singular"
+        },
+        "mentions": {
+            "proper": [],
+            "common": [
+                {
+                    "n": "le duc-de-fer",
+                    "c": 1
+                },
+                {
+                    "n": "le duc perdu",
+                    "c": 1
+                }
+            ],
+            "pronoun": [
+                {
+                    "n": "ses",
+                    "c": 1
+                }
+            ]
+        },
+        "agent": [
+            {
+                "w": "demeurer",
+                "i": 1963
+            },
+            {
+                "w": "blêmir",
+                "i": 1970
+            }
+        ],
+        "patient": [
+            {
+                "w": "croire",
+                "i": 1993
+            }
+        ],
+        "mod": [],
+        "poss": [
+            {
+                "w": "lèvre",
+                "i": 1968
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "count": {
+            "occurrence": 3,
+            "mention_ratio": 0.0184
+        },
+        "gender": {
+            "ratio": 0,
+            "inference": {
+                "Male": 0,
+                "Female": 0
+            },
+            "max": 0,
+            "argmax": "Null"
+        },
+        "number": {
+            "ratio": 1.0,
+            "inference": {
+                "Singular": 1.0,
+                "Plural": 0.0
+            },
+            "max": 1.0,
+            "argmax": "Singular"
+        },
+        "mentions": {
+            "proper": [
+                {
+                    "n": "wellington",
+                    "c": 1
+                }
+            ],
+            "common": [],
+            "pronoun": [
+                {
+                    "n": "sa",
+                    "c": 1
+                },
+                {
+                    "n": "l’",
+                    "c": 1
+                }
+            ]
+        },
+        "agent": [
+            {
+                "w": "tirer",
+                "i": 2003
+            },
+            {
+                "w": "entendre",
+                "i": 2010
+            }
+        ],
+        "patient": [
+            {
+                "w": "entendre",
+                "i": 2010
+            }
+        ],
+        "mod": [],
+        "poss": [
+            {
+                "w": "montre",
+                "i": 2005
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "count": {
+            "occurrence": 2,
+            "mention_ratio": 0.0123
+        },
+        "gender": {
+            "ratio": 0,
+            "inference": {
+                "Male": 0,
+                "Female": 0
+            },
+            "max": 0,
+            "argmax": "Null"
+        },
+        "number": {
+            "ratio": 1.0,
+            "inference": {
+                "Singular": 0.0,
+                "Plural": 1.0
+            },
+            "max": 1.0,
+            "argmax": "Plural"
+        },
+        "mentions": {
+            "proper": [],
+            "common": [
+                {
+                    "n": "les bataillons anglais",
+                    "c": 1
+                },
+                {
+                    "n": "quelques bataillons hanovriens",
+                    "c": 1
+                }
+            ],
+            "pronoun": []
+        },
+        "agent": [
+            {
+                "w": "bouger",
+                "i": 199
+            },
+            {
+                "w": "plier",
+                "i": 615
+            }
+        ],
+        "patient": [],
+        "mod": [
+            {
+                "w": "anglais",
+                "i": 193
+            },
+            {
+                "w": "hanovrien",
+                "i": 614
+            }
+        ],
+        "poss": []
+    },
+    {
+        "id": 12,
+        "count": {
+            "occurrence": 2,
+            "mention_ratio": 0.0123
+        },
+        "gender": {
+            "ratio": 0,
+            "inference": {
+                "Male": 0,
+                "Female": 0
+            },
+            "max": 0,
+            "argmax": "Null"
+        },
+        "number": {
+            "ratio": 1.0,
+            "inference": {
+                "Singular": 1.0,
+                "Plural": 0.0
+            },
+            "max": 1.0,
+            "argmax": "Singular"
+        },
+        "mentions": {
+            "proper": [
+                {
+                    "n": "somerset",
+                    "c": 1
+                }
+            ],
+            "common": [],
+            "pronoun": [
+                {
+                    "n": "sa",
+                    "c": 1
+                }
+            ]
+        },
+        "agent": [
+            {
+                "w": "avoir",
+                "i": 698
+            }
+        ],
+        "patient": [],
+        "mod": [],
+        "poss": [
+            {
+                "w": "droite",
+                "i": 701
+            }
+        ]
+    },
+    {
+        "id": 13,
+        "count": {
+            "occurrence": 2,
+            "mention_ratio": 0.0123
+        },
+        "gender": {
+            "ratio": 0,
+            "inference": {
+                "Male": 0,
+                "Female": 0
+            },
+            "max": 0,
+            "argmax": "Null"
+        },
+        "number": {
+            "ratio": 1.0,
+            "inference": {
+                "Singular": 1.0,
+                "Plural": 0.0
+            },
+            "max": 1.0,
+            "argmax": "Singular"
+        },
+        "mentions": {
+            "proper": [
+                {
+                    "n": "dornberg",
+                    "c": 1
+                }
+            ],
+            "common": [],
+            "pronoun": [
+                {
+                    "n": "sa",
+                    "c": 1
+                }
+            ]
+        },
+        "agent": [],
+        "patient": [
+            {
+                "w": "avoir",
+                "i": 698
+            }
+        ],
+        "mod": [],
+        "poss": [
+            {
+                "w": "gauche",
+                "i": 713
+            }
+        ]
+    },
+    {
+        "id": 14,
+        "count": {
+            "occurrence": 2,
+            "mention_ratio": 0.0123
+        },
+        "gender": {
+            "ratio": 0.5,
+            "inference": {
+                "Male": 1.0,
+                "Female": 0.0
+            },
+            "max": 1.0,
+            "argmax": "Male"
+        },
+        "number": {
+            "ratio": 1.0,
+            "inference": {
+                "Singular": 1.0,
+                "Plural": 0.0
+            },
+            "max": 1.0,
+            "argmax": "Singular"
+        },
+        "mentions": {
+            "proper": [
+                {
+                    "n": "fuller",
+                    "c": 1
+                }
+            ],
+            "common": [
+                {
+                    "n": "leur lieutenant - colonel",
+                    "c": 1
+                }
+            ],
+            "pronoun": []
+        },
+        "agent": [
+            {
+                "w": "tomber",
+                "i": 884
+            }
+        ],
+        "patient": [],
+        "mod": [],
+        "poss": []
+    },
+    {
+        "id": 15,
+        "count": {
+            "occurrence": 2,
+            "mention_ratio": 0.0123
+        },
+        "gender": {
+            "ratio": 0,
+            "inference": {
+                "Male": 0,
+                "Female": 0
+            },
+            "max": 0,
+            "argmax": "Null"
+        },
+        "number": {
+            "ratio": 1.0,
+            "inference": {
+                "Singular": 1.0,
+                "Plural": 0.0
+            },
+            "max": 1.0,
+            "argmax": "Singular"
+        },
+        "mentions": {
+            "proper": [
+                {
+                    "n": "ney",
+                    "c": 1
+                }
+            ],
+            "common": [],
+            "pronoun": [
+                {
+                    "n": "lui",
+                    "c": 1
+                }
+            ]
+        },
+        "agent": [
+            {
+                "w": "avoir",
+                "i": 955
+            }
+        ],
+        "patient": [],
+        "mod": [],
+        "poss": [
+            {
+                "w": "cheval",
+                "i": 957
+            }
+        ]
+    },
+    {
+        "id": 16,
+        "count": {
+            "occurrence": 2,
+            "mention_ratio": 0.0123
+        },
+        "gender": {
+            "ratio": 0.5,
+            "inference": {
+                "Male": 1.0,
+                "Female": 0.0
+            },
+            "max": 1.0,
+            "argmax": "Male"
+        },
+        "number": {
+            "ratio": 1.0,
+            "inference": {
+                "Singular": 1.0,
+                "Plural": 0.0
+            },
+            "max": 1.0,
+            "argmax": "Singular"
+        },
+        "mentions": {
+            "proper": [
+                {
+                    "n": "wellington",
+                    "c": 1
+                }
+            ],
+            "common": [],
+            "pronoun": [
+                {
+                    "n": "il",
+                    "c": 1
+                }
+            ]
+        },
+        "agent": [
+            {
+                "w": "admirer",
+                "i": 1037
+            },
+            {
+                "w": "dire",
+                "i": 1041
+            }
+        ],
+        "patient": [],
+        "mod": [],
+        "poss": []
+    },
+    {
+        "id": 17,
+        "count": {
+            "occurrence": 2,
+            "mention_ratio": 0.0123
+        },
+        "gender": {
+            "ratio": 0,
+            "inference": {
+                "Male": 0,
+                "Female": 0
+            },
+            "max": 0,
+            "argmax": "Null"
+        },
+        "number": {
+            "ratio": 1.0,
+            "inference": {
+                "Singular": 0.0,
+                "Plural": 1.0
+            },
+            "max": 1.0,
+            "argmax": "Plural"
+        },
+        "mentions": {
+            "proper": [],
+            "common": [
+                {
+                    "n": "des anglais",
+                    "c": 2
+                }
+            ],
+            "pronoun": []
+        },
+        "agent": [],
+        "patient": [],
+        "mod": [],
+        "poss": [
+            {
+                "w": "affaiblissement",
+                "i": 1342
+            },
+            {
+                "w": "côté",
+                "i": 1627
+            }
+        ]
+    },
+    {
+        "id": 18,
+        "count": {
+            "occurrence": 2,
+            "mention_ratio": 0.0123
+        },
+        "gender": {
+            "ratio": 0,
+            "inference": {
+                "Male": 0,
+                "Female": 0
+            },
+            "max": 0,
+            "argmax": "Null"
+        },
+        "number": {
+            "ratio": 1.0,
+            "inference": {
+                "Singular": 1.0,
+                "Plural": 0.0
+            },
+            "max": 1.0,
+            "argmax": "Singular"
+        },
+        "mentions": {
+            "proper": [
+                {
+                    "n": "wellington",
+                    "c": 1
+                }
+            ],
+            "common": [],
+            "pronoun": [
+                {
+                    "n": "j’",
+                    "c": 1
+                }
+            ]
+        },
+        "agent": [
+            {
+                "w": "répondre",
+                "i": 1375
+            },
+            {
+                "w": "prendre",
+                "i": 1426
+            }
+        ],
+        "patient": [],
+        "mod": [],
+        "poss": []
+    },
+    {
+        "id": 19,
+        "count": {
+            "occurrence": 2,
+            "mention_ratio": 0.0123
+        },
+        "gender": {
+            "ratio": 0,
+            "inference": {
+                "Male": 0,
+                "Female": 0
+            },
+            "max": 0,
+            "argmax": "Null"
+        },
+        "number": {
+            "ratio": 0.5,
+            "inference": {
+                "Singular": 0.0,
+                "Plural": 1.0
+            },
+            "max": 1.0,
+            "argmax": "Plural"
+        },
+        "mentions": {
+            "proper": [],
+            "common": [
+                {
+                    "n": "ces grenadiers hollandais",
+                    "c": 1
+                }
+            ],
+            "pronoun": [
+                {
+                    "n": "qui",
+                    "c": 1
+                }
+            ]
+        },
+        "agent": [
+            {
+                "w": "combattre",
+                "i": 1571
+            }
+        ],
+        "patient": [],
+        "mod": [
+            {
+                "w": "hollandais",
+                "i": 1542
+            }
+        ],
+        "poss": []
+    },
+    {
+        "id": 20,
+        "count": {
+            "occurrence": 2,
+            "mention_ratio": 0.0123
+        },
+        "gender": {
+            "ratio": 0,
+            "inference": {
+                "Male": 0,
+                "Female": 0
+            },
+            "max": 0,
+            "argmax": "Null"
+        },
+        "number": {
+            "ratio": 1.0,
+            "inference": {
+                "Singular": 0.5,
+                "Plural": 0.5
+            },
+            "max": 0.5,
+            "argmax": "Null"
+        },
+        "mentions": {
+            "proper": [
+                {
+                    "n": "les hussards hanovriens de cumberland",
+                    "c": 1
+                }
+            ],
+            "common": [],
+            "pronoun": [
+                {
+                    "n": "sa",
+                    "c": 1
+                }
+            ]
+        },
+        "agent": [
+            {
+                "w": "tourner",
+                "i": 1762
+            }
+        ],
+        "patient": [],
+        "mod": [
+            {
+                "w": "hanovrien",
+                "i": 1735
+            }
+        ],
+        "poss": [
+            {
+                "w": "tête",
+                "i": 1747
+            }
+        ]
+    },
+    {
+        "id": 21,
+        "count": {
+            "occurrence": 2,
+            "mention_ratio": 0.0123
+        },
+        "gender": {
+            "ratio": 0,
+            "inference": {
+                "Male": 0,
+                "Female": 0
+            },
+            "max": 0,
+            "argmax": "Null"
+        },
+        "number": {
+            "ratio": 1.0,
+            "inference": {
+                "Singular": 1.0,
+                "Plural": 0.0
+            },
+            "max": 1.0,
+            "argmax": "Singular"
+        },
+        "mentions": {
+            "proper": [
+                {
+                    "n": "cumberland",
+                    "c": 1
+                }
+            ],
+            "common": [],
+            "pronoun": [
+                {
+                    "n": "son",
+                    "c": 1
+                }
+            ]
+        },
+        "agent": [],
+        "patient": [],
+        "mod": [],
+        "poss": [
+            {
+                "w": "hussard",
+                "i": 1734
+            },
+            {
+                "w": "colonel",
+                "i": 1749
+            }
+        ]
+    },
+    {
+        "id": 22,
+        "count": {
+            "occurrence": 2,
+            "mention_ratio": 0.0123
+        },
+        "gender": {
+            "ratio": 0.5,
+            "inference": {
+                "Male": 1.0,
+                "Female": 0.0
+            },
+            "max": 1.0,
+            "argmax": "Male"
+        },
+        "number": {
+            "ratio": 0.5,
+            "inference": {
+                "Singular": 1.0,
+                "Plural": 0.0
+            },
+            "max": 1.0,
+            "argmax": "Singular"
+        },
+        "mentions": {
+            "proper": [
+                {
+                    "n": "son colonel hacke",
+                    "c": 1
+                }
+            ],
+            "common": [],
+            "pronoun": [
+                {
+                    "n": "qui",
+                    "c": 1
+                }
+            ]
+        },
+        "agent": [
+            {
+                "w": "devoir",
+                "i": 1753
+            }
+        ],
+        "patient": [
+            {
+                "w": "avoir",
+                "i": 1744
+            }
+        ],
+        "mod": [],
+        "poss": []
+    },
+    {
+        "id": 23,
+        "count": {
+            "occurrence": 2,
+            "mention_ratio": 0.0123
+        },
+        "gender": {
+            "ratio": 0,
+            "inference": {
+                "Male": 0,
+                "Female": 0
+            },
+            "max": 0,
+            "argmax": "Null"
+        },
+        "number": {
+            "ratio": 1.0,
+            "inference": {
+                "Singular": 1.0,
+                "Plural": 0.0
+            },
+            "max": 1.0,
+            "argmax": "Singular"
+        },
+        "mentions": {
+            "proper": [
+                {
+                    "n": "siborne",
+                    "c": 1
+                },
+                {
+                    "n": "pringle",
+                    "c": 1
+                }
+            ],
+            "common": [],
+            "pronoun": []
+        },
+        "agent": [
+            {
+                "w": "exagérer",
+                "i": 1942
+            }
+        ],
+        "patient": [],
+        "mod": [],
+        "poss": []
+    }
+]

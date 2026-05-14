@@ -1,0 +1,82 @@
+start_token	end_token	cat	confidence	text	mention_len	paragraph_ID	sentence_ID	start_token_ID_within_sentence	out_to_in_nested_level	in_to_out_nested_level	nested_entities_count	temp_index	head_id	head_word	head_dependency_relation	head_syntactic_head_ID	POS_tag	prop	number	gender	grammatical_person	COREF
+6	6	PER	0.8597643375396729	napoléon	1	0	0	6	0	0	0	0	6	napoléon	nmod	4	PROPN	PROP	Singular	Male	3	6
+11	11	PER	0.931279718875885	bülow	1	0	0	11	0	0	0	1	11	bülow	nmod	9	PROPN	PROP	Singular	Not_Assigned	3	7
+18	18	PER	0.6759129166603088	napoléon	1	1	1	6	0	0	0	2	18	napoléon	nmod	16	PROPN	PROP	Singular	Male	3	8
+21	21	PER	0.5867347121238708	grouchy	1	1	1	9	0	0	0	3	21	grouchy	appos	16	PROPN	PROP	Singular	Not_Assigned	3	9
+60	62	PER	0.8736194173494974	le petit pâtre	3	3	3	1	0	0	0	4	62	pâtre	nsubj	77	NOUN	NOM	Singular	Not_Assigned	3	4
+64	64	PER	0.9801117777824402	qui	1	3	3	5	0	0	0	5	64	qui	nsubj	65	PRON	PRON	Ambiguous	Ambiguous	4	4
+69	69	PER	0.9805260300636292	bülow	1	3	3	10	0	0	0	6	69	bülow	obl:arg	65	PROPN	PROP	Singular	Not_Assigned	3	3
+73	73	PER	0.9547361731529236	blücher	1	3	3	14	0	0	0	7	73	blücher	nmod	71	PROPN	PROP	Singular	Not_Assigned	3	10
+75	75	PER	0.994762122631073	lui	1	3	3	16	0	0	0	8	75	lui	iobj	77	PRON	PRON	Singular	Ambiguous	3	3
+81	82	LOC	0.536667987704277	la forêt	2	3	3	22	0	0	0	9	82	forêt	obl:arg	79	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+85	85	GPE	0.780859649181366	frischemont	1	3	3	26	0	0	0	10	85	frischemont	dep	83	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+91	91	GPE	0.8207181692123413	plancenoit	1	3	3	32	0	0	0	11	91	plancenoit	nmod	89	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+95	97	TIME	0.5491111477216085	du dix-neuvième siècle	3	3	3	36	0	0	0	12	97	siècle	nmod	94	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+103	103	PER	0.7708232998847961	napoléon	1	3	4	0	0	0	0	13	103	napoléon	nsubj	105	PROPN	PROP	Singular	Male	3	11
+106	109	TIME	0.6347298622131348	la bataille de waterloo	4	3	4	3	0	1	1	14	107	bataille	obj	105	NOUN	PROP	Not_Assigned	Not_Assigned	3	
+109	109	GPE	0.9255338907241821	waterloo	1	3	4	6	1	0	0	15	109	waterloo	nmod	107	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+120	120	GPE	0.8971933722496033	plancenoit	1	3	5	9	0	0	0	16	120	plancenoit	nmod	118	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+122	124	PER	0.48289276162783307	l’ armée prussienne	3	3	5	11	0	0	0	17	123	armée	nsubj	125	NOUN	NOM	Plural	Ambiguous	3	12
+135	135	PER	0.9576958417892456	bülow	1	3	5	24	0	0	0	18	135	bülow	nsubj	137	PROPN	PROP	Singular	Not_Assigned	3	13
+142	145	TIME	0.6518489718437195	une heure de retard	4	4	6	2	0	0	0	19	143	heure	obl:mod	150	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+149	152	PER	0.8211473226547241	le général prussien muffling	4	4	6	9	0	0	0	20	150	général	ROOT	150	NOUN	PROP	Singular	Male	3	5
+153	153	PER	0.8031124472618103	qui	1	4	6	13	0	0	0	21	153	qui	nsubj	155	PRON	PRON	Ambiguous	Ambiguous	4	5
+158	158	PER	0.9790506958961487	blücher	1	4	6	18	0	0	0	22	158	blücher	nsubj	162	PROPN	PROP	Singular	Not_Assigned	3	14
+185	185	PER	0.9862508773803711	bülow	1	5	7	9	0	0	0	23	185	bülow	nsubj	186	PROPN	PROP	Singular	Not_Assigned	3	1
+188	188	PER	0.9984275102615356	il	1	5	8	0	0	0	0	24	188	il	nsubj:pass	194	PRON	PRON	Singular	Male	3	1
+196	196	PER	0.9984319806098938	il	1	5	9	0	0	0	0	25	196	il	nsubj	198	PRON	PRON	Singular	Male	3	1
+200	200	GPE	0.7592957615852356	dion-le-mont	1	5	9	4	0	0	0	26	200	dion-le-mont	obl:mod	198	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+204	206	TIME	0.821965754032135	dès l’ aube	3	5	9	8	0	0	0	27	206	aube	obl:arg	203	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+214	214	PER	0.9707998633384705	ses	1	5	10	6	0	0	0	28	214	ses	det	215	DET	PRON	Singular	Ambiguous	3	1
+235	236	LOC	0.44081874191761017	la dyle	2	5	12	7	0	0	0	29	236	dyle	obj	234	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+242	242	GPE	0.8676764965057373	wavre	1	5	12	14	0	0	0	30	242	wavre	nmod	240	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+245	246	FAC	0.7421876490116119	la rue	2	5	12	17	0	0	0	31	246	rue	nsubj:pass	252	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+248	249	FAC	0.905286431312561	au pont	2	5	12	20	0	0	0	32	249	pont	obl:arg	247	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+254	255	PER	0.8636263012886047	les français	2	5	12	26	0	0	0	33	255	français	obl:agent	252	NOUN	NOM	Plural	Ambiguous	3	15
+294	294	PER	0.8399837017059326	bülow	1	5	13	7	0	0	0	34	294	bülow	nmod	292	PROPN	PROP	Singular	Not_Assigned	3	16
+300	300	GPE	0.6537102460861206	chapelle-saint-lambert	1	5	13	13	0	0	0	35	300	chapelle-saint-lambert	obj	299	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+306	309	TIME	0.8198294192552567	deux heures plus tôt	4	6	14	4	0	0	0	36	309	tôt	advmod	303	ADV	NOM	Not_Assigned	Not_Assigned	3	
+314	316	TIME	0.6274471879005432	à quatre heures	3	6	14	12	0	0	0	37	316	heures	obl:mod	313	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+319	319	PER	0.9645092487335205	blücher	1	6	14	17	0	0	0	38	319	blücher	nsubj	321	PROPN	PROP	Singular	Not_Assigned	3	17
+323	327	TIME	0.756590050458908	la bataille gagnée par napoléon	5	6	14	21	0	1	1	39	324	bataille	obl:arg	321	NOUN	PROP	Not_Assigned	Not_Assigned	3	
+327	327	GPE	0.7711917161941528	napoléon	1	6	14	25	1	0	0	40	327	napoléon	obl:agent	325	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+343	344	TIME	0.7460675835609436	dès midi	2	7	16	0	0	0	0	41	344	midi	obl:mod	359	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+346	347	PER	0.7968634366989136	l’ empereur	2	7	16	3	0	0	0	42	347	empereur	nsubj	359	NOUN	NOM	Singular	Male	3	0
+349	350	PER	0.5881955921649933	le premier	2	7	16	6	0	0	0	43	350	premier	appos	347	ADJ	NOM	Singular	Male	3	0
+353	353	PER	0.9720994830131531	sa	1	7	16	10	0	0	0	44	353	sa	det	355	DET	PRON	Singular	Ambiguous	3	0
+369	369	PER	0.9523003697395325	son	1	7	16	26	0	0	0	45	369	son	det	370	DET	PRON	Singular	Ambiguous	3	0
+372	372	PER	0.99918133020401	il	1	7	17	0	0	0	0	46	372	il	nsubj	374	PRON	PRON	Singular	Male	3	0
+378	378	PER	0.9986730813980103	je	1	7	17	6	0	0	0	47	378	je	nsubj	379	PRON	PRON	Singular	Ambiguous	1	0
+386	386	PER	0.9723391532897949	me	1	7	17	14	0	0	0	48	386	me	iobj	387	PRON	PRON	Singular	Ambiguous	1	0
+393	393	PER	0.9985841512680054	il	1	7	18	1	0	0	0	49	393	il	nsubj	395	PRON	PRON	Singular	Male	3	0
+396	399	PER	0.9499307423830032	au duc de dalmatie	4	7	18	4	0	0	0	50	397	duc	obl:arg	395	NOUN	PROP	Singular	Male	3	0
+403	403	PER	0.9866796135902405	soult	1	7	18	11	0	0	0	51	403	soult	dep	405	PROPN	PROP	Singular	Not_Assigned	3	0
+407	407	PER	0.9929343461990356	-vous	1	7	18	15	0	0	0	52	407	vous	nsubj	406	PRON	PRON	Ambiguous	Ambiguous	2	0
+409	409	GPE	0.5387088060379028	chapelle-saint-lambert	1	7	18	17	0	0	0	53	409	chapelle-saint-lambert	obl:arg	406	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+413	414	PER	0.9717974662780762	le maréchal	2	7	19	1	0	0	0	54	414	maréchal	nsubj	419	NOUN	NOM	Singular	Male	3	0
+416	416	PER	0.9945766925811768	sa	1	7	19	4	0	0	0	55	416	sa	det	417	DET	PRON	Singular	Ambiguous	3	0
+432	432	PER	0.9711652398109436	grouchy	1	7	20	1	0	0	0	56	432	grouchy	ROOT	432	PROPN	PROP	Singular	Not_Assigned	3	18
+443	450	PER	0.7094642482697964	toutes les lunettes de l’ état - major	8	7	22	0	0	0	0	57	445	lunettes	nsubj	452	NOUN	NOM	Not_Assigned	Not_Assigned	3	19
+461	462	PER	0.8563043475151062	l’ empereur	2	7	22	18	0	0	0	58	462	empereur	obl:agent	459	NOUN	NOM	Singular	Male	3	0
+464	466	PER	0.7143246928850809	quelques - uns	3	7	22	21	0	0	0	59	464	quelques	punct	468	DET	PRON	Plural	Ambiguous	3	20
+500	501	PER	0.9331458508968353	l’ empereur	2	7	25	0	0	0	0	60	501	empereur	nsubj	503	NOUN	NOM	Singular	Male	3	0
+516	516	PER	0.5177963376045227	domon	1	7	25	16	0	0	0	61	516	domon	nmod	511	PROPN	PROP	Singular	Not_Assigned	3	21
+518	518	PER	0.7168169617652893	bülow	1	8	26	0	0	0	0	62	518	bülow	nsubj	524	PROPN	PROP	Singular	Not_Assigned	3	2
+526	526	PER	0.9951167106628418	son	1	8	27	0	0	0	0	63	526	son	det	527	DET	PRON	Singular	Ambiguous	3	2
+537	537	PER	0.9959362745285034	il	1	8	28	0	0	0	0	64	537	il	nsubj	538	PRON	PRON	Singular	Male	3	2
+542	545	PER	0.5755161643028259	du corps d’ armée	4	8	28	5	0	0	0	65	543	corps	nmod	541	NOUN	NOM	Singular	Ambiguous	3	3
+548	548	PER	0.9946762323379517	il	1	8	28	11	0	0	0	66	548	il	nsubj	549	PRON	PRON	Singular	Male	3	2
+563	565	TIME	0.7552659114201864	à cinq heures	3	8	28	26	0	0	0	67	565	heures	obl:mod	574	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+571	571	PER	0.8285892009735107	wellington	1	8	28	34	0	0	0	68	571	wellington	nmod	569	PROPN	PROP	Singular	Not_Assigned	3	22
+573	573	PER	0.9850333333015442	blücher	1	8	28	36	0	0	0	69	573	blücher	nsubj	574	PROPN	PROP	Singular	Not_Assigned	3	23
+576	576	PER	0.985619306564331	bülow	1	8	28	39	0	0	0	70	576	bülow	obl:arg	574	PROPN	PROP	Singular	Not_Assigned	3	24
+601	602	TIME	0.628840982913971	peu après	2	9	29	0	0	0	0	71	602	après	advmod	614	ADV	NOM	Not_Assigned	Not_Assigned	3	
+604	606	PER	0.7375044226646423	les divisions losthin	3	9	29	3	0	0	0	72	605	divisions	nsubj	614	NOUN	PROP	Plural	Not_Assigned	3	25
+610	610	PER	0.4430631697177887	hacke	1	9	29	9	0	0	0	73	610	hacke	conj	606	PROPN	PROP	Singular	Not_Assigned	3	26
+612	612	PER	0.539529025554657	ryssel	1	9	29	11	0	0	0	74	612	ryssel	conj	606	PROPN	PROP	Singular	Not_Assigned	3	27
+616	619	PER	0.668594554066658	le corps de lobau	4	9	29	15	0	0	0	75	617	corps	obl:arg	614	NOUN	PROP	Singular	Ambiguous	3	28
+623	627	PER	0.6087212920188904	du prince guillaume de prusse	5	9	29	22	0	0	0	76	624	prince	nmod	622	NOUN	PROP	Singular	Male	3	29
+629	631	LOC	0.5419432123502096	du bois de	3	9	29	28	0	0	0	77	630	bois	obj	628	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+632	632	GPE	0.5636359453201294	paris	1	9	29	31	0	0	0	78	632	paris	nmod	630	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+634	634	GPE	0.9481813907623291	plancenoit	1	9	29	33	0	0	0	79	634	plancenoit	nsubj	637	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+656	656	PER	0.5201698541641235	napoléon	1	9	29	55	0	0	0	80	656	napoléon	nmod	652	PROPN	PROP	Singular	Male	3	30

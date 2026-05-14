@@ -1,0 +1,93 @@
+start_token	end_token	cat	confidence	text	mention_len	paragraph_ID	sentence_ID	start_token_ID_within_sentence	out_to_in_nested_level	in_to_out_nested_level	nested_entities_count	temp_index	head_id	head_word	head_dependency_relation	head_syntactic_head_ID	POS_tag	prop	number	gender	grammatical_person	COREF
+50	50	TIME	0.8172836303710938	1815	1	2	5	4	0	0	0	0	50	1815	nmod	48	NUM	NOM	Not_Assigned	Not_Assigned	3	
+57	57	PER	0.807349681854248	son	1	2	5	11	0	0	0	1	57	son	det	59	DET	PRON	Singular	Ambiguous	3	3
+161	162	PER	0.8462855219841003	louis xviii	2	3	12	0	0	0	0	2	161	louis	nsubj	163	PROPN	PROP	Singular	Male	3	0
+165	165	GPE	0.9755257368087769	paris	1	3	12	4	0	0	0	3	165	paris	obl:arg	163	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+171	173	TIME	0.8061537543932596	du 8 juillet	3	3	13	4	0	0	0	4	172	8	nmod	168	NUM	NOM	Not_Assigned	Not_Assigned	3	
+177	179	TIME	0.8182780543963114	du 20 mars	3	3	13	10	0	0	0	5	178	20	nmod	176	NUM	NOM	Not_Assigned	Not_Assigned	3	
+181	182	PER	0.5815930068492889	le corse	2	3	14	0	0	0	0	6	182	corse	nsubj	183	PROPN	PROP	Singular	Not_Assigned	3	4
+193	194	FAC	0.6070436239242554	des tuileries	2	3	15	4	0	0	0	7	194	tuileries	nmod	192	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+218	218	PER	0.6172332763671875	on	1	3	18	0	0	0	0	8	218	on	nsubj	219	PRON	PRON	Ambiguous	Ambiguous	3	5
+221	221	GPE	0.8264873027801514	bouvines	1	3	18	3	0	0	0	9	221	bouvines	obl:arg	219	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+224	224	GPE	0.8367113471031189	fontenoy	1	3	18	6	0	0	0	10	224	fontenoy	conj	221	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+229	229	GPE	0.7657461762428284	austerlitz	1	3	18	11	0	0	0	11	229	austerlitz	nsubj	231	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+252	254	TIME	0.533137192328771	au dix-neuvième siècle	3	3	20	11	0	0	0	12	254	siècle	nmod	248	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+258	259	GPE	0.9333202540874481	la france	2	3	20	17	0	0	0	13	259	france	obl:arg	256	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+265	266	GPE	0.8973757028579712	l’ europe	2	3	21	0	0	0	0	14	266	europe	nsubj	267	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+302	305	FAC	0.6251859217882156	du quai d’ orsay	4	3	23	23	0	0	0	15	303	quai	nmod	301	NOUN	PROP	Not_Assigned	Not_Assigned	3	
+307	307	LOC	0.4356302320957184	où	1	3	24	0	0	0	0	16	307	où	nsubj	311	ADV	NOM	Not_Assigned	Not_Assigned	3	
+319	321	FAC	0.7070731520652771	une maison rouge	3	3	24	12	0	0	0	17	320	maison	obj	318	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+325	326	FAC	0.47728800773620605	du carrousel	2	3	25	2	0	0	0	18	326	carrousel	nmod	324	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+345	345	GPE	0.8995946049690247	marengo	1	3	25	22	0	0	0	19	345	marengo	obl:arg	342	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+348	348	GPE	0.8852899074554443	arcole	1	3	25	25	0	0	0	20	348	arcole	conj	345	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+357	360	PER	0.6661190986633301	du duc d’ angoulême	4	3	25	34	0	0	0	21	358	duc	nmod	356	NOUN	PROP	Singular	Male	3	6
+362	366	FAC	0.4542988121509552	le cimetière de la madeleine	5	3	26	0	0	0	0	22	363	cimetière	nsubj	375	NOUN	PROP	Not_Assigned	Not_Assigned	3	
+385	386	PER	0.7963036298751831	louis xvi	2	3	26	23	0	0	0	23	385	louis	nmod	383	PROPN	PROP	Singular	Male	3	7
+399	399	GPE	0.7442175149917603	vincennes	1	3	27	4	0	0	0	24	399	vincennes	nmod	397	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+410	413	PER	0.7607894539833069	le duc d’ enghien	4	3	27	15	0	0	0	25	411	duc	nsubj	415	NOUN	PROP	Singular	Male	3	8
+417	421	TIME	0.7142440438270569	le mois même où napoléon	5	3	27	22	0	1	3	26	418	mois	obl:mod	415	NOUN	PROP	Not_Assigned	Not_Assigned	3	
+417	419	TIME	0.5200100441773733	le mois même	3	3	27	22	1	0	0	27	418	mois	obl:mod	415	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+420	420	TIME	0.5182209014892578	où	1	3	27	25	1	0	0	28	420	où	iobj	424	PRON	PRON	Not_Assigned	Not_Assigned	3	
+421	421	GPE	0.33457210659980774	napoléon	1	3	27	26	1	0	0	29	421	napoléon	nsubj:pass	424	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+426	429	PER	0.6738163903355598	le pape pie vii	4	3	28	0	0	0	0	30	427	pape	nsubj	442	NOUN	PROP	Singular	Male	3	1
+431	431	PER	0.7852596044540405	qui	1	3	28	5	0	0	0	31	431	qui	nsubj	433	PRON	PRON	Ambiguous	Ambiguous	4	1
+457	457	GPE	0.9296332597732544	schœnbrunn	1	3	29	4	0	0	0	32	457	schœnbrunn	obl:mod	455	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+458	464	PER	0.7291760189192635	une petite ombre âgée de quatre ans	7	3	29	5	0	0	0	33	460	ombre	obj	455	NOUN	NOM	Not_Assigned	Not_Assigned	3	2
+465	465	PER	0.6491865515708923	qu’	1	3	29	12	0	0	0	34	465	qu'	dep	468	PRON	PRON	Ambiguous	Ambiguous	4	2
+474	474	GPE	0.9373019933700562	rome	1	3	29	21	0	0	0	35	474	rome	nmod	472	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+492	496	PER	0.776613187789917	le maître de l’ europe	5	3	30	16	0	1	1	36	493	maître	nsubj:pass	499	NOUN	PROP	Singular	Male	3	0
+495	496	GPE	0.7651390135288239	l’ europe	2	3	30	19	1	0	0	37	496	europe	nmod	493	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+536	539	TIME	0.6373448967933655	un jour d’ été	4	3	30	60	0	0	0	38	537	jour	nmod	534	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+546	547	PER	0.7350440919399261	un prussien	2	3	30	70	0	0	0	39	547	prussien	obl:arg	544	NOUN	NOM	Singular	Not_Assigned	3	9
+549	550	LOC	0.8795038163661957	un bois	2	3	30	73	0	0	0	40	550	bois	obl:mod	544	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+562	563	TIME	0.8298147916793823	ce 1815	2	4	31	0	0	0	0	41	563	1815	nsubj	566	NUM	NOM	Not_Assigned	Not_Assigned	3	
+644	644	GPE	0.7610157132148743	napoléon	1	5	35	11	0	0	0	42	644	napoléon	obl:agent	642	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+691	691	PER	0.8663337230682373	le	1	5	38	13	0	0	0	43	691	le	obj	692	PRON	PRON	Singular	Male	3	0
+698	698	PER	0.926153838634491	-il	1	5	39	2	0	0	0	44	698	il	nsubj	697	PRON	PRON	Singular	Male	3	0
+703	703	PER	0.8714381456375122	-il	1	5	40	2	0	0	0	45	703	il	nsubj	702	PRON	PRON	Singular	Male	3	0
+706	706	PER	0.7494601011276245	napoléon	1	5	41	0	0	0	0	46	706	napoléon	nsubj	708	PROPN	PROP	Singular	Male	3	0
+711	712	PER	0.6228516399860382	un passant	2	5	41	5	0	0	0	47	712	passant	nsubj	710	NOUN	NOM	Singular	Male	3	10
+717	717	GPE	0.8678274154663086	marengo	1	5	41	11	0	0	0	48	717	marengo	nmod	715	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+720	720	GPE	0.947144091129303	waterloo	1	5	41	14	0	0	0	49	720	waterloo	conj	717	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+729	730	PER	0.9722048938274384	ce soldat	2	5	42	7	0	0	0	50	730	soldat	nsubj	728	NOUN	NOM	Singular	Male	3	11
+732	732	PER	0.9923938512802124	vous	1	5	42	10	0	0	0	51	732	vous	nsubj	734	PRON	PRON	Ambiguous	Ambiguous	2	12
+733	733	PER	0.9542780518531799	le	1	5	42	11	0	0	0	52	733	le	obj	734	PRON	PRON	Singular	Male	3	0
+741	743	PER	0.7266716162363688	cet homme terrassé	3	5	43	3	0	0	0	53	742	homme	obj	740	NOUN	NOM	Singular	Male	3	0
+748	749	GPE	0.847120463848114	l’ europe	2	5	44	3	0	0	0	54	749	europe	nmod	746	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+752	752	GPE	0.823219358921051	waterloo	1	5	44	7	0	0	0	55	752	waterloo	nmod	746	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+768	768	GPE	0.7337713837623596	napoléon	1	5	45	11	0	0	0	56	768	napoléon	nmod	766	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+778	780	GPE	0.5545378550887108	la vieille europe	3	6	47	0	0	0	0	57	780	europe	nsubj	782	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+799	803	TIME	0.5744266033172607	le champ fatal de waterloo	5	6	49	6	0	1	1	58	800	champ	obj	796	NOUN	PROP	Not_Assigned	Not_Assigned	3	
+803	803	GPE	0.9329823851585388	waterloo	1	6	49	10	1	0	0	59	803	waterloo	nmod	800	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+834	834	PER	0.844967782497406	son	1	7	51	9	0	0	0	60	834	son	det	835	DET	PRON	Singular	Ambiguous	3	0
+837	837	PER	0.9183163046836853	il	1	7	52	0	0	0	0	61	837	il	nsubj	838	PRON	PRON	Singular	Male	3	0
+850	852	PER	0.8048713008562723	des jeunes générations	3	7	53	3	0	0	0	62	852	générations	nmod	848	NOUN	NOM	Plural	Not_Assigned	3	13
+856	856	PER	0.9421010613441467	lui	1	7	53	9	0	0	0	63	856	lui	obl:arg	854	PRON	PRON	Singular	Ambiguous	3	0
+878	878	GPE	0.6487756371498108	napoléon	1	7	54	20	0	0	0	64	878	napoléon	appos	876	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+884	885	PER	0.6412120163440704	le vaincu	2	7	55	4	0	0	0	65	885	vaincu	obj	883	NOUN	NOM	Singular	Not_Assigned	3	0
+896	899	PER	0.48270174115896225	ceux qui avaient triomphé	4	7	57	0	0	0	0	66	899	triomphé	acl:relcl	896	VERB	NOM	Plural	Not_Assigned	3	14
+903	904	GPE	0.7157343924045563	l’ angleterre	2	7	58	0	0	0	0	67	904	angleterre	dep	907	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+905	905	PER	0.5734775066375732	le	1	7	58	2	0	0	0	68	905	le	obj	907	PRON	PRON	Singular	Male	3	0
+909	910	PER	0.5887508690357208	hudson lowe	2	7	58	6	0	0	0	69	909	hudson	obl:agent	907	PROPN	PROP	Singular	Male	3	15
+912	913	GPE	0.9137256145477295	la france	2	7	58	9	0	0	0	70	913	france	dep	916	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+914	914	PER	0.7063524723052979	le	1	7	58	11	0	0	0	71	914	le	obj	916	PRON	PRON	Singular	Male	3	0
+918	918	PER	0.9332250952720642	montchenu	1	7	58	15	0	0	0	72	918	montchenu	obl:agent	916	PROPN	PROP	Singular	Not_Assigned	3	16
+920	920	PER	0.9894295334815979	ses	1	7	59	0	0	0	0	73	920	ses	det	921	DET	PRON	Singular	Ambiguous	3	0
+926	927	PER	0.45987439155578613	des trônes	2	7	59	6	0	0	0	74	927	trônes	nmod	925	NOUN	NOM	Plural	Not_Assigned	3	17
+929	929	PER	0.8524447679519653	alexandre	1	7	60	0	0	0	0	75	929	alexandre	nsubj	931	PROPN	PROP	Singular	Male	3	18
+930	930	PER	0.7879981994628906	le	1	7	60	1	0	0	0	76	930	le	obj	931	PRON	PRON	Singular	Male	3	0
+946	946	PER	0.6718266606330872	il	1	7	61	9	0	0	0	77	946	il	nsubj	947	PRON	PRON	Singular	Male	3	0
+949	949	PER	0.6159284710884094	lui	1	7	61	12	0	0	0	78	949	lui	obl:mod	947	PRON	PRON	Singular	Ambiguous	3	0
+962	963	PER	0.5394493043422699	ce fantôme	2	7	63	0	0	0	0	79	963	fantôme	nsubj	964	NOUN	NOM	Singular	Ambiguous	3	0
+983	983	GPE	0.5779299139976501	sainte-hélène	1	7	64	12	0	0	0	80	983	sainte-hélène	nmod	981	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+990	990	GPE	0.5971578359603882	napoléon	1	8	65	2	0	0	0	81	990	napoléon	nsubj	991	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+993	993	GPE	0.9412211179733276	longwood	1	8	65	5	0	0	0	82	993	longwood	obl:mod	991	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+1001	1004	TIME	0.4348577782511711	le champ de waterloo	4	8	65	13	0	1	1	83	1002	champ	obl:arg	999	NOUN	PROP	Not_Assigned	Not_Assigned	3	
+1004	1004	GPE	0.9176074862480164	waterloo	1	8	65	16	1	0	0	84	1004	waterloo	nmod	1002	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+1012	1012	PER	0.7966392636299133	leur	1	8	65	24	0	0	0	85	1012	leur	det	1013	DET	PRON	Plural	Ambiguous	3	19
+1023	1026	TIME	0.6361685544252396	le congrès de vienne	4	8	66	0	0	1	1	86	1024	congrès	nsubj	1028	NOUN	PROP	Not_Assigned	Not_Assigned	3	
+1026	1026	GPE	0.5821660161018372	vienne	1	8	66	3	1	0	0	87	1026	vienne	nmod	1024	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+1029	1032	TIME	0.662758082151413	les traités de 1815	4	8	66	6	0	1	1	88	1030	traités	obj	1028	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+1032	1032	TIME	0.7864408493041992	1815	1	8	66	9	1	0	0	89	1032	1815	nmod	1030	NUM	NOM	Not_Assigned	Not_Assigned	3	
+1035	1036	GPE	0.8250955641269684	l’ europe	2	8	66	12	0	0	0	90	1036	europe	nsubj	1037	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+1048	1048	GPE	0.9270520210266113	waterloo	1	9	67	6	0	0	0	91	1048	waterloo	dep	1046	PROPN	PROP	Not_Assigned	Not_Assigned	3	

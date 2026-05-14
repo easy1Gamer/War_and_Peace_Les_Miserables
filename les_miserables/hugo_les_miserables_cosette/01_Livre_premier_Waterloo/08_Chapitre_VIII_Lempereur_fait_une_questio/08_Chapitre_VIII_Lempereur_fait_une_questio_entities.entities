@@ -1,0 +1,116 @@
+start_token	end_token	cat	confidence	text	mention_len	paragraph_ID	sentence_ID	start_token_ID_within_sentence	out_to_in_nested_level	in_to_out_nested_level	nested_entities_count	temp_index	head_id	head_word	head_dependency_relation	head_syntactic_head_ID	POS_tag	prop	number	gender	grammatical_person	COREF
+3	4	PER	0.7445937991142273	l’ empereur	2	0	0	3	0	0	0	0	4	empereur	nsubj	5	NOUN	NOM	Singular	Male	3	6
+8	10	PER	0.6616353392601013	au guide lacoste	3	0	0	8	0	0	0	1	9	guide	obl:arg	5	NOUN	PROP	Singular	Male	3	7
+16	19	TIME	0.6543616354465485	le matin de waterloo	4	1	1	2	0	1	1	2	17	matin	obl:mod	23	NOUN	PROP	Not_Assigned	Not_Assigned	3	
+19	19	GPE	0.798204243183136	waterloo	1	1	1	5	1	0	0	3	19	waterloo	nmod	17	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+21	21	PER	0.7840800881385803	napoléon	1	1	1	7	0	0	0	4	21	napoléon	nsubj	23	PROPN	PROP	Singular	Male	3	0
+25	25	PER	0.9984448552131653	il	1	2	2	0	0	0	0	5	25	il	nsubj	26	PRON	PRON	Singular	Male	3	0
+36	36	PER	0.9947380423545837	lui	1	2	2	11	0	0	0	6	36	lui	obl:agent	34	PRON	PRON	Singular	Ambiguous	3	0
+38	38	PER	0.9977326393127441	nous	1	2	2	13	0	0	0	7	38	nous	nsubj	41	PRON	PRON	Plural	Ambiguous	1	8
+62	62	GPE	0.9205339550971985	hougomont	1	3	3	14	0	0	0	8	62	hougomont	nmod	60	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+67	70	GPE	0.5854288786649704	la haie - sainte	4	3	3	19	0	0	0	9	67	la	nmod	65	DET	PROP	Not_Assigned	Not_Assigned	3	
+88	90	PER	0.6552587747573853	la brigade soye	3	3	3	40	0	0	0	10	89	brigade	obl:agent	87	NOUN	PROP	Plural	Ambiguous	3	9
+96	96	PER	0.9835313558578491	guilleminot	1	3	3	48	0	0	0	11	96	guilleminot	nmod	93	PROPN	PROP	Singular	Not_Assigned	3	10
+118	118	PER	0.9268584847450256	uxbridge	1	3	3	70	0	0	0	12	118	uxbridge	obl:agent	116	PROPN	PROP	Singular	Not_Assigned	3	11
+120	122	FAC	0.5777022242546082	un chemin creux	3	3	3	72	0	0	0	13	121	chemin	nmod	55	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+132	134	FAC	0.4906988739967346	les lignes anglaises	3	3	3	84	0	0	0	14	133	lignes	obj	130	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+137	137	FAC	0.6223715543746948	y	1	3	3	89	0	0	0	15	137	y	expl:comp	138	ADV	NOM	Not_Assigned	Not_Assigned	3	
+174	174	PER	0.8797116875648499	piré	1	3	3	126	0	0	0	16	174	piré	nmod	172	PROPN	PROP	Singular	Not_Assigned	3	12
+176	179	GPE	0.7339488416910172	braine - l’ alleud	4	3	3	128	0	0	0	17	179	alleud	ROOT	179	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+210	210	PER	0.9751469492912292	ney	1	3	3	162	0	0	0	18	210	ney	nmod	208	PROPN	PROP	Singular	Not_Assigned	3	13
+272	272	PER	0.737953245639801	donzelot	1	3	3	224	0	0	0	19	272	donzelot	nmod	270	PROPN	PROP	Singular	Not_Assigned	3	14
+280	282	PER	0.9035693208376566	le lieutenant vieux	3	3	3	232	0	0	0	20	281	lieutenant	ROOT	281	NOUN	PROP	Singular	Male	3	2
+284	290	PER	0.4778087224279131	cet hercule sorti de l’ école polytechnique	7	3	3	236	0	0	0	21	289	école	ROOT	289	NOUN	NOM	Not_Assigned	Not_Assigned	3	2
+296	296	PER	0.9813492894172668	il	1	3	3	248	0	0	0	22	296	il	punct	297	PUNCT	PRON	Singular	Male	3	2
+305	308	GPE	0.5131062269210815	la haie - sainte	4	3	3	257	0	0	0	23	305	la	nmod	303	DET	PROP	Not_Assigned	Not_Assigned	3	
+321	324	FAC	0.5418987050652504	la route de genappe	4	3	3	273	0	1	1	24	322	route	ROOT	322	NOUN	PROP	Not_Assigned	Not_Assigned	3	
+324	324	GPE	0.8232735991477966	genappe	1	3	3	276	1	0	0	25	324	genappe	nmod	322	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+326	326	GPE	0.9528824090957642	bruxelles	1	3	3	278	0	0	0	26	326	bruxelles	ROOT	326	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+328	330	PER	0.6604789892832438	la division marcognet	3	3	3	280	0	0	0	27	329	division	ROOT	329	NOUN	PROP	Plural	Ambiguous	3	15
+348	348	PER	0.7364203333854675	best	1	3	3	300	0	0	0	28	348	best	ROOT	348	PROPN	PROP	Singular	Male	3	16
+350	350	PER	0.7227242588996887	pack	1	3	3	302	0	0	0	29	350	pack	ROOT	350	PROPN	PROP	Singular	Not_Assigned	3	4
+354	354	PER	0.9498758316040039	ponsonby	1	3	3	306	0	0	0	30	354	ponsonby	ROOT	354	PROPN	PROP	Singular	Not_Assigned	3	17
+356	356	PER	0.9749704599380493	sa	1	3	3	308	0	0	0	31	356	sa	punct	357	PUNCT	PRON	Singular	Ambiguous	3	4
+363	368	PER	0.49967218935489655	le prince de saxe - weimar	6	3	3	315	0	0	0	32	364	prince	ROOT	364	NOUN	PROP	Singular	Male	3	0
+374	377	PER	0.8568703234195709	le comte d’ erlon	4	3	3	326	0	0	0	33	375	comte	ROOT	375	NOUN	PROP	Singular	Male	3	0
+379	379	GPE	0.7716530561447144	frischemont	1	3	3	331	0	0	0	34	379	frischemont	nmod	375	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+381	381	GPE	0.8359366655349731	smohain	1	3	3	333	0	0	0	35	381	smohain	ROOT	381	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+397	400	PER	0.8172450363636017	ce hussard noir prussien	4	3	3	349	0	0	0	36	398	hussard	ROOT	398	NOUN	NOM	Singular	Not_Assigned	3	0
+417	417	GPE	0.9327198266983032	wavre	1	3	3	369	0	0	0	37	417	wavre	ROOT	417	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+419	419	GPE	0.9603120684623718	plancenoit	1	3	3	371	0	0	0	38	419	plancenoit	conj	417	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+425	426	PER	0.9550719559192657	ce prisonnier	2	3	3	377	0	0	0	39	426	prisonnier	ROOT	426	NOUN	NOM	Singular	Male	3	0
+433	433	PER	0.9884698390960693	grouchy	1	3	3	385	0	0	0	40	433	grouchy	nmod	431	PROPN	PROP	Singular	Not_Assigned	3	0
+435	439	PER	0.5790278643369675	les quinze cents hommes tués	5	3	3	387	0	0	0	41	438	hommes	ROOT	438	NOUN	NOM	Plural	Not_Assigned	3	18
+440	444	TIME	0.6075297176837922	en moins d’ une heure	5	3	3	392	0	0	0	42	444	heure	ROOT	444	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+446	449	FAC	0.45368076115846634	le verger d’ hougomont	4	3	3	398	0	1	1	43	447	verger	ROOT	447	NOUN	PROP	Not_Assigned	Not_Assigned	3	
+449	449	GPE	0.7679921984672546	hougomont	1	3	3	401	1	0	0	44	449	hougomont	nmod	447	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+451	454	PER	0.7478433102369308	les dix-huit cents hommes	4	3	3	403	0	0	0	45	454	hommes	ROOT	454	NOUN	NOM	Plural	Not_Assigned	3	19
+463	466	GPE	0.5609812140464783	la haie - sainte	4	3	3	415	0	0	0	46	463	la	dep	461	DET	PROP	Not_Assigned	Not_Assigned	3	
+481	481	GPE	0.4647827744483948	napoléon	1	3	3	433	0	0	0	47	481	napoléon	nmod	470	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+487	487	PER	0.9976502060890198	son	1	3	3	439	0	0	0	48	487	son	det	488	DET	PRON	Singular	Ambiguous	3	0
+501	501	PER	0.8982976675033569	napoléon	1	3	4	0	0	0	0	49	501	napoléon	nsubj:pass	503	PROPN	PROP	Singular	Male	3	0
+511	511	PER	0.9978041052818298	il	1	3	4	10	0	0	0	50	511	il	nsubj	513	PRON	PRON	Singular	Male	3	0
+527	527	PER	0.9961718916893005	lui	1	3	4	26	0	0	0	51	527	lui	iobj	528	PRON	PRON	Singular	Ambiguous	3	0
+548	548	PER	0.9984032511711121	il	1	3	4	47	0	0	0	52	548	il	nsubj	552	PRON	PRON	Singular	Male	3	0
+555	555	PER	0.9973368048667908	lui	1	3	4	54	0	0	0	53	555	lui	dep	552	PRON	PRON	Singular	Ambiguous	3	0
+556	556	PER	0.878588080406189	qui	1	3	4	55	0	0	0	54	556	qui	nsubj	558	PRON	PRON	Ambiguous	Ambiguous	4	0
+567	567	PER	0.9991647005081177	il	1	3	4	66	0	0	0	55	567	il	nsubj	568	PRON	PRON	Singular	Male	3	0
+578	578	PER	0.9989007711410522	il	1	3	4	77	0	0	0	56	578	il	nsubj	579	PRON	PRON	Singular	Male	3	0
+587	587	PER	0.9977827668190002	il	1	3	5	0	0	0	0	57	587	il	nsubj	588	PRON	PRON	Singular	Male	3	0
+594	594	PER	0.7782421112060547	tu	1	3	5	7	0	0	0	58	594	tu	nsubj	596	PRON	PRON	Singular	Ambiguous	2	0
+604	604	PER	0.9091649055480957	napoléon	1	4	6	5	0	0	0	59	604	napoléon	nsubj	606	PROPN	PROP	Singular	Male	3	20
+617	617	PER	0.9913260340690613	il	1	4	7	0	0	0	0	60	617	il	nsubj	618	PRON	PRON	Singular	Male	3	0
+624	624	PER	0.8291761875152588	lui	1	4	7	7	0	0	0	61	624	lui	obl:mod	622	PRON	PRON	Singular	Ambiguous	3	0
+656	656	GPE	0.9396741986274719	fontainebleau	1	5	8	12	0	0	0	62	656	fontainebleau	conj	652	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+666	666	GPE	0.9470198154449463	waterloo	1	5	8	22	0	0	0	63	666	waterloo	obl:arg	664	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+683	683	PER	0.9164456129074097	wellington	1	6	10	3	0	0	0	64	683	wellington	nsubj	684	PROPN	PROP	Singular	Not_Assigned	3	0
+686	686	PER	0.9432226419448853	napoléon	1	6	10	6	0	0	0	65	686	napoléon	nsubj	687	PROPN	PROP	Singular	Male	3	1
+689	689	PER	0.9989365935325623	il	1	6	11	0	0	0	0	66	689	il	nsubj	690	PRON	PRON	Singular	Male	3	1
+695	695	GPE	0.13274452090263367	mont-saint-jean	1	6	11	6	0	0	0	67	695	mont-saint-jean	nmod	693	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+707	707	PER	0.5714388489723206	elle	1	6	12	0	0	0	0	68	707	elle	nsubj	709	PRON	PRON	Singular	Female	3	4
+715	716	PER	0.9331667423248291	l’ empereur	2	6	13	0	0	0	0	69	716	empereur	nsubj	718	NOUN	NOM	Singular	Male	3	1
+722	722	PER	0.9894000887870789	ses	1	6	13	7	0	0	0	70	722	ses	det	723	DET	PRON	Singular	Ambiguous	3	1
+732	732	PER	0.9964402318000793	ses	1	6	14	7	0	0	0	71	732	ses	det	733	DET	PRON	Singular	Ambiguous	3	1
+738	741	LOC	0.5547561571002007	la forêt de soignes	4	7	15	3	0	0	0	72	739	forêt	obl:arg	736	NOUN	PROP	Not_Assigned	Not_Assigned	3	
+751	752	GPE	0.7362461090087891	l’ angleterre	2	7	15	16	0	0	0	73	752	angleterre	nmod	748	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+754	755	GPE	0.8950780630111694	la france	2	7	15	19	0	0	0	74	755	france	nmod	748	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+762	762	GPE	0.9677702188491821	poitiers	1	7	15	27	0	0	0	75	762	poitiers	conj	760	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+764	764	GPE	0.9161653518676758	malplaquet	1	7	15	29	0	0	0	76	764	malplaquet	conj	760	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+766	766	GPE	0.943109929561615	ramillies	1	7	15	31	0	0	0	77	766	ramillies	conj	760	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+772	772	GPE	0.8399344086647034	marengo	1	7	16	3	0	0	0	78	772	marengo	nmod	770	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+774	774	GPE	0.7856861352920532	azincourt	1	7	16	5	0	0	0	79	774	azincourt	obj	773	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+776	777	PER	0.9137843251228333	l’ empereur	2	8	17	0	0	0	0	80	777	empereur	nsubj	785	NOUN	NOM	Singular	Male	3	1
+789	789	PER	0.9922113418579102	sa	1	8	17	13	0	0	0	81	789	sa	det	790	DET	PRON	Singular	Ambiguous	3	1
+800	801	PER	0.9440352916717529	sa garde	2	8	18	0	0	1	1	82	801	garde	nsubj	811	NOUN	NOM	Singular	Female	3	2
+800	800	PER	0.9968234300613403	sa	1	8	18	0	1	0	0	83	800	sa	det	801	DET	PRON	Singular	Ambiguous	3	1
+808	808	PER	0.997407853603363	lui	1	8	18	8	0	0	0	84	808	lui	nmod	804	PRON	PRON	Singular	Ambiguous	3	1
+821	821	PER	0.9994122982025146	il	1	8	19	0	0	0	0	85	821	il	nsubj	822	PRON	PRON	Singular	Male	3	1
+825	825	PER	0.9994435906410217	il	1	8	19	4	0	0	0	86	825	il	nsubj	826	PRON	PRON	Singular	Male	3	1
+849	849	PER	0.9977027773857117	il	1	8	19	28	0	0	0	87	849	il	nsubj	850	PRON	PRON	Singular	Male	3	1
+855	855	PER	0.9996545314788818	il	1	8	20	0	0	0	0	88	855	il	nsubj	856	PRON	PRON	Singular	Male	3	1
+873	878	FAC	0.49130094051361084	celle de la chaussée de genappe	6	8	20	18	0	1	1	89	876	chaussée	nmod	873	NOUN	PROP	Not_Assigned	Not_Assigned	3	
+878	878	GPE	0.6651171445846558	genappe	1	8	20	23	1	0	0	90	878	genappe	nmod	876	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+881	884	GPE	0.4707679823040962	la haie - sainte	4	8	20	26	0	0	0	91	881	la	dep	879	DET	PROP	Not_Assigned	Not_Assigned	3	
+902	905	LOC	0.7346876710653305	du champ de bataille	4	8	20	47	0	0	0	92	903	champ	nmod	901	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+908	913	FAC	0.48995305597782135	celle de la chaussée de nivelles	6	8	20	53	0	1	1	93	911	chaussée	nmod	908	NOUN	PROP	Not_Assigned	Not_Assigned	3	
+913	913	GPE	0.8244152069091797	nivelles	1	8	20	58	1	0	0	94	913	nivelles	nmod	911	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+914	914	FAC	0.3856043815612793	où	1	8	20	59	0	0	0	95	914	où	iobj	915	PRON	PRON	Not_Assigned	Not_Assigned	3	
+920	922	PER	0.6000113685925802	la brigade chassé	3	8	20	65	0	0	0	96	921	brigade	nmod	917	NOUN	PROP	Plural	Ambiguous	3	21
+924	924	PER	0.9996918439865112	il	1	8	21	0	0	0	0	97	924	il	nsubj	925	PRON	PRON	Singular	Male	3	1
+930	937	FAC	0.6074982807040215	la vieille chapelle de saint-nicolas peinte en blanc	8	8	21	6	0	0	0	98	932	chapelle	obj	925	NOUN	PROP	Not_Assigned	Not_Assigned	3	
+938	938	FAC	0.9130074381828308	qui	1	8	21	14	0	0	0	99	938	qui	nsubj	939	PRON	PRON	Not_Assigned	Not_Assigned	4	
+947	948	GPE	0.5603247284889221	braine -	2	8	21	23	0	0	0	100	947	braine	nmod	942	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+952	952	PER	0.9997381567955017	il	1	8	22	0	0	0	0	101	952	il	nsubj	954	PRON	PRON	Singular	Male	3	1
+959	961	PER	0.9484586517016093	au guide lacoste	3	8	22	7	0	0	0	102	960	guide	obl:arg	956	NOUN	PROP	Singular	Male	3	5
+963	964	PER	0.9778626263141632	le guide	2	8	23	0	0	0	0	103	964	guide	nsubj	965	NOUN	NOM	Singular	Male	3	5
+975	976	PER	0.9488985240459442	l’ empereur	2	9	24	0	0	0	0	104	976	empereur	nsubj	978	NOUN	NOM	Singular	Male	3	1
+983	983	PER	0.8410410284996033	wellington	1	10	25	0	0	0	0	105	983	wellington	nsubj	985	PROPN	PROP	Singular	Not_Assigned	3	22
+1000	1000	PER	0.9484778046607971	napoléon	1	11	27	0	0	0	0	106	1000	napoléon	nsubj	1006	PROPN	PROP	Singular	Male	3	23
+1007	1011	VEH	0.6836931228637695	une estafette à franc étrier	5	11	27	7	0	0	0	107	1011	étrier	obl:arg	1006	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+1013	1013	GPE	0.9405191540718079	paris	1	11	27	13	0	0	0	108	1013	paris	obl:arg	1006	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+1015	1015	GPE	0.9134494066238403	y	1	11	27	15	0	0	0	109	1015	y	iobj	1016	PRON	PRON	Not_Assigned	Not_Assigned	3	
+1023	1023	PER	0.9065732955932617	napoléon	1	12	28	0	0	0	0	110	1023	napoléon	nsubj	1025	PROPN	PROP	Singular	Male	3	3
+1035	1035	PER	0.998196542263031	il	1	13	29	0	0	0	0	111	1035	il	nsubj	1036	PRON	PRON	Singular	Male	3	3
+1039	1039	PER	0.9496230483055115	son	1	13	29	4	0	0	0	112	1039	son	det	1040	DET	PRON	Singular	Ambiguous	3	3
+1044	1044	PER	0.9991208910942078	il	1	14	30	0	0	0	0	113	1044	il	nsubj	1045	PRON	PRON	Singular	Male	3	3
+1057	1057	GPE	0.21885809302330017	mont-saint-jean	1	14	30	13	0	0	0	114	1057	mont-saint-jean	nmod	1055	PROPN	PROP	Not_Assigned	Not_Assigned	3	

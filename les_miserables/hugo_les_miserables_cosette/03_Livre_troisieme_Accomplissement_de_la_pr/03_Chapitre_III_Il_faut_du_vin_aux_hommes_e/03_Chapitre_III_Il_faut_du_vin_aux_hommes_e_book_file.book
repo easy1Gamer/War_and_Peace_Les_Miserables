@@ -1,0 +1,1180 @@
+[
+    {
+        "id": 0,
+        "count": {
+            "occurrence": 15,
+            "mention_ratio": 0.1429
+        },
+        "gender": {
+            "ratio": 0.6,
+            "inference": {
+                "Male": 0.0,
+                "Female": 1.0
+            },
+            "max": 1.0,
+            "argmax": "Female"
+        },
+        "number": {
+            "ratio": 0.9333,
+            "inference": {
+                "Singular": 1.0,
+                "Plural": 0.0
+            },
+            "max": 1.0,
+            "argmax": "Singular"
+        },
+        "mentions": {
+            "proper": [
+                {
+                    "n": "cosette",
+                    "c": 1
+                }
+            ],
+            "common": [
+                {
+                    "n": "l’ enfant",
+                    "c": 3
+                },
+                {
+                    "n": "petite drôlesse",
+                    "c": 1
+                },
+                {
+                    "n": "cette bête",
+                    "c": 1
+                }
+            ],
+            "pronoun": [
+                {
+                    "n": "elle",
+                    "c": 5
+                },
+                {
+                    "n": "lui",
+                    "c": 1
+                },
+                {
+                    "n": "est-elle",
+                    "c": 1
+                },
+                {
+                    "n": "son",
+                    "c": 1
+                },
+                {
+                    "n": "la",
+                    "c": 1
+                }
+            ]
+        },
+        "agent": [
+            {
+                "w": "songer",
+                "i": 23
+            },
+            {
+                "w": "avoir",
+                "i": 32
+            },
+            {
+                "w": "souffrir",
+                "i": 41
+            },
+            {
+                "w": "rêver",
+                "i": 44
+            },
+            {
+                "w": "avoir",
+                "i": 55
+            },
+            {
+                "w": "trembler",
+                "i": 221
+            },
+            {
+                "w": "lever",
+                "i": 258
+            },
+            {
+                "w": "suivre",
+                "i": 262
+            },
+            {
+                "w": "respirer",
+                "i": 309
+            },
+            {
+                "w": "boire",
+                "i": 704
+            },
+            {
+                "w": "boire",
+                "i": 710
+            }
+        ],
+        "patient": [
+            {
+                "w": "rassurer",
+                "i": 142
+            }
+        ],
+        "mod": [
+            {
+                "w": "petit",
+                "i": 596
+            }
+        ],
+        "poss": [
+            {
+                "w": "an",
+                "i": 35
+            },
+            {
+                "w": "paupière",
+                "i": 57
+            },
+            {
+                "w": "pochon",
+                "i": 89
+            }
+        ]
+    },
+    {
+        "id": 1,
+        "count": {
+            "occurrence": 9,
+            "mention_ratio": 0.0857
+        },
+        "gender": {
+            "ratio": 0.4444,
+            "inference": {
+                "Male": 0.0,
+                "Female": 1.0
+            },
+            "max": 1.0,
+            "argmax": "Female"
+        },
+        "number": {
+            "ratio": 0.8889,
+            "inference": {
+                "Singular": 1.0,
+                "Plural": 0.0
+            },
+            "max": 1.0,
+            "argmax": "Singular"
+        },
+        "mentions": {
+            "proper": [
+                {
+                    "n": "cosette",
+                    "c": 1
+                }
+            ],
+            "common": [
+                {
+                    "n": "la mère",
+                    "c": 1
+                }
+            ],
+            "pronoun": [
+                {
+                    "n": "son",
+                    "c": 2
+                },
+                {
+                    "n": "elle",
+                    "c": 2
+                },
+                {
+                    "n": "sa",
+                    "c": 1
+                },
+                {
+                    "n": "mon",
+                    "c": 1
+                },
+                {
+                    "n": "vous",
+                    "c": 1
+                }
+            ]
+        },
+        "agent": [
+            {
+                "w": "remettre",
+                "i": 337
+            },
+            {
+                "w": "sentir",
+                "i": 351
+            },
+            {
+                "w": "compter",
+                "i": 364
+            },
+            {
+                "w": "vouloir",
+                "i": 375
+            }
+        ],
+        "patient": [],
+        "mod": [],
+        "poss": [
+            {
+                "w": "travail",
+                "i": 340
+            },
+            {
+                "w": "cœur",
+                "i": 353
+            },
+            {
+                "w": "poitrine",
+                "i": 361
+            },
+            {
+                "w": "cheval",
+                "i": 469
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "count": {
+            "occurrence": 9,
+            "mention_ratio": 0.0857
+        },
+        "gender": {
+            "ratio": 0.4444,
+            "inference": {
+                "Male": 1.0,
+                "Female": 0.0
+            },
+            "max": 1.0,
+            "argmax": "Male"
+        },
+        "number": {
+            "ratio": 0.8889,
+            "inference": {
+                "Singular": 1.0,
+                "Plural": 0.0
+            },
+            "max": 1.0,
+            "argmax": "Singular"
+        },
+        "mentions": {
+            "proper": [],
+            "common": [
+                {
+                    "n": "le marchand",
+                    "c": 3
+                },
+                {
+                    "n": " ",
+                    "c": 1
+                },
+                {
+                    "n": "monsieur",
+                    "c": 1
+                }
+            ],
+            "pronoun": [
+                {
+                    "n": "je",
+                    "c": 3
+                },
+                {
+                    "n": "mon",
+                    "c": 1
+                }
+            ]
+        },
+        "agent": [
+            {
+                "w": "dire",
+                "i": 485
+            },
+            {
+                "w": "reprendre",
+                "i": 492
+            },
+            {
+                "w": "écrier",
+                "i": 582
+            },
+            {
+                "w": "dire",
+                "i": 588
+            },
+            {
+                "w": "connaître",
+                "i": 614
+            },
+            {
+                "w": "reprendre",
+                "i": 652
+            }
+        ],
+        "patient": [],
+        "mod": [],
+        "poss": [
+            {
+                "w": "cheval",
+                "i": 672
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "count": {
+            "occurrence": 7,
+            "mention_ratio": 0.0667
+        },
+        "gender": {
+            "ratio": 0.2857,
+            "inference": {
+                "Male": 0.0,
+                "Female": 1.0
+            },
+            "max": 1.0,
+            "argmax": "Female"
+        },
+        "number": {
+            "ratio": 1.0,
+            "inference": {
+                "Singular": 1.0,
+                "Plural": 0.0
+            },
+            "max": 1.0,
+            "argmax": "Singular"
+        },
+        "mentions": {
+            "proper": [
+                {
+                    "n": "la thénardier",
+                    "c": 1
+                }
+            ],
+            "common": [],
+            "pronoun": [
+                {
+                    "n": "son",
+                    "c": 1
+                },
+                {
+                    "n": "je",
+                    "c": 1
+                },
+                {
+                    "n": "j’",
+                    "c": 1
+                },
+                {
+                    "n": "mes",
+                    "c": 1
+                },
+                {
+                    "n": "elle",
+                    "c": 1
+                },
+                {
+                    "n": "-elle",
+                    "c": 1
+                }
+            ]
+        },
+        "agent": [
+            {
+                "w": "remettre",
+                "i": 890
+            },
+            {
+                "w": "goûter",
+                "i": 896
+            },
+            {
+                "w": "croire",
+                "i": 934
+            },
+            {
+                "w": "faire",
+                "i": 939
+            },
+            {
+                "w": "fouiller",
+                "i": 947
+            }
+        ],
+        "patient": [],
+        "mod": [],
+        "poss": [
+            {
+                "w": "fourneau",
+                "i": 893
+            },
+            {
+                "w": "oignon",
+                "i": 943
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "count": {
+            "occurrence": 7,
+            "mention_ratio": 0.0667
+        },
+        "gender": {
+            "ratio": 0.7143,
+            "inference": {
+                "Male": 0.0,
+                "Female": 1.0
+            },
+            "max": 1.0,
+            "argmax": "Female"
+        },
+        "number": {
+            "ratio": 1.0,
+            "inference": {
+                "Singular": 1.0,
+                "Plural": 0.0
+            },
+            "max": 1.0,
+            "argmax": "Singular"
+        },
+        "mentions": {
+            "proper": [
+                {
+                    "n": "cosette",
+                    "c": 1
+                }
+            ],
+            "common": [],
+            "pronoun": [
+                {
+                    "n": "elle",
+                    "c": 4
+                },
+                {
+                    "n": "son",
+                    "c": 2
+                }
+            ]
+        },
+        "agent": [
+            {
+                "w": "avoir",
+                "i": 998
+            },
+            {
+                "w": "prendre",
+                "i": 1010
+            },
+            {
+                "w": "mettre",
+                "i": 1020
+            },
+            {
+                "w": "rester",
+                "i": 1027
+            },
+            {
+                "w": "sembler",
+                "i": 1043
+            }
+        ],
+        "patient": [],
+        "mod": [],
+        "poss": [
+            {
+                "w": "poche",
+                "i": 1001
+            },
+            {
+                "w": "tablier",
+                "i": 1006
+            },
+            {
+                "w": "secours",
+                "i": 1050
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "count": {
+            "occurrence": 6,
+            "mention_ratio": 0.0571
+        },
+        "gender": {
+            "ratio": 0.6667,
+            "inference": {
+                "Male": 1.0,
+                "Female": 0.0
+            },
+            "max": 1.0,
+            "argmax": "Male"
+        },
+        "number": {
+            "ratio": 1.0,
+            "inference": {
+                "Singular": 1.0,
+                "Plural": 0.0
+            },
+            "max": 1.0,
+            "argmax": "Singular"
+        },
+        "mentions": {
+            "proper": [],
+            "common": [],
+            "pronoun": [
+                {
+                    "n": "il",
+                    "c": 4
+                },
+                {
+                    "n": "lui",
+                    "c": 2
+                }
+            ]
+        },
+        "agent": [
+            {
+                "w": "boire",
+                "i": 525
+            },
+            {
+                "w": "boire",
+                "i": 594
+            },
+            {
+                "w": "avoir",
+                "i": 601
+            },
+            {
+                "w": "boire",
+                "i": 645
+            }
+        ],
+        "patient": [],
+        "mod": [],
+        "poss": [
+            {
+                "w": "manière",
+                "i": 603
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "count": {
+            "occurrence": 5,
+            "mention_ratio": 0.0476
+        },
+        "gender": {
+            "ratio": 0.6,
+            "inference": {
+                "Male": 0.0,
+                "Female": 1.0
+            },
+            "max": 1.0,
+            "argmax": "Female"
+        },
+        "number": {
+            "ratio": 1.0,
+            "inference": {
+                "Singular": 1.0,
+                "Plural": 0.0
+            },
+            "max": 1.0,
+            "argmax": "Singular"
+        },
+        "mentions": {
+            "proper": [
+                {
+                    "n": "la thénardier",
+                    "c": 1
+                }
+            ],
+            "common": [],
+            "pronoun": [
+                {
+                    "n": "elle",
+                    "c": 2
+                },
+                {
+                    "n": "ses",
+                    "c": 1
+                },
+                {
+                    "n": "-elle",
+                    "c": 1
+                }
+            ]
+        },
+        "agent": [
+            {
+                "w": "soulever",
+                "i": 226
+            },
+            {
+                "w": "tourner",
+                "i": 251
+            },
+            {
+                "w": "dire",
+                "i": 286
+            },
+            {
+                "w": "avoir",
+                "i": 300
+            }
+        ],
+        "patient": [],
+        "mod": [],
+        "poss": [
+            {
+                "w": "mouvement",
+                "i": 265
+            },
+            {
+                "w": "moment",
+                "i": 302
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "count": {
+            "occurrence": 5,
+            "mention_ratio": 0.0476
+        },
+        "gender": {
+            "ratio": 0.4,
+            "inference": {
+                "Male": 0.0,
+                "Female": 1.0
+            },
+            "max": 1.0,
+            "argmax": "Female"
+        },
+        "number": {
+            "ratio": 0.8,
+            "inference": {
+                "Singular": 1.0,
+                "Plural": 0.0
+            },
+            "max": 1.0,
+            "argmax": "Singular"
+        },
+        "mentions": {
+            "proper": [
+                {
+                    "n": "cosette",
+                    "c": 1
+                }
+            ],
+            "common": [],
+            "pronoun": [
+                {
+                    "n": "-elle",
+                    "c": 1
+                },
+                {
+                    "n": "moi",
+                    "c": 1
+                },
+                {
+                    "n": "qui",
+                    "c": 1
+                },
+                {
+                    "n": "je",
+                    "c": 1
+                }
+            ]
+        },
+        "agent": [
+            {
+                "w": "sortir",
+                "i": 498
+            },
+            {
+                "w": "porter",
+                "i": 543
+            },
+            {
+                "w": "parler",
+                "i": 551
+            }
+        ],
+        "patient": [],
+        "mod": [],
+        "poss": []
+    },
+    {
+        "id": 8,
+        "count": {
+            "occurrence": 4,
+            "mention_ratio": 0.0381
+        },
+        "gender": {
+            "ratio": 0.75,
+            "inference": {
+                "Male": 0.0,
+                "Female": 1.0
+            },
+            "max": 1.0,
+            "argmax": "Female"
+        },
+        "number": {
+            "ratio": 1.0,
+            "inference": {
+                "Singular": 1.0,
+                "Plural": 0.0
+            },
+            "max": 1.0,
+            "argmax": "Singular"
+        },
+        "mentions": {
+            "proper": [
+                {
+                    "n": "la thénardier",
+                    "c": 1
+                }
+            ],
+            "common": [
+                {
+                    "n": "madame",
+                    "c": 1
+                }
+            ],
+            "pronoun": [
+                {
+                    "n": "elle",
+                    "c": 2
+                }
+            ]
+        },
+        "agent": [
+            {
+                "w": "dire",
+                "i": 694
+            },
+            {
+                "w": "pencher",
+                "i": 734
+            },
+            {
+                "w": "découvrir",
+                "i": 736
+            },
+            {
+                "w": "être",
+                "i": 814
+            }
+        ],
+        "patient": [],
+        "mod": [],
+        "poss": []
+    },
+    {
+        "id": 9,
+        "count": {
+            "occurrence": 4,
+            "mention_ratio": 0.0381
+        },
+        "gender": {
+            "ratio": 0.5,
+            "inference": {
+                "Male": 0.0,
+                "Female": 1.0
+            },
+            "max": 1.0,
+            "argmax": "Female"
+        },
+        "number": {
+            "ratio": 1.0,
+            "inference": {
+                "Singular": 1.0,
+                "Plural": 0.0
+            },
+            "max": 1.0,
+            "argmax": "Singular"
+        },
+        "mentions": {
+            "proper": [
+                {
+                    "n": "cosette",
+                    "c": 1
+                }
+            ],
+            "common": [
+                {
+                    "n": "l’ enfant",
+                    "c": 1
+                }
+            ],
+            "pronoun": [
+                {
+                    "n": "tu",
+                    "c": 1
+                },
+                {
+                    "n": "elle",
+                    "c": 1
+                }
+            ]
+        },
+        "agent": [
+            {
+                "w": "cacher",
+                "i": 777
+            },
+            {
+                "w": "pouvoir",
+                "i": 876
+            }
+        ],
+        "patient": [
+            {
+                "w": "découvrir",
+                "i": 736
+            }
+        ],
+        "mod": [],
+        "poss": []
+    },
+    {
+        "id": 10,
+        "count": {
+            "occurrence": 4,
+            "mention_ratio": 0.0381
+        },
+        "gender": {
+            "ratio": 0.5,
+            "inference": {
+                "Male": 0.0,
+                "Female": 1.0
+            },
+            "max": 1.0,
+            "argmax": "Female"
+        },
+        "number": {
+            "ratio": 1.0,
+            "inference": {
+                "Singular": 1.0,
+                "Plural": 0.0
+            },
+            "max": 1.0,
+            "argmax": "Singular"
+        },
+        "mentions": {
+            "proper": [
+                {
+                    "n": "cosette",
+                    "c": 1
+                },
+                {
+                    "n": "mamzelle crapaud",
+                    "c": 1
+                }
+            ],
+            "common": [],
+            "pronoun": [
+                {
+                    "n": "elle",
+                    "c": 1
+                },
+                {
+                    "n": "tu",
+                    "c": 1
+                }
+            ]
+        },
+        "agent": [
+            {
+                "w": "baisser",
+                "i": 846
+            },
+            {
+                "w": "aller",
+                "i": 851
+            },
+            {
+                "w": "prendre",
+                "i": 978
+            }
+        ],
+        "patient": [],
+        "mod": [],
+        "poss": []
+    },
+    {
+        "id": 11,
+        "count": {
+            "occurrence": 3,
+            "mention_ratio": 0.0286
+        },
+        "gender": {
+            "ratio": 0.3333,
+            "inference": {
+                "Male": 0.0,
+                "Female": 1.0
+            },
+            "max": 1.0,
+            "argmax": "Female"
+        },
+        "number": {
+            "ratio": 0.6667,
+            "inference": {
+                "Singular": 1.0,
+                "Plural": 0.0
+            },
+            "max": 1.0,
+            "argmax": "Singular"
+        },
+        "mentions": {
+            "proper": [
+                {
+                    "n": "cosette",
+                    "c": 1
+                }
+            ],
+            "common": [],
+            "pronoun": [
+                {
+                    "n": "qui",
+                    "c": 1
+                },
+                {
+                    "n": "te",
+                    "c": 1
+                }
+            ]
+        },
+        "agent": [
+            {
+                "w": "mentir",
+                "i": 560
+            }
+        ],
+        "patient": [],
+        "mod": [
+            {
+                "w": "gros",
+                "i": 569
+            }
+        ],
+        "poss": []
+    },
+    {
+        "id": 12,
+        "count": {
+            "occurrence": 2,
+            "mention_ratio": 0.019
+        },
+        "gender": {
+            "ratio": 0,
+            "inference": {
+                "Male": 0,
+                "Female": 0
+            },
+            "max": 0,
+            "argmax": "Null"
+        },
+        "number": {
+            "ratio": 0.5,
+            "inference": {
+                "Singular": 0.0,
+                "Plural": 1.0
+            },
+            "max": 1.0,
+            "argmax": "Plural"
+        },
+        "mentions": {
+            "proper": [],
+            "common": [
+                {
+                    "n": "de gens",
+                    "c": 1
+                }
+            ],
+            "pronoun": [
+                {
+                    "n": "qui",
+                    "c": 1
+                }
+            ]
+        },
+        "agent": [
+            {
+                "w": "avoir",
+                "i": 169
+            }
+        ],
+        "patient": [
+            {
+                "w": "manquer",
+                "i": 163
+            }
+        ],
+        "mod": [],
+        "poss": [
+            {
+                "w": "soif",
+                "i": 170
+            }
+        ]
+    },
+    {
+        "id": 13,
+        "count": {
+            "occurrence": 2,
+            "mention_ratio": 0.019
+        },
+        "gender": {
+            "ratio": 0,
+            "inference": {
+                "Male": 0,
+                "Female": 0
+            },
+            "max": 0,
+            "argmax": "Null"
+        },
+        "number": {
+            "ratio": 1.0,
+            "inference": {
+                "Singular": 0.0,
+                "Plural": 1.0
+            },
+            "max": 1.0,
+            "argmax": "Plural"
+        },
+        "mentions": {
+            "proper": [],
+            "common": [
+                {
+                    "n": "des buveurs",
+                    "c": 2
+                }
+            ],
+            "pronoun": []
+        },
+        "agent": [],
+        "patient": [],
+        "mod": [],
+        "poss": [
+            {
+                "w": "pied",
+                "i": 750
+            }
+        ]
+    },
+    {
+        "id": 14,
+        "count": {
+            "occurrence": 2,
+            "mention_ratio": 0.019
+        },
+        "gender": {
+            "ratio": 1.0,
+            "inference": {
+                "Male": 0.0,
+                "Female": 1.0
+            },
+            "max": 1.0,
+            "argmax": "Female"
+        },
+        "number": {
+            "ratio": 1.0,
+            "inference": {
+                "Singular": 1.0,
+                "Plural": 0.0
+            },
+            "max": 1.0,
+            "argmax": "Singular"
+        },
+        "mentions": {
+            "proper": [
+                {
+                    "n": "cosette",
+                    "c": 1
+                }
+            ],
+            "common": [],
+            "pronoun": [
+                {
+                    "n": "cette autre",
+                    "c": 1
+                }
+            ]
+        },
+        "agent": [
+            {
+                "w": "rentrer",
+                "i": 680
+            },
+            {
+                "w": "être",
+                "i": 726
+            }
+        ],
+        "patient": [],
+        "mod": [],
+        "poss": []
+    },
+    {
+        "id": 15,
+        "count": {
+            "occurrence": 2,
+            "mention_ratio": 0.019
+        },
+        "gender": {
+            "ratio": 1.0,
+            "inference": {
+                "Male": 0.0,
+                "Female": 1.0
+            },
+            "max": 1.0,
+            "argmax": "Female"
+        },
+        "number": {
+            "ratio": 1.0,
+            "inference": {
+                "Singular": 1.0,
+                "Plural": 0.0
+            },
+            "max": 1.0,
+            "argmax": "Singular"
+        },
+        "mentions": {
+            "proper": [
+                {
+                    "n": "cosette",
+                    "c": 1
+                },
+                {
+                    "n": "  mademoiselle chien - faute - de - nom",
+                    "c": 1
+                }
+            ],
+            "common": [],
+            "pronoun": []
+        },
+        "agent": [
+            {
+                "w": "sortir",
+                "i": 767
+            },
+            {
+                "w": "aller",
+                "i": 795
+            }
+        ],
+        "patient": [],
+        "mod": [],
+        "poss": []
+    }
+]

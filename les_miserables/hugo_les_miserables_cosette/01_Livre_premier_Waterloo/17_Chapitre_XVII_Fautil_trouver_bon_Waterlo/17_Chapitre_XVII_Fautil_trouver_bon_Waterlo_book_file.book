@@ -1,0 +1,274 @@
+[
+    {
+        "id": 0,
+        "count": {
+            "occurrence": 9,
+            "mention_ratio": 0.3214
+        },
+        "gender": {
+            "ratio": 0.3333,
+            "inference": {
+                "Male": 0.0,
+                "Female": 1.0
+            },
+            "max": 1.0,
+            "argmax": "Female"
+        },
+        "number": {
+            "ratio": 0.7778,
+            "inference": {
+                "Singular": 1.0,
+                "Plural": 0.0
+            },
+            "max": 1.0,
+            "argmax": "Singular"
+        },
+        "mentions": {
+            "proper": [
+                {
+                    "n": "wellington",
+                    "c": 1
+                },
+                {
+                    "n": "tous les bâtons de maréchal de l’ europe",
+                    "c": 1
+                }
+            ],
+            "common": [],
+            "pronoun": [
+                {
+                    "n": "elle",
+                    "c": 3
+                },
+                {
+                    "n": "qui",
+                    "c": 2
+                },
+                {
+                    "n": "lui",
+                    "c": 2
+                }
+            ]
+        },
+        "agent": [
+            {
+                "w": "apporter",
+                "i": 568
+            },
+            {
+                "w": "rouler",
+                "i": 593
+            },
+            {
+                "w": "voir",
+                "i": 675
+            },
+            {
+                "w": "raviser",
+                "i": 696
+            },
+            {
+                "w": "revenir",
+                "i": 700
+            }
+        ],
+        "patient": [
+            {
+                "w": "apporter",
+                "i": 568
+            }
+        ],
+        "mod": [
+            {
+                "w": "tout",
+                "i": 569
+            }
+        ],
+        "poss": []
+    },
+    {
+        "id": 1,
+        "count": {
+            "occurrence": 2,
+            "mention_ratio": 0.0714
+        },
+        "gender": {
+            "ratio": 0,
+            "inference": {
+                "Male": 0,
+                "Female": 0
+            },
+            "max": 0,
+            "argmax": "Null"
+        },
+        "number": {
+            "ratio": 1.0,
+            "inference": {
+                "Singular": 0.0,
+                "Plural": 1.0
+            },
+            "max": 1.0,
+            "argmax": "Plural"
+        },
+        "mentions": {
+            "proper": [],
+            "common": [],
+            "pronoun": [
+                {
+                    "n": "nous",
+                    "c": 2
+                }
+            ]
+        },
+        "agent": [
+            {
+                "w": "être",
+                "i": 26
+            }
+        ],
+        "patient": [],
+        "mod": [],
+        "poss": []
+    },
+    {
+        "id": 2,
+        "count": {
+            "occurrence": 2,
+            "mention_ratio": 0.0714
+        },
+        "gender": {
+            "ratio": 1.0,
+            "inference": {
+                "Male": 1.0,
+                "Female": 0.0
+            },
+            "max": 1.0,
+            "argmax": "Male"
+        },
+        "number": {
+            "ratio": 1.0,
+            "inference": {
+                "Singular": 1.0,
+                "Plural": 0.0
+            },
+            "max": 1.0,
+            "argmax": "Singular"
+        },
+        "mentions": {
+            "proper": [
+                {
+                    "n": "bonaparte",
+                    "c": 1
+                }
+            ],
+            "common": [],
+            "pronoun": [
+                {
+                    "n": "il",
+                    "c": 1
+                }
+            ]
+        },
+        "agent": [
+            {
+                "w": "mettre",
+                "i": 276
+            },
+            {
+                "w": "employer",
+                "i": 380
+            }
+        ],
+        "patient": [],
+        "mod": [],
+        "poss": []
+    },
+    {
+        "id": 3,
+        "count": {
+            "occurrence": 2,
+            "mention_ratio": 0.0714
+        },
+        "gender": {
+            "ratio": 0,
+            "inference": {
+                "Male": 0,
+                "Female": 0
+            },
+            "max": 0,
+            "argmax": "Null"
+        },
+        "number": {
+            "ratio": 0,
+            "inference": {
+                "Singular": 0,
+                "Plural": 0
+            },
+            "max": 0,
+            "argmax": "Null"
+        },
+        "mentions": {
+            "proper": [],
+            "common": [],
+            "pronoun": [
+                {
+                    "n": "-vous",
+                    "c": 2
+                }
+            ]
+        },
+        "agent": [],
+        "patient": [],
+        "mod": [],
+        "poss": []
+    },
+    {
+        "id": 4,
+        "count": {
+            "occurrence": 2,
+            "mention_ratio": 0.0714
+        },
+        "gender": {
+            "ratio": 0,
+            "inference": {
+                "Male": 0,
+                "Female": 0
+            },
+            "max": 0,
+            "argmax": "Null"
+        },
+        "number": {
+            "ratio": 0.5,
+            "inference": {
+                "Singular": 1.0,
+                "Plural": 0.0
+            },
+            "max": 1.0,
+            "argmax": "Singular"
+        },
+        "mentions": {
+            "proper": [
+                {
+                    "n": "foy",
+                    "c": 1
+                }
+            ],
+            "common": [],
+            "pronoun": [
+                {
+                    "n": "qui",
+                    "c": 1
+                }
+            ]
+        },
+        "agent": [],
+        "patient": [],
+        "mod": [
+            {
+                "w": "soldat",
+                "i": 392
+            }
+        ],
+        "poss": []
+    }
+]

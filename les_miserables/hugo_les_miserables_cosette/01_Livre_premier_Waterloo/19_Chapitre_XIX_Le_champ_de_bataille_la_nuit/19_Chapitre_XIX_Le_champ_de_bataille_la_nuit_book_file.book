@@ -1,0 +1,1176 @@
+[
+    {
+        "id": 0,
+        "count": {
+            "occurrence": 122,
+            "mention_ratio": 0.6595
+        },
+        "gender": {
+            "ratio": 0.459,
+            "inference": {
+                "Male": 1.0,
+                "Female": 0.0
+            },
+            "max": 1.0,
+            "argmax": "Male"
+        },
+        "number": {
+            "ratio": 0.8279,
+            "inference": {
+                "Singular": 1.0,
+                "Plural": 0.0
+            },
+            "max": 1.0,
+            "argmax": "Singular"
+        },
+        "mentions": {
+            "proper": [
+                {
+                    "n": "  thénardier",
+                    "c": 1
+                }
+            ],
+            "common": [
+                {
+                    "n": "le rôdeur",
+                    "c": 7
+                },
+                {
+                    "n": "l’ officier",
+                    "c": 7
+                },
+                {
+                    "n": " ",
+                    "c": 4
+                },
+                {
+                    "n": "l’ homme",
+                    "c": 2
+                },
+                {
+                    "n": "le soldat",
+                    "c": 1
+                },
+                {
+                    "n": "un homme",
+                    "c": 1
+                },
+                {
+                    "n": "un de ceux que nous venons de caractériser",
+                    "c": 1
+                },
+                {
+                    "n": "cet homme",
+                    "c": 1
+                },
+                {
+                    "n": "ce rôdeur",
+                    "c": 1
+                },
+                {
+                    "n": "le rôdeur nocturne",
+                    "c": 1
+                },
+                {
+                    "n": "le mort",
+                    "c": 1
+                },
+                {
+                    "n": "ce mort",
+                    "c": 1
+                },
+                {
+                    "n": "un homme inanimé",
+                    "c": 1
+                },
+                {
+                    "n": "un cuirassier",
+                    "c": 1
+                },
+                {
+                    "n": "un officier",
+                    "c": 1
+                },
+                {
+                    "n": "cet officier",
+                    "c": 1
+                },
+                {
+                    "n": "ce mourant",
+                    "c": 1
+                }
+            ],
+            "pronoun": [
+                {
+                    "n": "il",
+                    "c": 28
+                },
+                {
+                    "n": "vous",
+                    "c": 8
+                },
+                {
+                    "n": "sa",
+                    "c": 6
+                },
+                {
+                    "n": "le",
+                    "c": 6
+                },
+                {
+                    "n": "lui",
+                    "c": 5
+                },
+                {
+                    "n": "son",
+                    "c": 5
+                },
+                {
+                    "n": "j’",
+                    "c": 4
+                },
+                {
+                    "n": "je",
+                    "c": 4
+                },
+                {
+                    "n": "ses",
+                    "c": 3
+                },
+                {
+                    "n": "-il",
+                    "c": 3
+                },
+                {
+                    "n": "-vous",
+                    "c": 3
+                },
+                {
+                    "n": "c’",
+                    "c": 2
+                },
+                {
+                    "n": "m’",
+                    "c": 2
+                },
+                {
+                    "n": "me",
+                    "c": 2
+                },
+                {
+                    "n": "que",
+                    "c": 1
+                },
+                {
+                    "n": "celui - ci",
+                    "c": 1
+                },
+                {
+                    "n": "qui",
+                    "c": 1
+                },
+                {
+                    "n": "l’",
+                    "c": 1
+                },
+                {
+                    "n": "mes",
+                    "c": 1
+                },
+                {
+                    "n": "votre",
+                    "c": 1
+                },
+                {
+                    "n": "mien",
+                    "c": 1
+                }
+            ]
+        },
+        "agent": [
+            {
+                "w": "rôder",
+                "i": 968
+            },
+            {
+                "w": "ramper",
+                "i": 972
+            },
+            {
+                "w": "aller",
+                "i": 1052
+            },
+            {
+                "w": "regarder",
+                "i": 1056
+            },
+            {
+                "w": "avoir",
+                "i": 1083
+            },
+            {
+                "w": "arrêter",
+                "i": 1104
+            },
+            {
+                "w": "examiner",
+                "i": 1106
+            },
+            {
+                "w": "pencher",
+                "i": 1123
+            },
+            {
+                "w": "déranger",
+                "i": 1126
+            },
+            {
+                "w": "redresser",
+                "i": 1139
+            },
+            {
+                "w": "aller",
+                "i": 1925
+            },
+            {
+                "w": "fureter",
+                "i": 1931
+            },
+            {
+                "w": "regarder",
+                "i": 1937
+            },
+            {
+                "w": "passer",
+                "i": 1940
+            },
+            {
+                "w": "marcher",
+                "i": 1951
+            },
+            {
+                "w": "arrêter",
+                "i": 1963
+            },
+            {
+                "w": "courber",
+                "i": 2026
+            },
+            {
+                "w": "demeurer",
+                "i": 2028
+            },
+            {
+                "w": "relever",
+                "i": 2037
+            },
+            {
+                "w": "avoir",
+                "i": 2042
+            },
+            {
+                "w": "relever",
+                "i": 2053
+            },
+            {
+                "w": "rester",
+                "i": 2059
+            },
+            {
+                "w": "dresser",
+                "i": 2127
+            },
+            {
+                "w": "avoir",
+                "i": 2133
+            },
+            {
+                "w": "sentir",
+                "i": 2138
+            },
+            {
+                "w": "retourner",
+                "i": 2148
+            },
+            {
+                "w": "mettre",
+                "i": 2181
+            },
+            {
+                "w": "dire",
+                "i": 2189
+            },
+            {
+                "w": "aimer",
+                "i": 2200
+            },
+            {
+                "w": "reprendre",
+                "i": 2231
+            },
+            {
+                "w": "pencher",
+                "i": 2247
+            },
+            {
+                "w": "fouiller",
+                "i": 2251
+            },
+            {
+                "w": "écarter",
+                "i": 2255
+            },
+            {
+                "w": "saisir",
+                "i": 2261
+            },
+            {
+                "w": "empoigner",
+                "i": 2265
+            },
+            {
+                "w": "dégager",
+                "i": 2269
+            },
+            {
+                "w": "tirer",
+                "i": 2273
+            },
+            {
+                "w": "traîner",
+                "i": 2282
+            },
+            {
+                "w": "avoir",
+                "i": 2329
+            },
+            {
+                "w": "avoir",
+                "i": 2360
+            },
+            {
+                "w": "avoir",
+                "i": 2401
+            },
+            {
+                "w": "arracher",
+                "i": 2417
+            },
+            {
+                "w": "avoir",
+                "i": 2428
+            },
+            {
+                "w": "tâter",
+                "i": 2437
+            },
+            {
+                "w": "prendre",
+                "i": 2450
+            },
+            {
+                "w": "fouiller",
+                "i": 2454
+            },
+            {
+                "w": "trouver",
+                "i": 2459
+            },
+            {
+                "w": "empocher",
+                "i": 2464
+            },
+            {
+                "w": "porter",
+                "i": 2477
+            },
+            {
+                "w": "ouvrir",
+                "i": 2484
+            },
+            {
+                "w": "dire",
+                "i": 2492
+            },
+            {
+                "w": "manier",
+                "i": 2505
+            },
+            {
+                "w": "répondre",
+                "i": 2528
+            },
+            {
+                "w": "lever",
+                "i": 2532
+            },
+            {
+                "w": "murmurer",
+                "i": 2555
+            },
+            {
+                "w": "avoir",
+                "i": 2560
+            },
+            {
+                "w": "répondre",
+                "i": 2584
+            },
+            {
+                "w": "reprendre",
+                "i": 2590
+            },
+            {
+                "w": "trouver",
+                "i": 2602
+            },
+            {
+                "w": "exécuter",
+                "i": 2620
+            },
+            {
+                "w": "dire",
+                "i": 2626
+            },
+            {
+                "w": "reprendre",
+                "i": 2644
+            },
+            {
+                "w": "fâcher",
+                "i": 2652
+            },
+            {
+                "w": "dire",
+                "i": 2679
+            },
+            {
+                "w": "retenir",
+                "i": 2703
+            },
+            {
+                "w": "sauver",
+                "i": 2711
+            },
+            {
+                "w": "répondre",
+                "i": 2722
+            },
+            {
+                "w": "quitte",
+                "i": 2744
+            },
+            {
+                "w": "sauver",
+                "i": 2759
+            },
+            {
+                "w": "appeler",
+                "i": 2785
+            },
+            {
+                "w": "oublier",
+                "i": 2797
+            },
+            {
+                "w": "dire",
+                "i": 2802
+            },
+            {
+                "w": "nommer",
+                "i": 2815
+            }
+        ],
+        "patient": [
+            {
+                "w": "mettre",
+                "i": 509
+            },
+            {
+                "w": "ressembler",
+                "i": 1157
+            },
+            {
+                "w": "tenir",
+                "i": 2144
+            },
+            {
+                "w": "tenir",
+                "i": 2187
+            },
+            {
+                "w": "lâcher",
+                "i": 2214
+            },
+            {
+                "w": "traîner",
+                "i": 2282
+            },
+            {
+                "w": "garantir",
+                "i": 2390
+            },
+            {
+                "w": "manier",
+                "i": 2505
+            },
+            {
+                "w": "tirer",
+                "i": 2520
+            },
+            {
+                "w": "voler",
+                "i": 2642
+            },
+            {
+                "w": "retenir",
+                "i": 2703
+            },
+            {
+                "w": "quitte",
+                "i": 2744
+            },
+            {
+                "w": "prendre",
+                "i": 2750
+            },
+            {
+                "w": "fusiller",
+                "i": 2754
+            },
+            {
+                "w": "retenir",
+                "i": 2809
+            }
+        ],
+        "mod": [
+            {
+                "w": "inquiet",
+                "i": 1047
+            },
+            {
+                "w": "audacieux",
+                "i": 1049
+            },
+            {
+                "w": "vivant",
+                "i": 1716
+            },
+            {
+                "w": "nocturne",
+                "i": 1914
+            },
+            {
+                "w": "inanimé",
+                "i": 2291
+            },
+            {
+                "w": "cuirassier",
+                "i": 2300
+            }
+        ],
+        "poss": [
+            {
+                "w": "compte",
+                "i": 1076
+            },
+            {
+                "w": "point",
+                "i": 1084
+            },
+            {
+                "w": "capote",
+                "i": 1095
+            },
+            {
+                "w": "glissement",
+                "i": 1145
+            },
+            {
+                "w": "attitude",
+                "i": 1148
+            },
+            {
+                "w": "geste",
+                "i": 1151
+            },
+            {
+                "w": "index",
+                "i": 2091
+            },
+            {
+                "w": "parti",
+                "i": 2123
+            },
+            {
+                "w": "soubresaut",
+                "i": 2135
+            },
+            {
+                "w": "capote",
+                "i": 2168
+            },
+            {
+                "w": "casque",
+                "i": 2332
+            },
+            {
+                "w": "visage",
+                "i": 2341
+            },
+            {
+                "w": "membre",
+                "i": 2362
+            },
+            {
+                "w": "oeil",
+                "i": 2396
+            },
+            {
+                "w": "cuirasse",
+                "i": 2404
+            },
+            {
+                "w": "croix",
+                "i": 2406
+            },
+            {
+                "w": "capote",
+                "i": 2431
+            },
+            {
+                "w": "gousset",
+                "i": 2439
+            },
+            {
+                "w": "mouvement",
+                "i": 2499
+            },
+            {
+                "w": "léthargie",
+                "i": 2523
+            },
+            {
+                "w": "voix",
+                "i": 2567
+            },
+            {
+                "w": "poche",
+                "i": 2598
+            },
+            {
+                "w": "grade",
+                "i": 2774
+            }
+        ]
+    },
+    {
+        "id": 1,
+        "count": {
+            "occurrence": 14,
+            "mention_ratio": 0.0757
+        },
+        "gender": {
+            "ratio": 0,
+            "inference": {
+                "Male": 0,
+                "Female": 0
+            },
+            "max": 0,
+            "argmax": "Null"
+        },
+        "number": {
+            "ratio": 0.9286,
+            "inference": {
+                "Singular": 0.0,
+                "Plural": 1.0
+            },
+            "max": 1.0,
+            "argmax": "Plural"
+        },
+        "mentions": {
+            "proper": [],
+            "common": [
+                {
+                    "n": "les anglais",
+                    "c": 1
+                },
+                {
+                    "n": "les prussiens",
+                    "c": 1
+                },
+                {
+                    "n": "des deux vainqueurs",
+                    "c": 1
+                },
+                {
+                    "n": "des êtres chauves - souris",
+                    "c": 1
+                },
+                {
+                    "n": "ces misérables , traînard espagnol",
+                    "c": 1
+                },
+                {
+                    "n": "ses soldats",
+                    "c": 1
+                },
+                {
+                    "n": "les maraudeurs",
+                    "c": 1
+                },
+                {
+                    "n": "les morts",
+                    "c": 1
+                }
+            ],
+            "pronoun": [
+                {
+                    "n": "ils",
+                    "c": 3
+                },
+                {
+                    "n": "leur",
+                    "c": 1
+                },
+                {
+                    "n": "qui",
+                    "c": 1
+                },
+                {
+                    "n": "les",
+                    "c": 1
+                }
+            ]
+        },
+        "agent": [
+            {
+                "w": "occuper",
+                "i": 98
+            },
+            {
+                "w": "établir",
+                "i": 122
+            },
+            {
+                "w": "pousser",
+                "i": 138
+            },
+            {
+                "w": "parler",
+                "i": 676
+            },
+            {
+                "w": "suivre",
+                "i": 679
+            },
+            {
+                "w": "parler",
+                "i": 685
+            },
+            {
+                "w": "suivre",
+                "i": 688
+            },
+            {
+                "w": "parler",
+                "i": 703
+            },
+            {
+                "w": "voler",
+                "i": 938
+            },
+            {
+                "w": "arc-bouter",
+                "i": 2382
+            }
+        ],
+        "patient": [
+            {
+                "w": "fusiller",
+                "i": 950
+            }
+        ],
+        "mod": [
+            {
+                "w": "chauve",
+                "i": 540
+            }
+        ],
+        "poss": [
+            {
+                "w": "bivouac",
+                "i": 124
+            },
+            {
+                "w": "embrasement",
+                "i": 231
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "count": {
+            "occurrence": 11,
+            "mention_ratio": 0.0595
+        },
+        "gender": {
+            "ratio": 0,
+            "inference": {
+                "Male": 0,
+                "Female": 0
+            },
+            "max": 0,
+            "argmax": "Null"
+        },
+        "number": {
+            "ratio": 1.0,
+            "inference": {
+                "Singular": 0.0,
+                "Plural": 1.0
+            },
+            "max": 1.0,
+            "argmax": "Plural"
+        },
+        "mentions": {
+            "proper": [],
+            "common": [],
+            "pronoun": [
+                {
+                    "n": "nous",
+                    "c": 11
+                }
+            ]
+        },
+        "agent": [
+            {
+                "w": "être",
+                "i": 262
+            },
+            {
+                "w": "dire",
+                "i": 281
+            },
+            {
+                "w": "cacher",
+                "i": 296
+            },
+            {
+                "w": "croire",
+                "i": 466
+            },
+            {
+                "w": "parler",
+                "i": 629
+            },
+            {
+                "w": "rendre",
+                "i": 886
+            },
+            {
+                "w": "venir",
+                "i": 994
+            },
+            {
+                "w": "dire",
+                "i": 1461
+            },
+            {
+                "w": "venir",
+                "i": 1918
+            }
+        ],
+        "patient": [],
+        "mod": [],
+        "poss": []
+    },
+    {
+        "id": 3,
+        "count": {
+            "occurrence": 5,
+            "mention_ratio": 0.027
+        },
+        "gender": {
+            "ratio": 0.4,
+            "inference": {
+                "Male": 1.0,
+                "Female": 0.0
+            },
+            "max": 1.0,
+            "argmax": "Male"
+        },
+        "number": {
+            "ratio": 1.0,
+            "inference": {
+                "Singular": 1.0,
+                "Plural": 0.0
+            },
+            "max": 1.0,
+            "argmax": "Singular"
+        },
+        "mentions": {
+            "proper": [
+                {
+                    "n": "turenne",
+                    "c": 1
+                }
+            ],
+            "common": [],
+            "pronoun": [
+                {
+                    "n": "il",
+                    "c": 2
+                },
+                {
+                    "n": "ses",
+                    "c": 1
+                },
+                {
+                    "n": "lui",
+                    "c": 1
+                }
+            ]
+        },
+        "agent": [
+            {
+                "w": "tolérer",
+                "i": 815
+            },
+            {
+                "w": "laisser",
+                "i": 837
+            }
+        ],
+        "patient": [],
+        "mod": [],
+        "poss": [
+            {
+                "w": "soldat",
+                "i": 811
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "count": {
+            "occurrence": 3,
+            "mention_ratio": 0.0162
+        },
+        "gender": {
+            "ratio": 0.6667,
+            "inference": {
+                "Male": 1.0,
+                "Female": 0.0
+            },
+            "max": 1.0,
+            "argmax": "Male"
+        },
+        "number": {
+            "ratio": 1.0,
+            "inference": {
+                "Singular": 1.0,
+                "Plural": 0.0
+            },
+            "max": 1.0,
+            "argmax": "Singular"
+        },
+        "mentions": {
+            "proper": [
+                {
+                    "n": "le marquis de fervacques",
+                    "c": 1
+                }
+            ],
+            "common": [],
+            "pronoun": [
+                {
+                    "n": "son",
+                    "c": 1
+                },
+                {
+                    "n": "le",
+                    "c": 1
+                }
+            ]
+        },
+        "agent": [],
+        "patient": [
+            {
+                "w": "prendre",
+                "i": 720
+            }
+        ],
+        "mod": [],
+        "poss": [
+            {
+                "w": "baragouin",
+                "i": 715
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "count": {
+            "occurrence": 2,
+            "mention_ratio": 0.0108
+        },
+        "gender": {
+            "ratio": 0,
+            "inference": {
+                "Male": 0,
+                "Female": 0
+            },
+            "max": 0,
+            "argmax": "Null"
+        },
+        "number": {
+            "ratio": 1.0,
+            "inference": {
+                "Singular": 0.0,
+                "Plural": 1.0
+            },
+            "max": 1.0,
+            "argmax": "Plural"
+        },
+        "mentions": {
+            "proper": [],
+            "common": [
+                {
+                    "n": "cette masse désastreuse",
+                    "c": 1
+                },
+                {
+                    "n": "la cavalerie prussienne acharnée",
+                    "c": 1
+                }
+            ],
+            "pronoun": []
+        },
+        "agent": [],
+        "patient": [
+            {
+                "w": "livrer",
+                "i": 51
+            }
+        ],
+        "mod": [
+            {
+                "w": "désastreux",
+                "i": 54
+            },
+            {
+                "w": "prussien",
+                "i": 58
+            }
+        ],
+        "poss": []
+    },
+    {
+        "id": 6,
+        "count": {
+            "occurrence": 2,
+            "mention_ratio": 0.0108
+        },
+        "gender": {
+            "ratio": 0,
+            "inference": {
+                "Male": 0,
+                "Female": 0
+            },
+            "max": 0,
+            "argmax": "Null"
+        },
+        "number": {
+            "ratio": 1.0,
+            "inference": {
+                "Singular": 1.0,
+                "Plural": 0.0
+            },
+            "max": 1.0,
+            "argmax": "Singular"
+        },
+        "mentions": {
+            "proper": [
+                {
+                    "n": "wellington",
+                    "c": 1
+                }
+            ],
+            "common": [],
+            "pronoun": [
+                {
+                    "n": "son",
+                    "c": 1
+                }
+            ]
+        },
+        "agent": [
+            {
+                "w": "aller",
+                "i": 143
+            }
+        ],
+        "patient": [],
+        "mod": [],
+        "poss": [
+            {
+                "w": "rapport",
+                "i": 150
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "count": {
+            "occurrence": 2,
+            "mention_ratio": 0.0108
+        },
+        "gender": {
+            "ratio": 0,
+            "inference": {
+                "Male": 0,
+                "Female": 0
+            },
+            "max": 0,
+            "argmax": "Null"
+        },
+        "number": {
+            "ratio": 1.0,
+            "inference": {
+                "Singular": 0.0,
+                "Plural": 1.0
+            },
+            "max": 1.0,
+            "argmax": "Plural"
+        },
+        "mentions": {
+            "proper": [],
+            "common": [
+                {
+                    "n": "des cantiniers interlopes",
+                    "c": 1
+                }
+            ],
+            "pronoun": [
+                {
+                    "n": "leurs",
+                    "c": 1
+                }
+            ]
+        },
+        "agent": [],
+        "patient": [],
+        "mod": [
+            {
+                "w": "interlope",
+                "i": 586
+            }
+        ],
+        "poss": [
+            {
+                "w": "femme",
+                "i": 592
+            }
+        ]
+    }
+]

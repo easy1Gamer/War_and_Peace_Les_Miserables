@@ -1,0 +1,969 @@
+[
+    {
+        "id": 0,
+        "count": {
+            "occurrence": 12,
+            "mention_ratio": 0.125
+        },
+        "gender": {
+            "ratio": 0.5,
+            "inference": {
+                "Male": 1.0,
+                "Female": 0.0
+            },
+            "max": 1.0,
+            "argmax": "Male"
+        },
+        "number": {
+            "ratio": 0.75,
+            "inference": {
+                "Singular": 1.0,
+                "Plural": 0.0
+            },
+            "max": 1.0,
+            "argmax": "Singular"
+        },
+        "mentions": {
+            "proper": [],
+            "common": [
+                {
+                    "n": "un très jeune enfant",
+                    "c": 1
+                },
+                {
+                    "n": "un petit garçon",
+                    "c": 1
+                },
+                {
+                    "n": "du mioche",
+                    "c": 1
+                },
+                {
+                    "n": "ton fils",
+                    "c": 1
+                },
+                {
+                    "n": "le petit abandonné",
+                    "c": 1
+                }
+            ],
+            "pronoun": [
+                {
+                    "n": "qui",
+                    "c": 2
+                },
+                {
+                    "n": "l’",
+                    "c": 2
+                },
+                {
+                    "n": "il",
+                    "c": 2
+                },
+                {
+                    "n": "que",
+                    "c": 1
+                }
+            ]
+        },
+        "agent": [
+            {
+                "w": "piailler",
+                "i": 1544
+            },
+            {
+                "w": "vouloir",
+                "i": 1555
+            },
+            {
+                "w": "ennuyer",
+                "i": 1567
+            },
+            {
+                "w": "continuer",
+                "i": 1574
+            }
+        ],
+        "patient": [
+            {
+                "w": "avoir",
+                "i": 1483
+            },
+            {
+                "w": "nourrir",
+                "i": 1522
+            },
+            {
+                "w": "aimer",
+                "i": 1527
+            }
+        ],
+        "mod": [
+            {
+                "w": "jeune",
+                "i": 1455
+            },
+            {
+                "w": "petit",
+                "i": 1477
+            },
+            {
+                "w": "âgé",
+                "i": 1509
+            }
+        ],
+        "poss": [
+            {
+                "w": "clameur",
+                "i": 1532
+            }
+        ]
+    },
+    {
+        "id": 1,
+        "count": {
+            "occurrence": 8,
+            "mention_ratio": 0.0833
+        },
+        "gender": {
+            "ratio": 0.375,
+            "inference": {
+                "Male": 0.67,
+                "Female": 0.33
+            },
+            "max": 0.67,
+            "argmax": "Male"
+        },
+        "number": {
+            "ratio": 0.625,
+            "inference": {
+                "Singular": 1.0,
+                "Plural": 0.0
+            },
+            "max": 1.0,
+            "argmax": "Singular"
+        },
+        "mentions": {
+            "proper": [
+                {
+                    "n": "la petite cosette",
+                    "c": 1
+                }
+            ],
+            "common": [
+                {
+                    "n": "un bonhomme",
+                    "c": 1
+                },
+                {
+                    "n": "ce bonhomme",
+                    "c": 1
+                },
+                {
+                    "n": "ce pauvre être",
+                    "c": 1
+                },
+                {
+                    "n": "l’ enfant",
+                    "c": 1
+                }
+            ],
+            "pronoun": [
+                {
+                    "n": "dont",
+                    "c": 1
+                },
+                {
+                    "n": "qui",
+                    "c": 1
+                },
+                {
+                    "n": "que",
+                    "c": 1
+                }
+            ]
+        },
+        "agent": [
+            {
+                "w": "gagner",
+                "i": 342
+            },
+            {
+                "w": "travailler",
+                "i": 361
+            }
+        ],
+        "patient": [
+            {
+                "w": "oublier",
+                "i": 426
+            }
+        ],
+        "mod": [
+            {
+                "w": "pauvre",
+                "i": 417
+            },
+            {
+                "w": "petit",
+                "i": 430
+            }
+        ],
+        "poss": [
+            {
+                "w": "terreur",
+                "i": 414
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "count": {
+            "occurrence": 7,
+            "mention_ratio": 0.0729
+        },
+        "gender": {
+            "ratio": 0,
+            "inference": {
+                "Male": 0,
+                "Female": 0
+            },
+            "max": 0,
+            "argmax": "Null"
+        },
+        "number": {
+            "ratio": 0.8571,
+            "inference": {
+                "Singular": 0.0,
+                "Plural": 1.0
+            },
+            "max": 1.0,
+            "argmax": "Plural"
+        },
+        "mentions": {
+            "proper": [],
+            "common": [
+                {
+                    "n": "les bateleurs",
+                    "c": 1
+                }
+            ],
+            "pronoun": [
+                {
+                    "n": "nous",
+                    "c": 3
+                },
+                {
+                    "n": "leur",
+                    "c": 1
+                },
+                {
+                    "n": "notre",
+                    "c": 1
+                },
+                {
+                    "n": "on",
+                    "c": 1
+                }
+            ]
+        },
+        "agent": [
+            {
+                "w": "donner",
+                "i": 786
+            },
+            {
+                "w": "trouver",
+                "i": 1113
+            },
+            {
+                "w": "pouvoir",
+                "i": 1122
+            },
+            {
+                "w": "falloir",
+                "i": 1132
+            },
+            {
+                "w": "entendre",
+                "i": 1412
+            }
+        ],
+        "patient": [],
+        "mod": [
+            {
+                "w": "responsable",
+                "i": 1099
+            }
+        ],
+        "poss": [
+            {
+                "w": "ménagerie",
+                "i": 803
+            },
+            {
+                "w": "faute",
+                "i": 1255
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "count": {
+            "occurrence": 7,
+            "mention_ratio": 0.0729
+        },
+        "gender": {
+            "ratio": 0.4286,
+            "inference": {
+                "Male": 1.0,
+                "Female": 0.0
+            },
+            "max": 1.0,
+            "argmax": "Male"
+        },
+        "number": {
+            "ratio": 0.7143,
+            "inference": {
+                "Singular": 1.0,
+                "Plural": 0.0
+            },
+            "max": 1.0,
+            "argmax": "Singular"
+        },
+        "mentions": {
+            "proper": [
+                {
+                    "n": "le mari thénardier",
+                    "c": 1
+                }
+            ],
+            "common": [
+                {
+                    "n": "un meunier",
+                    "c": 1
+                },
+                {
+                    "n": "monsieur",
+                    "c": 1
+                }
+            ],
+            "pronoun": [
+                {
+                    "n": "ses",
+                    "c": 1
+                },
+                {
+                    "n": "qui",
+                    "c": 1
+                },
+                {
+                    "n": "je",
+                    "c": 1
+                },
+                {
+                    "n": "votre",
+                    "c": 1
+                }
+            ]
+        },
+        "agent": [
+            {
+                "w": "boire",
+                "i": 931
+            },
+            {
+                "w": "parler",
+                "i": 936
+            },
+            {
+                "w": "écrier",
+                "i": 1089
+            },
+            {
+                "w": "avoir",
+                "i": 1195
+            }
+        ],
+        "patient": [],
+        "mod": [],
+        "poss": [
+            {
+                "w": "hôte",
+                "i": 934
+            },
+            {
+                "w": "amour",
+                "i": 1198
+            },
+            {
+                "w": "herbe",
+                "i": 1322
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "count": {
+            "occurrence": 6,
+            "mention_ratio": 0.0625
+        },
+        "gender": {
+            "ratio": 0.1667,
+            "inference": {
+                "Male": 1.0,
+                "Female": 0.0
+            },
+            "max": 1.0,
+            "argmax": "Male"
+        },
+        "number": {
+            "ratio": 0.8333,
+            "inference": {
+                "Singular": 0.2,
+                "Plural": 0.8
+            },
+            "max": 0.8,
+            "argmax": "Plural"
+        },
+        "mentions": {
+            "proper": [
+                {
+                    "n": "aux thénardier",
+                    "c": 1
+                },
+                {
+                    "n": "des thénardier",
+                    "c": 1
+                }
+            ],
+            "common": [
+                {
+                    "n": "les thénardier",
+                    "c": 1
+                }
+            ],
+            "pronoun": [
+                {
+                    "n": "ils",
+                    "c": 2
+                },
+                {
+                    "n": "leur",
+                    "c": 1
+                }
+            ]
+        },
+        "agent": [
+            {
+                "w": "payer",
+                "i": 449
+            },
+            {
+                "w": "servir",
+                "i": 457
+            },
+            {
+                "w": "garder",
+                "i": 485
+            }
+        ],
+        "patient": [],
+        "mod": [],
+        "poss": [
+            {
+                "w": "gargote",
+                "i": 640
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "count": {
+            "occurrence": 6,
+            "mention_ratio": 0.0625
+        },
+        "gender": {
+            "ratio": 0.6667,
+            "inference": {
+                "Male": 0.0,
+                "Female": 1.0
+            },
+            "max": 1.0,
+            "argmax": "Female"
+        },
+        "number": {
+            "ratio": 0.8333,
+            "inference": {
+                "Singular": 1.0,
+                "Plural": 0.0
+            },
+            "max": 1.0,
+            "argmax": "Singular"
+        },
+        "mentions": {
+            "proper": [
+                {
+                    "n": "cosette",
+                    "c": 1
+                }
+            ],
+            "common": [
+                {
+                    "n": "l’ enfant",
+                    "c": 1
+                }
+            ],
+            "pronoun": [
+                {
+                    "n": "elle",
+                    "c": 2
+                },
+                {
+                    "n": "qui",
+                    "c": 1
+                },
+                {
+                    "n": "-elle",
+                    "c": 1
+                }
+            ]
+        },
+        "agent": [
+            {
+                "w": "remplacer",
+                "i": 490
+            },
+            {
+                "w": "courir",
+                "i": 502
+            },
+            {
+                "w": "avoir",
+                "i": 529
+            }
+        ],
+        "patient": [
+            {
+                "w": "garder",
+                "i": 485
+            }
+        ],
+        "mod": [],
+        "poss": [
+            {
+                "w": "soin",
+                "i": 532
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "count": {
+            "occurrence": 6,
+            "mention_ratio": 0.0625
+        },
+        "gender": {
+            "ratio": 0.6667,
+            "inference": {
+                "Male": 0.0,
+                "Female": 1.0
+            },
+            "max": 1.0,
+            "argmax": "Female"
+        },
+        "number": {
+            "ratio": 1.0,
+            "inference": {
+                "Singular": 1.0,
+                "Plural": 0.0
+            },
+            "max": 1.0,
+            "argmax": "Singular"
+        },
+        "mentions": {
+            "proper": [
+                {
+                    "n": "cosette",
+                    "c": 1
+                }
+            ],
+            "common": [],
+            "pronoun": [
+                {
+                    "n": "elle",
+                    "c": 3
+                },
+                {
+                    "n": "sa",
+                    "c": 1
+                },
+                {
+                    "n": "ses",
+                    "c": 1
+                }
+            ]
+        },
+        "agent": [
+            {
+                "w": "avoir",
+                "i": 1377
+            },
+            {
+                "w": "tricoter",
+                "i": 1387
+            }
+        ],
+        "patient": [],
+        "mod": [
+            {
+                "w": "place",
+                "i": 1354
+            },
+            {
+                "w": "ordinaire",
+                "i": 1355
+            },
+            {
+                "w": "haillon",
+                "i": 1374
+            }
+        ],
+        "poss": [
+            {
+                "w": "place",
+                "i": 1354
+            },
+            {
+                "w": "pied",
+                "i": 1379
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "count": {
+            "occurrence": 6,
+            "mention_ratio": 0.0625
+        },
+        "gender": {
+            "ratio": 0.6667,
+            "inference": {
+                "Male": 0.0,
+                "Female": 1.0
+            },
+            "max": 1.0,
+            "argmax": "Female"
+        },
+        "number": {
+            "ratio": 1.0,
+            "inference": {
+                "Singular": 1.0,
+                "Plural": 0.0
+            },
+            "max": 1.0,
+            "argmax": "Singular"
+        },
+        "mentions": {
+            "proper": [
+                {
+                    "n": "la thénardier",
+                    "c": 1
+                }
+            ],
+            "common": [
+                {
+                    "n": "la mère",
+                    "c": 2
+                }
+            ],
+            "pronoun": [
+                {
+                    "n": "-elle",
+                    "c": 1
+                },
+                {
+                    "n": "ton",
+                    "c": 1
+                },
+                {
+                    "n": "m’",
+                    "c": 1
+                }
+            ]
+        },
+        "agent": [
+            {
+                "w": "avoir",
+                "i": 1483
+            },
+            {
+                "w": "dire",
+                "i": 1496
+            },
+            {
+                "w": "nourrir",
+                "i": 1522
+            },
+            {
+                "w": "aimer",
+                "i": 1527
+            },
+            {
+                "w": "répondre",
+                "i": 1561
+            }
+        ],
+        "patient": [],
+        "mod": [],
+        "poss": [
+            {
+                "w": "fils",
+                "i": 1543
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "count": {
+            "occurrence": 2,
+            "mention_ratio": 0.0208
+        },
+        "gender": {
+            "ratio": 1.0,
+            "inference": {
+                "Male": 0.0,
+                "Female": 1.0
+            },
+            "max": 1.0,
+            "argmax": "Female"
+        },
+        "number": {
+            "ratio": 1.0,
+            "inference": {
+                "Singular": 1.0,
+                "Plural": 0.0
+            },
+            "max": 1.0,
+            "argmax": "Singular"
+        },
+        "mentions": {
+            "proper": [],
+            "common": [
+                {
+                    "n": "la mère",
+                    "c": 2
+                }
+            ],
+            "pronoun": []
+        },
+        "agent": [
+            {
+                "w": "cesser",
+                "i": 466
+            }
+        ],
+        "patient": [],
+        "mod": [],
+        "poss": []
+    },
+    {
+        "id": 9,
+        "count": {
+            "occurrence": 2,
+            "mention_ratio": 0.0208
+        },
+        "gender": {
+            "ratio": 0,
+            "inference": {
+                "Male": 0,
+                "Female": 0
+            },
+            "max": 0,
+            "argmax": "Null"
+        },
+        "number": {
+            "ratio": 0.5,
+            "inference": {
+                "Singular": 0.0,
+                "Plural": 1.0
+            },
+            "max": 1.0,
+            "argmax": "Plural"
+        },
+        "mentions": {
+            "proper": [
+                {
+                    "n": "des bateleurs venus de paris",
+                    "c": 1
+                }
+            ],
+            "common": [],
+            "pronoun": [
+                {
+                    "n": "leurs",
+                    "c": 1
+                }
+            ]
+        },
+        "agent": [
+            {
+                "w": "obtenir",
+                "i": 580
+            }
+        ],
+        "patient": [],
+        "mod": [],
+        "poss": [
+            {
+                "w": "baraque",
+                "i": 591
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "count": {
+            "occurrence": 2,
+            "mention_ratio": 0.0208
+        },
+        "gender": {
+            "ratio": 0,
+            "inference": {
+                "Male": 0,
+                "Female": 0
+            },
+            "max": 0,
+            "argmax": "Null"
+        },
+        "number": {
+            "ratio": 1.0,
+            "inference": {
+                "Singular": 0.0,
+                "Plural": 1.0
+            },
+            "max": 1.0,
+            "argmax": "Plural"
+        },
+        "mentions": {
+            "proper": [],
+            "common": [],
+            "pronoun": [
+                {
+                    "n": "nous",
+                    "c": 1
+                },
+                {
+                    "n": "notre",
+                    "c": 1
+                }
+            ]
+        },
+        "agent": [
+            {
+                "w": "devoir",
+                "i": 666
+            }
+        ],
+        "patient": [],
+        "mod": [],
+        "poss": [
+            {
+                "w": "muséum",
+                "i": 722
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "count": {
+            "occurrence": 2,
+            "mention_ratio": 0.0208
+        },
+        "gender": {
+            "ratio": 0.5,
+            "inference": {
+                "Male": 1.0,
+                "Female": 0.0
+            },
+            "max": 1.0,
+            "argmax": "Male"
+        },
+        "number": {
+            "ratio": 0.5,
+            "inference": {
+                "Singular": 0.0,
+                "Plural": 1.0
+            },
+            "max": 1.0,
+            "argmax": "Plural"
+        },
+        "mentions": {
+            "proper": [],
+            "common": [
+                {
+                    "n": "plusieurs hommes",
+                    "c": 1
+                },
+                {
+                    "n": "rouliers",
+                    "c": 1
+                }
+            ],
+            "pronoun": []
+        },
+        "agent": [],
+        "patient": [],
+        "mod": [],
+        "poss": []
+    },
+    {
+        "id": 12,
+        "count": {
+            "occurrence": 2,
+            "mention_ratio": 0.0208
+        },
+        "gender": {
+            "ratio": 0.5,
+            "inference": {
+                "Male": 1.0,
+                "Female": 0.0
+            },
+            "max": 1.0,
+            "argmax": "Male"
+        },
+        "number": {
+            "ratio": 0.5,
+            "inference": {
+                "Singular": 1.0,
+                "Plural": 0.0
+            },
+            "max": 1.0,
+            "argmax": "Singular"
+        },
+        "mentions": {
+            "proper": [],
+            "common": [
+                {
+                    "n": "un propriétaire",
+                    "c": 1
+                }
+            ],
+            "pronoun": [
+                {
+                    "n": "qui",
+                    "c": 1
+                }
+            ]
+        },
+        "agent": [
+            {
+                "w": "faire",
+                "i": 1271
+            }
+        ],
+        "patient": [],
+        "mod": [],
+        "poss": []
+    }
+]

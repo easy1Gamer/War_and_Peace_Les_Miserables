@@ -1,0 +1,76 @@
+start_token	end_token	cat	confidence	text	mention_len	paragraph_ID	sentence_ID	start_token_ID_within_sentence	out_to_in_nested_level	in_to_out_nested_level	nested_entities_count	temp_index	head_id	head_word	head_dependency_relation	head_syntactic_head_ID	POS_tag	prop	number	gender	grammatical_person	COREF
+10	10	GPE	0.9687833786010742	nivelles	1	0	0	10	0	0	0	0	10	nivelles	obl:arg	8	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+11	15	TIME	0.670207542181015	l’ an dernier ( 1861	5	1	1	0	0	0	0	1	12	an	obl:mod	37	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+19	23	TIME	0.4696640372276306	une belle matinée de mai	5	1	1	8	0	0	0	2	21	matinée	obl:mod	37	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+25	26	PER	0.9498250484466553	un passant	2	1	1	14	0	0	0	3	26	passant	nsubj	37	NOUN	NOM	Singular	Male	3	0
+28	28	PER	0.9275998473167419	celui	1	1	1	17	0	0	0	4	28	celui	appos	26	PRON	PRON	Singular	Male	3	0
+29	29	PER	0.9665740132331848	qui	1	1	1	18	0	0	0	5	29	qui	nsubj	30	PRON	PRON	Ambiguous	Ambiguous	4	0
+39	39	GPE	0.9665374755859375	nivelles	1	1	1	28	0	0	0	6	39	nivelles	obl:arg	37	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+44	45	GPE	0.9015412032604218	la hulpe	2	1	1	33	0	0	0	7	45	hulpe	obl:arg	42	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+47	47	PER	0.9986139535903931	il	1	1	2	0	0	0	0	8	47	il	nsubj	48	PRON	PRON	Singular	Male	3	0
+52	52	PER	0.9982293248176575	il	1	1	3	0	0	0	0	9	52	il	nsubj	53	PRON	PRON	Singular	Male	3	0
+67	68	LOC	0.6300411820411682	des collines	2	1	3	15	0	0	0	10	68	collines	obl:arg	65	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+69	69	LOC	0.703139066696167	qui	1	1	3	17	0	0	0	11	69	qui	nsubj	70	PRON	PRON	Not_Assigned	Not_Assigned	4	
+78	79	FAC	0.7301789224147797	la route	2	1	3	26	0	0	0	12	79	route	obj	77	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+93	93	PER	0.9986953139305115	il	1	1	4	0	0	0	0	13	93	il	nsubj	95	PRON	PRON	Singular	Male	3	0
+96	96	GPE	0.9463229775428772	lillois	1	1	4	3	0	0	0	14	96	lillois	obj	95	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+98	98	GPE	0.6246579885482788	bois-seigneur-isaac	1	1	4	5	0	0	0	15	98	bois-seigneur-isaac	conj	96	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+100	100	PER	0.9990535378456116	il	1	1	5	0	0	0	0	16	100	il	nsubj	101	PRON	PRON	Singular	Male	3	0
+112	115	GPE	0.4995666369795799	braine - l’ alleud	4	1	5	12	0	0	0	17	115	alleud	nmod	108	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+116	116	FAC	0.3553274869918823	qui	1	1	5	16	0	0	0	18	116	qui	nsubj	117	PRON	PRON	Not_Assigned	Not_Assigned	4	
+125	125	PER	0.9982007741928101	il	1	1	6	0	0	0	0	19	125	il	nsubj	126	PRON	PRON	Singular	Male	3	0
+130	130	PER	0.9754882454872131	lui	1	1	6	5	0	0	0	20	130	lui	obl:mod	128	PRON	PRON	Singular	Ambiguous	3	0
+131	132	LOC	0.6399438083171844	un bois	2	1	6	6	0	0	0	21	132	bois	obj	128	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+134	135	LOC	0.7790504992008209	une hauteur	2	1	6	9	0	0	0	22	135	hauteur	obl:mod	128	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+143	146	FAC	0.8730464577674866	un chemin de traverse	4	1	6	18	0	0	0	23	144	chemin	nmod	141	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+167	168	FAC	0.9251638352870941	un cabaret	2	1	6	42	0	0	0	24	168	cabaret	nmod	162	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+171	171	FAC	0.7656046748161316	sa	1	1	6	46	0	0	0	25	171	sa	det	172	DET	PRON	Not_Assigned	Not_Assigned	3	
+181	181	PER	0.4192725121974945	échabeau	1	1	7	0	0	0	0	26	181	échabeau	ROOT	181	NOUN	NOM	Not_Assigned	Not_Assigned	3	0
+183	185	FAC	0.3849194645881653	café de particulier	3	1	7	2	0	0	0	27	184	de	punct	181	ADP	PRON	Not_Assigned	Not_Assigned	3	
+194	195	FAC	0.9149974882602692	ce cabaret	2	2	8	7	0	0	0	28	195	cabaret	dep	192	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+197	197	PER	0.9978753328323364	il	1	2	8	10	0	0	0	29	197	il	nsubj	198	PRON	PRON	Singular	Male	3	0
+202	204	LOC	0.6311975618203481	un petit vallon	3	2	8	15	0	0	0	30	204	vallon	nmod	200	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+205	205	LOC	0.8080511093139648	où	1	2	8	18	0	0	0	31	205	où	iobj	208	PRON	PRON	Not_Assigned	Not_Assigned	3	
+222	223	FAC	0.8467385470867157	la route	2	2	8	35	0	0	0	32	223	route	nmod	220	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+237	238	LOC	0.6823699772357941	le vallon	2	2	9	12	0	0	0	33	238	vallon	obj	236	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+243	244	FAC	0.6287053823471069	la chaussée	2	2	9	18	0	0	0	34	244	chaussée	nmod	241	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+252	253	LOC	0.7082315683364868	les prairies	2	2	9	27	0	0	0	35	253	prairies	obl:mod	247	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+265	268	GPE	0.6865733042359352	braine - l’ alleud	4	2	9	40	0	0	0	36	268	alleud	obj	257	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+281	282	FAC	0.8870797455310822	la route	2	3	10	11	0	0	0	37	282	route	nmod	279	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+284	285	FAC	0.9305811822414398	une auberge	2	3	10	14	0	0	0	38	285	auberge	obj	272	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+287	291	VEH	0.6532689929008484	une charrette à quatre roues	5	3	10	17	0	0	0	39	288	charrette	conj	285	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+333	339	FAC	0.7056847470147269	un vieux hangar à cloisons de paille	7	3	10	63	0	0	0	40	335	hangar	dep	329	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+341	343	PER	0.9290383458137512	une jeune fille	3	3	11	0	0	0	0	41	343	fille	nsubj	344	NOUN	NOM	Singular	Female	3	2
+346	347	LOC	0.4571337252855301	un champ	2	3	11	5	0	0	0	42	347	champ	obl:arg	344	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+348	348	LOC	0.34052133560180664	où	1	3	11	7	0	0	0	43	348	où	iobj	362	PRON	PRON	Not_Assigned	Not_Assigned	3	
+370	371	FAC	0.9435425400733948	l’ auberge	2	3	12	4	0	0	0	44	371	auberge	nmod	368	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+376	377	LOC	0.6296234130859375	une mare	2	3	12	10	0	0	0	45	377	mare	nmod	374	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+378	378	LOC	0.44908857345581055	où	1	3	12	12	0	0	0	46	378	où	iobj	379	PRON	PRON	Not_Assigned	Not_Assigned	3	
+385	388	FAC	0.6767376363277435	un sentier mal pavé	4	3	12	19	0	0	0	47	386	sentier	nsubj	390	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+395	396	PER	0.9719132781028748	ce passant	2	3	13	0	0	0	0	48	396	passant	nsubj	398	NOUN	NOM	Singular	Male	3	0
+397	397	FAC	0.7332766652107239	y	1	3	13	2	0	0	0	49	397	y	iobj	398	PRON	PRON	Not_Assigned	Not_Assigned	3	
+425	425	PER	0.9988102912902832	il	1	4	14	25	0	0	0	50	425	il	nsubj	427	PRON	PRON	Singular	Male	3	0
+502	502	TIME	0.7784253358840942	mai	1	4	16	18	0	0	0	51	502	mai	nmod	500	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+523	524	LOC	0.8485375344753265	le soleil	2	5	19	0	0	0	0	52	524	soleil	nsubj	526	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+536	536	TIME	0.6884453296661377	mai	1	5	19	13	0	0	0	53	536	mai	nmod	534	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+563	564	PER	0.9899914264678955	le passant	2	6	21	0	0	0	0	54	564	passant	nsubj	566	NOUN	NOM	Singular	Male	3	0
+604	605	PER	0.9399476051330566	une paysanne	2	6	22	8	0	0	0	55	605	paysanne	nsubj	606	NOUN	NOM	Singular	Female	3	1
+608	608	PER	0.9995803236961365	elle	1	7	23	0	0	0	0	56	608	elle	nsubj	609	PRON	PRON	Singular	Female	3	1
+610	611	PER	0.9840000569820404	le passant	2	7	23	2	0	0	0	57	611	passant	obj	609	NOUN	NOM	Singular	Male	3	0
+616	616	PER	0.9994038343429565	il	1	7	23	8	0	0	0	58	616	il	nsubj	617	PRON	PRON	Singular	Male	3	0
+631	631	PER	0.998288094997406	lui	1	8	24	12	0	0	0	59	631	lui	iobj	632	PRON	PRON	Singular	Ambiguous	3	0
+633	633	PER	0.9977832436561584	-elle	1	8	24	14	0	0	0	60	633	elle	nsubj	632	PRON	PRON	Singular	Female	3	1
+636	636	PER	0.9994351267814636	elle	1	9	25	1	0	0	0	61	636	elle	nsubj	637	PRON	PRON	Singular	Female	3	1
+644	644	PER	0.9984216690063477	vous	1	10	26	4	0	0	0	62	644	vous	nsubj	645	PRON	PRON	Ambiguous	Ambiguous	2	0
+675	676	LOC	0.899785041809082	le bois	2	10	27	6	0	0	0	63	676	bois	obj	674	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+683	686	LOC	0.4505891352891922	cet endroit - ci	4	11	28	5	0	0	0	64	684	endroit	nsubj	682	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+690	691	PER	0.9870981276035309	le passant	2	11	28	12	0	0	0	65	691	passant	nsubj	689	NOUN	NOM	Singular	Male	3	0
+694	695	GPE	0.4797286093235016	  hougomont	2	12	29	1	0	0	0	66	695	hougomont	ROOT	695	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+698	699	PER	0.985098123550415	la paysanne	2	12	29	5	0	0	0	67	699	paysanne	nsubj	697	NOUN	NOM	Singular	Female	3	1
+701	702	PER	0.9897922575473785	le passant	2	13	30	0	0	0	0	68	702	passant	nsubj	704	NOUN	NOM	Singular	Male	3	0
+706	706	PER	0.9996273517608643	il	1	13	31	0	0	0	0	69	706	il	nsubj	707	PRON	PRON	Singular	Male	3	0
+719	719	PER	0.9995442032814026	il	1	13	32	0	0	0	0	70	719	il	nsubj	720	PRON	PRON	Singular	Male	3	0
+734	735	LOC	0.4667755663394928	ce monticule	2	13	32	15	0	0	0	71	735	monticule	nmod	737	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+748	748	PER	0.9993155002593994	il	1	14	33	0	0	0	0	72	748	il	nsubj	749	PRON	PRON	Singular	Male	3	0
+751	756	TIME	0.5426967889070511	le champ de bataille de waterloo	6	14	33	3	0	1	1	73	752	champ	obl:arg	749	NOUN	PROP	Not_Assigned	Not_Assigned	3	
+756	756	GPE	0.9200243353843689	waterloo	1	14	33	8	1	0	0	74	756	waterloo	nmod	752	PROPN	PROP	Not_Assigned	Not_Assigned	3	

@@ -1,0 +1,696 @@
+[
+    {
+        "id": 0,
+        "count": {
+            "occurrence": 7,
+            "mention_ratio": 0.0946
+        },
+        "gender": {
+            "ratio": 1.0,
+            "inference": {
+                "Male": 1.0,
+                "Female": 0.0
+            },
+            "max": 1.0,
+            "argmax": "Male"
+        },
+        "number": {
+            "ratio": 1.0,
+            "inference": {
+                "Singular": 1.0,
+                "Plural": 0.0
+            },
+            "max": 1.0,
+            "argmax": "Singular"
+        },
+        "mentions": {
+            "proper": [
+                {
+                    "n": "ney",
+                    "c": 1
+                }
+            ],
+            "common": [],
+            "pronoun": [
+                {
+                    "n": "il",
+                    "c": 5
+                },
+                {
+                    "n": "le",
+                    "c": 1
+                }
+            ]
+        },
+        "agent": [
+            {
+                "w": "emprunter",
+                "i": 92
+            },
+            {
+                "w": "saute",
+                "i": 96
+            },
+            {
+                "w": "mettre",
+                "i": 111
+            },
+            {
+                "w": "tâcher",
+                "i": 131
+            },
+            {
+                "w": "rappeler",
+                "i": 139
+            },
+            {
+                "w": "insulter",
+                "i": 143
+            },
+            {
+                "w": "cramponner",
+                "i": 147
+            }
+        ],
+        "patient": [
+            {
+                "w": "fuir",
+                "i": 159
+            }
+        ],
+        "mod": [],
+        "poss": []
+    },
+    {
+        "id": 1,
+        "count": {
+            "occurrence": 7,
+            "mention_ratio": 0.0946
+        },
+        "gender": {
+            "ratio": 0.5714,
+            "inference": {
+                "Male": 1.0,
+                "Female": 0.0
+            },
+            "max": 1.0,
+            "argmax": "Male"
+        },
+        "number": {
+            "ratio": 1.0,
+            "inference": {
+                "Singular": 1.0,
+                "Plural": 0.0
+            },
+            "max": 1.0,
+            "argmax": "Singular"
+        },
+        "mentions": {
+            "proper": [
+                {
+                    "n": "napoléon",
+                    "c": 1
+                },
+                {
+                    "n": "vivian",
+                    "c": 1
+                }
+            ],
+            "common": [
+                {
+                    "n": "l’ empereur",
+                    "c": 1
+                }
+            ],
+            "pronoun": [
+                {
+                    "n": "lui",
+                    "c": 1
+                },
+                {
+                    "n": "il",
+                    "c": 1
+                },
+                {
+                    "n": "ses",
+                    "c": 1
+                },
+                {
+                    "n": "le",
+                    "c": 1
+                }
+            ]
+        },
+        "agent": [
+            {
+                "w": "faire",
+                "i": 265
+            },
+            {
+                "w": "dépense",
+                "i": 281
+            }
+        ],
+        "patient": [
+            {
+                "w": "connaître",
+                "i": 380
+            }
+        ],
+        "mod": [],
+        "poss": [
+            {
+                "w": "escadron",
+                "i": 287
+            },
+            {
+                "w": "escadron",
+                "i": 327
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "count": {
+            "occurrence": 7,
+            "mention_ratio": 0.0946
+        },
+        "gender": {
+            "ratio": 0.4286,
+            "inference": {
+                "Male": 1.0,
+                "Female": 0.0
+            },
+            "max": 1.0,
+            "argmax": "Male"
+        },
+        "number": {
+            "ratio": 0.8571,
+            "inference": {
+                "Singular": 1.0,
+                "Plural": 0.0
+            },
+            "max": 1.0,
+            "argmax": "Singular"
+        },
+        "mentions": {
+            "proper": [],
+            "common": [
+                {
+                    "n": "le prisonnier",
+                    "c": 1
+                },
+                {
+                    "n": "du grand homme",
+                    "c": 1
+                },
+                {
+                    "n": "un homme hagard",
+                    "c": 1
+                }
+            ],
+            "pronoun": [
+                {
+                    "n": "son",
+                    "c": 2
+                },
+                {
+                    "n": "sa",
+                    "c": 1
+                },
+                {
+                    "n": "qui",
+                    "c": 1
+                }
+            ]
+        },
+        "agent": [
+            {
+                "w": "venir",
+                "i": 1052
+            }
+        ],
+        "patient": [
+            {
+                "w": "tuer",
+                "i": 727
+            },
+            {
+                "w": "arrêter",
+                "i": 1032
+            }
+        ],
+        "mod": [
+            {
+                "w": "grand",
+                "i": 954
+            },
+            {
+                "w": "hagard",
+                "i": 1035
+            },
+            {
+                "w": "pensif",
+                "i": 1037
+            },
+            {
+                "w": "sinistre",
+                "i": 1039
+            }
+        ],
+        "poss": [
+            {
+                "w": "disparition",
+                "i": 952
+            },
+            {
+                "w": "redingote",
+                "i": 1030
+            },
+            {
+                "w": "bras",
+                "i": 1063
+            },
+            {
+                "w": "cheval",
+                "i": 1068
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "count": {
+            "occurrence": 3,
+            "mention_ratio": 0.0405
+        },
+        "gender": {
+            "ratio": 0.3333,
+            "inference": {
+                "Male": 1.0,
+                "Female": 0.0
+            },
+            "max": 1.0,
+            "argmax": "Male"
+        },
+        "number": {
+            "ratio": 1.0,
+            "inference": {
+                "Singular": 1.0,
+                "Plural": 0.0
+            },
+            "max": 1.0,
+            "argmax": "Singular"
+        },
+        "mentions": {
+            "proper": [
+                {
+                    "n": "zieten",
+                    "c": 1
+                },
+                {
+                    "n": "blücher",
+                    "c": 1
+                }
+            ],
+            "common": [],
+            "pronoun": [
+                {
+                    "n": "son",
+                    "c": 1
+                }
+            ]
+        },
+        "agent": [
+            {
+                "w": "ordonner",
+                "i": 666
+            }
+        ],
+        "patient": [],
+        "mod": [],
+        "poss": [
+            {
+                "w": "aise",
+                "i": 549
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "count": {
+            "occurrence": 3,
+            "mention_ratio": 0.0405
+        },
+        "gender": {
+            "ratio": 0,
+            "inference": {
+                "Male": 0,
+                "Female": 0
+            },
+            "max": 0,
+            "argmax": "Null"
+        },
+        "number": {
+            "ratio": 0.6667,
+            "inference": {
+                "Singular": 1.0,
+                "Plural": 0.0
+            },
+            "max": 1.0,
+            "argmax": "Singular"
+        },
+        "mentions": {
+            "proper": [
+                {
+                    "n": "ducesme",
+                    "c": 1
+                }
+            ],
+            "common": [
+                {
+                    "n": "le général de la jeune garde",
+                    "c": 1
+                }
+            ],
+            "pronoun": [
+                {
+                    "n": "son",
+                    "c": 1
+                }
+            ]
+        },
+        "agent": [],
+        "patient": [],
+        "mod": [
+            {
+                "w": "jeune",
+                "i": 698
+            }
+        ],
+        "poss": [
+            {
+                "w": "général",
+                "i": 695
+            },
+            {
+                "w": "épée",
+                "i": 715
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "count": {
+            "occurrence": 2,
+            "mention_ratio": 0.027
+        },
+        "gender": {
+            "ratio": 0.5,
+            "inference": {
+                "Male": 1.0,
+                "Female": 0.0
+            },
+            "max": 1.0,
+            "argmax": "Male"
+        },
+        "number": {
+            "ratio": 1.0,
+            "inference": {
+                "Singular": 1.0,
+                "Plural": 0.0
+            },
+            "max": 1.0,
+            "argmax": "Singular"
+        },
+        "mentions": {
+            "proper": [
+                {
+                    "n": "morand",
+                    "c": 1
+                },
+                {
+                    "n": "pirch",
+                    "c": 1
+                }
+            ],
+            "common": [],
+            "pronoun": []
+        },
+        "agent": [],
+        "patient": [],
+        "mod": [],
+        "poss": []
+    },
+    {
+        "id": 6,
+        "count": {
+            "occurrence": 2,
+            "mention_ratio": 0.027
+        },
+        "gender": {
+            "ratio": 0,
+            "inference": {
+                "Male": 0,
+                "Female": 0
+            },
+            "max": 0,
+            "argmax": "Null"
+        },
+        "number": {
+            "ratio": 0.5,
+            "inference": {
+                "Singular": 1.0,
+                "Plural": 0.0
+            },
+            "max": 1.0,
+            "argmax": "Singular"
+        },
+        "mentions": {
+            "proper": [
+                {
+                    "n": "guyot",
+                    "c": 1
+                }
+            ],
+            "common": [],
+            "pronoun": [
+                {
+                    "n": "qui",
+                    "c": 1
+                }
+            ]
+        },
+        "agent": [
+            {
+                "w": "mener",
+                "i": 322
+            },
+            {
+                "w": "tombe",
+                "i": 332
+            }
+        ],
+        "patient": [],
+        "mod": [],
+        "poss": []
+    },
+    {
+        "id": 7,
+        "count": {
+            "occurrence": 2,
+            "mention_ratio": 0.027
+        },
+        "gender": {
+            "ratio": 0,
+            "inference": {
+                "Male": 0,
+                "Female": 0
+            },
+            "max": 0,
+            "argmax": "Null"
+        },
+        "number": {
+            "ratio": 1.0,
+            "inference": {
+                "Singular": 0.0,
+                "Plural": 1.0
+            },
+            "max": 1.0,
+            "argmax": "Plural"
+        },
+        "mentions": {
+            "proper": [],
+            "common": [
+                {
+                    "n": "des fuyards",
+                    "c": 1
+                }
+            ],
+            "pronoun": [
+                {
+                    "n": "les",
+                    "c": 1
+                }
+            ]
+        },
+        "agent": [],
+        "patient": [
+            {
+                "w": "harangue",
+                "i": 350
+            }
+        ],
+        "mod": [],
+        "poss": []
+    },
+    {
+        "id": 8,
+        "count": {
+            "occurrence": 2,
+            "mention_ratio": 0.027
+        },
+        "gender": {
+            "ratio": 0,
+            "inference": {
+                "Male": 0,
+                "Female": 0
+            },
+            "max": 0,
+            "argmax": "Null"
+        },
+        "number": {
+            "ratio": 0,
+            "inference": {
+                "Singular": 0,
+                "Plural": 0
+            },
+            "max": 0,
+            "argmax": "Null"
+        },
+        "mentions": {
+            "proper": [],
+            "common": [],
+            "pronoun": [
+                {
+                    "n": "on",
+                    "c": 2
+                }
+            ]
+        },
+        "agent": [
+            {
+                "w": "essayer",
+                "i": 565
+            },
+            {
+                "w": "barricader",
+                "i": 584
+            }
+        ],
+        "patient": [],
+        "mod": [],
+        "poss": []
+    },
+    {
+        "id": 9,
+        "count": {
+            "occurrence": 2,
+            "mention_ratio": 0.027
+        },
+        "gender": {
+            "ratio": 0,
+            "inference": {
+                "Male": 0,
+                "Female": 0
+            },
+            "max": 0,
+            "argmax": "Null"
+        },
+        "number": {
+            "ratio": 1.0,
+            "inference": {
+                "Singular": 1.0,
+                "Plural": 0.0
+            },
+            "max": 1.0,
+            "argmax": "Singular"
+        },
+        "mentions": {
+            "proper": [
+                {
+                    "n": "roguet",
+                    "c": 1
+                }
+            ],
+            "common": [],
+            "pronoun": [
+                {
+                    "n": "lui",
+                    "c": 1
+                }
+            ]
+        },
+        "agent": [
+            {
+                "w": "donner",
+                "i": 672
+            }
+        ],
+        "patient": [],
+        "mod": [],
+        "poss": []
+    },
+    {
+        "id": 10,
+        "count": {
+            "occurrence": 2,
+            "mention_ratio": 0.027
+        },
+        "gender": {
+            "ratio": 0,
+            "inference": {
+                "Male": 0,
+                "Female": 0
+            },
+            "max": 0,
+            "argmax": "Null"
+        },
+        "number": {
+            "ratio": 0,
+            "inference": {
+                "Singular": 0,
+                "Plural": 0
+            },
+            "max": 0,
+            "argmax": "Null"
+        },
+        "mentions": {
+            "proper": [],
+            "common": [
+                {
+                    "n": "un hussard de la mort",
+                    "c": 1
+                }
+            ],
+            "pronoun": [
+                {
+                    "n": "qui",
+                    "c": 1
+                }
+            ]
+        },
+        "agent": [
+            {
+                "w": "prendre",
+                "i": 723
+            },
+            {
+                "w": "tuer",
+                "i": 727
+            }
+        ],
+        "patient": [],
+        "mod": [],
+        "poss": []
+    }
+]

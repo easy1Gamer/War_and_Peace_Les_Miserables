@@ -1,0 +1,89 @@
+start_token	end_token	cat	confidence	text	mention_len	paragraph_ID	sentence_ID	start_token_ID_within_sentence	out_to_in_nested_level	in_to_out_nested_level	nested_entities_count	temp_index	head_id	head_word	head_dependency_relation	head_syntactic_head_ID	POS_tag	prop	number	gender	grammatical_person	COREF
+3	6	TIME	0.5696395635604858	le 18 juin 1815	4	0	0	3	0	0	0	0	4	18	ROOT	4	NUM	NOM	Not_Assigned	Not_Assigned	3	
+21	21	PER	0.9578849077224731	-nous	1	1	1	14	0	0	0	1	21	nous	dep	20	PRON	PRON	Plural	Ambiguous	1	4
+23	25	TIME	0.819649338722229	l’ année 1815	3	1	1	16	0	0	0	2	24	année	obl:arg	20	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+54	61	TIME	0.6015613339841366	la nuit du 17 au 18 juin 1815	8	2	2	7	0	0	0	3	55	nuit	obl:mod	52	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+66	67	GPE	0.8471566736698151	l’ europe	2	2	2	19	0	0	0	4	67	europe	nmod	64	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+83	83	PER	0.6611272096633911	napoléon	1	2	3	12	0	0	0	5	83	napoléon	obj	82	PROPN	PROP	Singular	Male	3	5
+87	87	GPE	0.9501978754997253	waterloo	1	2	4	2	0	0	0	6	87	waterloo	nsubj	90	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+92	92	GPE	0.8941413760185242	austerlitz	1	2	4	7	0	0	0	7	92	austerlitz	nmod	90	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+127	130	TIME	0.5735477656126022	la bataille de waterloo	4	3	5	0	0	1	1	8	128	bataille	nsubj	145	NOUN	PROP	Not_Assigned	Not_Assigned	3	
+130	130	GPE	0.9309269785881042	waterloo	1	3	5	3	1	0	0	9	130	waterloo	nmod	128	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+137	137	PER	0.928743302822113	blücher	1	3	5	10	0	0	0	10	137	blücher	obl:arg	135	PROPN	PROP	Singular	Not_Assigned	3	6
+149	152	TIME	0.6332475244998932	onze heures et demie	4	3	5	22	0	0	0	11	150	heures	obl:mod	146	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+179	179	PER	0.8994804620742798	napoléon	1	4	9	0	0	0	0	12	179	napoléon	nsubj	181	PROPN	PROP	Singular	Male	3	0
+186	186	PER	0.9772039651870728	il	1	4	9	7	0	0	0	13	186	il	nsubj	189	PRON	PRON	Singular	Male	3	0
+194	196	PER	0.7033316095670065	ce prodigieux capitaine	3	4	10	3	0	0	0	14	196	capitaine	nmod	192	NOUN	NOM	Singular	Male	3	0
+200	201	PER	0.4501131623983383	l’ homme	2	4	10	9	0	0	0	15	201	homme	ROOT	201	NOUN	NOM	Singular	Male	3	0
+202	202	PER	0.9057388305664062	qui	1	4	10	11	0	0	0	16	202	qui	nsubj	212	PRON	PRON	Ambiguous	Ambiguous	4	0
+210	210	GPE	0.854874312877655	aboukir	1	4	10	19	0	0	0	17	210	aboukir	nmod	208	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+217	217	PER	0.8736184239387512	nos	1	4	10	26	0	0	0	18	217	nos	det	218	DET	PRON	Plural	Ambiguous	1	7
+225	225	PER	0.9719089269638062	ses	1	4	11	1	0	0	0	19	225	ses	det	226	DET	PRON	Singular	Ambiguous	3	0
+247	247	PER	0.931664764881134	sa	1	4	12	12	0	0	0	20	247	sa	det	248	DET	PRON	Singular	Ambiguous	3	0
+252	252	PER	0.9982361793518066	il	1	4	13	0	0	0	0	21	252	il	nsubj	253	PRON	PRON	Singular	Male	3	0
+264	264	PER	0.9651598930358887	il	1	4	13	12	0	0	0	22	264	il	nsubj	266	PRON	PRON	Singular	Male	3	0
+270	270	PER	0.9979606866836548	il	1	4	14	0	0	0	0	23	270	il	nsubj	271	PRON	PRON	Singular	Male	3	0
+279	279	PER	0.9987013339996338	il	1	4	14	9	0	0	0	24	279	il	nsubj	280	PRON	PRON	Singular	Male	3	0
+295	295	PER	0.9938101172447205	son	1	4	15	6	0	0	0	25	295	son	det	296	DET	PRON	Singular	Ambiguous	3	0
+318	318	PER	0.9904520511627197	lui	1	4	16	20	0	0	0	26	318	lui	nmod	316	PRON	PRON	Singular	Ambiguous	3	0
+331	331	PER	0.9989640712738037	il	1	4	16	33	0	0	0	27	331	il	nsubj	332	PRON	PRON	Singular	Male	3	0
+351	353	TIME	0.6549231012662252	pendant quinze ans	3	4	17	13	0	0	0	28	353	ans	obl:mod	350	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+354	361	PER	0.5437479428946972	ce sombre athlète du pugilat de la guerre	8	4	17	16	0	0	0	29	356	athlète	obj	349	NOUN	NOM	Not_Assigned	Not_Assigned	3	0
+363	366	TIME	0.7762152701616287	le 18 juin 1815	4	5	18	0	0	0	0	30	364	18	obl:mod	369	NUM	NOM	Not_Assigned	Not_Assigned	3	
+368	368	PER	0.9931415915489197	il	1	5	18	5	0	0	0	31	368	il	nsubj	369	PRON	PRON	Singular	Male	3	0
+377	377	PER	0.9953529834747314	il	1	5	18	14	0	0	0	32	377	il	nsubj	378	PRON	PRON	Singular	Male	3	0
+380	380	PER	0.9585202932357788	lui	1	5	18	17	0	0	0	33	380	lui	obl:mod	378	PRON	PRON	Singular	Ambiguous	3	0
+384	384	PER	0.8305678963661194	wellington	1	5	19	0	0	0	0	34	384	wellington	nsubj	386	PROPN	PROP	Singular	Not_Assigned	3	8
+397	397	PER	0.9502604007720947	napoléon	1	5	19	13	0	0	0	35	397	napoléon	nsubj	399	PROPN	PROP	Singular	Male	3	9
+417	421	TIME	0.6946514248847961	à six heures du matin	5	6	20	13	0	0	0	36	419	heures	obl:arg	416	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+423	424	TIME	0.487779900431633	la bataille	2	6	21	0	0	0	0	37	424	bataille	nsubj:pass	426	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+429	431	TIME	0.5621218283971151	à deux heures	3	6	21	6	0	0	0	38	431	heures	obl:mod	428	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+433	438	TIME	0.49322886765003204	trois heures avant la péripétie prussienne	6	6	21	10	0	0	0	39	437	péripétie	nmod	431	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+452	452	PER	0.8673751354217529	napoléon	1	7	22	12	0	0	0	40	452	napoléon	nmod	450	PROPN	PROP	Singular	Male	3	10
+475	475	PER	0.9301866888999939	napoléon	1	8	23	5	0	0	0	41	475	napoléon	nmod	471	PROPN	PROP	Singular	Male	3	3
+479	481	TIME	0.5057202080885569	à cette époque	3	8	23	9	0	0	0	42	481	époque	obl:mod	477	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+489	493	TIME	0.6800765275955201	les vingt ans de guerre	5	8	23	19	0	0	0	43	491	ans	nsubj	494	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+540	540	PER	0.7725477814674377	-il	1	8	23	70	0	0	0	44	540	il	nummod	539	PUNCT	PRON	Singular	Male	3	3
+544	544	PER	0.9490875601768494	-il	1	8	23	74	0	0	0	45	544	il	dep	543	PUNCT	PRON	Singular	Male	3	3
+552	552	PER	0.7123722434043884	son	1	8	23	82	0	0	0	46	552	son	det	553	PUNCT	PRON	Singular	Ambiguous	3	3
+557	557	PER	0.9691108465194702	-il	1	8	23	87	0	0	0	47	557	il	dep	556	PUNCT	PRON	Singular	Male	3	3
+571	571	PER	0.9430541396141052	-il	1	8	23	101	0	0	0	48	571	il	dep	570	PUNCT	PRON	Singular	Male	3	3
+646	650	PER	0.6391439139842987	les annibals et les bonapartes	5	8	24	32	0	1	1	49	647	annibals	ROOT	647	NOUN	NOM	Plural	Not_Assigned	3	11
+649	650	PER	0.5415356159210205	les bonapartes	2	8	24	35	1	0	0	50	650	bonapartes	nmod	647	NOUN	NOM	Plural	Not_Assigned	3	12
+657	657	PER	0.8390116691589355	napoléon	1	8	25	0	0	0	0	51	657	napoléon	ROOT	657	PUNCT	PROP	Singular	Male	3	1
+659	659	PER	0.8538931012153625	-il	1	8	25	2	0	0	0	52	659	il	ROOT	659	PUNCT	PRON	Singular	Male	3	1
+671	671	PER	0.9815386533737183	-il	1	8	25	14	0	0	0	53	671	il	dep	670	PUNCT	PRON	Singular	Male	3	1
+698	698	PER	0.9554823040962219	-il	1	8	25	41	0	0	0	54	698	il	dep	697	PRON	PRON	Singular	Male	3	1
+705	705	PER	0.9829748272895813	lui	1	8	25	48	0	0	0	55	705	lui	det	706	PROPN	PRON	Singular	Ambiguous	3	1
+706	706	PER	0.8495463728904724	qui	1	8	25	49	0	0	0	56	706	qui	ROOT	706	PRON	PRON	Ambiguous	Ambiguous	4	1
+720	720	PER	0.8251693248748779	son	1	8	25	63	0	0	0	57	720	son	det	721	DET	PRON	Singular	Ambiguous	3	1
+733	733	PER	0.9732708930969238	-il	1	8	25	76	0	0	0	58	733	il	dep	732	PRON	PRON	Singular	Male	3	1
+742	742	PER	0.7517708539962769	son	1	8	25	85	0	0	0	59	742	son	det	744	DET	PRON	Singular	Ambiguous	3	1
+750	750	PER	0.967470645904541	-il	1	8	25	93	0	0	0	60	750	il	expl:subj	751	PRON	PRON	Singular	Male	3	1
+780	780	PER	0.9820502996444702	nous	1	9	26	0	0	0	0	61	780	nous	nsubj	783	PRON	PRON	Plural	Ambiguous	1	2
+786	786	PER	0.9902779459953308	son	1	10	27	0	0	0	0	62	786	son	det	787	DET	PRON	Singular	Ambiguous	3	1
+830	830	GPE	0.963325560092926	hal	1	10	28	26	0	0	0	63	830	hal	nmod	827	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+836	836	GPE	0.9345719814300537	tongres	1	10	28	32	0	0	0	64	836	tongres	nmod	833	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+840	840	GPE	0.5243121981620789	wellington	1	10	28	36	0	0	0	65	840	wellington	obl:arg	838	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+849	849	GPE	0.6049944758415222	mont-saint-jean	1	10	28	45	0	0	0	66	849	mont-saint-jean	obj	848	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+852	852	GPE	0.948525071144104	bruxelles	1	10	28	48	0	0	0	67	852	bruxelles	obj	851	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+858	859	LOC	0.7773376405239105	le rhin	2	10	28	54	0	0	0	68	859	rhin	obl:arg	854	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+861	862	LOC	0.28925177454948425	l’ anglais	2	10	28	57	0	0	0	69	862	anglais	conj	859	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+864	865	LOC	0.7434835433959961	la mer	2	10	28	60	0	0	0	70	865	mer	obl:arg	854	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+871	871	PER	0.49204716086387634	napoléon	1	10	29	4	0	0	0	71	871	napoléon	obl:mod	876	PROPN	PROP	Singular	Male	3	13
+887	887	PER	0.9991146922111511	nous	1	11	31	5	0	0	0	72	887	nous	nsubj	889	PRON	PRON	Plural	Ambiguous	1	2
+896	896	GPE	0.9426570534706116	waterloo	1	11	31	14	0	0	0	73	896	waterloo	nmod	894	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+906	906	PER	0.9935327768325806	nous	1	11	31	24	0	0	0	74	906	nous	nsubj	907	PRON	PRON	Plural	Ambiguous	1	2
+921	921	PER	0.9613158106803894	notre	1	11	31	39	0	0	0	75	921	notre	det	922	DET	PRON	Plural	Ambiguous	1	2
+942	942	PER	0.6333063244819641	napoléon	1	11	31	60	0	0	0	76	942	napoléon	obl:mod	930	PROPN	PROP	Singular	Male	3	14
+962	962	PER	0.995201587677002	nous	1	11	32	2	0	0	0	77	962	nous	obl:mod	965	PRON	PRON	Plural	Ambiguous	1	2
+964	964	PER	0.9968429803848267	nous	1	11	32	4	0	0	0	78	964	nous	nsubj	965	PRON	PRON	Plural	Ambiguous	1	2
+966	967	PER	0.5649828612804413	les historiens	2	11	32	6	0	0	0	79	967	historiens	obj	965	NOUN	NOM	Plural	Not_Assigned	3	15
+971	971	PER	0.9900369644165039	nous	1	11	32	11	0	0	0	80	971	nous	nsubj	976	PRON	PRON	Plural	Ambiguous	1	2
+1006	1006	PER	0.9831682443618774	nous	1	11	32	46	0	0	0	81	1006	nous	nsubj	1008	PRON	PRON	Plural	Ambiguous	1	2
+1036	1036	PER	0.9861288666725159	nous	1	11	32	76	0	0	0	82	1036	nous	nsubj	1038	PRON	PRON	Plural	Ambiguous	1	2
+1054	1054	PER	0.9820389151573181	nous	1	11	32	94	0	0	0	83	1054	nous	obl:mod	1060	PRON	PRON	Plural	Ambiguous	1	2
+1062	1062	GPE	0.9531164169311523	waterloo	1	11	32	102	0	0	0	84	1062	waterloo	obl:mod	1060	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+1063	1065	PER	0.5819321970144907	les deux capitaines	3	11	32	103	0	0	0	85	1065	capitaines	obj	1060	NOUN	NOM	Plural	Not_Assigned	3	16
+1076	1078	PER	0.687404215335846	ce mystérieux accusé	3	11	32	116	0	0	0	86	1078	accusé	appos	1072	NOUN	NOM	Singular	Male	3	3
+1080	1080	PER	0.9777011871337891	nous	1	11	32	120	0	0	0	87	1080	nous	nsubj	1081	PRON	PRON	Plural	Ambiguous	1	2

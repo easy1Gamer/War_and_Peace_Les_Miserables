@@ -1,0 +1,64 @@
+start_token	end_token	cat	confidence	text	mention_len	paragraph_ID	sentence_ID	start_token_ID_within_sentence	out_to_in_nested_level	in_to_out_nested_level	nested_entities_count	temp_index	head_id	head_word	head_dependency_relation	head_syntactic_head_ID	POS_tag	prop	number	gender	grammatical_person	COREF
+41	41	PER	0.9607559442520142	nos	1	2	3	1	0	0	0	0	41	nos	det	42	DET	PRON	Plural	Ambiguous	1	4
+46	46	PER	0.9729301929473877	nous	1	2	3	6	0	0	0	1	46	nous	nsubj	47	PRON	PRON	Plural	Ambiguous	1	4
+64	64	PER	0.7188502550125122	cambronne	1	3	4	13	0	0	0	2	64	cambronne	appos	62	PROPN	PROP	Singular	Male	3	3
+97	98	PER	0.8798831105232239	cet homme	2	4	6	23	0	0	0	3	98	homme	nmod	95	NOUN	NOM	Singular	Male	3	3
+104	104	PER	0.9907063841819763	il	1	4	6	30	0	0	0	4	104	il	nsubj	106	PRON	PRON	Singular	Male	3	3
+110	110	PER	0.6546173095703125	qui	1	5	7	2	0	0	0	5	110	qui	nsubj	112	PRON	PRON	Ambiguous	Ambiguous	4	3
+116	116	GPE	0.9094449877738953	waterloo	1	5	7	8	0	0	0	6	116	waterloo	nmod	114	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+161	161	GPE	0.9184865951538086	waterloo	1	5	7	53	0	0	0	7	161	waterloo	nmod	159	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+165	165	PER	0.8023931384086609	cambronne	1	5	7	57	0	0	0	8	165	cambronne	ROOT	165	PROPN	PROP	Singular	Male	3	8
+208	209	TIME	0.5472798347473145	la nuit	2	7	9	26	0	0	0	9	209	nuit	nmod	206	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+215	215	GPE	0.8781751990318298	hougomont	1	7	9	33	0	0	0	10	215	hougomont	nmod	212	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+221	221	GPE	0.7150418758392334	ohain	1	7	9	39	0	0	0	11	221	ohain	nmod	218	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+226	226	PER	0.8389351963996887	grouchy	1	7	9	44	0	0	0	12	226	grouchy	nmod	224	PROPN	PROP	Singular	Not_Assigned	3	9
+232	232	PER	0.352023720741272	blücher	1	7	9	50	0	0	0	13	232	blücher	nummod	230	PROPN	PROP	Singular	Not_Assigned	3	10
+284	285	GPE	0.8641544580459595	la france	2	7	9	102	0	0	0	14	285	france	ROOT	285	PUNCT	PRON	Not_Assigned	Not_Assigned	3	
+289	289	GPE	0.9488921761512756	waterloo	1	7	9	107	0	0	0	15	289	waterloo	ROOT	289	PUNCT	PRON	Not_Assigned	Not_Assigned	3	
+291	293	TIME	0.7506217956542969	le mardi gras	3	7	9	109	0	0	0	16	292	mardi	ROOT	292	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+349	349	PER	0.7562386989593506	cambronne	1	9	12	3	0	0	0	17	349	cambronne	nmod	347	PROPN	PROP	Singular	Male	3	11
+419	420	PER	0.9841106832027435	ce cambronne	2	9	21	0	0	0	0	18	420	cambronne	nsubj	440	PROPN	PROP	Singular	Male	3	1
+422	427	PER	0.6229664434989294	ce passant de la dernière heure	6	9	21	3	0	0	0	19	427	heure	nmod	423	NOUN	NOM	Not_Assigned	Not_Assigned	3	1
+429	431	PER	0.9001399676005045	ce soldat ignoré	3	9	21	10	0	0	0	20	430	soldat	conj	420	NOUN	NOM	Singular	Male	3	1
+433	438	PER	0.5350514054298401	cet infiniment petit de la guerre	6	9	21	14	0	0	0	21	435	petit	amod	430	ADJ	NOM	Not_Assigned	Not_Assigned	3	1
+463	463	PER	0.9744454026222229	il	1	9	21	44	0	0	0	22	463	il	expl:subj	465	PRON	PRON	Singular	Male	3	1
+470	470	PER	0.95382159948349	lui	1	9	21	51	0	0	0	23	470	lui	iobj	471	PRON	PRON	Singular	Ambiguous	3	1
+485	485	PER	0.8007155060768127	ils	1	10	23	0	0	0	0	24	485	ils	nsubj	486	PRON	PRON	Plural	Ambiguous	3	2
+489	494	PER	0.785146047671636	tous les rois de l’ europe	6	10	23	4	0	1	1	25	491	rois	obj	486	NOUN	PROP	Singular	Not_Assigned	3	12
+493	494	GPE	0.8132133185863495	l’ europe	2	10	23	8	1	0	0	26	494	europe	nmod	491	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+496	498	PER	0.6669947107632955	les généraux heureux	3	10	23	11	0	0	0	27	497	généraux	conj	491	NOUN	NOM	Plural	Ambiguous	3	2
+504	504	PER	0.7708117365837097	ils	1	10	23	19	0	0	0	28	504	ils	nsubj	505	PRON	PRON	Plural	Ambiguous	3	2
+554	554	PER	0.9109009504318237	cambronne	1	10	23	69	0	0	0	29	554	cambronne	obj	551	PROPN	PROP	Singular	Male	3	0
+570	570	PER	0.9991927742958069	il	1	10	24	0	0	0	0	30	570	il	nsubj	571	PRON	PRON	Singular	Male	3	0
+574	574	PER	0.9989266991615295	il	1	10	25	1	0	0	0	31	574	il	nsubj	575	PRON	PRON	Singular	Male	3	0
+585	585	PER	0.9695889353752136	lui	1	10	26	1	0	0	0	32	585	lui	iobj	586	PRON	PRON	Singular	Ambiguous	3	0
+613	614	PER	0.844736635684967	ce désespéré	2	10	27	13	0	0	0	33	614	désespéré	nsubj	616	NOUN	NOM	Singular	Not_Assigned	3	0
+619	619	PER	0.9927783608436584	il	1	10	27	19	0	0	0	34	619	il	nsubj	621	PRON	PRON	Singular	Male	3	0
+626	626	PER	0.8545668125152588	il	1	10	27	26	0	0	0	35	626	il	nsubj	628	PRON	PRON	Singular	Male	3	0
+634	634	PER	0.9964680671691895	il	1	10	27	34	0	0	0	36	634	il	nsubj	635	PRON	PRON	Singular	Male	3	0
+658	658	PER	0.9858165979385376	il	1	10	27	58	0	0	0	37	658	il	nsubj	659	PRON	PRON	Singular	Male	3	0
+669	669	PER	0.9856454730033875	nous	1	10	28	0	0	0	0	38	669	nous	nsubj	671	PRON	PRON	Plural	Ambiguous	1	4
+695	697	PER	0.9196366667747498	cet homme inconnu	3	11	30	7	0	0	0	39	696	homme	obl:arg	693	NOUN	NOM	Singular	Male	3	0
+703	703	PER	0.909591555595398	cambronne	1	11	31	0	0	0	0	40	703	cambronne	nsubj	704	PROPN	PROP	Singular	Male	3	6
+708	708	GPE	0.7851474285125732	waterloo	1	11	31	5	0	0	0	41	708	waterloo	nmod	706	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+739	740	PER	0.7803702354431152	ces hommes	2	11	32	13	0	0	0	42	740	hommes	obl:mod	736	NOUN	NOM	Plural	Not_Assigned	3	2
+743	743	PER	0.8963226079940796	ils	1	11	32	17	0	0	0	43	743	ils	nsubj	744	PRON	PRON	Plural	Ambiguous	3	2
+747	748	PER	0.5412006676197052	l’ un	2	11	32	21	0	0	0	44	748	un	nsubj	749	PRON	PRON	Singular	Male	3	6
+767	767	PER	0.8306829929351807	cambronne	1	11	33	6	0	0	0	45	767	cambronne	nsubj	770	PROPN	PROP	Singular	Male	3	5
+774	775	GPE	0.6984046697616577	l’ europe	2	11	33	13	0	0	0	46	775	europe	obl:arg	770	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+787	787	PER	0.9303258061408997	il	1	11	33	26	0	0	0	47	787	il	nsubj	789	PRON	PRON	Singular	Male	3	0
+795	796	TIME	0.5881149470806122	la révolution	2	11	33	34	0	0	0	48	796	révolution	nmod	793	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+807	807	PER	0.9726990461349487	cambronne	1	11	34	9	0	0	0	49	807	cambronne	obl:arg	805	PROPN	PROP	Singular	Male	3	13
+830	830	PER	0.9614351391792297	cambronne	1	12	36	3	0	0	0	50	830	cambronne	nmod	828	PROPN	PROP	Singular	Male	3	14
+845	846	LOC	0.816680908203125	la colline	2	12	36	18	0	0	0	51	846	colline	nsubj	847	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+873	874	LOC	0.7482347190380096	la lune	2	12	36	46	0	0	0	52	874	lune	nmod	871	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+892	894	PER	0.5608776609102885	ce reste formidable	3	12	37	0	0	0	0	53	893	reste	nsubj:pass	896	NOUN	NOM	Singular	Not_Assigned	3	5
+908	910	FAC	0.41509004433949787	la redoute vivante	3	12	38	4	0	0	0	54	909	redoute	nmod	906	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+932	934	PER	0.6964038213094076	les légions françaises	3	12	38	28	0	0	0	55	933	légions	nsubj	943	NOUN	NOM	Plural	Not_Assigned	3	15
+945	945	GPE	0.7615298628807068	mont-saint-jean	1	12	38	41	0	0	0	56	945	mont-saint-jean	obl:mod	943	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+968	972	TIME	0.7949697017669678	à quatre heures du matin	5	12	38	64	0	0	0	57	970	heures	obl:mod	965	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+980	981	VEH	0.6443742513656616	son cheval	2	12	38	76	0	1	1	58	981	cheval	obj	978	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+980	980	PER	0.9548528790473938	son	1	12	38	76	1	0	0	59	980	son	det	981	DET	PRON	Singular	Ambiguous	3	5
+983	983	PER	0.9604004621505737	joseph	1	12	38	79	0	0	0	60	983	joseph	appos	981	PROPN	PROP	Singular	Male	3	7
+985	985	PER	0.964282214641571	qui	1	12	38	81	0	0	0	61	985	qui	nsubj	986	PRON	PRON	Ambiguous	Ambiguous	4	7
+995	995	GPE	0.9663523435592651	nivelles	1	12	38	91	0	0	0	62	995	nivelles	nmod	993	PROPN	PROP	Not_Assigned	Not_Assigned	3	

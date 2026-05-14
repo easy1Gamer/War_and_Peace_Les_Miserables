@@ -1,0 +1,555 @@
+[
+    {
+        "id": 0,
+        "count": {
+            "occurrence": 11,
+            "mention_ratio": 0.25
+        },
+        "gender": {
+            "ratio": 0.8182,
+            "inference": {
+                "Male": 1.0,
+                "Female": 0.0
+            },
+            "max": 1.0,
+            "argmax": "Male"
+        },
+        "number": {
+            "ratio": 1.0,
+            "inference": {
+                "Singular": 1.0,
+                "Plural": 0.0
+            },
+            "max": 1.0,
+            "argmax": "Singular"
+        },
+        "mentions": {
+            "proper": [
+                {
+                    "n": "cambronne",
+                    "c": 1
+                }
+            ],
+            "common": [
+                {
+                    "n": "ce désespéré",
+                    "c": 1
+                },
+                {
+                    "n": "cet homme inconnu",
+                    "c": 1
+                }
+            ],
+            "pronoun": [
+                {
+                    "n": "il",
+                    "c": 7
+                },
+                {
+                    "n": "lui",
+                    "c": 1
+                }
+            ]
+        },
+        "agent": [
+            {
+                "w": "protester",
+                "i": 571
+            },
+            {
+                "w": "cherche",
+                "i": 575
+            },
+            {
+                "w": "redresse",
+                "i": 616
+            },
+            {
+                "w": "subir",
+                "i": 621
+            },
+            {
+                "w": "constater",
+                "i": 628
+            },
+            {
+                "w": "faire",
+                "i": 635
+            },
+            {
+                "w": "trouver",
+                "i": 659
+            },
+            {
+                "w": "jeter",
+                "i": 789
+            }
+        ],
+        "patient": [
+            {
+                "w": "reste",
+                "i": 551
+            }
+        ],
+        "mod": [
+            {
+                "w": "inconnu",
+                "i": 697
+            }
+        ],
+        "poss": []
+    },
+    {
+        "id": 1,
+        "count": {
+            "occurrence": 6,
+            "mention_ratio": 0.1364
+        },
+        "gender": {
+            "ratio": 0.5,
+            "inference": {
+                "Male": 1.0,
+                "Female": 0.0
+            },
+            "max": 1.0,
+            "argmax": "Male"
+        },
+        "number": {
+            "ratio": 0.6667,
+            "inference": {
+                "Singular": 1.0,
+                "Plural": 0.0
+            },
+            "max": 1.0,
+            "argmax": "Singular"
+        },
+        "mentions": {
+            "proper": [
+                {
+                    "n": "ce cambronne",
+                    "c": 1
+                }
+            ],
+            "common": [
+                {
+                    "n": "ce passant de la dernière heure",
+                    "c": 1
+                },
+                {
+                    "n": "ce soldat ignoré",
+                    "c": 1
+                },
+                {
+                    "n": "cet infiniment petit de la guerre",
+                    "c": 1
+                }
+            ],
+            "pronoun": [
+                {
+                    "n": "il",
+                    "c": 1
+                },
+                {
+                    "n": "lui",
+                    "c": 1
+                }
+            ]
+        },
+        "agent": [
+            {
+                "w": "sentir",
+                "i": 440
+            },
+            {
+                "w": "offrir",
+                "i": 471
+            }
+        ],
+        "patient": [],
+        "mod": [
+            {
+                "w": "dernier",
+                "i": 426
+            },
+            {
+                "w": "petit",
+                "i": 435
+            }
+        ],
+        "poss": [
+            {
+                "w": "passant",
+                "i": 423
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "count": {
+            "occurrence": 5,
+            "mention_ratio": 0.1136
+        },
+        "gender": {
+            "ratio": 0,
+            "inference": {
+                "Male": 0,
+                "Female": 0
+            },
+            "max": 0,
+            "argmax": "Null"
+        },
+        "number": {
+            "ratio": 1.0,
+            "inference": {
+                "Singular": 0.0,
+                "Plural": 1.0
+            },
+            "max": 1.0,
+            "argmax": "Plural"
+        },
+        "mentions": {
+            "proper": [],
+            "common": [
+                {
+                    "n": "les généraux heureux",
+                    "c": 1
+                },
+                {
+                    "n": "ces hommes",
+                    "c": 1
+                }
+            ],
+            "pronoun": [
+                {
+                    "n": "ils",
+                    "c": 3
+                }
+            ]
+        },
+        "agent": [
+            {
+                "w": "être",
+                "i": 486
+            },
+            {
+                "w": "avoir",
+                "i": 505
+            },
+            {
+                "w": "reste",
+                "i": 551
+            },
+            {
+                "w": "tressaillir",
+                "i": 744
+            }
+        ],
+        "patient": [],
+        "mod": [
+            {
+                "w": "heureux",
+                "i": 498
+            }
+        ],
+        "poss": [
+            {
+                "w": "soldat",
+                "i": 508
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "count": {
+            "occurrence": 4,
+            "mention_ratio": 0.0909
+        },
+        "gender": {
+            "ratio": 0.75,
+            "inference": {
+                "Male": 1.0,
+                "Female": 0.0
+            },
+            "max": 1.0,
+            "argmax": "Male"
+        },
+        "number": {
+            "ratio": 0.75,
+            "inference": {
+                "Singular": 1.0,
+                "Plural": 0.0
+            },
+            "max": 1.0,
+            "argmax": "Singular"
+        },
+        "mentions": {
+            "proper": [
+                {
+                    "n": "cambronne",
+                    "c": 1
+                }
+            ],
+            "common": [
+                {
+                    "n": "cet homme",
+                    "c": 1
+                }
+            ],
+            "pronoun": [
+                {
+                    "n": "il",
+                    "c": 1
+                },
+                {
+                    "n": "qui",
+                    "c": 1
+                }
+            ]
+        },
+        "agent": [
+            {
+                "w": "survivre",
+                "i": 106
+            },
+            {
+                "w": "gagner",
+                "i": 112
+            }
+        ],
+        "patient": [],
+        "mod": [],
+        "poss": [
+            {
+                "w": "faute",
+                "i": 95
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "count": {
+            "occurrence": 3,
+            "mention_ratio": 0.0682
+        },
+        "gender": {
+            "ratio": 0,
+            "inference": {
+                "Male": 0,
+                "Female": 0
+            },
+            "max": 0,
+            "argmax": "Null"
+        },
+        "number": {
+            "ratio": 1.0,
+            "inference": {
+                "Singular": 0.0,
+                "Plural": 1.0
+            },
+            "max": 1.0,
+            "argmax": "Plural"
+        },
+        "mentions": {
+            "proper": [],
+            "common": [],
+            "pronoun": [
+                {
+                    "n": "nous",
+                    "c": 2
+                },
+                {
+                    "n": "nos",
+                    "c": 1
+                }
+            ]
+        },
+        "agent": [
+            {
+                "w": "enfreindre",
+                "i": 47
+            },
+            {
+                "w": "répéter",
+                "i": 671
+            }
+        ],
+        "patient": [],
+        "mod": [],
+        "poss": [
+            {
+                "w": "risque",
+                "i": 42
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "count": {
+            "occurrence": 3,
+            "mention_ratio": 0.0682
+        },
+        "gender": {
+            "ratio": 0.3333,
+            "inference": {
+                "Male": 1.0,
+                "Female": 0.0
+            },
+            "max": 1.0,
+            "argmax": "Male"
+        },
+        "number": {
+            "ratio": 1.0,
+            "inference": {
+                "Singular": 1.0,
+                "Plural": 0.0
+            },
+            "max": 1.0,
+            "argmax": "Singular"
+        },
+        "mentions": {
+            "proper": [
+                {
+                    "n": "cambronne",
+                    "c": 1
+                }
+            ],
+            "common": [
+                {
+                    "n": "ce reste formidable",
+                    "c": 1
+                }
+            ],
+            "pronoun": [
+                {
+                    "n": "son",
+                    "c": 1
+                }
+            ]
+        },
+        "agent": [
+            {
+                "w": "jeter",
+                "i": 770
+            }
+        ],
+        "patient": [],
+        "mod": [
+            {
+                "w": "formidable",
+                "i": 894
+            }
+        ],
+        "poss": [
+            {
+                "w": "cheval",
+                "i": 981
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "count": {
+            "occurrence": 2,
+            "mention_ratio": 0.0455
+        },
+        "gender": {
+            "ratio": 1.0,
+            "inference": {
+                "Male": 1.0,
+                "Female": 0.0
+            },
+            "max": 1.0,
+            "argmax": "Male"
+        },
+        "number": {
+            "ratio": 1.0,
+            "inference": {
+                "Singular": 1.0,
+                "Plural": 0.0
+            },
+            "max": 1.0,
+            "argmax": "Singular"
+        },
+        "mentions": {
+            "proper": [
+                {
+                    "n": "cambronne",
+                    "c": 1
+                }
+            ],
+            "common": [],
+            "pronoun": [
+                {
+                    "n": "l’ un",
+                    "c": 1
+                }
+            ]
+        },
+        "agent": [
+            {
+                "w": "trouver",
+                "i": 704
+            },
+            {
+                "w": "cher",
+                "i": 749
+            },
+            {
+                "w": "pousse",
+                "i": 756
+            }
+        ],
+        "patient": [],
+        "mod": [],
+        "poss": []
+    },
+    {
+        "id": 7,
+        "count": {
+            "occurrence": 2,
+            "mention_ratio": 0.0455
+        },
+        "gender": {
+            "ratio": 0.5,
+            "inference": {
+                "Male": 1.0,
+                "Female": 0.0
+            },
+            "max": 1.0,
+            "argmax": "Male"
+        },
+        "number": {
+            "ratio": 0.5,
+            "inference": {
+                "Singular": 1.0,
+                "Plural": 0.0
+            },
+            "max": 1.0,
+            "argmax": "Singular"
+        },
+        "mentions": {
+            "proper": [
+                {
+                    "n": "joseph",
+                    "c": 1
+                }
+            ],
+            "common": [],
+            "pronoun": [
+                {
+                    "n": "qui",
+                    "c": 1
+                }
+            ]
+        },
+        "agent": [
+            {
+                "w": "faire",
+                "i": 986
+            }
+        ],
+        "patient": [],
+        "mod": [],
+        "poss": []
+    }
+]

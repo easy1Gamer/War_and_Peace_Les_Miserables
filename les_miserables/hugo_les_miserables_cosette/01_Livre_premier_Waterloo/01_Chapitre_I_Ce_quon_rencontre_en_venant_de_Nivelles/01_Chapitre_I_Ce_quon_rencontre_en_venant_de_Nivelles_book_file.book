@@ -1,0 +1,241 @@
+[
+    {
+        "id": 0,
+        "count": {
+            "occurrence": 23,
+            "mention_ratio": 0.7931
+        },
+        "gender": {
+            "ratio": 0.7826,
+            "inference": {
+                "Male": 1.0,
+                "Female": 0.0
+            },
+            "max": 1.0,
+            "argmax": "Male"
+        },
+        "number": {
+            "ratio": 0.8696,
+            "inference": {
+                "Singular": 1.0,
+                "Plural": 0.0
+            },
+            "max": 1.0,
+            "argmax": "Singular"
+        },
+        "mentions": {
+            "proper": [],
+            "common": [
+                {
+                    "n": "le passant",
+                    "c": 4
+                },
+                {
+                    "n": "un passant",
+                    "c": 1
+                },
+                {
+                    "n": "échabeau",
+                    "c": 1
+                },
+                {
+                    "n": "ce passant",
+                    "c": 1
+                }
+            ],
+            "pronoun": [
+                {
+                    "n": "il",
+                    "c": 11
+                },
+                {
+                    "n": "lui",
+                    "c": 2
+                },
+                {
+                    "n": "celui",
+                    "c": 1
+                },
+                {
+                    "n": "qui",
+                    "c": 1
+                },
+                {
+                    "n": "vous",
+                    "c": 1
+                }
+            ]
+        },
+        "agent": [
+            {
+                "w": "raconter",
+                "i": 30
+            },
+            {
+                "w": "arriver",
+                "i": 37
+            },
+            {
+                "w": "diriger",
+                "i": 42
+            },
+            {
+                "w": "aller",
+                "i": 48
+            },
+            {
+                "w": "suivre",
+                "i": 53
+            },
+            {
+                "w": "dépasser",
+                "i": 95
+            },
+            {
+                "w": "apercevoir",
+                "i": 101
+            },
+            {
+                "w": "venir",
+                "i": 126
+            },
+            {
+                "w": "arriver",
+                "i": 198
+            },
+            {
+                "w": "entrer",
+                "i": 398
+            },
+            {
+                "w": "trouver",
+                "i": 427
+            },
+            {
+                "w": "courber",
+                "i": 566
+            },
+            {
+                "w": "considérer",
+                "i": 568
+            },
+            {
+                "w": "regarder",
+                "i": 617
+            },
+            {
+                "w": "voir",
+                "i": 645
+            },
+            {
+                "w": "demander",
+                "i": 689
+            },
+            {
+                "w": "redresser",
+                "i": 704
+            },
+            {
+                "w": "faire",
+                "i": 707
+            },
+            {
+                "w": "aller",
+                "i": 713
+            },
+            {
+                "w": "apercevoir",
+                "i": 720
+            },
+            {
+                "w": "être",
+                "i": 749
+            }
+        ],
+        "patient": [
+            {
+                "w": "voir",
+                "i": 609
+            }
+        ],
+        "mod": [],
+        "poss": []
+    },
+    {
+        "id": 1,
+        "count": {
+            "occurrence": 5,
+            "mention_ratio": 0.1724
+        },
+        "gender": {
+            "ratio": 1.0,
+            "inference": {
+                "Male": 0.0,
+                "Female": 1.0
+            },
+            "max": 1.0,
+            "argmax": "Female"
+        },
+        "number": {
+            "ratio": 1.0,
+            "inference": {
+                "Singular": 1.0,
+                "Plural": 0.0
+            },
+            "max": 1.0,
+            "argmax": "Singular"
+        },
+        "mentions": {
+            "proper": [],
+            "common": [
+                {
+                    "n": "une paysanne",
+                    "c": 1
+                },
+                {
+                    "n": "la paysanne",
+                    "c": 1
+                }
+            ],
+            "pronoun": [
+                {
+                    "n": "elle",
+                    "c": 2
+                },
+                {
+                    "n": "-elle",
+                    "c": 1
+                }
+            ]
+        },
+        "agent": [
+            {
+                "w": "sortir",
+                "i": 606
+            },
+            {
+                "w": "voir",
+                "i": 609
+            },
+            {
+                "w": "apercevoir",
+                "i": 613
+            },
+            {
+                "w": "dire",
+                "i": 632
+            },
+            {
+                "w": "ajouter",
+                "i": 637
+            },
+            {
+                "w": "dire",
+                "i": 697
+            }
+        ],
+        "patient": [],
+        "mod": [],
+        "poss": []
+    }
+]

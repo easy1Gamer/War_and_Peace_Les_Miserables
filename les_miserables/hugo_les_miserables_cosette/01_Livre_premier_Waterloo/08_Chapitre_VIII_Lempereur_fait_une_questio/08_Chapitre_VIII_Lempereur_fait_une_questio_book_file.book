@@ -1,0 +1,519 @@
+[
+    {
+        "id": 0,
+        "count": {
+            "occurrence": 22,
+            "mention_ratio": 0.3188
+        },
+        "gender": {
+            "ratio": 0.5455,
+            "inference": {
+                "Male": 1.0,
+                "Female": 0.0
+            },
+            "max": 1.0,
+            "argmax": "Male"
+        },
+        "number": {
+            "ratio": 0.9545,
+            "inference": {
+                "Singular": 1.0,
+                "Plural": 0.0
+            },
+            "max": 1.0,
+            "argmax": "Singular"
+        },
+        "mentions": {
+            "proper": [
+                {
+                    "n": "napoléon",
+                    "c": 2
+                },
+                {
+                    "n": "le prince de saxe - weimar",
+                    "c": 1
+                },
+                {
+                    "n": "le comte d’ erlon",
+                    "c": 1
+                },
+                {
+                    "n": "grouchy",
+                    "c": 1
+                },
+                {
+                    "n": "wellington",
+                    "c": 1
+                }
+            ],
+            "common": [
+                {
+                    "n": "ce hussard noir prussien",
+                    "c": 1
+                },
+                {
+                    "n": "ce prisonnier",
+                    "c": 1
+                }
+            ],
+            "pronoun": [
+                {
+                    "n": "il",
+                    "c": 7
+                },
+                {
+                    "n": "lui",
+                    "c": 4
+                },
+                {
+                    "n": "son",
+                    "c": 1
+                },
+                {
+                    "n": "qui",
+                    "c": 1
+                },
+                {
+                    "n": "tu",
+                    "c": 1
+                }
+            ]
+        },
+        "agent": [
+            {
+                "w": "avoir",
+                "i": 26
+            },
+            {
+                "w": "faire",
+                "i": 513
+            },
+            {
+                "w": "alarmer",
+                "i": 552
+            },
+            {
+                "w": "croire",
+                "i": 558
+            },
+            {
+                "w": "savoir",
+                "i": 568
+            },
+            {
+                "w": "traiter",
+                "i": 579
+            },
+            {
+                "w": "paraître",
+                "i": 588
+            },
+            {
+                "w": "oser",
+                "i": 596
+            },
+            {
+                "w": "avoir",
+                "i": 618
+            },
+            {
+                "w": "croire",
+                "i": 621
+            },
+            {
+                "w": "rétrograder",
+                "i": 684
+            }
+        ],
+        "patient": [],
+        "mod": [
+            {
+                "w": "content",
+                "i": 23
+            },
+            {
+                "w": "noir",
+                "i": 399
+            }
+        ],
+        "poss": [
+            {
+                "w": "raison",
+                "i": 27
+            },
+            {
+                "w": "retard",
+                "i": 431
+            },
+            {
+                "w": "regard",
+                "i": 488
+            }
+        ]
+    },
+    {
+        "id": 1,
+        "count": {
+            "occurrence": 16,
+            "mention_ratio": 0.2319
+        },
+        "gender": {
+            "ratio": 0.6875,
+            "inference": {
+                "Male": 1.0,
+                "Female": 0.0
+            },
+            "max": 1.0,
+            "argmax": "Male"
+        },
+        "number": {
+            "ratio": 1.0,
+            "inference": {
+                "Singular": 1.0,
+                "Plural": 0.0
+            },
+            "max": 1.0,
+            "argmax": "Singular"
+        },
+        "mentions": {
+            "proper": [
+                {
+                    "n": "napoléon",
+                    "c": 1
+                }
+            ],
+            "common": [
+                {
+                    "n": "l’ empereur",
+                    "c": 3
+                }
+            ],
+            "pronoun": [
+                {
+                    "n": "il",
+                    "c": 7
+                },
+                {
+                    "n": "ses",
+                    "c": 2
+                },
+                {
+                    "n": "sa",
+                    "c": 2
+                },
+                {
+                    "n": "lui",
+                    "c": 1
+                }
+            ]
+        },
+        "agent": [
+            {
+                "w": "tressaillir",
+                "i": 687
+            },
+            {
+                "w": "voir",
+                "i": 690
+            },
+            {
+                "w": "soulever",
+                "i": 718
+            },
+            {
+                "w": "promener",
+                "i": 785
+            },
+            {
+                "w": "songer",
+                "i": 822
+            },
+            {
+                "w": "examiner",
+                "i": 826
+            },
+            {
+                "w": "noter",
+                "i": 830
+            },
+            {
+                "w": "scruter",
+                "i": 834
+            },
+            {
+                "w": "sembler",
+                "i": 850
+            },
+            {
+                "w": "regarder",
+                "i": 856
+            },
+            {
+                "w": "remarquer",
+                "i": 925
+            },
+            {
+                "w": "pencher",
+                "i": 954
+            },
+            {
+                "w": "parler",
+                "i": 956
+            },
+            {
+                "w": "redresser",
+                "i": 978
+            },
+            {
+                "w": "recueillir",
+                "i": 981
+            }
+        ],
+        "patient": [],
+        "mod": [],
+        "poss": [
+            {
+                "w": "étrier",
+                "i": 723
+            },
+            {
+                "w": "oeil",
+                "i": 733
+            },
+            {
+                "w": "lunette",
+                "i": 790
+            },
+            {
+                "w": "garde",
+                "i": 801
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "count": {
+            "occurrence": 4,
+            "mention_ratio": 0.058
+        },
+        "gender": {
+            "ratio": 0.75,
+            "inference": {
+                "Male": 0.67,
+                "Female": 0.33
+            },
+            "max": 0.67,
+            "argmax": "Male"
+        },
+        "number": {
+            "ratio": 0.75,
+            "inference": {
+                "Singular": 1.0,
+                "Plural": 0.0
+            },
+            "max": 1.0,
+            "argmax": "Singular"
+        },
+        "mentions": {
+            "proper": [
+                {
+                    "n": "le lieutenant vieux",
+                    "c": 1
+                }
+            ],
+            "common": [
+                {
+                    "n": "cet hercule sorti de l’ école polytechnique",
+                    "c": 1
+                },
+                {
+                    "n": "sa garde",
+                    "c": 1
+                }
+            ],
+            "pronoun": [
+                {
+                    "n": "il",
+                    "c": 1
+                }
+            ]
+        },
+        "agent": [
+            {
+                "w": "observer",
+                "i": 811
+            }
+        ],
+        "patient": [],
+        "mod": [],
+        "poss": []
+    },
+    {
+        "id": 3,
+        "count": {
+            "occurrence": 4,
+            "mention_ratio": 0.058
+        },
+        "gender": {
+            "ratio": 0.75,
+            "inference": {
+                "Male": 1.0,
+                "Female": 0.0
+            },
+            "max": 1.0,
+            "argmax": "Male"
+        },
+        "number": {
+            "ratio": 1.0,
+            "inference": {
+                "Singular": 1.0,
+                "Plural": 0.0
+            },
+            "max": 1.0,
+            "argmax": "Singular"
+        },
+        "mentions": {
+            "proper": [
+                {
+                    "n": "napoléon",
+                    "c": 1
+                }
+            ],
+            "common": [],
+            "pronoun": [
+                {
+                    "n": "il",
+                    "c": 2
+                },
+                {
+                    "n": "son",
+                    "c": 1
+                }
+            ]
+        },
+        "agent": [
+            {
+                "w": "venir",
+                "i": 1036
+            },
+            {
+                "w": "donner",
+                "i": 1045
+            }
+        ],
+        "patient": [],
+        "mod": [],
+        "poss": [
+            {
+                "w": "coup",
+                "i": 1040
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "count": {
+            "occurrence": 3,
+            "mention_ratio": 0.0435
+        },
+        "gender": {
+            "ratio": 0.3333,
+            "inference": {
+                "Male": 0.0,
+                "Female": 1.0
+            },
+            "max": 1.0,
+            "argmax": "Female"
+        },
+        "number": {
+            "ratio": 1.0,
+            "inference": {
+                "Singular": 1.0,
+                "Plural": 0.0
+            },
+            "max": 1.0,
+            "argmax": "Singular"
+        },
+        "mentions": {
+            "proper": [
+                {
+                    "n": "pack",
+                    "c": 1
+                }
+            ],
+            "common": [],
+            "pronoun": [
+                {
+                    "n": "sa",
+                    "c": 1
+                },
+                {
+                    "n": "elle",
+                    "c": 1
+                }
+            ]
+        },
+        "agent": [
+            {
+                "w": "rallier",
+                "i": 709
+            },
+            {
+                "w": "dérober",
+                "i": 713
+            }
+        ],
+        "patient": [],
+        "mod": [],
+        "poss": []
+    },
+    {
+        "id": 5,
+        "count": {
+            "occurrence": 2,
+            "mention_ratio": 0.029
+        },
+        "gender": {
+            "ratio": 1.0,
+            "inference": {
+                "Male": 1.0,
+                "Female": 0.0
+            },
+            "max": 1.0,
+            "argmax": "Male"
+        },
+        "number": {
+            "ratio": 1.0,
+            "inference": {
+                "Singular": 1.0,
+                "Plural": 0.0
+            },
+            "max": 1.0,
+            "argmax": "Singular"
+        },
+        "mentions": {
+            "proper": [
+                {
+                    "n": "au guide lacoste",
+                    "c": 1
+                }
+            ],
+            "common": [
+                {
+                    "n": "le guide",
+                    "c": 1
+                }
+            ],
+            "pronoun": []
+        },
+        "agent": [
+            {
+                "w": "faire",
+                "i": 965
+            }
+        ],
+        "patient": [],
+        "mod": [],
+        "poss": []
+    }
+]

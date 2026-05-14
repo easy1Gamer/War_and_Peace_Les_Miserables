@@ -1,0 +1,124 @@
+start_token	end_token	cat	confidence	text	mention_len	paragraph_ID	sentence_ID	start_token_ID_within_sentence	out_to_in_nested_level	in_to_out_nested_level	nested_entities_count	temp_index	head_id	head_word	head_dependency_relation	head_syntactic_head_ID	POS_tag	prop	number	gender	grammatical_person	COREF
+10	11	PER	0.7970761954784393	jean valjean	2	1	1	0	0	0	0	0	10	jean	obj	6	PROPN	PROP	Singular	Male	3	1
+16	16	PER	0.6473609805107117	on	1	2	2	0	0	0	0	1	16	on	nsubj	18	PRON	PRON	Ambiguous	Ambiguous	3	11
+17	17	PER	0.9935986995697021	nous	1	2	2	1	0	0	0	2	17	nous	iobj	18	PRON	PRON	Plural	Ambiguous	1	3
+28	28	PER	0.9898576736450195	nous	1	2	3	0	0	0	0	3	28	nous	nsubj	30	PRON	PRON	Plural	Ambiguous	1	3
+48	53	TIME	0.5429463163018227	les événements surprenants accomplis à montreuil-sur-mer	6	2	3	20	0	0	0	4	49	événements	obl:mod	32	NOUN	PROP	Not_Assigned	Not_Assigned	3	
+79	79	PER	0.9848975539207458	nous	1	4	6	0	0	0	0	5	79	nous	nsubj	80	PRON	PRON	Plural	Ambiguous	1	3
+90	93	TIME	0.6965639591217041	du 25 juillet 1823	4	4	7	3	0	0	0	6	91	25	obl:arg	89	NUM	NOM	Not_Assigned	Not_Assigned	3	
+116	117	GPE	0.8102858364582062	au département	2	5	9	3	0	0	0	7	117	département	obl:arg	115	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+120	122	PER	0.934412678082784	m.   madeleine	3	5	9	7	0	0	0	8	121		dep	121	SPACE	PROP	Singular	Male	3	1
+125	127	TIME	0.8097819685935974	depuis quelques années	3	5	9	12	0	0	0	9	127	années	obl:mod	124	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+149	149	PER	0.9874498844146729	il	1	5	10	0	0	0	0	10	149	il	nsubj	152	PRON	PRON	Singular	Male	3	1
+150	150	GPE	0.41766414046287537	y	1	5	10	1	0	0	0	11	150	y	iobj	152	PRON	PRON	Not_Assigned	Not_Assigned	3	
+153	153	PER	0.9824339747428894	sa	1	5	10	4	0	0	0	12	153	sa	det	154	DET	PRON	Singular	Ambiguous	3	1
+170	170	PER	0.9838958978652954	ses	1	5	11	3	0	0	0	13	170	ses	det	171	DET	PRON	Singular	Ambiguous	3	1
+173	173	PER	0.6233479380607605	on	1	5	11	6	0	0	0	14	173	on	nsubj	176	PRON	PRON	Ambiguous	Ambiguous	3	12
+174	174	PER	0.962760329246521	l’	1	5	11	7	0	0	0	15	174	l'	obj	176	PRON	PRON	Singular	Ambiguous	3	1
+184	187	PER	0.8972775191068649	ce m.   madeleine	4	5	12	5	0	0	0	16	186		dep	182	SPACE	PROP	Singular	Male	3	13
+202	202	TIME	0.516189455986023	1796	1	5	12	23	0	0	0	17	202	1796	obl:mod	200	NUM	NOM	Not_Assigned	Not_Assigned	3	
+208	209	PER	0.9426974356174469	jean valjean	2	5	12	29	0	0	0	18	208	jean	xcomp	207	PROPN	PROP	Singular	Male	3	14
+211	212	PER	0.9664113521575928	jean valjean	2	5	13	0	0	0	0	19	211	jean	nsubj:pass	215	PROPN	PROP	Singular	Male	3	0
+216	217	FAC	0.8344250321388245	au bagne	2	5	13	5	0	0	0	20	217	bagne	obl:arg	215	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+223	223	PER	0.9767702221870422	son	1	5	14	4	0	0	0	21	223	son	det	224	DET	PRON	Singular	Ambiguous	3	0
+225	225	PER	0.997614860534668	il	1	5	14	6	0	0	0	22	225	il	nsubj	227	PRON	PRON	Singular	Male	3	0
+232	234	PER	0.8737564086914062	m.   laffitte	3	5	14	13	0	0	0	23	232	m.	obl:arg	229	NOUN	PROP	Singular	Male	3	15
+243	243	PER	0.9969859719276428	il	1	5	14	24	0	0	0	24	243	il	nsubj	246	PRON	PRON	Singular	Male	3	0
+250	250	PER	0.9992578625679016	il	1	5	14	31	0	0	0	25	250	il	nsubj	251	PRON	PRON	Singular	Male	3	0
+264	264	PER	0.9901137351989746	son	1	5	14	45	0	0	0	26	264	son	det	265	DET	PRON	Singular	Ambiguous	3	0
+273	274	PER	0.9769159257411957	jean valjean	2	5	15	6	0	0	0	27	273	jean	nsubj	276	PROPN	PROP	Singular	Male	3	5
+280	280	PER	0.9520704746246338	sa	1	5	15	13	0	0	0	28	280	sa	det	281	DET	PRON	Singular	Ambiguous	3	5
+282	285	FAC	0.4134765863418579	au bagne de toulon	4	5	15	15	0	1	1	29	283	bagne	nmod	281	NOUN	PROP	Not_Assigned	Not_Assigned	3	
+285	285	GPE	0.9619724154472351	toulon	1	5	15	18	1	0	0	30	285	toulon	nmod	283	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+303	303	GPE	0.8771907091140747	paris	1	6	16	14	0	0	0	31	303	paris	nmod	301	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+310	317	PER	0.6902733221650124	un ancien forçat libéré , nommé jean valjean	8	7	17	2	0	0	0	32	312	forçat	nsubj	319	NOUN	PROP	Singular	Male	3	0
+327	328	GPE	0.4414592832326889	du var	2	7	17	19	0	0	0	33	328	var	nmod	324	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+338	339	PER	0.8613215982913971	ce scélérat	2	7	18	0	0	0	0	34	339	scélérat	nsubj	341	NOUN	NOM	Singular	Male	3	0
+351	351	PER	0.9989585876464844	il	1	7	18	13	0	0	0	35	351	il	nsubj	353	PRON	PRON	Singular	Male	3	0
+367	371	LOC	0.3466018259525299	nos petites villes du nord	5	7	18	29	0	1	1	36	369	villes	nmod	365	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+370	371	GPE	0.6119499504566193	du nord	2	7	18	32	1	0	0	37	371	nord	nmod	369	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+373	373	PER	0.9967132806777954	il	1	7	19	0	0	0	0	38	373	il	nsubj	375	PRON	PRON	Singular	Male	3	0
+377	378	GPE	0.6932596266269684	cette ville	2	7	19	4	0	0	0	39	378	ville	obl:mod	375	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+384	384	PER	0.9977673292160034	il	1	7	20	0	0	0	0	40	384	il	nsubj:pass	388	PRON	PRON	Singular	Male	3	0
+396	398	PER	0.6786475777626038	du ministère public	3	7	20	12	0	0	0	41	397	ministère	nmod	394	NOUN	NOM	Plural	Ambiguous	3	16
+400	400	PER	0.9983031749725342	il	1	7	21	0	0	0	0	42	400	il	nsubj	401	PRON	PRON	Singular	Male	3	0
+404	406	PER	0.8877739111582438	une fille publique	3	7	21	4	0	0	0	43	405	fille	obj	401	NOUN	NOM	Singular	Female	3	6
+407	407	PER	0.988492488861084	qui	1	7	21	7	0	0	0	44	407	qui	nsubj	409	PRON	PRON	Ambiguous	Ambiguous	4	6
+412	416	TIME	0.702464759349823	au moment de son arrestation	5	7	21	12	0	1	1	45	413	moment	obl:mod	409	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+415	415	PER	0.9857164025306702	son	1	7	21	15	1	0	0	46	415	son	det	416	DET	PRON	Singular	Ambiguous	3	0
+418	419	PER	0.9624951481819153	ce misérable	2	7	22	0	0	0	0	47	419	misérable	nsubj	430	ADJ	NOM	Singular	Male	3	0
+421	421	PER	0.9731640815734863	qui	1	7	22	3	0	0	0	48	421	qui	nsubj	423	PRON	PRON	Ambiguous	Ambiguous	4	0
+439	442	TIME	0.6331791952252388	trois ou quatre jours	4	7	22	21	0	0	0	49	442	jours	nmod	445	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+444	444	PER	0.9600737690925598	son	1	7	22	26	0	0	0	50	444	son	det	445	DET	PRON	Singular	Ambiguous	3	0
+455	455	PER	0.9981206059455872	lui	1	7	22	37	0	0	0	51	455	lui	obl:arg	449	PRON	PRON	Singular	Ambiguous	3	0
+458	458	GPE	0.9278580546379089	paris	1	7	22	40	0	0	0	52	458	paris	obl:mod	449	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+464	464	PER	0.9988390803337097	il	1	7	22	46	0	0	0	53	464	il	nsubj	465	PRON	PRON	Singular	Male	3	0
+469	471	VEH	0.6606264114379883	ces petites voitures	3	7	22	51	0	0	0	54	471	voitures	nmod	467	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+472	472	VEH	0.6852482557296753	qui	1	7	22	54	0	0	0	55	472	qui	nsubj	473	PRON	PRON	Not_Assigned	Not_Assigned	4	
+477	478	GPE	0.7393708825111389	la capitale	2	7	22	59	0	0	0	56	478	capitale	nmod	475	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+479	484	FAC	0.5802321086327235	au village de montfermeil ( seine-et-oise	6	7	22	61	0	1	1	57	480	village	obl:arg	473	NOUN	PROP	Not_Assigned	Not_Assigned	3	
+482	482	GPE	0.5120758414268494	montfermeil	1	7	22	64	1	0	0	58	482	montfermeil	nmod	480	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+490	490	PER	0.9993917942047119	il	1	7	23	3	0	0	0	59	490	il	nsubj	492	PRON	PRON	Singular	Male	3	0
+497	503	TIME	0.720406038420541	ces trois ou quatre jours de liberté	7	7	23	10	0	0	0	60	501	jours	nmod	495	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+514	514	PER	0.9930492639541626	lui	1	7	23	27	0	0	0	61	514	lui	obl:agent	512	PRON	PRON	Singular	Ambiguous	3	0
+518	520	PER	0.5141968379418055	nos principaux banquiers	3	7	23	31	0	1	1	62	520	banquiers	nmod	516	NOUN	NOM	Plural	Not_Assigned	3	17
+518	518	PER	0.8714560270309448	nos	1	7	23	31	1	0	0	63	518	nos	det	520	DET	PRON	Plural	Ambiguous	1	18
+542	542	PER	0.9979543685913086	il	1	7	25	8	0	0	0	64	542	il	nsubj	545	PRON	PRON	Singular	Male	3	0
+551	551	PER	0.9937819838523865	lui	1	7	25	17	0	0	0	65	551	lui	obl:mod	549	PRON	PRON	Singular	Ambiguous	3	0
+569	572	PER	0.8675025403499603	le nommé jean valjean	4	7	26	6	0	0	0	66	570	nommé	nsubj	573	NOUN	PROP	Singular	Male	3	0
+579	580	GPE	0.6393271684646606	du département	2	7	26	16	0	0	0	67	580	département	nmod	578	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+581	582	GPE	0.6357274800539017	du var	2	7	26	18	0	0	0	68	582	var	nmod	580	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+596	601	TIME	0.822298546632131	il y a huit ans environ	6	7	26	33	0	0	0	69	600	ans	obl:mod	591	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+609	611	PER	0.7977246443430582	ces honnêtes enfants	3	7	26	46	0	0	0	70	611	enfants	nmod	607	NOUN	NOM	Plural	Ambiguous	3	4
+612	612	PER	0.8117925524711609	qui	1	7	26	49	0	0	0	71	612	qui	nsubj	633	PRON	PRON	Ambiguous	Ambiguous	4	4
+621	621	GPE	0.9614824056625366	ferney	1	7	26	58	0	0	0	72	621	ferney	nmod	619	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+628	628	GPE	0.5283070206642151	savoie	1	8	27	2	0	0	0	73	628	savoie	nmod	587	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+630	632	TIME	0.7570659518241882	tous les ans	3	8	27	4	0	0	0	74	632	ans	obj	629	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+634	634	PER	0.7787749171257019	dont	1	9	28	1	0	0	0	75	634	dont	nmod	636	PRON	PRON	Ambiguous	Ambiguous	4	4
+639	641	LOC	0.358941117922465	ces longs canaux	3	10	29	0	0	0	0	76	641	canaux	obj	648	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+651	653	PER	0.56595711906751	  ce bandit	3	11	30	1	0	0	0	77	651		dep	651	SPACE	NOM	Singular	Not_Assigned	3	0
+671	673	PER	0.5166066785653433	du ministère public	3	11	31	11	0	0	0	78	672	ministère	nmod	670	NOUN	NOM	Plural	Ambiguous	3	19
+686	687	PER	0.9861299097537994	jean valjean	2	11	31	26	0	0	0	79	686	jean	nsubj	688	PROPN	PROP	Singular	Male	3	20
+696	697	GPE	0.799597293138504	le midi	2	11	31	36	0	0	0	80	697	midi	obl:mod	688	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+701	702	PER	0.9590073227882385	jean valjean	2	11	32	2	0	0	0	81	701	jean	nsubj:pass	709	PROPN	PROP	Singular	Male	3	7
+716	717	PER	0.9737445414066315	ce criminel	2	11	33	0	0	0	0	82	717	criminel	nsubj	719	NOUN	NOM	Singular	Male	3	7
+726	727	PER	0.692055344581604	le roi	2	11	34	0	0	0	0	83	727	roi	nsubj	735	NOUN	NOM	Singular	Male	3	8
+730	730	PER	0.8700894117355347	son	1	11	34	4	0	0	0	84	730	son	det	732	DET	PRON	Singular	Ambiguous	3	8
+737	737	PER	0.974586009979248	sa	1	11	34	11	0	0	0	85	737	sa	det	738	DET	PRON	Singular	Ambiguous	3	0
+747	748	PER	0.962325930595398	jean valjean	2	11	35	0	0	0	0	86	747	jean	nsubj:pass	752	PROPN	PROP	Singular	Male	3	21
+754	757	FAC	0.5834774821996689	le bagne de toulon	4	11	35	7	0	1	1	87	755	bagne	obl:arg	752	NOUN	PROP	Not_Assigned	Not_Assigned	3	
+757	757	GPE	0.9563499093055725	toulon	1	11	35	10	1	0	0	88	757	toulon	nmod	755	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+767	768	PER	0.981147438287735	jean valjean	2	12	36	6	0	0	0	89	767	jean	nsubj	769	PROPN	PROP	Singular	Male	3	22
+771	771	GPE	0.5634101629257202	montreuil-sur-mer	1	12	36	10	0	0	0	90	771	montreuil-sur-mer	obl:mod	769	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+794	795	PER	0.9824040234088898	jean valjean	2	13	38	0	0	0	0	91	794	jean	nsubj	796	PROPN	PROP	Singular	Male	3	9
+799	800	FAC	0.7678024768829346	au bagne	2	13	38	5	0	0	0	92	800	bagne	obl:arg	796	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+802	802	PER	0.9591571092605591	il	1	13	39	0	0	0	0	93	802	il	nsubj	804	PRON	PRON	Singular	Male	3	9
+820	822	PER	0.8836996555328369	m.   madeleine	3	14	40	13	0	0	0	94	821		dep	810	SPACE	PROP	Singular	Male	3	2
+833	833	PER	0.9983135461807251	il	1	14	40	26	0	0	0	95	833	il	nsubj	835	PRON	PRON	Singular	Male	3	2
+837	837	PER	0.9886580109596252	sa	1	14	40	30	0	0	0	96	837	sa	det	838	DET	PRON	Singular	Ambiguous	3	2
+848	848	PER	0.9194514751434326	lui	1	14	40	41	0	0	0	97	848	lui	advmod	857	PRON	PRON	Singular	Ambiguous	3	2
+861	863	TIME	0.5721914569536845	après sa chute	3	14	41	0	0	1	1	98	863	chute	obl:mod	867	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+862	862	PER	0.9889754056930542	sa	1	14	41	1	1	0	0	99	862	sa	det	863	DET	PRON	Singular	Ambiguous	3	2
+869	869	GPE	0.5206197500228882	montreuil-sur-mer	1	14	41	8	0	0	0	100	869	montreuil-sur-mer	obl:arg	867	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+925	926	PER	0.6346366703510284	les contre-maîtres	2	14	42	7	0	0	0	101	926	contre-maîtres	nsubj	928	NOUN	NOM	Plural	Not_Assigned	3	23
+936	942	FAC	0.628081277012825	les vastes ateliers de m.   madeleine	7	14	44	0	0	1	1	102	938	ateliers	nsubj	941	NOUN	PROP	Not_Assigned	Not_Assigned	3	
+940	942	PER	0.9601685603459676	m.   madeleine	3	14	44	4	1	0	0	103	941		dep	941	SPACE	PROP	Singular	Male	3	24
+947	948	FAC	0.8628015220165253	les bâtiments	2	14	44	11	0	0	0	104	948	bâtiments	nsubj	949	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+953	954	PER	0.9348316490650177	les ouvriers	2	14	44	17	0	0	0	105	954	ouvriers	nsubj	956	NOUN	NOM	Plural	Ambiguous	3	25
+958	959	PER	0.8459378182888031	les uns	2	14	45	0	0	0	0	106	959	uns	nsubj	960	NOUN	NOM	Plural	Ambiguous	3	26
+961	962	GPE	0.5667626410722733	le pays	2	14	45	3	0	0	0	107	962	pays	obj	960	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+964	965	PER	0.8583256900310516	les autres	2	14	45	6	0	0	0	108	965	autres	nsubj	966	PRON	PRON	Plural	Ambiguous	3	27
+1012	1014	PER	0.950832724571228	m.   madeleine	3	14	48	0	0	0	0	109	1013		dep	1013	SPACE	PROP	Singular	Male	3	10
+1021	1021	PER	0.7633392214775085	lui	1	14	49	0	0	0	0	110	1021	lui	iobj	1022	PRON	PRON	Singular	Ambiguous	3	10
+1024	1024	PER	0.6807436943054199	chacun	1	14	49	3	0	0	0	111	1024	chacun	nsubj	1025	PRON	PRON	Ambiguous	Ambiguous	3	28
+1068	1070	PER	0.9272683262825012	m.   madeleine	3	14	49	47	0	0	0	112	1069		dep	1069	SPACE	PROP	Singular	Male	3	29
+1107	1108	FAC	0.8527386784553528	les ateliers	2	14	49	86	0	0	0	113	1108	ateliers	nsubj	1109	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+1120	1121	PER	0.698303610086441	les pauvres	2	14	50	5	0	0	0	114	1121	pauvres	dep	1118	NOUN	NOM	Plural	Ambiguous	3	30
+1141	1144	TIME	0.514423344284296	moins de quatre ans	4	15	53	0	0	0	0	115	1143	quatre	nummod	1144	NUM	NOM	Not_Assigned	Not_Assigned	3	
+1161	1167	PER	0.5347605688231332	m.   madeleine et de jean valjean	7	15	53	20	0	1	2	116	1166	jean	conj	1163	PROPN	PROP	Plural	Not_Assigned	3	31
+1161	1163	PER	0.8962723612785339	m.   madeleine	3	15	53	20	1	0	0	117	1161	m.	nmod	1159	NOUN	PROP	Singular	Male	3	32
+1166	1167	PER	0.6519232839345932	jean valjean	2	15	53	25	1	0	0	118	1166	jean	conj	1163	PROPN	PROP	Singular	Male	3	33
+1179	1182	LOC	0.5599681511521339	l’ arrondissement de montreuil-sur-mer	4	15	53	38	0	1	1	119	1180	arrondissement	obl:mod	1177	NOUN	PROP	Not_Assigned	Not_Assigned	3	
+1182	1182	GPE	0.36373022198677063	montreuil-sur-mer	1	15	53	41	1	0	0	120	1182	montreuil-sur-mer	nmod	1180	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+1185	1188	PER	0.962262898683548	m.   de villèle	4	15	53	44	0	0	0	121	1186		dep	1177	SPACE	PROP	Singular	Male	3	34
+1196	1200	TIME	0.7236148238182067	au mois de février 1827	5	15	53	55	0	0	0	122	1197	mois	obl:mod	1190	NOUN	NOM	Not_Assigned	Not_Assigned	3	

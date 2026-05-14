@@ -1,0 +1,321 @@
+start_token	end_token	cat	confidence	text	mention_len	paragraph_ID	sentence_ID	start_token_ID_within_sentence	out_to_in_nested_level	in_to_out_nested_level	nested_entities_count	temp_index	head_id	head_word	head_dependency_relation	head_syntactic_head_ID	POS_tag	prop	number	gender	grammatical_person	COREF
+27	36	TIME	0.747034278512001	vers la fin d’ octobre de cette même année 1823	10	1	1	0	0	1	1	0	35	année	nmod	31	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+28	31	TIME	0.612783245742321	la fin d’ octobre	4	1	1	1	1	0	0	1	29	fin	obl:mod	42	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+38	41	PER	0.767171174287796	les habitants de toulon	4	1	1	11	0	1	1	2	39	habitants	nsubj	42	NOUN	PROP	Plural	Ambiguous	3	5
+41	41	GPE	0.935660719871521	toulon	1	1	1	14	1	0	0	3	41	toulon	nmod	39	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+45	45	PER	0.8494173884391785	leur	1	1	1	18	0	0	0	4	45	leur	det	46	DET	PRON	Plural	Ambiguous	3	5
+61	64	VEH	0.7415674179792404	le vaisseau l ’	4	1	1	34	0	0	0	5	62	vaisseau	obj	57	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+66	66	VEH	0.8372432589530945	qui	1	1	1	39	0	0	0	6	66	qui	nsubj:pass	71	PRON	PRON	Not_Assigned	Not_Assigned	4	
+73	73	GPE	0.9486491084098816	brest	1	1	1	46	0	0	0	7	73	brest	obl:mod	71	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+79	79	VEH	0.8039600849151611	qui	1	1	1	52	0	0	0	8	79	qui	nsubj	80	PRON	PRON	Not_Assigned	Not_Assigned	4	
+87	88	GPE	0.5741010010242462	la méditerranée	2	1	1	60	0	0	0	9	88	méditerranée	nmod	85	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+93	94	VEH	0.8560969531536102	ce bâtiment	2	2	2	0	0	0	0	10	94	bâtiment	nsubj	109	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+99	99	VEH	0.9431222081184387	il	1	2	2	6	0	0	0	11	99	il	nsubj	100	PRON	PRON	Not_Assigned	Not_Assigned	3	
+103	104	LOC	0.7021985054016113	la mer	2	2	2	10	0	0	0	12	104	mer	nsubj	107	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+105	105	VEH	0.535078227519989	l’	1	2	2	12	0	0	0	13	105	l'	obj	107	PRON	PRON	Not_Assigned	Not_Assigned	3	
+119	119	PER	0.9436736106872559	il	1	2	3	0	0	0	0	14	119	il	nsubj	120	PRON	PRON	Singular	Male	3	0
+121	121	PER	0.9994339346885681	je	1	2	3	2	0	0	0	15	121	je	nsubj	123	PRON	PRON	Singular	Ambiguous	1	12
+128	128	PER	0.9688013792037964	lui	1	2	3	9	0	0	0	16	128	lui	iobj	129	PRON	PRON	Singular	Ambiguous	3	0
+141	141	PER	0.8774465918540955	lui	1	2	3	22	0	0	0	17	141	lui	obl:agent	139	PRON	PRON	Singular	Ambiguous	3	0
+184	184	LOC	0.2607555687427521	soleil	1	2	4	32	0	0	0	18	184	soleil	nmod	182	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+186	188	TIME	0.7443707386652628	tous les jours	3	2	4	34	0	0	0	19	188	jours	obl:mod	185	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+194	198	VEH	0.5169803082942963	tous les navires de guerre	5	2	4	42	0	0	0	20	196	navires	conj	192	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+221	224	TIME	0.7671107202768326	toutes les vingt-quatre heures	4	2	4	69	0	0	0	21	224	heures	obj	213	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+272	274	TIME	0.43500927090644836	ce temps -là	3	2	7	1	0	0	0	22	273	temps	obl:mod	277	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+275	276	PER	0.5815763473510742	les pauvres	2	2	7	4	0	0	0	23	276	pauvres	nsubj	277	NOUN	NOM	Plural	Ambiguous	3	13
+281	283	TIME	0.8162283102671305	l’ année 1823	3	3	8	0	0	0	0	24	282	année	nsubj	285	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+287	288	TIME	0.49285416305065155	la restauration	2	3	8	6	0	0	0	25	288	restauration	nsubj	290	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+292	299	TIME	0.7813123315572739	  l’ époque de la guerre d’ espagne	8	3	8	11	0	1	1	26	297	guerre	nmod	294	NOUN	PROP	Not_Assigned	Not_Assigned	3	
+299	299	GPE	0.7935519814491272	espagne	1	3	8	18	1	0	0	27	299	espagne	nmod	297	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+335	335	GPE	0.7767972350120544	france	1	4	10	15	0	0	0	28	335	france	nmod	333	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+342	342	GPE	0.9333006739616394	madrid	1	4	10	22	0	0	0	29	342	madrid	nmod	340	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+360	360	PER	0.877228856086731	nos	1	4	10	40	0	0	0	30	360	nos	det	361	DET	PRON	Plural	Ambiguous	1	2
+371	372	LOC	0.48092372715473175	du nord	2	4	10	51	0	0	0	31	372	nord	nmod	370	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+375	380	PER	0.7141705453395844	m.   le duc d’ angoulême	6	4	10	55	0	0	0	32	375	m.	ROOT	375	NOUN	PROP	Singular	Male	3	6
+390	390	GPE	0.8776587843894958	andujar	1	4	10	70	0	0	0	33	390	andujar	nmod	388	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+402	402	PER	0.9262494444847107	son	1	4	10	82	0	0	0	34	402	son	det	403	DET	PRON	Singular	Ambiguous	3	6
+476	479	PER	0.5990230515599251	du fils de france	4	4	10	156	0	0	0	35	477	fils	nmod	475	NOUN	PROP	Singular	Male	3	0
+482	485	PER	0.8137418180704117	le prince de carignan	4	4	10	162	0	0	0	36	483	prince	ROOT	483	NOUN	PROP	Singular	Male	3	3
+487	490	PER	0.6818054765462875	depuis charles - albert	4	4	10	167	0	0	0	37	488	charles	ROOT	488	PROPN	PROP	Singular	Male	3	3
+525	529	TIME	0.6701147079467773	après huit années de repos	5	4	10	205	0	0	0	38	527	années	ROOT	527	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+550	554	PER	0.5981866598129273	une héroïque poignée de français	5	4	10	230	0	0	0	39	552	poignée	ROOT	552	NOUN	NOM	Not_Assigned	Not_Assigned	3	1
+563	563	GPE	0.7758849859237671	coblentz	1	4	10	243	0	0	0	40	563	coblentz	fixed	562	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+564	566	TIME	0.543530136346817	trente ans auparavant	3	4	10	244	0	0	0	41	565	ans	ROOT	565	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+573	573	PER	0.88556307554245	nos	1	4	10	253	0	0	0	42	573	nos	det	574	PUNCT	PRON	Plural	Ambiguous	1	2
+602	603	GPE	0.849812924861908	la france	2	4	10	282	0	0	0	43	603	france	ROOT	603	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+621	623	PER	0.5253159503142039	les chefs ennemis	3	4	10	301	0	0	0	44	622	chefs	ROOT	622	NOUN	NOM	Plural	Ambiguous	3	14
+630	632	GPE	0.5287393232186636	les villes assiégées	3	4	10	310	0	0	0	45	631	villes	conj	622	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+687	688	PER	0.82322758436203	des princes	2	4	10	367	0	0	0	46	688	princes	obl:agent	685	NOUN	NOM	Plural	Ambiguous	3	4
+689	689	PER	0.6094287037849426	qui	1	4	10	369	0	0	0	47	689	qui	nsubj	690	PRON	PRON	Ambiguous	Ambiguous	4	4
+697	698	PER	0.7155168354511261	des généraux	2	4	10	377	0	0	0	48	698	généraux	obl:agent	695	NOUN	NOM	Plural	Ambiguous	3	15
+699	699	PER	0.8060041069984436	qui	1	4	10	379	0	0	0	49	699	qui	nsubj	700	PRON	PRON	Ambiguous	Ambiguous	4	4
+702	702	GPE	0.6993117332458496	napoléon	1	4	10	382	0	0	0	50	702	napoléon	obl:arg	700	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+731	732	FAC	0.2509053125977516	du trocadéro	2	5	12	10	0	0	0	51	732	trocadéro	nmod	730	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+748	748	PER	0.9955918192863464	nous	1	5	12	27	0	0	0	52	748	nous	nsubj	750	PRON	PRON	Plural	Ambiguous	1	2
+770	771	GPE	0.6716080009937286	la france	2	5	12	49	0	0	0	53	771	france	obj	769	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+786	788	PER	0.6384960015614828	certains officiers espagnols	3	5	13	4	0	0	0	54	787	officiers	nsubj	793	NOUN	NOM	Plural	Ambiguous	3	16
+839	839	GPE	0.8487028479576111	france	1	5	14	11	0	0	0	55	839	france	nmod	837	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+846	851	PER	0.4027576744556427	des soldats de la guerre de	6	6	15	0	0	0	0	56	847	soldats	nsubj	862	NOUN	NOM	Plural	Not_Assigned	3	7
+852	852	TIME	0.6727115511894226	1808	1	6	15	6	0	0	0	57	852	1808	nmod	850	NUM	NOM	Not_Assigned	Not_Assigned	3	
+855	855	PER	0.6748809218406677	lesquels	1	6	15	9	0	0	0	58	855	lesquels	dep	859	PRON	PRON	Plural	Male	3	7
+860	860	GPE	0.8195645809173584	saragosse	1	6	15	14	0	0	0	59	860	saragosse	obj	859	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+866	866	TIME	0.7838273644447327	1823	1	6	15	20	0	0	0	60	866	1823	obl:mod	862	NUM	NOM	Not_Assigned	Not_Assigned	3	
+886	887	GPE	0.8000514209270477	la france	2	6	16	5	0	0	0	61	887	france	nmod	884	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+923	923	GPE	0.8563023805618286	france	1	7	17	24	0	0	0	62	923	france	obl:mod	921	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+967	968	GPE	0.8460443317890167	la france	2	7	21	0	0	0	0	63	968	france	nsubj:pass	970	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+983	984	TIME	0.5563659518957138	depuis 1792	2	7	22	0	0	0	0	64	984	1792	obl:mod	994	NUM	NOM	Not_Assigned	Not_Assigned	3	
+990	991	GPE	0.8594835996627808	l’ europe	2	7	22	7	0	0	0	65	991	europe	nmod	988	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+1002	1002	GPE	0.9052653908729553	france	1	7	22	19	0	0	0	66	1002	france	obl:arg	1000	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+1030	1030	TIME	0.7771748900413513	1823	1	8	25	3	0	0	0	67	1030	1823	nmod	1028	NUM	NOM	Not_Assigned	Not_Assigned	3	
+1059	1060	GPE	0.7615991234779358	la france	2	8	26	8	0	0	0	68	1060	france	ROOT	1060	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+1061	1061	PER	0.6032609939575195	qui	1	8	26	10	0	0	0	69	1061	qui	nsubj	1063	PRON	PRON	Ambiguous	Ambiguous	4	1
+1141	1142	PER	0.9352546036243439	aux bourbons	2	9	30	1	0	0	0	70	1142	bourbons	obl:mod	1150	PROPN	PROP	Singular	Not_Assigned	3	1
+1144	1147	TIME	0.6360141336917877	la guerre de 1823	4	9	30	4	0	1	2	71	1145	guerre	nsubj	1150	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+1144	1146	TIME	0.5526211460431417	la guerre de	3	9	30	4	1	0	0	72	1145	guerre	nsubj	1150	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+1147	1147	TIME	0.806718111038208	1823	1	9	30	7	1	0	0	73	1147	1823	nmod	1145	NUM	NOM	Not_Assigned	Not_Assigned	3	
+1148	1148	PER	0.9814212918281555	leur	1	9	30	8	0	0	0	74	1148	leur	iobj	1150	PRON	PRON	Plural	Ambiguous	3	1
+1155	1155	PER	0.9884516000747681	ils	1	9	31	0	0	0	0	75	1155	ils	nsubj	1157	PRON	PRON	Plural	Ambiguous	3	1
+1162	1162	PER	0.9901310205459595	ils	1	9	32	0	0	0	0	76	1162	ils	nsubj	1164	PRON	PRON	Plural	Ambiguous	3	1
+1180	1180	PER	0.9918035268783569	ils	1	9	33	0	0	0	0	77	1180	ils	nsubj	1182	PRON	PRON	Plural	Ambiguous	3	1
+1184	1184	PER	0.9572311639785767	leur	1	9	33	4	0	0	0	78	1184	leur	det	1185	DET	PRON	Plural	Ambiguous	3	1
+1191	1191	PER	0.7644504308700562	leur	1	9	33	11	0	0	0	79	1191	leur	det	1192	DET	PRON	Plural	Ambiguous	3	1
+1212	1212	PER	0.9728546142578125	leur	1	9	34	8	0	0	0	80	1212	leur	det	1213	DET	PRON	Plural	Ambiguous	3	1
+1218	1218	TIME	0.7915126085281372	1823	1	9	34	14	0	0	0	81	1218	1823	obl:mod	1216	NUM	NOM	Not_Assigned	Not_Assigned	3	
+1220	1223	TIME	0.628651812672615	la campagne d’ espagne	4	9	35	0	0	1	1	82	1221	campagne	nsubj	1224	NOUN	PROP	Not_Assigned	Not_Assigned	3	
+1223	1223	GPE	0.9083995819091797	espagne	1	9	35	3	1	0	0	83	1223	espagne	nmod	1221	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+1226	1226	PER	0.9520485401153564	leurs	1	9	35	6	0	0	0	84	1226	leurs	det	1227	DET	PRON	Plural	Ambiguous	3	1
+1243	1244	GPE	0.6460465788841248	la france	2	9	36	0	0	0	0	85	1244	france	nsubj	1257	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+1255	1255	GPE	0.925917387008667	espagne	1	9	36	12	0	0	0	86	1255	espagne	obl:mod	1247	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+1266	1266	PER	0.9929770827293396	ils	1	9	37	0	0	0	0	87	1266	ils	nsubj	1267	PRON	PRON	Plural	Ambiguous	3	1
+1276	1277	PER	0.5897124111652374	du soldat	2	9	37	10	0	0	0	88	1277	soldat	nmod	1275	NOUN	NOM	Singular	Male	3	0
+1314	1317	VEH	0.6478689163923264	au navire l ’	4	10	40	1	0	0	0	89	1315	navire	obl:arg	1313	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+1321	1331	TIME	0.5278364745053378	les opérations de l’ armée commandée par le prince - généralissime	11	11	41	1	0	1	1	90	1322	opérations	obl:mod	1335	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+1328	1331	PER	0.8219513595104218	le prince - généralissime	4	11	41	8	1	0	0	91	1329	prince	obj	1326	NOUN	NOM	Singular	Male	3	3
+1337	1338	LOC	0.5431066155433655	la méditerranée	2	11	41	17	0	0	0	92	1338	méditerranée	obl:arg	1335	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+1340	1340	PER	0.9946573376655579	nous	1	11	42	0	0	0	0	93	1340	nous	nsubj	1341	PRON	PRON	Plural	Ambiguous	1	2
+1345	1346	VEH	0.5585285872220993	l ’	2	11	42	5	0	0	0	94	1345	l	det	1347	DET	PRON	Not_Assigned	Not_Assigned	3	
+1350	1351	VEH	0.586647629737854	cette escadre	2	11	42	10	0	0	0	95	1351	escadre	ccomp	1343	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+1354	1354	VEH	0.9406777620315552	il	1	11	42	14	0	0	0	96	1354	il	nsubj:pass	1356	PRON	PRON	Not_Assigned	Not_Assigned	3	
+1358	1361	VEH	0.6883822083473206	des événements de mer	4	11	42	18	0	0	0	97	1359	événements	obl:agent	1356	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+1363	1366	FAC	0.3860727474093437	le port de toulon	4	11	42	23	0	1	1	98	1364	port	obl:mod	1356	NOUN	PROP	Not_Assigned	Not_Assigned	3	
+1366	1366	GPE	0.9400210976600647	toulon	1	11	42	26	1	0	0	99	1366	toulon	nmod	1364	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+1371	1374	VEH	0.8753350228071213	un vaisseau de guerre	4	12	43	3	0	0	0	100	1372	vaisseau	nmod	1369	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+1376	1377	FAC	0.7904756963253021	un port	2	12	43	8	0	0	0	101	1377	port	nmod	1369	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+1388	1389	PER	0.6156994700431824	la foule	2	12	43	20	0	0	0	102	1389	foule	obj	1387	NOUN	NOM	Plural	Ambiguous	3	1
+1408	1411	VEH	0.668399840593338	un vaisseau de ligne	4	13	45	0	0	0	0	103	1409	vaisseau	nsubj	1413	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+1432	1435	VEH	0.5874500647187233	un vaisseau de ligne	4	14	46	0	0	0	0	104	1433	vaisseau	nsubj:pass	1437	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+1463	1463	VEH	0.6286666393280029	il	1	14	46	31	0	0	0	105	1463	il	nsubj	1464	PRON	PRON	Not_Assigned	Not_Assigned	3	
+1495	1495	PER	0.6053345203399658	il	1	14	47	0	0	0	0	106	1495	il	nsubj	1496	PRON	PRON	Singular	Male	3	0
+1508	1509	LOC	0.8140565454959869	la mer	2	14	47	13	0	0	0	107	1509	mer	nmod	1506	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+1533	1533	PER	0.8298512101173401	son	1	14	48	0	0	0	0	108	1533	son	det	1534	DET	PRON	Singular	Ambiguous	3	0
+1537	1537	PER	0.5642988085746765	ses	1	14	48	4	0	0	0	109	1537	ses	det	1540	DET	PRON	Singular	Ambiguous	3	0
+1569	1570	VEH	0.8271070420742035	le vaisseau	2	14	49	15	0	0	0	110	1570	vaisseau	nsubj	1571	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+1572	1572	VEH	0.6576531529426575	son	1	14	49	18	0	0	0	111	1572	son	det	1573	DET	PRON	Not_Assigned	Not_Assigned	3	
+1575	1575	PER	0.5424195528030396	sa	1	14	49	21	0	0	0	112	1575	sa	det	1576	DET	PRON	Singular	Ambiguous	3	0
+1579	1579	PER	0.6301094889640808	le	1	14	49	25	0	0	0	113	1579	le	obj	1580	PRON	PRON	Singular	Male	3	0
+1582	1582	PER	0.5121802687644958	lui	1	14	49	28	0	0	0	114	1582	lui	iobj	1583	PRON	PRON	Singular	Ambiguous	3	0
+1585	1586	LOC	0.7350451350212097	le nord	2	14	49	31	0	0	0	115	1586	nord	obj	1583	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+1589	1591	TIME	0.4952285687128703	les nuits noires	3	14	50	1	0	0	0	116	1590	nuits	obl:mod	1594	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+1592	1592	PER	0.5343509912490845	ses	1	14	50	4	0	0	0	117	1592	ses	det	1593	DET	PRON	Singular	Ambiguous	3	0
+1595	1596	LOC	0.5645036697387695	aux étoiles	2	14	50	7	0	0	0	118	1596	étoiles	obl:arg	1594	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+1603	1603	PER	0.4636821448802948	il	1	14	51	5	0	0	0	119	1603	il	nsubj	1604	PRON	PRON	Singular	Male	3	0
+1679	1682	LOC	0.5204686149954796	des ports de brest	4	15	52	38	0	1	1	120	1680	ports	nmod	1672	NOUN	PROP	Not_Assigned	Not_Assigned	3	
+1682	1682	GPE	0.9068480134010315	brest	1	15	52	41	1	0	0	121	1682	brest	nmod	1680	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+1685	1685	GPE	0.9591540694236755	toulon	1	15	52	44	0	0	0	122	1685	toulon	conj	1682	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+1687	1690	VEH	0.5502815023064613	les vaisseaux en construction	4	15	53	0	0	0	0	123	1688	vaisseaux	nsubj	1691	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+1784	1784	PER	0.9454324841499329	nos	1	15	57	3	0	0	0	124	1784	nos	det	1785	DET	PRON	Plural	Ambiguous	1	1
+1791	1791	PER	0.7652596831321716	nôtre	1	15	57	10	0	0	0	125	1791	nôtre	nsubj	1792	PRON	PRON	Plural	Ambiguous	1	1
+1802	1806	VEH	0.6135146141052246	un vaisseau de cent canons	5	15	58	6	0	0	0	126	1803	vaisseau	nmod	1798	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+1826	1827	VEH	0.7130603194236755	ce vaisseau	2	15	59	3	0	0	0	127	1827	vaisseau	obj	1825	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+1866	1870	TIME	0.7099815607070923	il y a quarante ans	5	16	62	19	0	0	0	128	1870	ans	nmod	1863	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+1872	1876	VEH	0.6921629190444947	du simple navire à voiles	5	16	62	25	0	0	0	129	1874	navire	nmod	1863	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+1899	1902	VEH	0.5454734116792679	le vaisseau de guerre	4	16	62	52	0	0	0	130	1900	vaisseau	xcomp	1898	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+1904	1909	TIME	0.5048959751923879	à l’ heure qu’ il est	6	16	63	0	0	0	0	131	1906	heure	obl:mod	1921	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+1914	1918	VEH	0.8070059299468995	le navire mixte à hélice	5	16	63	10	0	0	0	132	1915	navire	nsubj	1921	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+1959	1960	PER	0.3472844064235687	christophe colomb	2	17	64	11	0	0	0	133	1959	christophe	nmod	1957	PROPN	PROP	Singular	Male	3	17
+2008	2008	VEH	0.4883045256137848	il	1	17	65	32	0	0	0	134	2008	il	nsubj	2009	PRON	PRON	Not_Assigned	Not_Assigned	3	
+2142	2143	FAC	0.6747908890247345	les ports	2	19	68	4	0	0	0	135	2143	ports	obl:mod	2146	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+2145	2146	PER	0.8367177844047546	les curieux	2	19	68	7	0	0	0	136	2146	curieux	ROOT	2146	ADJ	NOM	Plural	Ambiguous	3	1
+2147	2147	PER	0.672360897064209	qui	1	19	68	9	0	0	0	137	2147	qui	nsubj	2148	PRON	PRON	Ambiguous	Ambiguous	4	1
+2155	2157	PER	0.7394866545995077	eux - mêmes	3	19	68	17	0	0	0	138	2155	eux	dep	2154	PRON	PRON	Plural	Ambiguous	3	1
+2172	2175	TIME	0.6575472950935364	tous les jours donc	4	20	69	0	0	0	0	139	2174	jours	obl:mod	2195	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+2177	2178	TIME	0.6147622019052505	du matin	2	20	69	5	0	0	0	140	2178	matin	obl:mod	2195	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+2179	2180	TIME	0.7050815671682358	au soir	2	20	69	7	0	0	0	141	2180	soir	nmod	2178	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+2182	2183	FAC	0.6769810616970062	les quais	2	20	69	10	0	0	0	142	2183	quais	nsubj:pass	2195	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+2188	2193	LOC	0.47367531557877857	les jetées du port de toulon	6	20	69	16	0	1	1	143	2191	port	nmod	2183	NOUN	PROP	Not_Assigned	Not_Assigned	3	
+2193	2193	GPE	0.927575945854187	toulon	1	20	69	21	1	0	0	144	2193	toulon	nmod	2191	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+2197	2203	PER	0.5512135028839111	une quantité d’ oisifs et de badauds	7	20	69	25	0	0	0	145	2198	quantité	obl:arg	2195	NOUN	NOM	Not_Assigned	Not_Assigned	3	1
+2209	2209	GPE	0.9660689830780029	paris	1	20	69	37	0	0	0	146	2209	paris	obl:mod	2207	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+2216	2217	PER	0.4895458072423935	l ’	2	20	69	44	0	0	0	147	2216	l	det	2218	DET	PRON	Not_Assigned	Not_Assigned	3	0
+2220	2221	VEH	0.3854079246520996	l ’	2	21	70	0	0	0	0	148	2220	l	det	2225	DET	PRON	Not_Assigned	Not_Assigned	3	
+2224	2226	VEH	0.7189954717954	un navire malade	3	21	70	4	0	0	0	149	2225	navire	ROOT	2225	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+2231	2231	PER	0.9497522711753845	ses	1	21	71	1	0	0	0	150	2231	ses	det	2232	DET	PRON	Singular	Ambiguous	3	0
+2244	2244	PER	0.9408973455429077	sa	1	21	71	14	0	0	0	151	2244	sa	det	2245	DET	PRON	Singular	Ambiguous	3	0
+2249	2249	PER	0.6260108947753906	lui	1	21	71	19	0	0	0	152	2249	lui	iobj	2251	PRON	PRON	Singular	Ambiguous	3	0
+2259	2259	PER	0.784153401851654	on	1	21	71	29	0	0	0	153	2259	on	nsubj	2262	PRON	PRON	Ambiguous	Ambiguous	3	1
+2260	2260	VEH	0.4478456676006317	l’	1	21	71	30	0	0	0	154	2260	l'	obj	2262	PRON	PRON	Not_Assigned	Not_Assigned	3	
+2265	2267	TIME	0.8720768094062805	l’ année précédente	3	21	71	35	0	0	0	155	2266	année	obl:mod	2262	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+2274	2274	VEH	0.637696385383606	il	1	21	71	44	0	0	0	156	2274	il	nsubj	2276	PRON	PRON	Not_Assigned	Not_Assigned	3	
+2277	2278	LOC	0.8178151249885559	la mer	2	21	71	47	0	0	0	157	2278	mer	obj	2276	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+2294	2295	GPE	0.4177141785621643	des baléares	2	21	73	3	0	0	0	158	2295	baléares	nmod	2293	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+2318	2319	VEH	0.8850069642066956	le navire	2	21	73	27	0	0	0	159	2319	navire	nsubj	2321	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+2358	2359	VEH	0.5191298425197601	l ’	2	21	75	7	0	0	0	160	2358	l	det	2360	DET	PRON	Not_Assigned	Not_Assigned	3	
+2363	2363	GPE	0.9618934988975525	toulon	1	21	75	12	0	0	0	161	2363	toulon	obj	2362	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+2365	2365	VEH	0.5247432589530945	il	1	22	76	0	0	0	0	162	2365	il	nsubj:pass	2367	PRON	PRON	Not_Assigned	Not_Assigned	3	
+2370	2371	FAC	0.8318283259868622	l’ arsenal	2	22	76	5	0	0	0	163	2371	arsenal	dep	2368	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+2373	2373	VEH	0.5986981987953186	il	1	22	77	0	0	0	0	164	2373	il	nsubj	2376	PRON	PRON	Not_Assigned	Not_Assigned	3	
+2378	2378	PER	0.8282262086868286	on	1	22	77	5	0	0	0	165	2378	on	nsubj	2380	PRON	PRON	Ambiguous	Ambiguous	3	18
+2379	2379	VEH	0.7122300863265991	le	1	22	77	6	0	0	0	166	2379	le	obj	2380	PRON	PRON	Not_Assigned	Not_Assigned	3	
+2416	2417	TIME	0.8114674985408783	un matin	2	23	79	0	0	0	0	167	2417	matin	obl:mod	2424	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+2418	2419	PER	0.8751076459884644	la foule	2	23	79	2	0	0	0	168	2419	foule	nsubj	2424	NOUN	NOM	Plural	Ambiguous	3	1
+2420	2420	PER	0.9314131736755371	qui	1	23	79	4	0	0	0	169	2420	qui	nsubj	2422	PRON	PRON	Ambiguous	Ambiguous	4	1
+2421	2421	VEH	0.4398023188114166	le	1	23	79	5	0	0	0	170	2421	le	obj	2422	PRON	PRON	Not_Assigned	Not_Assigned	3	
+2432	2433	PER	0.7179358899593353	l’ équipage	2	24	80	0	0	0	0	171	2433	équipage	nsubj:pass	2435	NOUN	NOM	Plural	Ambiguous	3	8
+2441	2442	PER	0.8470504283905029	le gabier	2	24	81	0	0	0	0	172	2442	gabier	nsubj	2452	NOUN	NOM	Singular	Not_Assigned	3	0
+2448	2451	VEH	0.753328949213028	du grand hunier tribord	4	24	81	7	0	0	0	173	2450	hunier	nmod	2447	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+2456	2456	PER	0.8102400302886963	on	1	24	82	0	0	0	0	174	2456	on	nsubj	2458	PRON	PRON	Ambiguous	Ambiguous	3	19
+2457	2457	PER	0.9797542691230774	le	1	24	82	1	0	0	0	175	2457	le	obj	2458	PRON	PRON	Singular	Male	3	0
+2461	2463	PER	0.5013789534568787	la multitude amassée	3	24	82	5	0	0	0	176	2462	multitude	nsubj	2470	NOUN	NOM	Plural	Ambiguous	3	1
+2465	2465	FAC	0.45506468415260315	le	1	24	82	9	0	0	0	177	2465	le	det	2466	DET	PRON	Not_Assigned	Not_Assigned	3	
+2468	2469	FAC	0.7981980443000793	l’ arsenal	2	24	82	12	0	0	0	178	2469	arsenal	nmod	2466	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+2480	2481	PER	0.9477246701717377	l’ homme	2	24	82	24	0	0	0	179	2481	homme	nsubj	2482	NOUN	NOM	Singular	Male	3	0
+2496	2496	PER	0.9935125708580017	il	1	24	82	40	0	0	0	180	2496	il	nsubj	2497	PRON	PRON	Singular	Male	3	0
+2517	2517	PER	0.9972930550575256	il	1	24	82	61	0	0	0	181	2517	il	nsubj	2519	PRON	PRON	Singular	Male	3	0
+2522	2523	LOC	0.9111678302288055	la mer	2	24	83	0	0	0	0	182	2523	mer	nsubj	2525	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+2529	2529	PER	0.6370614767074585	lui	1	24	83	7	0	0	0	183	2529	lui	dep	2525	PRON	PRON	Singular	Ambiguous	3	0
+2538	2538	PER	0.9899166226387024	sa	1	24	84	3	0	0	0	184	2538	sa	det	2539	DET	PRON	Singular	Ambiguous	3	0
+2551	2552	PER	0.9535906910896301	l’ homme	2	24	85	0	0	0	0	185	2552	homme	nsubj	2553	NOUN	NOM	Singular	Male	3	0
+2570	2570	PER	0.9732034802436829	son	1	25	86	2	0	0	0	186	2570	son	det	2571	DET	PRON	Singular	Ambiguous	3	0
+2581	2582	PER	0.618731290102005	des matelots	2	25	87	1	0	0	0	187	2582	matelots	nmod	2580	NOUN	NOM	Plural	Ambiguous	3	1
+2584	2589	PER	0.6127114444971085	tous pêcheurs de la côte nouvellement	6	25	87	4	0	1	1	188	2585	pêcheurs	appos	2582	NOUN	NOM	Not_Assigned	Not_Assigned	3	1
+2584	2584	PER	0.6146550178527832	tous	1	25	87	4	1	0	0	189	2584	tous	amod	2585	ADJ	PRON	Plural	Ambiguous	3	1
+2602	2604	PER	0.9706076979637146	le malheureux gabier	3	25	88	1	0	0	0	190	2604	gabier	nsubj	2606	NOUN	NOM	Singular	Not_Assigned	3	0
+2609	2609	PER	0.7209608554840088	on	1	25	88	8	0	0	0	191	2609	on	nsubj	2611	PRON	PRON	Ambiguous	Ambiguous	3	1
+2613	2613	PER	0.9969319105148315	son	1	25	88	12	0	0	0	192	2613	son	det	2614	DET	PRON	Singular	Ambiguous	3	0
+2616	2616	PER	0.9989239573478699	son	1	25	88	15	0	0	0	193	2616	son	det	2617	DET	PRON	Singular	Ambiguous	3	0
+2624	2624	PER	0.9960632920265198	ses	1	25	88	23	0	0	0	194	2624	ses	det	2625	DET	PRON	Singular	Ambiguous	3	0
+2626	2626	PER	0.9899154901504517	son	1	25	88	25	0	0	0	195	2626	son	det	2627	DET	PRON	Singular	Ambiguous	3	0
+2629	2629	PER	0.9964818954467773	ses	1	25	89	0	0	0	0	196	2629	ses	det	2630	DET	PRON	Singular	Ambiguous	3	0
+2641	2641	PER	0.9988528490066528	il	1	25	90	3	0	0	0	197	2641	il	nsubj	2642	PRON	PRON	Singular	Male	3	0
+2656	2656	PER	0.9996227025985718	il	1	25	91	0	0	0	0	198	2656	il	nsubj	2658	PRON	PRON	Singular	Male	3	0
+2668	2668	PER	0.7759095430374146	on	1	25	92	0	0	0	0	199	2668	on	nsubj	2670	PRON	PRON	Ambiguous	Ambiguous	3	1
+2676	2676	PER	0.9980594515800476	il	1	25	92	8	0	0	0	200	2676	il	nsubj	2677	PRON	PRON	Singular	Male	3	0
+2692	2692	PER	0.9857041239738464	le	1	25	92	24	0	0	0	201	2692	le	obj	2693	PRON	PRON	Singular	Male	3	0
+2748	2749	PER	0.9459003806114197	un homme	2	26	94	6	0	0	0	202	2749	homme	obj	2747	NOUN	NOM	Singular	Male	3	0
+2750	2750	PER	0.9848572015762329	qui	1	26	94	8	0	0	0	203	2750	qui	nsubj	2751	PRON	PRON	Ambiguous	Ambiguous	4	0
+2753	2754	VEH	0.7856388688087463	le gréement	2	26	94	11	0	0	0	204	2754	gréement	obl:arg	2751	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+2762	2763	PER	0.9599123895168304	cet homme	2	26	95	0	0	0	0	205	2763	homme	nsubj:pass	2765	NOUN	NOM	Singular	Male	3	0
+2771	2772	PER	0.5490958094596863	un forçat	2	26	95	9	0	0	0	206	2772	forçat	obl:mod	2765	NOUN	NOM	Singular	Male	3	0
+2775	2775	PER	0.9990670084953308	il	1	26	95	13	0	0	0	207	2775	il	nsubj	2776	PRON	PRON	Singular	Male	3	0
+2793	2794	VEH	0.5744860470294952	la hune	2	26	96	5	0	0	0	208	2794	hune	nmod	2791	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+2801	2801	PER	0.9816460013389587	son	1	26	96	13	0	0	0	209	2801	son	det	2802	DET	PRON	Singular	Ambiguous	3	0
+2815	2817	PER	0.7031246026357015	un jeune homme	3	26	96	27	0	0	0	210	2817	homme	advcl	2804	NOUN	NOM	Singular	Male	3	0
+2819	2820	PER	0.8761400878429413	un forçat	2	27	97	0	0	0	0	211	2820	forçat	nsubj	2838	NOUN	NOM	Singular	Male	3	0
+2830	2831	FAC	0.6592136025428772	du bagne	2	27	97	11	0	0	0	212	2831	bagne	nmod	2829	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+2834	2837	TIME	0.6394433826208115	dès le premier moment	4	27	97	15	0	0	0	213	2837	moment	obl:mod	2838	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+2840	2843	PER	0.7249141186475754	l’ officier de quart	4	27	97	21	0	0	0	214	2841	officier	obl:arg	2838	NOUN	NOM	Singular	Male	3	0
+2854	2855	PER	0.4456947147846222	l’ équipage	2	27	97	35	0	0	0	215	2855	équipage	nmod	2852	NOUN	NOM	Plural	Ambiguous	3	8
+2859	2861	PER	0.8435089985529581	tous les matelots	3	27	97	40	0	0	0	216	2861	matelots	nsubj	2862	NOUN	NOM	Plural	Ambiguous	3	1
+2866	2866	PER	0.9991017580032349	il	1	27	97	47	0	0	0	217	2866	il	nsubj	2868	PRON	PRON	Singular	Male	3	0
+2870	2871	PER	0.9631032943725586	l’ officier	2	27	97	51	0	0	0	218	2871	officier	obl:arg	2868	NOUN	NOM	Singular	Male	3	0
+2876	2876	PER	0.9921364784240723	sa	1	27	97	57	0	0	0	219	2876	sa	det	2877	DET	PRON	Singular	Ambiguous	3	0
+2880	2881	PER	0.9583204388618469	le gabier	2	27	97	61	0	0	0	220	2881	gabier	obj	2879	NOUN	NOM	Singular	Not_Assigned	3	0
+2888	2889	PER	0.9748102724552155	l’ officier	2	27	98	5	0	0	0	221	2889	officier	nmod	2885	NOUN	NOM	Singular	Male	3	0
+2891	2891	PER	0.9995531439781189	il	1	27	98	8	0	0	0	222	2891	il	nsubj	2893	PRON	PRON	Singular	Male	3	0
+2906	2906	PER	0.9978112578392029	son	1	27	98	23	0	0	0	223	2906	son	det	2907	DET	PRON	Singular	Ambiguous	3	0
+2910	2910	PER	0.9995326995849609	il	1	27	98	27	0	0	0	224	2910	il	nsubj	2912	PRON	PRON	Singular	Male	3	0
+2917	2917	PER	0.99953293800354	il	1	27	98	34	0	0	0	225	2917	il	nsubj	2920	PRON	PRON	Singular	Male	3	0
+2947	2947	PER	0.7041900753974915	on	1	27	100	7	0	0	0	226	2947	on	nsubj	2950	PRON	PRON	Ambiguous	Ambiguous	3	1
+2957	2957	PER	0.995347797870636	il	1	28	101	5	0	0	0	227	2957	il	nsubj	2958	PRON	PRON	Singular	Male	3	0
+2963	2963	PER	0.9981392621994019	il	1	28	102	0	0	0	0	228	2963	il	nsubj	2965	PRON	PRON	Singular	Male	3	0
+2966	2967	TIME	0.7464250028133392	quelques secondes	2	28	102	3	0	0	0	229	2967	secondes	obj	2965	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+2975	2976	TIME	0.7309739291667938	ces secondes	2	28	103	0	0	0	0	230	2976	secondes	nsubj	2992	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+2983	2984	PER	0.869610071182251	le gabier	2	28	103	8	0	0	0	231	2984	gabier	obj	2982	NOUN	NOM	Singular	Not_Assigned	3	0
+2993	2994	TIME	0.5322296917438507	des siècles	2	28	103	18	0	0	0	232	2994	siècles	obj	2992	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+3001	3002	PER	0.9328707158565521	le forçat	2	28	104	1	0	0	0	233	3002	forçat	nsubj	3003	NOUN	NOM	Singular	Male	3	0
+3016	3017	PER	0.9295311868190765	la foule	2	28	105	0	0	0	0	234	3017	foule	nsubj	3018	NOUN	NOM	Plural	Ambiguous	3	1
+3020	3020	PER	0.7952726483345032	on	1	28	106	0	0	0	0	235	3020	on	nsubj	3022	PRON	PRON	Ambiguous	Ambiguous	3	1
+3021	3021	PER	0.9932224750518799	le	1	28	106	1	0	0	0	236	3021	le	obj	3022	PRON	PRON	Singular	Male	3	0
+3034	3034	PER	0.9991158843040466	il	1	28	107	5	0	0	0	237	3034	il	nsubj	3036	PRON	PRON	Singular	Male	3	0
+3043	3043	PER	0.9992658495903015	il	1	28	107	14	0	0	0	238	3043	il	nsubj	3045	PRON	PRON	Singular	Male	3	0
+3055	3055	PER	0.9994369149208069	il	1	28	107	26	0	0	0	239	3055	il	nsubj	3057	PRON	PRON	Singular	Male	3	0
+3121	3122	PER	0.9356996417045593	ce groupe	2	29	109	6	0	0	0	240	3122	groupe	obl:arg	3119	NOUN	NOM	Plural	Ambiguous	3	9
+3161	3163	PER	0.8911065459251404	les deux misérables	3	29	111	21	0	0	0	241	3163	misérables	obj	3160	NOUN	NOM	Plural	Ambiguous	3	9
+3166	3167	PER	0.9234967529773712	le forçat	2	30	112	1	0	0	0	242	3167	forçat	nsubj	3169	NOUN	NOM	Singular	Male	3	0
+3174	3175	PER	0.9409775137901306	du matelot	2	30	112	9	0	0	0	243	3175	matelot	obl:arg	3173	NOUN	NOM	Singular	Male	3	0
+3182	3185	TIME	0.5345626100897789	une minute de plus	4	30	113	5	0	0	0	244	3183	minute	obl:mod	3195	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+3187	3188	PER	0.9297126829624176	l’ homme	2	30	113	10	0	0	0	245	3188	homme	nsubj	3195	NOUN	NOM	Singular	Male	3	0
+3202	3203	PER	0.9485528767108917	le forçat	2	30	113	25	0	0	0	246	3203	forçat	nsubj	3206	NOUN	NOM	Singular	Male	3	0
+3204	3204	PER	0.900097668170929	l’	1	30	113	27	0	0	0	247	3204	l'	obj	3206	PRON	PRON	Singular	Ambiguous	3	0
+3213	3213	PER	0.9995294809341431	il	1	30	113	36	0	0	0	248	3213	il	nsubj	3215	PRON	PRON	Singular	Male	3	0
+3221	3221	PER	0.9975213408470154	il	1	30	113	44	0	0	0	249	3221	il	nsubj	3222	PRON	PRON	Singular	Male	3	0
+3228	3228	PER	0.6653329133987427	on	1	30	114	1	0	0	0	250	3228	on	nsubj	3230	PRON	PRON	Ambiguous	Ambiguous	3	1
+3229	3229	PER	0.9973033666610718	le	1	30	114	2	0	0	0	251	3229	le	obj	3230	PRON	PRON	Singular	Male	3	0
+3233	3234	VEH	0.6116454303264618	la vergue	2	30	114	6	0	0	0	252	3234	vergue	obl:arg	3231	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+3238	3239	PER	0.5188555419445038	le matelot	2	30	114	11	0	0	0	253	3239	matelot	obj	3237	NOUN	NOM	Singular	Male	3	0
+3242	3242	PER	0.9966477751731873	il	1	30	114	15	0	0	0	254	3242	il	nsubj	3244	PRON	PRON	Singular	Male	3	0
+3243	3243	PER	0.8175840973854065	le	1	30	114	16	0	0	0	255	3243	le	obj	3244	PRON	PRON	Singular	Male	3	0
+3249	3249	PER	0.964043915271759	lui	1	30	114	22	0	0	0	256	3249	lui	iobj	3250	PRON	PRON	Singular	Ambiguous	3	0
+3256	3256	PER	0.9987435936927795	il	1	30	114	29	0	0	0	257	3256	il	nsubj	3258	PRON	PRON	Singular	Male	3	0
+3257	3257	PER	0.9632110595703125	le	1	30	114	30	0	0	0	258	3257	le	obj	3258	PRON	PRON	Singular	Male	3	0
+3260	3260	PER	0.9975550770759583	ses	1	30	114	33	0	0	0	259	3260	ses	det	3261	DET	PRON	Singular	Ambiguous	3	0
+3263	3263	PER	0.9802315831184387	le	1	30	114	36	0	0	0	260	3263	le	obj	3264	PRON	PRON	Singular	Male	3	0
+3282	3282	PER	0.9966148734092712	il	1	30	114	55	0	0	0	261	3282	il	nsubj	3284	PRON	PRON	Singular	Male	3	0
+3283	3283	PER	0.965596079826355	le	1	30	114	56	0	0	0	262	3283	le	obj	3284	PRON	PRON	Singular	Male	3	0
+3289	3290	PER	0.979000449180603	ses camarades	2	30	114	62	0	1	1	263	3290	camarades	nmod	3287	NOUN	NOM	Plural	Ambiguous	3	1
+3289	3289	PER	0.9952810406684875	ses	1	30	114	62	1	0	0	264	3289	ses	det	3290	DET	PRON	Singular	Ambiguous	3	0
+3295	3296	PER	0.8734981715679169	la foule	2	31	115	3	0	0	0	265	3296	foule	nsubj	3297	NOUN	NOM	Plural	Ambiguous	3	1
+3303	3307	PER	0.910677456855774	de vieux argousins de chiourme	5	31	115	11	0	0	0	266	3305	argousins	obj	3302	NOUN	NOM	Not_Assigned	Not_Assigned	3	10
+3308	3308	PER	0.8193695545196533	qui	1	31	115	16	0	0	0	267	3308	qui	nsubj	3309	PRON	PRON	Ambiguous	Ambiguous	4	10
+3311	3312	PER	0.9419643878936768	les femmes	2	31	115	19	0	0	0	268	3312	femmes	nsubj	3314	NOUN	NOM	Plural	Female	3	20
+3316	3317	FAC	0.8430040776729584	le quai	2	31	115	24	0	0	0	269	3317	quai	obl:mod	3314	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+3340	3341	PER	0.9580956697463989	cet homme	2	31	115	48	0	0	0	270	3341	homme	nmod	3338	NOUN	NOM	Singular	Male	3	0
+3346	3346	PER	0.9990198612213135	lui	1	32	116	0	0	0	0	271	3346	lui	nsubj	3352	PRON	PRON	Singular	Ambiguous	3	0
+3360	3360	PER	0.9960408210754395	sa	1	32	116	14	0	0	0	272	3360	sa	det	3361	DET	PRON	Singular	Ambiguous	3	0
+3369	3369	PER	0.9995548129081726	il	1	32	117	6	0	0	0	273	3369	il	nsubj	3371	PRON	PRON	Singular	Male	3	0
+3374	3375	VEH	0.8859128057956696	le gréement	2	32	117	11	0	0	0	274	3375	gréement	obl:arg	3372	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+3386	3388	PER	0.47506194313367206	tous les yeux	3	32	118	0	0	0	0	275	3388	yeux	nsubj	3390	NOUN	NOM	Plural	Not_Assigned	3	1
+3389	3389	PER	0.9770433306694031	le	1	32	118	3	0	0	0	276	3389	le	obj	3390	PRON	PRON	Singular	Male	3	0
+3392	3395	TIME	0.4953693076968193	à un certain moment	4	32	119	0	0	0	0	277	3395	moment	obl:mod	3398	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+3397	3397	PER	0.7346702218055725	on	1	32	119	5	0	0	0	278	3397	on	nsubj	3398	PRON	PRON	Ambiguous	Ambiguous	3	1
+3404	3404	PER	0.9988346695899963	il	1	32	119	12	0	0	0	279	3404	il	nsubj:pass	3406	PRON	PRON	Singular	Male	3	0
+3412	3412	PER	0.9958351850509644	lui	1	32	119	20	0	0	0	280	3412	lui	iobj	3413	PRON	PRON	Singular	Ambiguous	3	0
+3415	3415	PER	0.784460723400116	on	1	32	119	23	0	0	0	281	3415	on	nsubj	3416	PRON	PRON	Ambiguous	Ambiguous	3	1
+3417	3417	PER	0.9924466609954834	le	1	32	119	25	0	0	0	282	3417	le	obj	3418	PRON	PRON	Singular	Male	3	0
+3426	3427	PER	0.9522976577281952	la foule	2	32	120	3	0	0	0	283	3427	foule	nsubj	3428	NOUN	NOM	Plural	Ambiguous	3	1
+3433	3434	PER	0.9368785321712494	le forçat	2	32	120	10	0	0	0	284	3434	forçat	nsubj	3435	NOUN	NOM	Singular	Male	3	0
+3439	3440	LOC	0.7534538209438324	la mer	2	32	120	16	0	0	0	285	3440	mer	obl:arg	3437	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+3447	3450	VEH	0.7535853385925293	la frégate l ’	4	33	122	0	0	0	0	286	3448	frégate	nsubj:pass	3453	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+3456	3457	VEH	0.5344304293394089	l ’	2	33	122	9	0	0	0	287	3456	l	det	3458	DET	PRON	Not_Assigned	Not_Assigned	3	
+3461	3463	PER	0.8979185024897257	le pauvre galérien	3	33	122	14	0	0	0	288	3463	galérien	nsubj	3465	NOUN	NOM	Singular	Not_Assigned	3	0
+3467	3469	VEH	0.7450395325819651	les deux navires	3	33	122	20	0	0	0	289	3469	navires	obl:arg	3465	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+3476	3476	PER	0.9878079295158386	il	1	33	123	5	0	0	0	290	3476	il	nsubj	3478	PRON	PRON	Singular	Male	3	0
+3480	3481	VEH	0.47731663286685944	l’ un	2	33	123	9	0	0	0	291	3481	un	obl:arg	3478	PRON	PRON	Not_Assigned	Not_Assigned	3	
+3487	3488	PER	0.9638636708259583	quatre hommes	2	33	124	0	0	0	0	292	3488	hommes	nsubj	3490	NOUN	NOM	Plural	Male	3	11
+3494	3495	VEH	0.9274500906467438	une embarcation	2	33	124	7	0	0	0	293	3495	embarcation	obl:arg	3490	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+3497	3498	PER	0.9078573882579803	la foule	2	33	125	0	0	0	0	294	3498	foule	nsubj	3500	NOUN	NOM	Plural	Ambiguous	3	1
+3499	3499	PER	0.9924753308296204	les	1	33	125	2	0	0	0	295	3499	les	obj	3500	PRON	PRON	Plural	Ambiguous	3	11
+3512	3513	PER	0.9695379436016083	l’ homme	2	33	126	0	0	0	0	296	3513	homme	nsubj	3517	NOUN	NOM	Singular	Male	3	0
+3522	3522	PER	0.9941913485527039	il	1	33	127	0	0	0	0	297	3522	il	nsubj	3524	PRON	PRON	Singular	Male	3	0
+3526	3527	LOC	0.8970946967601776	la mer	2	33	127	4	0	0	0	298	3527	mer	obl:arg	3524	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+3536	3536	PER	0.978350043296814	il	1	33	127	14	0	0	0	299	3536	il	nsubj	3538	PRON	PRON	Singular	Male	3	0
+3545	3545	PER	0.8303597569465637	on	1	33	128	0	0	0	0	300	3545	on	nsubj	3546	PRON	PRON	Ambiguous	Ambiguous	3	1
+3548	3548	PER	0.7852448225021362	on	1	33	128	3	0	0	0	301	3548	on	nsubj	3549	PRON	PRON	Ambiguous	Ambiguous	3	1
+3556	3556	PER	0.8638266921043396	on	1	33	130	0	0	0	0	302	3556	on	nsubj	3557	PRON	PRON	Ambiguous	Ambiguous	3	1
+3558	3560	TIME	0.6263783474763235	jusqu’ au soir	3	33	130	2	0	0	0	303	3560	soir	obl:mod	3557	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+3563	3563	PER	0.8109188079833984	on	1	33	130	7	0	0	0	304	3563	on	nsubj	3565	PRON	PRON	Ambiguous	Ambiguous	3	1
+3571	3572	TIME	0.9413108229637146	le lendemain	2	34	131	0	0	0	0	305	3572	lendemain	obl:mod	3578	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+3577	3577	GPE	0.9673864245414734	toulon	1	34	131	6	0	0	0	306	3577	toulon	nmod	3575	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+3586	3589	TIME	0.5863515213131905	  17 novembre 1823	4	34	131	15	0	0	0	307	3587	17	ROOT	3587	NUM	NOM	Not_Assigned	Not_Assigned	3	
+3592	3592	TIME	0.8679302930831909	hier	1	34	132	1	0	0	0	308	3592	hier	advmod	3616	ADV	NOM	Not_Assigned	Not_Assigned	3	
+3594	3595	PER	0.8679325580596924	un forçat	2	34	132	3	0	0	0	309	3595	forçat	nsubj	3616	NOUN	NOM	Singular	Male	3	0
+3602	3603	VEH	0.692783385515213	l ’	2	34	132	11	0	0	0	310	3602	l	det	3604	DET	PRON	Not_Assigned	Not_Assigned	3	
+3612	3613	PER	0.9159165024757385	un matelot	2	34	132	21	0	0	0	311	3613	matelot	obl:arg	3609	NOUN	NOM	Singular	Male	3	0
+3618	3619	LOC	0.8357097804546356	la mer	2	34	132	27	0	0	0	312	3619	mer	obl:arg	3616	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+3625	3625	PER	0.5899943709373474	on	1	34	133	0	0	0	0	313	3625	on	nsubj	3628	PRON	PRON	Ambiguous	Ambiguous	3	21
+3630	3630	PER	0.9715145230293274	son	1	34	133	5	0	0	0	314	3630	son	det	3631	DET	PRON	Singular	Ambiguous	3	0
+3636	3636	PER	0.7627769708633423	il	1	34	134	3	0	0	0	315	3636	il	nsubj	3639	PRON	PRON	Singular	Male	3	0
+3644	3648	LOC	0.5895552635192871	la pointe de l’ arsenal	5	34	134	11	0	1	1	316	3645	pointe	nmod	3642	NOUN	PROP	Not_Assigned	Not_Assigned	3	
+3647	3648	FAC	0.6907733976840973	l’ arsenal	2	34	134	14	1	0	0	317	3648	arsenal	nmod	3645	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+3650	3651	PER	0.9683445692062378	cet homme	2	34	135	0	0	0	0	318	3651	homme	nsubj:pass	3653	NOUN	NOM	Singular	Male	3	0
+3662	3663	PER	0.8190494477748871	jean valjean	2	34	135	12	0	0	0	319	3662	jean	obj	3661	PROPN	PROP	Singular	Male	3	0

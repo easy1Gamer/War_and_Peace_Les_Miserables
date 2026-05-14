@@ -1,0 +1,432 @@
+[
+    {
+        "id": 0,
+        "count": {
+            "occurrence": 15,
+            "mention_ratio": 0.2727
+        },
+        "gender": {
+            "ratio": 0.5333,
+            "inference": {
+                "Male": 1.0,
+                "Female": 0.0
+            },
+            "max": 1.0,
+            "argmax": "Male"
+        },
+        "number": {
+            "ratio": 0.9333,
+            "inference": {
+                "Singular": 1.0,
+                "Plural": 0.0
+            },
+            "max": 1.0,
+            "argmax": "Singular"
+        },
+        "mentions": {
+            "proper": [
+                {
+                    "n": "au duc de dalmatie",
+                    "c": 1
+                },
+                {
+                    "n": "soult",
+                    "c": 1
+                }
+            ],
+            "common": [
+                {
+                    "n": "l’ empereur",
+                    "c": 3
+                },
+                {
+                    "n": "le premier",
+                    "c": 1
+                },
+                {
+                    "n": "le maréchal",
+                    "c": 1
+                }
+            ],
+            "pronoun": [
+                {
+                    "n": "sa",
+                    "c": 2
+                },
+                {
+                    "n": "il",
+                    "c": 2
+                },
+                {
+                    "n": "son",
+                    "c": 1
+                },
+                {
+                    "n": "je",
+                    "c": 1
+                },
+                {
+                    "n": "me",
+                    "c": 1
+                },
+                {
+                    "n": "-vous",
+                    "c": 1
+                }
+            ]
+        },
+        "agent": [
+            {
+                "w": "apercevoir",
+                "i": 359
+            },
+            {
+                "w": "dire",
+                "i": 374
+            },
+            {
+                "w": "voir",
+                "i": 379
+            },
+            {
+                "w": "demander",
+                "i": 395
+            },
+            {
+                "w": "voir",
+                "i": 406
+            },
+            {
+                "w": "répondre",
+                "i": 419
+            },
+            {
+                "w": "détacher",
+                "i": 503
+            }
+        ],
+        "patient": [],
+        "mod": [
+            {
+                "w": "premier",
+                "i": 350
+            }
+        ],
+        "poss": [
+            {
+                "w": "-",
+                "i": 355
+            },
+            {
+                "w": "attention",
+                "i": 370
+            },
+            {
+                "w": "lunette",
+                "i": 417
+            }
+        ]
+    },
+    {
+        "id": 1,
+        "count": {
+            "occurrence": 4,
+            "mention_ratio": 0.0727
+        },
+        "gender": {
+            "ratio": 0.5,
+            "inference": {
+                "Male": 1.0,
+                "Female": 0.0
+            },
+            "max": 1.0,
+            "argmax": "Male"
+        },
+        "number": {
+            "ratio": 1.0,
+            "inference": {
+                "Singular": 1.0,
+                "Plural": 0.0
+            },
+            "max": 1.0,
+            "argmax": "Singular"
+        },
+        "mentions": {
+            "proper": [
+                {
+                    "n": "bülow",
+                    "c": 1
+                }
+            ],
+            "common": [],
+            "pronoun": [
+                {
+                    "n": "il",
+                    "c": 2
+                },
+                {
+                    "n": "ses",
+                    "c": 1
+                }
+            ]
+        },
+        "agent": [
+            {
+                "w": "arriver",
+                "i": 186
+            },
+            {
+                "w": "bivouaquer",
+                "i": 198
+            },
+            {
+                "w": "partir",
+                "i": 203
+            }
+        ],
+        "patient": [],
+        "mod": [],
+        "poss": [
+            {
+                "w": "division",
+                "i": 215
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "count": {
+            "occurrence": 4,
+            "mention_ratio": 0.0727
+        },
+        "gender": {
+            "ratio": 0.5,
+            "inference": {
+                "Male": 1.0,
+                "Female": 0.0
+            },
+            "max": 1.0,
+            "argmax": "Male"
+        },
+        "number": {
+            "ratio": 1.0,
+            "inference": {
+                "Singular": 1.0,
+                "Plural": 0.0
+            },
+            "max": 1.0,
+            "argmax": "Singular"
+        },
+        "mentions": {
+            "proper": [
+                {
+                    "n": "bülow",
+                    "c": 1
+                }
+            ],
+            "common": [],
+            "pronoun": [
+                {
+                    "n": "il",
+                    "c": 2
+                },
+                {
+                    "n": "son",
+                    "c": 1
+                }
+            ]
+        },
+        "agent": [
+            {
+                "w": "bouger",
+                "i": 524
+            },
+            {
+                "w": "devoir",
+                "i": 538
+            },
+            {
+                "w": "avoir",
+                "i": 549
+            }
+        ],
+        "patient": [],
+        "mod": [],
+        "poss": [
+            {
+                "w": "avant-garde",
+                "i": 527
+            },
+            {
+                "w": "ordre",
+                "i": 551
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "count": {
+            "occurrence": 3,
+            "mention_ratio": 0.0545
+        },
+        "gender": {
+            "ratio": 0,
+            "inference": {
+                "Male": 0,
+                "Female": 0
+            },
+            "max": 0,
+            "argmax": "Null"
+        },
+        "number": {
+            "ratio": 1.0,
+            "inference": {
+                "Singular": 1.0,
+                "Plural": 0.0
+            },
+            "max": 1.0,
+            "argmax": "Singular"
+        },
+        "mentions": {
+            "proper": [
+                {
+                    "n": "bülow",
+                    "c": 1
+                }
+            ],
+            "common": [
+                {
+                    "n": "du corps d’ armée",
+                    "c": 1
+                }
+            ],
+            "pronoun": [
+                {
+                    "n": "lui",
+                    "c": 1
+                }
+            ]
+        },
+        "agent": [],
+        "patient": [],
+        "mod": [],
+        "poss": [
+            {
+                "w": "gros",
+                "i": 541
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "count": {
+            "occurrence": 2,
+            "mention_ratio": 0.0364
+        },
+        "gender": {
+            "ratio": 0,
+            "inference": {
+                "Male": 0,
+                "Female": 0
+            },
+            "max": 0,
+            "argmax": "Null"
+        },
+        "number": {
+            "ratio": 0.5,
+            "inference": {
+                "Singular": 1.0,
+                "Plural": 0.0
+            },
+            "max": 1.0,
+            "argmax": "Singular"
+        },
+        "mentions": {
+            "proper": [],
+            "common": [
+                {
+                    "n": "le petit pâtre",
+                    "c": 1
+                }
+            ],
+            "pronoun": [
+                {
+                    "n": "qui",
+                    "c": 1
+                }
+            ]
+        },
+        "agent": [
+            {
+                "w": "servir",
+                "i": 65
+            },
+            {
+                "w": "conseiller",
+                "i": 77
+            }
+        ],
+        "patient": [],
+        "mod": [
+            {
+                "w": "petit",
+                "i": 61
+            }
+        ],
+        "poss": []
+    },
+    {
+        "id": 5,
+        "count": {
+            "occurrence": 2,
+            "mention_ratio": 0.0364
+        },
+        "gender": {
+            "ratio": 0.5,
+            "inference": {
+                "Male": 1.0,
+                "Female": 0.0
+            },
+            "max": 1.0,
+            "argmax": "Male"
+        },
+        "number": {
+            "ratio": 0.5,
+            "inference": {
+                "Singular": 1.0,
+                "Plural": 0.0
+            },
+            "max": 1.0,
+            "argmax": "Singular"
+        },
+        "mentions": {
+            "proper": [
+                {
+                    "n": "le général prussien muffling",
+                    "c": 1
+                }
+            ],
+            "common": [],
+            "pronoun": [
+                {
+                    "n": "qui",
+                    "c": 1
+                }
+            ]
+        },
+        "agent": [
+            {
+                "w": "déclarer",
+                "i": 155
+            }
+        ],
+        "patient": [],
+        "mod": [
+            {
+                "w": "prussien",
+                "i": 151
+            }
+        ],
+        "poss": []
+    }
+]

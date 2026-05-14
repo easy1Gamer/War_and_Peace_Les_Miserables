@@ -1,0 +1,205 @@
+start_token	end_token	cat	confidence	text	mention_len	paragraph_ID	sentence_ID	start_token_ID_within_sentence	out_to_in_nested_level	in_to_out_nested_level	nested_entities_count	temp_index	head_id	head_word	head_dependency_relation	head_syntactic_head_ID	POS_tag	prop	number	gender	grammatical_person	COREF
+34	37	TIME	0.7082027643918991	vers la même époque	4	1	1	21	0	0	0	0	37	époque	obl:mod	33	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+39	39	GPE	0.9600745439529419	montfermeil	1	1	1	26	0	0	0	1	39	montfermeil	obl:mod	33	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+59	62	LOC	0.5431151390075684	le pays de montfermeil	4	2	2	4	0	0	0	2	60	pays	obl:mod	57	NOUN	PROP	Not_Assigned	Not_Assigned	3	
+82	85	LOC	0.4319002479314804	le voisinage de paris	4	2	2	27	0	1	1	3	83	voisinage	nmod	79	NOUN	PROP	Not_Assigned	Not_Assigned	3	
+85	85	GPE	0.8332811594009399	paris	1	2	2	30	1	0	0	4	85	paris	nmod	83	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+91	91	GPE	0.6548267006874084	sibérie	1	2	2	36	0	0	0	5	91	sibérie	nmod	89	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+93	93	PER	0.9692539572715759	nous	1	2	3	0	0	0	0	6	93	nous	nsubj	96	PRON	PRON	Plural	Ambiguous	1	15
+115	115	GPE	0.9720778465270996	montfermeil	1	2	4	5	0	0	0	7	115	montfermeil	nmod	113	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+129	130	LOC	0.9349597990512848	la forêt	2	2	5	12	0	0	0	8	130	forêt	obj	128	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+132	132	LOC	0.7231945991516113	y	1	2	5	15	0	0	0	9	132	y	iobj	133	PRON	PRON	Not_Assigned	Not_Assigned	3	
+134	134	LOC	0.6654885411262512	ses	1	2	5	17	0	0	0	10	134	ses	det	135	DET	PRON	Not_Assigned	Not_Assigned	3	
+137	139	PER	0.782712439695994	les bonnes femmes	3	2	6	0	0	0	0	11	139	femmes	nsubj	140	NOUN	NOM	Plural	Female	3	16
+151	154	TIME	0.5937196090817451	la chute du jour	4	2	6	14	0	0	0	12	152	chute	obl:mod	148	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+157	161	LOC	0.7838638901710511	les endroits écartés du bois	5	2	6	20	0	1	1	13	158	endroits	obl:mod	148	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+160	161	LOC	0.8775216341018677	du bois	2	2	6	23	1	0	0	14	161	bois	nmod	158	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+163	165	PER	0.5905683636665344	un homme noir	3	2	6	26	0	0	0	15	164	homme	obj	148	NOUN	NOM	Singular	Male	3	1
+216	216	PER	0.9036548137664795	le	1	2	7	2	0	0	0	16	216	le	obj	217	PRON	PRON	Singular	Male	3	1
+222	223	PER	0.950554758310318	cet homme	2	2	8	0	0	0	0	17	223	homme	nsubj:pass	226	NOUN	NOM	Singular	Male	3	1
+251	252	PER	0.8938149213790894	l’ homme	2	2	10	7	0	0	0	18	252	homme	obj	250	NOUN	NOM	Singular	Male	3	1
+255	255	PER	0.9691542983055115	lui	1	2	10	11	0	0	0	19	255	lui	iobj	256	PRON	PRON	Singular	Ambiguous	3	1
+263	264	PER	0.8763265609741211	cet homme	2	2	11	5	0	0	0	20	264	homme	nsubj	269	NOUN	NOM	Singular	Male	3	1
+272	272	PER	0.9703398942947388	il	1	2	11	14	0	0	0	21	272	il	nsubj	273	PRON	PRON	Singular	Male	3	1
+279	280	TIME	0.7345599234104156	au crépuscule	2	2	11	21	0	0	0	22	280	crépuscule	obl:arg	278	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+283	283	PER	0.9624375104904175	il	1	2	11	25	0	0	0	23	283	il	nsubj	285	PRON	PRON	Singular	Male	3	1
+293	293	PER	0.9028623700141907	il	1	2	11	35	0	0	0	24	293	il	nsubj	294	PRON	PRON	Singular	Male	3	1
+299	299	PER	0.7690783143043518	ses	1	2	11	41	0	0	0	25	299	ses	det	300	DET	PRON	Singular	Ambiguous	3	1
+322	322	PER	0.9281171560287476	il	1	2	11	64	0	0	0	26	322	il	nsubj	323	PRON	PRON	Singular	Male	3	1
+325	325	PER	0.9337748885154724	son	1	2	11	67	0	0	0	27	325	son	det	326	DET	PRON	Singular	Ambiguous	3	1
+336	337	TIME	0.6499532163143158	du soir	2	2	11	78	0	0	0	28	337	soir	nmod	335	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+340	340	PER	0.9636062979698181	lui	1	2	11	82	0	0	0	29	340	lui	iobj	341	PRON	PRON	Singular	Ambiguous	3	1
+356	357	TIME	0.6468672752380371	la semaine	2	2	12	10	0	0	0	30	357	semaine	obl:mod	354	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+372	372	PER	0.780037522315979	il	1	2	13	13	0	0	0	31	372	il	nsubj	374	PRON	PRON	Singular	Male	3	1
+379	379	PER	0.8483815789222717	il	1	2	13	20	0	0	0	32	379	il	nsubj	382	PRON	PRON	Singular	Male	3	1
+385	385	PER	0.8794203996658325	il	1	2	13	26	0	0	0	33	385	il	nsubj	389	PRON	PRON	Singular	Male	3	1
+415	417	PER	0.6100084781646729	l’ homme noir	3	2	13	56	0	0	0	34	416	homme	nsubj	421	NOUN	NOM	Singular	Male	3	1
+430	431	TIME	0.7129381597042084	le mois	2	2	14	7	0	0	0	35	431	mois	obl:mod	428	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+445	447	PER	0.7791545391082764	l’ homme noir	3	2	15	12	0	0	0	36	446	homme	obl:arg	443	NOUN	NOM	Singular	Male	3	1
+452	452	PER	0.9291241765022278	le	1	2	15	19	0	0	0	37	452	le	obj	453	PRON	PRON	Singular	Male	3	1
+466	467	TIME	0.6036629974842072	l’ année	2	2	16	3	0	0	0	38	467	année	obl:mod	464	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+499	500	TIME	0.7202976644039154	un mois	2	3	17	30	0	0	0	39	500	mois	obj	471	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+535	537	PER	0.5903050104777018	l’ homme noir	3	3	18	27	0	0	0	40	536	homme	obl:agent	533	NOUN	NOM	Singular	Male	3	1
+591	592	PER	0.9794681668281555	ce tryphon	2	3	21	0	0	0	0	41	592	tryphon	nsubj:pass	594	PROPN	PROP	Singular	Male	3	1
+601	601	GPE	0.6515854597091675	bocherville	1	3	21	10	0	0	0	42	601	bocherville	nmod	597	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+603	603	GPE	0.9245739579200745	rouen	1	3	21	12	0	0	0	43	603	rouen	nmod	597	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+611	611	PER	0.8852037191390991	sa	1	3	21	20	0	0	0	44	611	sa	det	612	DET	PRON	Singular	Ambiguous	3	1
+637	639	TIME	0.7752377986907959	toute une nuit	3	4	22	23	0	0	0	45	639	nuit	obj	636	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+644	645	TIME	0.7196976244449615	la nuit	2	4	22	30	0	0	0	46	645	nuit	conj	615	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+787	788	TIME	0.5611564964056015	nos jours	2	7	27	4	0	0	0	47	788	jours	obl:mod	791	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+819	819	PER	0.9059848785400391	tryphon	1	7	28	0	0	0	0	48	819	tryphon	nsubj	821	PROPN	PROP	Singular	Male	3	17
+830	830	PER	0.9632590413093567	tryphon	1	7	28	11	0	0	0	49	830	tryphon	nsubj	831	PROPN	PROP	Singular	Male	3	18
+832	834	TIME	0.6080744465192159	au douzième siècle	3	7	28	13	0	0	0	50	834	siècle	obl:arg	831	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+912	918	TIME	0.5381205720560891	fort peu de temps après l’ époque	7	9	30	2	0	0	0	51	918	époque	nsubj	946	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+919	919	TIME	0.6404836773872375	où	1	9	30	9	0	0	0	52	919	où	iobj	921	PRON	PRON	Not_Assigned	Not_Assigned	3	
+922	924	PER	0.6655653913815817	au ministère public	3	9	30	12	0	0	0	53	923	ministère	obl:arg	921	NOUN	NOM	Plural	Ambiguous	3	19
+926	930	PER	0.697785472869873	le forçat libéré jean valjean	5	9	30	16	0	0	0	54	927	forçat	nsubj	940	NOUN	PROP	Singular	Not_Assigned	3	1
+933	933	PER	0.9782010316848755	son	1	9	30	23	0	0	0	55	933	son	det	934	DET	PRON	Singular	Ambiguous	3	1
+936	937	TIME	0.534747526049614	quelques jours	2	9	30	26	0	0	0	56	937	jours	nmod	934	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+943	943	GPE	0.9490833282470703	montfermeil	1	9	30	33	0	0	0	57	943	montfermeil	dep	941	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+945	945	PER	0.8330721259117126	on	1	9	30	35	0	0	0	58	945	on	nsubj	946	PRON	PRON	Ambiguous	Ambiguous	3	20
+952	957	PER	0.9223309059937795	un certain vieux cantonnier appelé boulatruelle	6	9	30	42	0	0	0	59	955	cantonnier	nsubj	958	NOUN	PROP	Singular	Male	3	1
+966	967	LOC	0.7948569059371948	le bois	2	9	30	56	0	0	0	60	967	bois	obl:mod	963	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+969	969	PER	0.7813646793365479	on	1	9	31	0	0	0	0	61	969	on	nsubj	970	PRON	PRON	Ambiguous	Ambiguous	3	21
+973	974	GPE	0.4500040262937546	le pays	2	9	31	4	0	0	0	62	974	pays	obl:mod	971	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+976	977	PER	0.9780425727367401	ce boulatruelle	2	9	31	7	0	0	0	63	977	boulatruelle	nsubj	979	PROPN	PROP	Singular	Male	3	1
+980	981	FAC	0.5777718424797058	au bagne	2	9	31	11	0	0	0	64	981	bagne	obl:arg	979	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+984	984	PER	0.9992302656173706	il	1	9	31	15	0	0	0	65	984	il	nsubj:pass	986	PRON	PRON	Singular	Male	3	1
+997	997	PER	0.9988038539886475	il	1	9	31	28	0	0	0	66	997	il	nsubj	999	PRON	PRON	Singular	Male	3	1
+1007	1007	PER	0.9093059301376343	l’	1	9	31	38	0	0	0	67	1007	l'	obj	1008	PRON	PRON	Singular	Ambiguous	3	1
+1014	1021	FAC	0.6540116183459759	le chemin de traverse de gagny à lagny	8	9	31	45	0	1	2	68	1015	chemin	obl:mod	1008	NOUN	PROP	Not_Assigned	Not_Assigned	3	
+1019	1019	GPE	0.6382430791854858	gagny	1	9	31	50	1	0	0	69	1019	gagny	nmod	1015	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+1021	1021	GPE	0.8244159817695618	lagny	1	9	31	52	1	0	0	70	1021	lagny	nmod	1015	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+1023	1024	PER	0.9866697490215302	ce boulatruelle	2	10	32	0	0	0	0	71	1024	boulatruelle	nsubj	1027	PROPN	PROP	Singular	Male	3	3
+1032	1036	PER	0.6488629400730133	les gens de l’ endroit	5	10	32	9	0	0	0	72	1033	gens	obl:agent	1028	NOUN	NOM	Plural	Not_Assigned	3	22
+1047	1047	PER	0.9520652890205383	son	1	10	32	24	0	0	0	73	1047	son	det	1048	DET	PRON	Singular	Ambiguous	3	3
+1058	1059	PER	0.868943452835083	les gendarmes	2	10	32	35	0	0	0	74	1059	gendarmes	obl:mod	1056	NOUN	NOM	Plural	Ambiguous	3	23
+1075	1076	LOC	0.6545875370502472	des taillis	2	10	32	52	0	0	0	75	1076	taillis	nmod	1074	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+1078	1080	TIME	0.6925823092460632	la nuit tombante	3	10	32	55	0	0	0	76	1079	nuit	obl:mod	1070	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+1082	1082	PER	0.9991583824157715	il	1	10	33	0	0	0	0	77	1082	il	nsubj	1084	PRON	PRON	Singular	Male	3	3
+1088	1088	PER	0.9872877597808838	lui	1	10	33	6	0	0	0	78	1088	lui	obl:mod	1084	PRON	PRON	Singular	Ambiguous	3	3
+1090	1090	PER	0.9993467926979065	il	1	10	33	8	0	0	0	79	1090	il	nsubj	1092	PRON	PRON	Singular	Male	3	3
+1097	1097	PER	0.8192917108535767	on	1	11	34	3	0	0	0	80	1097	on	nsubj	1098	PRON	PRON	Ambiguous	Ambiguous	3	5
+1103	1105	TIME	0.7537692983945211	depuis quelque temps	3	12	35	0	0	0	0	81	1105	temps	obl:mod	1108	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+1107	1107	PER	0.997626006603241	boulatruelle	1	12	35	4	0	0	0	82	1107	boulatruelle	nsubj	1108	PROPN	PROP	Singular	Male	3	0
+1113	1113	PER	0.9674587249755859	sa	1	12	35	10	0	0	0	83	1113	sa	det	1114	DET	PRON	Singular	Ambiguous	3	0
+1121	1122	FAC	0.7903564274311066	la route	2	12	35	18	0	0	0	84	1122	route	nmod	1119	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+1128	1129	LOC	0.923357367515564	la forêt	2	12	35	25	0	0	0	85	1129	forêt	obl:mod	1126	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+1131	1131	PER	0.9389286041259766	sa	1	12	35	28	0	0	0	86	1131	sa	det	1132	DET	PRON	Singular	Ambiguous	3	0
+1134	1134	PER	0.8174120783805847	on	1	12	36	0	0	0	0	87	1134	on	nsubj	1136	PRON	PRON	Ambiguous	Ambiguous	3	24
+1135	1135	PER	0.9701841473579407	le	1	12	36	1	0	0	0	88	1135	le	obj	1136	PRON	PRON	Singular	Male	3	0
+1137	1139	TIME	0.6958696643511454	vers le soir	3	12	36	3	0	0	0	89	1139	soir	obl:mod	1136	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+1141	1142	LOC	0.45000122487545013	les clairières	2	12	36	7	0	0	0	90	1142	clairières	obl:mod	1136	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+1167	1169	PER	0.7902760108311971	les bonnes femmes	3	12	37	0	0	0	0	91	1169	femmes	nsubj	1173	NOUN	NOM	Plural	Female	3	6
+1170	1170	PER	0.9073810577392578	qui	1	12	37	3	0	0	0	92	1170	qui	nsubj	1171	PRON	PRON	Ambiguous	Ambiguous	4	6
+1172	1172	PER	0.9469315409660339	le	1	12	37	5	0	0	0	93	1172	le	obj	1173	PRON	PRON	Singular	Male	3	0
+1180	1180	PER	0.9867922067642212	elles	1	12	37	13	0	0	0	94	1180	elles	nsubj	1181	PRON	PRON	Plural	Female	3	6
+1182	1182	PER	0.9905025959014893	boulatruelle	1	12	37	15	0	0	0	95	1182	boulatruelle	obj	1181	PROPN	PROP	Singular	Male	3	25
+1196	1196	PER	0.9985276460647583	boulatruelle	1	12	38	5	0	0	0	96	1196	boulatruelle	obj	1194	PROPN	PROP	Singular	Male	3	26
+1202	1202	PER	0.999272882938385	il	1	12	39	4	0	0	0	97	1202	il	nsubj	1203	PRON	PRON	Singular	Male	3	0
+1218	1218	PER	0.9992231130599976	il	1	12	39	20	0	0	0	98	1218	il	nsubj	1219	PRON	PRON	Singular	Male	3	0
+1221	1221	PER	0.8050269484519958	on	1	13	40	0	0	0	0	99	1221	on	nsubj	1222	PRON	PRON	Ambiguous	Ambiguous	3	5
+1224	1225	GPE	0.5808688998222351	le village	2	13	40	3	0	0	0	100	1225	village	obl:mod	1222	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+1240	1240	PER	0.9928758144378662	boulatruelle	1	13	41	0	0	0	0	101	1240	boulatruelle	nsubj	1243	PROPN	PROP	Singular	Male	3	27
+1251	1251	PER	0.9950337409973145	il	1	13	42	3	0	0	0	102	1251	il	nsubj:pass	1253	PRON	PRON	Singular	Male	3	0
+1269	1269	PER	0.9809783697128296	boulatruelle	1	13	43	8	0	0	0	103	1269	boulatruelle	ROOT	1269	PROPN	PROP	Singular	Male	3	28
+1280	1280	PER	0.8766722679138184	boulatruelle	1	13	43	19	0	0	0	104	1280	boulatruelle	obj	1279	PROPN	PROP	Singular	Male	3	29
+1284	1286	PER	0.9637327591578165	les vieilles femmes	3	13	44	1	0	0	0	105	1286	femmes	nsubj	1287	NOUN	NOM	Plural	Female	3	30
+1298	1298	PER	0.9976525902748108	boulatruelle	1	14	45	4	0	0	0	106	1298	boulatruelle	nmod	1296	PROPN	PROP	Singular	Male	3	31
+1300	1301	LOC	0.8675583899021149	le bois	2	14	45	6	0	0	0	107	1301	bois	nmod	1296	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+1305	1305	PER	0.9985709190368652	il	1	14	45	11	0	0	0	108	1305	il	nsubj	1306	PRON	PRON	Singular	Male	3	0
+1308	1308	PER	0.9858871102333069	son	1	14	45	14	0	0	0	109	1308	son	det	1309	DET	PRON	Singular	Ambiguous	3	0
+1313	1313	PER	0.8959233164787292	on	1	14	46	0	0	0	0	110	1313	on	nsubj	1314	PRON	PRON	Ambiguous	Ambiguous	3	5
+1319	1320	PER	0.8787579834461212	quelques personnes	2	15	47	0	0	0	0	111	1320	personnes	nsubj	1323	NOUN	NOM	Plural	Ambiguous	3	32
+1364	1365	PER	0.843728244304657	le cantonnier	2	15	47	45	0	0	0	112	1365	cantonnier	nsubj	1369	NOUN	NOM	Singular	Not_Assigned	3	0
+1383	1390	PER	0.6305352225899696	le maître d’ école et le gargotier thénardier	8	15	48	8	0	1	2	113	1384	maître	obl:arg	1380	NOUN	PROP	Plural	Not_Assigned	3	7
+1383	1386	PER	0.7448747605085373	le maître d’ école	4	15	48	8	1	0	0	114	1384	maître	obl:arg	1380	NOUN	NOM	Singular	Male	3	8
+1388	1390	PER	0.8437109788258871	le gargotier thénardier	3	15	48	13	1	0	0	115	1389	gargotier	conj	1384	NOUN	PROP	Singular	Not_Assigned	3	11
+1392	1392	PER	0.8456977009773254	lequel	1	15	48	17	0	0	0	116	1392	lequel	nsubj	1395	PRON	PRON	Singular	Male	3	11
+1394	1399	PER	0.636670728524526	l’ ami de tout le monde	6	15	48	19	0	1	1	117	1399	monde	nmod	1395	NOUN	NOM	Plural	Not_Assigned	3	7
+1397	1399	PER	0.6676524678866068	tout le monde	3	15	48	22	1	0	0	118	1399	monde	nmod	1395	NOUN	NOM	Plural	Ambiguous	3	33
+1409	1409	PER	0.9985945820808411	boulatruelle	1	15	48	34	0	0	0	119	1409	boulatruelle	obl:arg	1407	PROPN	PROP	Singular	Male	3	34
+1412	1412	PER	0.9939960241317749	 	1	16	49	1	0	0	0	120	1412		dep	1415	SPACE	NOM	Not_Assigned	Not_Assigned	3	0
+1413	1413	PER	0.9935135245323181	il	1	16	49	2	0	0	0	121	1413	il	nsubj	1415	PRON	PRON	Singular	Male	3	0
+1421	1421	PER	0.9871713519096375	thénardier	1	16	49	10	0	0	0	122	1421	thénardier	nsubj	1420	PROPN	PROP	Singular	Not_Assigned	3	35
+1426	1426	PER	0.9843892455101013	mon	1	16	50	3	0	0	0	123	1426	mon	det	1427	DET	PRON	Singular	Ambiguous	1	0
+1443	1444	TIME	0.7749830782413483	un soir	2	17	51	0	0	0	0	124	1444	soir	obl:mod	1449	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+1445	1448	PER	0.8132430016994476	le maître d’ école	4	17	51	2	0	0	0	125	1446	maître	nsubj	1449	NOUN	NOM	Singular	Male	3	8
+1460	1460	PER	0.9986305236816406	boulatruelle	1	17	51	17	0	0	0	126	1460	boulatruelle	nsubj	1461	PROPN	PROP	Singular	Male	3	36
+1464	1465	LOC	0.8904138207435608	le bois	2	17	51	21	0	0	0	127	1465	bois	obl:mod	1462	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+1474	1474	PER	0.9981153011322021	il	1	17	51	31	0	0	0	128	1474	il	nsubj	1475	PRON	PRON	Singular	Male	3	0
+1491	1491	PER	0.9969242215156555	boulatruelle	1	17	51	48	0	0	0	129	1491	boulatruelle	nsubj	1495	PROPN	PROP	Singular	Male	3	37
+1511	1511	PER	0.9952526092529297	lui	1	18	52	4	0	0	0	130	1511	lui	dep	1510	PRON	PRON	Singular	Ambiguous	3	0
+1518	1518	PER	0.9928147792816162	thénardier	1	18	52	11	0	0	0	131	1518	thénardier	obl:agent	1517	PROPN	PROP	Singular	Not_Assigned	3	12
+1520	1520	PER	0.9552026987075806	on	1	19	53	0	0	0	0	132	1520	on	nsubj	1522	PRON	PRON	Ambiguous	Ambiguous	3	13
+1527	1527	PER	0.8180581331253052	on	1	19	53	7	0	0	0	133	1527	on	dep	1529	PRON	PRON	Ambiguous	Ambiguous	3	13
+1530	1532	PER	0.9562536875406901	le vieux cantonnier	3	19	53	10	0	0	0	134	1532	cantonnier	obj	1529	NOUN	NOM	Singular	Not_Assigned	3	0
+1534	1534	PER	0.9948185086250305	boulatruelle	1	19	54	0	0	0	0	135	1534	boulatruelle	nsubj	1535	PROPN	PROP	Singular	Male	3	9
+1542	1542	PER	0.9993902444839478	il	1	19	55	0	0	0	0	136	1542	il	nsubj	1543	PRON	PRON	Singular	Male	3	9
+1588	1588	PER	0.998458981513977	lui	1	19	56	21	0	0	0	137	1588	lui	iobj	1589	PRON	PRON	Singular	Ambiguous	3	9
+1594	1600	PER	0.7274404146841594	le thénardier et le maître d’ école	7	19	56	27	0	1	2	138	1598	maître	conj	1595	NOUN	NOM	Plural	Not_Assigned	3	7
+1594	1595	PER	0.9602614343166351	le thénardier	2	19	56	27	1	0	0	139	1595	thénardier	nsubj	1601	NOUN	NOM	Singular	Not_Assigned	3	12
+1597	1600	PER	0.8782779276371002	le maître d’ école	4	19	56	30	1	0	0	140	1598	maître	conj	1595	NOUN	NOM	Singular	Male	3	8
+1605	1605	PER	0.9879963994026184	boulatruelle	1	20	57	0	0	0	0	141	1605	boulatruelle	nsubj:pass	1623	PROPN	PROP	Singular	Male	3	2
+1607	1608	TIME	0.8524963855743408	un matin	2	20	57	2	0	0	0	142	1608	matin	obl:mod	1623	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+1613	1616	TIME	0.6648772656917572	au point du jour	4	20	57	8	0	0	0	143	1614	point	obl:arg	1612	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+1618	1618	PER	0.9442854523658752	son	1	20	57	13	0	0	0	144	1618	son	det	1619	DET	PRON	Singular	Ambiguous	3	2
+1629	1630	LOC	0.8772392868995667	du bois	2	20	57	24	0	0	0	145	1630	bois	nmod	1628	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+1649	1649	PER	0.9995684027671814	il	1	20	58	2	0	0	0	146	1649	il	nsubj	1651	PRON	PRON	Singular	Male	3	2
+1661	1665	PER	0.9347087979316712	du père six - fours	5	20	58	14	0	0	0	147	1662	père	nmod	1657	NOUN	PROP	Singular	Male	3	0
+1667	1670	PER	0.7417279928922653	le porteur d’ eau	4	20	58	20	0	0	0	148	1668	porteur	appos	1662	NOUN	NOM	Singular	Not_Assigned	3	0
+1673	1673	PER	0.999380350112915	il	1	20	58	26	0	0	0	149	1673	il	expl:subj	1678	PRON	PRON	Singular	Male	3	2
+1681	1685	TIME	0.6268715679645538	le soir du même jour	5	20	59	1	0	0	0	150	1682	soir	obl:mod	1689	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+1687	1687	PER	0.9992571473121643	il	1	20	59	7	0	0	0	151	1687	il	nsubj	1689	PRON	PRON	Singular	Male	3	2
+1695	1695	PER	0.906531572341919	lui-même	1	20	59	15	0	0	0	152	1695	lui-même	obl:mod	1694	PRON	PRON	Singular	Male	3	2
+1707	1708	FAC	0.692962646484375	la route	2	20	59	27	0	0	0	153	1708	route	obl:mod	1705	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+1713	1714	LOC	0.8291632533073425	du bois	2	20	59	33	0	0	0	154	1714	bois	nmod	1712	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+1717	1718	PER	0.9378190040588379	un particulier	2	20	59	37	0	0	0	155	1717	un	ROOT	1717	DET	PRON	Singular	Male	3	0
+1719	1719	PER	0.9903415441513062	qui	1	20	59	39	0	0	0	156	1719	qui	ROOT	1719	PRON	PRON	Ambiguous	Ambiguous	4	0
+1725	1726	LOC	0.7860137522220612	du pays	2	20	59	45	0	0	0	157	1726	pays	ROOT	1726	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+1729	1729	PER	0.6469250321388245	que	1	20	59	49	0	0	0	158	1729	que	obj	1734	PRON	PRON	Ambiguous	Ambiguous	4	0
+1730	1730	PER	0.9977757334709167	lui	1	20	59	50	0	0	0	159	1730	lui	nsubj	1734	PRON	PRON	Singular	Ambiguous	3	0
+1732	1732	PER	0.9977099895477295	boulatruelle	1	20	59	52	0	0	0	160	1732	boulatruelle	appos	1730	PROPN	PROP	Singular	Male	3	38
+1742	1742	PER	0.9658854603767395	thénardier	1	20	60	2	0	0	0	161	1742	thénardier	nmod	1740	PROPN	PROP	Singular	Not_Assigned	3	39
+1750	1750	PER	0.995641827583313	boulatruelle	1	20	61	0	0	0	0	162	1750	boulatruelle	nsubj	1754	PROPN	PROP	Singular	Male	3	40
+1760	1761	PER	0.9828461706638336	ce particulier	2	20	62	0	0	0	0	163	1761	particulier	nsubj	1762	NOUN	NOM	Singular	Male	3	0
+1782	1782	PER	0.9988443851470947	boulatruelle	1	20	63	2	0	0	0	164	1782	boulatruelle	nmod	1780	PROPN	PROP	Singular	Male	3	41
+1792	1795	TIME	0.6536256223917007	sept ou huit minutes	4	20	64	8	0	0	0	165	1795	minutes	nmod	1790	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+1802	1804	PER	0.6206530680259069	  le particulier	3	20	64	18	0	0	0	166	1804	particulier	obj	1802	NOUN	NOM	Singular	Male	3	0
+1807	1807	PER	0.9979146122932434	lui	1	20	64	23	0	0	0	167	1807	lui	iobj	1809	PRON	PRON	Singular	Ambiguous	3	2
+1817	1818	PER	0.9791584014892578	le particulier	2	20	65	6	0	0	0	168	1818	particulier	nsubj	1819	NOUN	NOM	Singular	Male	3	0
+1825	1826	TIME	0.7426370680332184	la nuit	2	20	65	14	0	0	0	169	1826	nuit	nsubj	1829	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+1832	1832	PER	0.9989908337593079	boulatruelle	1	20	65	21	0	0	0	170	1832	boulatruelle	nsubj	1835	PROPN	PROP	Singular	Male	3	42
+1836	1836	PER	0.9736726880073547	le	1	20	65	25	0	0	0	171	1836	le	obj	1837	PRON	PRON	Singular	Male	3	0
+1840	1840	PER	0.9995966553688049	il	1	20	66	1	0	0	0	172	1840	il	nsubj	1842	PRON	PRON	Singular	Male	3	2
+1849	1850	LOC	0.8771541118621826	du bois	2	20	66	10	0	0	0	173	1850	bois	nmod	1848	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+1860	1864	TIME	0.8534094214439392	deux ou trois heures après	5	20	67	8	0	0	0	174	1863	heures	obl:mod	1864	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+1866	1866	PER	0.9974011182785034	boulatruelle	1	20	67	14	0	0	0	175	1866	boulatruelle	nsubj	1868	PROPN	PROP	Singular	Male	3	43
+1872	1873	PER	0.8720357120037079	son particulier	2	20	67	20	0	1	1	176	1873	particulier	obj	1869	NOUN	NOM	Singular	Male	3	0
+1872	1872	PER	0.9603462219238281	son	1	20	67	20	1	0	0	177	1872	son	det	1873	DET	PRON	Singular	Ambiguous	3	0
+1892	1892	PER	0.9974477291107178	boulatruelle	1	20	68	0	0	0	0	178	1892	boulatruelle	nsubj	1894	PROPN	PROP	Singular	Male	3	44
+1896	1897	PER	0.9791174530982971	le particulier	2	20	68	4	0	0	0	179	1897	particulier	obj	1894	NOUN	NOM	Singular	Male	3	0
+1906	1906	PER	0.9770095348358154	l’	1	20	68	14	0	0	0	180	1906	l'	obj	1907	DET	PRON	Singular	Ambiguous	3	0
+1911	1911	PER	0.999454915523529	il	1	20	68	19	0	0	0	181	1911	il	nsubj	1914	PRON	PRON	Singular	Male	3	0
+1916	1917	PER	0.9586136639118195	l’ autre	2	20	68	24	0	0	0	182	1917	autre	nsubj	1921	PRON	PRON	Singular	Ambiguous	3	0
+1924	1924	PER	0.9978454113006592	lui	1	20	68	32	0	0	0	183	1924	lui	dep	1922	PRON	PRON	Singular	Ambiguous	3	0
+1933	1933	PER	0.9857932925224304	l’	1	20	68	41	0	0	0	184	1933	l'	obj	1934	PRON	PRON	Singular	Ambiguous	3	0
+1937	1937	PER	0.9948273301124573	le	1	20	68	45	0	0	0	185	1937	le	obj	1938	PRON	PRON	Singular	Male	3	0
+1968	1968	PER	0.9981591105461121	boulatruelle	1	20	70	13	0	0	0	186	1968	boulatruelle	nmod	1964	PROPN	PROP	Singular	Male	3	4
+1971	1971	PER	0.9997181296348572	il	1	20	70	16	0	0	0	187	1971	il	nsubj	1973	PRON	PRON	Singular	Male	3	4
+1977	1978	TIME	0.6931577920913696	du matin	2	20	70	22	0	0	0	188	1978	matin	nmod	1976	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+1991	1991	PER	0.999688982963562	il	1	20	71	0	0	0	0	189	1991	il	expl:subj	1994	PRON	PRON	Singular	Male	3	4
+1996	1997	PER	0.9524248242378235	son particulier	2	20	71	5	0	1	1	190	1997	particulier	nsubj	2006	NOUN	NOM	Singular	Male	3	0
+1996	1996	PER	0.995657205581665	son	1	20	71	5	1	0	0	191	1996	son	det	1997	DET	PRON	Singular	Ambiguous	3	0
+2001	2002	LOC	0.8223668336868286	le bois	2	20	71	10	0	0	0	192	2002	bois	obl:arg	1999	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+2004	2004	FAC	0.410364031791687	y	1	20	71	13	0	0	0	193	2004	y	iobj	2006	PRON	PRON	Not_Assigned	Not_Assigned	3	
+2048	2048	PER	0.9984930753707886	ses	1	20	73	2	0	0	0	194	2048	ses	det	2049	DET	PRON	Singular	Ambiguous	3	4
+2051	2051	PER	0.9926338791847229	boulatruelle	1	20	74	0	0	0	0	195	2051	boulatruelle	nsubj	2053	PROPN	PROP	Singular	Male	3	10
+2058	2060	LOC	0.7172700762748718	toute la forêt	3	20	74	7	0	0	0	196	2060	forêt	obj	2053	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+2068	2068	PER	0.9934822916984558	lui	1	20	74	17	0	0	0	197	2068	lui	iobj	2070	PRON	PRON	Singular	Ambiguous	3	10
+2077	2077	PER	0.999483585357666	il	1	21	76	0	0	0	0	198	2077	il	det	2080	PRON	PRON	Singular	Male	3	10
+2093	2093	GPE	0.9528064727783203	montfermeil	1	21	77	6	0	0	0	199	2093	montfermeil	obl:mod	2090	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+2099	2101	PER	0.901699165503184	quelques braves commères	3	21	78	4	0	0	0	200	2101	commères	obj	2097	NOUN	NOM	Plural	Not_Assigned	3	14
+2102	2102	PER	0.9257827401161194	qui	1	21	78	7	0	0	0	201	2102	qui	nsubj	2103	PRON	PRON	Ambiguous	Ambiguous	4	14
+2110	2113	PER	0.5373576357960701	le cantonnier de gagny	4	21	78	15	0	1	1	202	2111	cantonnier	nsubj	2117	NOUN	PROP	Singular	Male	3	0
+2113	2113	GPE	0.590825080871582	gagny	1	21	78	18	1	0	0	203	2113	gagny	nmod	2111	PROPN	PROP	Not_Assigned	Not_Assigned	3	

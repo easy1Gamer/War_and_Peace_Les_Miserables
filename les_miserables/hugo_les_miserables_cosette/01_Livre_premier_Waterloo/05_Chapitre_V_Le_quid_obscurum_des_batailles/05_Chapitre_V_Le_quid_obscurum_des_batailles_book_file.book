@@ -1,0 +1,272 @@
+[
+    {
+        "id": 0,
+        "count": {
+            "occurrence": 6,
+            "mention_ratio": 0.1765
+        },
+        "gender": {
+            "ratio": 0,
+            "inference": {
+                "Male": 0,
+                "Female": 0
+            },
+            "max": 0,
+            "argmax": "Null"
+        },
+        "number": {
+            "ratio": 1.0,
+            "inference": {
+                "Singular": 0.17,
+                "Plural": 0.83
+            },
+            "max": 0.83,
+            "argmax": "Plural"
+        },
+        "mentions": {
+            "proper": [
+                {
+                    "n": "la brigade de kempt",
+                    "c": 1
+                }
+            ],
+            "common": [
+                {
+                    "n": "ces jeunes soldats",
+                    "c": 1
+                },
+                {
+                    "n": "ces recrues",
+                    "c": 1
+                },
+                {
+                    "n": "cette infanterie novice",
+                    "c": 1
+                }
+            ],
+            "pronoun": [
+                {
+                    "n": "leur",
+                    "c": 1
+                },
+                {
+                    "n": "ils",
+                    "c": 1
+                }
+            ]
+        },
+        "agent": [
+            {
+                "w": "faire",
+                "i": 534
+            },
+            {
+                "w": "montrer",
+                "i": 565
+            },
+            {
+                "w": "avoir",
+                "i": 580
+            }
+        ],
+        "patient": [],
+        "mod": [
+            {
+                "w": "jeune",
+                "i": 512
+            },
+            {
+                "w": "vaillant",
+                "i": 521
+            },
+            {
+                "w": "novice",
+                "i": 579
+            }
+        ],
+        "poss": [
+            {
+                "w": "inexpérience",
+                "i": 525
+            },
+            {
+                "w": "verve",
+                "i": 583
+            }
+        ]
+    },
+    {
+        "id": 1,
+        "count": {
+            "occurrence": 3,
+            "mention_ratio": 0.0882
+        },
+        "gender": {
+            "ratio": 0.6667,
+            "inference": {
+                "Male": 1.0,
+                "Female": 0.0
+            },
+            "max": 1.0,
+            "argmax": "Male"
+        },
+        "number": {
+            "ratio": 1.0,
+            "inference": {
+                "Singular": 1.0,
+                "Plural": 0.0
+            },
+            "max": 1.0,
+            "argmax": "Singular"
+        },
+        "mentions": {
+            "proper": [
+                {
+                    "n": "napoléon",
+                    "c": 1
+                }
+            ],
+            "common": [],
+            "pronoun": [
+                {
+                    "n": "sa",
+                    "c": 1
+                },
+                {
+                    "n": "il",
+                    "c": 1
+                }
+            ]
+        },
+        "agent": [
+            {
+                "w": "vouloir",
+                "i": 198
+            }
+        ],
+        "patient": [],
+        "mod": [],
+        "poss": [
+            {
+                "w": "main",
+                "i": 178
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "count": {
+            "occurrence": 2,
+            "mention_ratio": 0.0588
+        },
+        "gender": {
+            "ratio": 0.5,
+            "inference": {
+                "Male": 1.0,
+                "Female": 0.0
+            },
+            "max": 1.0,
+            "argmax": "Male"
+        },
+        "number": {
+            "ratio": 1.0,
+            "inference": {
+                "Singular": 1.0,
+                "Plural": 0.0
+            },
+            "max": 1.0,
+            "argmax": "Singular"
+        },
+        "mentions": {
+            "proper": [
+                {
+                    "n": "le général anglais colville",
+                    "c": 1
+                }
+            ],
+            "common": [],
+            "pronoun": [
+                {
+                    "n": "sa",
+                    "c": 1
+                }
+            ]
+        },
+        "agent": [
+            {
+                "w": "regarder",
+                "i": 253
+            },
+            {
+                "w": "constater",
+                "i": 258
+            }
+        ],
+        "patient": [],
+        "mod": [
+            {
+                "w": "anglais",
+                "i": 251
+            }
+        ],
+        "poss": [
+            {
+                "w": "montre",
+                "i": 256
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "count": {
+            "occurrence": 2,
+            "mention_ratio": 0.0588
+        },
+        "gender": {
+            "ratio": 0.5,
+            "inference": {
+                "Male": 1.0,
+                "Female": 0.0
+            },
+            "max": 1.0,
+            "argmax": "Male"
+        },
+        "number": {
+            "ratio": 1.0,
+            "inference": {
+                "Singular": 1.0,
+                "Plural": 0.0
+            },
+            "max": 1.0,
+            "argmax": "Singular"
+        },
+        "mentions": {
+            "proper": [
+                {
+                    "n": "wellington",
+                    "c": 1
+                }
+            ],
+            "common": [],
+            "pronoun": [
+                {
+                    "n": "le",
+                    "c": 1
+                }
+            ]
+        },
+        "agent": [],
+        "patient": [
+            {
+                "w": "attirer",
+                "i": 338
+            },
+            {
+                "w": "pencher",
+                "i": 344
+            }
+        ],
+        "mod": [],
+        "poss": []
+    }
+]

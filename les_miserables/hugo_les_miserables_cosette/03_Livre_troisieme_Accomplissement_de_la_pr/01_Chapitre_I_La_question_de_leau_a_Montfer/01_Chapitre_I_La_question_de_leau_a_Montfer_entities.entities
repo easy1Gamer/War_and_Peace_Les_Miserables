@@ -1,0 +1,185 @@
+start_token	end_token	cat	confidence	text	mention_len	paragraph_ID	sentence_ID	start_token_ID_within_sentence	out_to_in_nested_level	in_to_out_nested_level	nested_entities_count	temp_index	head_id	head_word	head_dependency_relation	head_syntactic_head_ID	POS_tag	prop	number	gender	grammatical_person	COREF
+9	9	GPE	0.9482277631759644	montfermeil	1	0	0	9	0	0	0	0	9	montfermeil	nmod	4	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+10	10	GPE	0.6987032890319824	montfermeil	1	1	1	0	0	0	0	1	10	montfermeil	nsubj:pass	12	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+14	14	GPE	0.9369766116142273	livry	1	1	1	4	0	0	0	2	14	livry	obl:arg	12	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+16	16	GPE	0.9366943836212158	chelles	1	1	1	6	0	0	0	3	16	chelles	conj	14	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+23	25	LOC	0.7839612563451132	ce haut plateau	3	1	1	13	0	0	0	4	25	plateau	nmod	20	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+26	26	LOC	0.7486171722412109	qui	1	1	1	16	0	0	0	5	26	qui	nsubj	27	PRON	PRON	Not_Assigned	Not_Assigned	4	
+28	29	LOC	0.7408976256847382	l’ ourcq	2	1	1	18	0	0	0	6	29	ourcq	obj	27	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+31	32	LOC	0.9299262762069702	la marne	2	1	1	21	0	0	0	7	32	marne	obl:arg	27	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+37	40	GPE	0.4810387007892132	un assez gros bourg	4	1	1	27	0	0	0	8	40	bourg	ROOT	40	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+43	45	TIME	0.6024977167447408	toute l’ année	3	1	1	33	0	0	0	9	45	année	obl:mod	41	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+54	55	TIME	0.8938524425029755	le dimanche	2	1	1	44	0	0	0	10	55	dimanche	nmod	58	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+61	62	TIME	0.42538073658943176	en 1823	2	1	2	0	0	0	0	11	62	1823	obl:mod	67	NUM	NOM	Not_Assigned	Not_Assigned	3	
+69	69	GPE	0.9539691209793091	montfermeil	1	1	2	8	0	0	0	12	69	montfermeil	obl:mod	67	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+73	74	FAC	0.6650427281856537	maisons blanches	2	1	2	12	0	0	0	13	73	maisons	obl:arg	71	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+88	89	LOC	0.7889697551727295	les bois	2	1	3	7	0	0	0	14	89	bois	nmod	86	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+92	92	GPE	0.49367740750312805	y	1	1	4	1	0	0	0	15	92	y	iobj	93	PRON	PRON	Not_Assigned	Not_Assigned	3	
+98	101	FAC	0.7093269526958466	quelques maisons de plaisance	4	1	4	7	0	0	0	16	99	maisons	obj	93	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+102	104	TIME	0.3796493311723073	du dernier siècle	3	1	4	11	0	0	0	17	104	siècle	nmod	99	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+108	108	FAC	0.6627926826477051	leur	1	1	4	17	0	0	0	18	108	leur	det	110	DET	PRON	Not_Assigned	Not_Assigned	3	
+113	113	FAC	0.6536672115325928	leurs	1	1	4	22	0	0	0	19	113	leurs	det	114	DET	PRON	Not_Assigned	Not_Assigned	3	
+141	141	GPE	0.9050852656364441	montfermeil	1	1	5	1	0	0	0	20	141	montfermeil	nsubj	146	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+150	157	PER	0.5331077184528112	les marchands de drap retirés et les agréés	8	1	6	0	0	1	1	21	151	marchands	nsubj	165	NOUN	NOM	Plural	Not_Assigned	3	13
+150	154	PER	0.7974090933799743	les marchands de drap retirés	5	1	6	0	1	0	0	22	151	marchands	nsubj	165	NOUN	NOM	Plural	Not_Assigned	3	14
+169	173	LOC	0.5536867678165436	un endroit paisible et charmant	5	1	7	2	0	0	0	23	170	endroit	ROOT	170	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+175	175	LOC	0.5132783055305481	qui	1	1	7	8	0	0	0	24	175	qui	nsubj	177	PRON	PRON	Not_Assigned	Not_Assigned	4	
+186	186	GPE	0.49741289019584656	y	1	1	7	19	0	0	0	25	186	y	iobj	187	PRON	PRON	Not_Assigned	Not_Assigned	3	
+204	204	GPE	0.4026698172092438	y	1	1	8	3	0	0	0	26	204	y	iobj	206	PRON	PRON	Not_Assigned	Not_Assigned	3	
+212	213	LOC	0.792238175868988	du plateau	2	1	8	11	0	0	0	27	213	plateau	nmod	211	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+225	226	GPE	0.4234665036201477	du village	2	2	10	2	0	0	0	28	226	village	nmod	224	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+227	227	FAC	0.5389366149902344	qui	1	2	10	4	0	0	0	29	227	qui	nsubj	228	PRON	PRON	Not_Assigned	Not_Assigned	4	
+232	232	GPE	0.8278335332870483	gagny	1	2	10	9	0	0	0	30	232	gagny	nmod	230	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+234	234	LOC	0.28642651438713074	son	1	2	10	11	0	0	0	31	234	son	det	235	DET	PRON	Not_Assigned	Not_Assigned	3	
+236	238	LOC	0.6930376489957174	aux magnifiques étangs	3	2	10	13	0	0	0	32	238	étangs	obl:arg	233	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+245	246	LOC	0.8879122734069824	les bois	2	2	10	22	0	0	0	33	246	bois	obl:mod	242	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+255	256	FAC	0.9358034729957581	l’ église	2	2	10	32	0	0	0	34	256	église	obj	254	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+258	258	FAC	0.8911203742027283	qui	1	2	10	35	0	0	0	35	258	qui	nsubj	259	PRON	PRON	Not_Assigned	Not_Assigned	4	
+263	263	GPE	0.8757482767105103	chelles	1	2	10	40	0	0	0	36	263	chelles	nmod	261	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+272	274	LOC	0.5756552219390869	une petite source	3	2	10	49	0	0	0	37	274	source	obl:mod	266	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+280	283	FAC	0.5120274648070335	la route de chelles	4	2	10	57	0	1	1	38	281	route	dep	278	NOUN	PROP	Not_Assigned	Not_Assigned	3	
+283	283	GPE	0.5803990960121155	chelles	1	2	10	60	1	0	0	39	283	chelles	nmod	281	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+292	292	GPE	0.900463879108429	montfermeil	1	2	10	69	0	0	0	40	292	montfermeil	nmod	288	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+302	303	PER	0.5597145557403564	chaque ménage	2	3	11	8	0	0	0	41	303	ménage	nmod	300	NOUN	NOM	Plural	Ambiguous	3	15
+311	313	FAC	0.6100155313809713	les grosses maisons	3	3	12	0	0	0	0	42	313	maisons	nsubj	322	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+315	316	PER	0.373690202832222	l’ aristocratie	2	3	12	4	0	0	0	43	316	aristocratie	conj	313	NOUN	NOM	Singular	Not_Assigned	3	16
+318	320	PER	0.6724360386530558	la gargote thénardier	3	3	12	7	0	0	0	44	319	gargote	conj	313	NOUN	PROP	Singular	Not_Assigned	3	17
+333	334	PER	0.9415490925312042	un bonhomme	2	3	12	22	0	0	0	45	334	bonhomme	obl:arg	325	NOUN	NOM	Singular	Male	3	1
+335	335	PER	0.9826689958572388	dont	1	3	12	24	0	0	0	46	335	dont	nmod	339	PRON	PRON	Ambiguous	Ambiguous	4	1
+341	341	PER	0.9916322827339172	qui	1	3	12	30	0	0	0	47	341	qui	nsubj	342	PRON	PRON	Ambiguous	Ambiguous	4	1
+349	349	GPE	0.9525600075721741	montfermeil	1	3	12	38	0	0	0	48	349	montfermeil	nmod	347	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+358	359	PER	0.9868065714836121	ce bonhomme	2	3	12	47	0	0	0	49	359	bonhomme	nsubj	361	NOUN	NOM	Singular	Male	3	1
+365	368	TIME	0.7497361302375793	sept heures du soir	4	3	12	54	0	0	0	50	366	heures	obl:mod	361	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+369	370	TIME	0.5657659620046616	l’ été	2	3	12	58	0	0	0	51	370	été	nmod	366	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+372	377	TIME	0.6497542510430018	jusqu’ à cinq heures l’ hiver	6	3	12	61	0	0	0	52	375	heures	conj	366	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+382	384	TIME	0.5265160501003265	la nuit venue	3	3	12	71	0	0	0	53	383	nuit	nsubj	384	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+416	418	PER	0.9398811260859171	ce pauvre être	3	4	13	6	0	0	0	54	418	être	nmod	414	NOUN	NOM	Singular	Ambiguous	3	1
+419	419	PER	0.964928388595581	que	1	4	13	9	0	0	0	55	419	que	obj	426	PRON	PRON	Ambiguous	Ambiguous	4	1
+420	421	PER	0.6631058156490326	le lecteur	2	4	13	10	0	0	0	56	421	lecteur	nsubj	426	NOUN	NOM	Singular	Ambiguous	3	18
+429	431	PER	0.891019344329834	la petite cosette	3	4	13	19	0	0	0	57	431	cosette	nmod	414	PROPN	PROP	Singular	Female	3	1
+433	433	PER	0.6717700958251953	on	1	4	14	0	0	0	0	58	433	on	nsubj	435	PRON	PRON	Ambiguous	Ambiguous	3	19
+437	437	PER	0.9922383427619934	cosette	1	4	14	4	0	0	0	59	437	cosette	nsubj	439	PROPN	PROP	Singular	Female	3	20
+440	441	PER	0.7842841446399689	aux thénardier	2	4	14	7	0	0	0	60	441	thénardier	obl:arg	439	PROPN	PROP	Singular	Male	3	4
+446	446	PER	0.9972034692764282	ils	1	4	14	13	0	0	0	61	446	ils	nsubj	449	PRON	PRON	Plural	Ambiguous	3	4
+451	452	PER	0.9884065687656403	la mère	2	4	14	18	0	0	0	62	452	mère	obl:agent	449	NOUN	NOM	Singular	Female	3	8
+454	454	PER	0.9987509250640869	ils	1	4	14	21	0	0	0	63	454	ils	nsubj	457	PRON	PRON	Plural	Ambiguous	3	4
+459	460	PER	0.9420764148235321	l’ enfant	2	4	14	26	0	0	0	64	460	enfant	obl:agent	457	NOUN	NOM	Singular	Ambiguous	3	1
+464	465	PER	0.9892050623893738	la mère	2	4	15	2	0	0	0	65	465	mère	nsubj	466	NOUN	NOM	Singular	Female	3	8
+483	484	PER	0.9836558103561401	les thénardier	2	4	15	21	0	0	0	66	484	thénardier	nsubj	485	NOUN	NOM	Plural	Not_Assigned	3	4
+486	486	PER	0.9918620586395264	cosette	1	4	15	24	0	0	0	67	486	cosette	obj	485	PROPN	PROP	Singular	Female	3	5
+488	488	PER	0.9774571061134338	elle	1	4	16	0	0	0	0	68	488	elle	nsubj	490	PRON	PRON	Singular	Female	3	5
+489	489	PER	0.9963994026184082	leur	1	4	16	1	0	0	0	69	489	leur	iobj	490	PRON	PRON	Plural	Ambiguous	3	4
+500	500	PER	0.9947782754898071	elle	1	4	17	6	0	0	0	70	500	elle	dep	502	PRON	PRON	Singular	Female	3	5
+501	501	PER	0.8383935689926147	qui	1	4	17	7	0	0	0	71	501	qui	nsubj	502	PRON	PRON	Ambiguous	Ambiguous	4	5
+513	514	PER	0.9752983152866364	l’ enfant	2	4	18	1	0	0	0	72	514	enfant	nsubj	529	NOUN	NOM	Singular	Ambiguous	3	5
+524	525	LOC	0.8529054820537567	la source	2	4	18	12	0	0	0	73	525	source	obl:arg	522	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+526	527	TIME	0.8032788634300232	la nuit	2	4	18	14	0	0	0	74	527	nuit	obl:mod	522	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+530	530	PER	0.9976806640625	-elle	1	4	18	18	0	0	0	75	530	elle	dep	529	PRON	PRON	Singular	Female	3	5
+540	541	FAC	0.9375548958778381	la maison	2	4	18	28	0	0	0	76	541	maison	obl:arg	537	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+543	548	TIME	0.5870592445135117	la noël de l’ année 1823	6	5	19	0	0	0	0	77	547	année	nmod	544	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+553	553	GPE	0.9509569406509399	montfermeil	1	5	19	10	0	0	0	78	553	montfermeil	obl:mod	551	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+555	559	TIME	0.6431475400924682	le commencement de l’ hiver	5	5	20	0	0	0	0	79	556	commencement	nsubj	562	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+574	578	PER	0.5158438324928284	des bateleurs venus de paris	5	5	21	0	0	1	1	80	575	bateleurs	nsubj	580	NOUN	PROP	Ambiguous	Not_Assigned	3	9
+578	578	GPE	0.9442697167396545	paris	1	5	21	4	1	0	0	81	578	paris	obl:arg	576	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+582	585	PER	0.8870351165533066	m.   le maire	4	5	21	8	0	0	0	82	585	maire	nmod	583	NOUN	NOM	Singular	Male	3	21
+590	590	PER	0.7669899463653564	leurs	1	5	21	16	0	0	0	83	590	leurs	det	591	DET	PRON	Plural	Ambiguous	3	9
+593	597	FAC	0.5348627388477325	la grande rue du village	5	5	21	19	0	1	1	84	595	rue	obl:mod	589	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+596	597	GPE	0.3333949074149132	du village	2	5	21	22	1	0	0	85	597	village	nmod	595	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+600	604	PER	0.9364982962608337	une bande de marchands ambulants	5	5	21	26	0	0	0	86	601	bande	nsubj	612	NOUN	NOM	Plural	Not_Assigned	3	22
+616	620	FAC	0.5239243745803833	la place de l’ église	5	5	21	42	0	1	1	87	617	place	obl:mod	612	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+619	620	FAC	0.9393225908279419	l’ église	2	5	21	45	1	0	0	88	620	église	nmod	617	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+624	627	FAC	0.7803667485713959	la ruelle du boulanger	4	5	21	50	0	0	0	89	625	ruelle	conj	617	NOUN	PROP	Not_Assigned	Not_Assigned	3	
+629	629	FAC	0.9168774485588074	où	1	5	21	55	0	0	0	90	629	où	nsubj:pass	631	PRON	PRON	Not_Assigned	Not_Assigned	3	
+641	642	PER	0.8337005078792572	des thénardier	2	5	21	67	0	0	0	91	642	thénardier	nmod	640	PROPN	PROP	Ambiguous	Not_Assigned	3	4
+646	650	FAC	0.6246314585208893	les auberges et les cabarets	5	5	22	2	0	1	2	92	647	auberges	obj	645	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+646	647	FAC	0.8211066722869873	les auberges	2	5	22	2	1	0	0	93	647	auberges	obj	645	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+649	650	FAC	0.8205829858779907	les cabarets	2	5	22	5	1	0	0	94	650	cabarets	conj	647	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+655	658	GPE	0.4203803017735481	ce petit pays tranquille	4	5	22	11	0	0	0	95	657	pays	obl:arg	653	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+665	665	PER	0.9956687688827515	nous	1	5	23	0	0	0	0	96	665	nous	nsubj	666	PRON	PRON	Plural	Ambiguous	1	10
+681	682	FAC	0.6902076601982117	la place	2	5	23	16	0	0	0	97	682	place	obl:mod	679	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+708	708	TIME	0.7121609449386597	1823	1	5	23	43	0	0	0	98	708	1823	obl:mod	706	NUM	NOM	Not_Assigned	Not_Assigned	3	
+709	712	PER	0.8472278118133545	aux paysans de montfermeil	4	5	23	44	0	1	1	99	710	paysans	obl:arg	706	NOUN	PROP	Plural	Ambiguous	3	23
+712	712	GPE	0.9237470626831055	montfermeil	1	5	23	47	1	0	0	100	712	montfermeil	nmod	710	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+718	719	LOC	0.44987258315086365	du brésil	2	5	23	53	0	0	0	101	719	brésil	nmod	717	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+720	720	LOC	0.3262737989425659	que	1	5	23	55	0	0	0	102	720	que	obj	725	PRON	PRON	Not_Assigned	Not_Assigned	4	
+721	721	PER	0.39828482270240784	notre	1	5	23	56	0	0	0	103	721	notre	det	722	DET	PRON	Plural	Ambiguous	1	10
+727	728	TIME	0.44740742444992065	depuis 1845	2	5	23	62	0	0	0	104	728	1845	obl:mod	725	NUM	NOM	Not_Assigned	Not_Assigned	3	
+739	740	PER	0.5146470367908478	les naturalistes	2	5	24	0	0	0	0	105	740	naturalistes	nsubj	741	NOUN	NOM	Plural	Not_Assigned	3	24
+743	743	PER	0.9916954636573792	je	1	5	24	4	0	0	0	106	743	je	nsubj	744	PRON	PRON	Singular	Ambiguous	1	25
+768	772	PER	0.600238847732544	quelques bons vieux soldats bonapartistes	5	5	25	0	0	0	0	107	771	soldats	nsubj	777	NOUN	NOM	Plural	Not_Assigned	3	26
+775	776	GPE	0.6955429315567017	le village	2	5	25	7	0	0	0	108	776	village	obl:arg	773	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+779	780	VEH	0.5192313194274902	cette bête	2	5	25	11	0	0	0	109	780	bête	obj	778	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+784	785	PER	0.840857595205307	les bateleurs	2	5	26	0	0	0	0	110	785	bateleurs	nsubj	786	NOUN	NOM	Plural	Not_Assigned	3	2
+802	803	VEH	0.5599932223558426	leur ménagerie	2	5	26	18	0	1	1	111	803	ménagerie	obl:mod	795	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+802	802	PER	0.8965864181518555	leur	1	5	26	18	1	0	0	112	802	leur	det	803	DET	PRON	Plural	Ambiguous	3	2
+805	810	TIME	0.6562940329313278	dans la soirée même de noël	6	6	27	0	0	1	1	113	807	soirée	obl:mod	820	NOUN	PROP	Not_Assigned	Not_Assigned	3	
+806	810	TIME	0.6167553305625916	la soirée même de noël	5	6	27	1	1	0	0	114	807	soirée	obl:mod	820	NOUN	PROP	Not_Assigned	Not_Assigned	3	
+812	813	PER	0.8722787201404572	plusieurs hommes	2	6	27	7	0	0	0	115	813	hommes	nsubj:pass	820	NOUN	NOM	Plural	Male	3	11
+815	815	PER	0.6458929777145386	rouliers	1	6	27	10	0	0	0	116	815	rouliers	conj	813	NOUN	NOM	Not_Assigned	Not_Assigned	3	11
+834	836	FAC	0.8160515228907267	l’ auberge thénardier	3	6	27	29	0	0	0	117	835	auberge	nmod	831	NOUN	PROP	Not_Assigned	Not_Assigned	3	
+838	839	FAC	0.9413658678531647	cette salle	2	6	28	0	0	0	0	118	839	salle	nsubj	840	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+842	846	FAC	0.8079289317131042	toutes les salles de cabaret	5	6	28	4	0	0	0	119	844	salles	obl:arg	840	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+860	861	PER	0.7885934412479401	des buveurs	2	6	28	22	0	0	0	120	861	buveurs	conj	850	NOUN	NOM	Plural	Not_Assigned	3	27
+863	864	PER	0.7838811576366425	des fumeurs	2	6	28	25	0	0	0	121	864	fumeurs	conj	850	NOUN	NOM	Plural	Not_Assigned	3	28
+875	880	TIME	0.6900810102621714	la date de l’ année 1823	6	6	29	0	0	0	0	122	879	année	nmod	876	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+893	895	PER	0.4458485742410024	la classe bourgeoise	3	6	29	18	0	0	0	123	894	classe	nmod	887	NOUN	NOM	Singular	Not_Assigned	3	29
+914	915	PER	0.9855940639972687	la thénardier	2	6	30	0	0	0	0	124	914	la	ROOT	914	DET	PROP	Singular	Female	3	30
+928	930	PER	0.9287193020184835	le mari thénardier	3	6	30	14	0	0	0	125	929	mari	nsubj	931	NOUN	PROP	Singular	Male	3	3
+933	934	PER	0.9767681956291199	ses hôtes	2	6	30	19	0	1	1	126	934	hôtes	obl:mod	931	NOUN	NOM	Plural	Ambiguous	3	31
+933	933	PER	0.9969070553779602	ses	1	6	30	19	1	0	0	127	933	ses	det	934	DET	PRON	Singular	Ambiguous	3	3
+949	952	TIME	0.571201428771019	la guerre d’ espagne	4	7	31	10	0	1	1	128	950	guerre	obj	945	NOUN	PROP	Not_Assigned	Not_Assigned	3	
+952	952	GPE	0.7731015086174011	espagne	1	7	31	13	1	0	0	129	952	espagne	nmod	950	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+954	959	PER	0.7388363182544708	m.   le duc d’ angoulême	6	7	31	15	0	0	0	130	957	duc	obj	955	NOUN	PROP	Singular	Male	3	32
+979	979	GPE	0.9114058613777161	nanterre	1	8	32	5	0	0	0	131	979	nanterre	nmod	977	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+982	982	GPE	0.9283401370048523	suresnes	1	8	32	8	0	0	0	132	982	suresnes	conj	979	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+1023	1025	LOC	0.6429367264111837	ces pays -là	3	8	36	2	0	0	0	133	1024	pays	obl:mod	1028	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+1047	1048	TIME	0.8046511709690094	le printemps	2	8	37	12	0	0	0	134	1048	printemps	obl:mod	1043	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+1085	1086	PER	0.9623166620731354	un meunier	2	10	42	5	0	0	0	135	1086	meunier	conj	1089	NOUN	NOM	Singular	Male	3	3
+1087	1087	PER	0.9859669804573059	qui	1	10	42	7	0	0	0	136	1087	qui	nsubj	1089	PRON	PRON	Ambiguous	Ambiguous	4	3
+1097	1097	PER	0.9529485702514648	nous	1	11	43	5	0	0	0	137	1097	nous	nsubj	1099	PRON	PRON	Plural	Ambiguous	1	2
+1111	1111	PER	0.9299826622009277	nous	1	11	44	0	0	0	0	138	1111	nous	nsubj	1113	PRON	PRON	Plural	Ambiguous	1	2
+1120	1120	PER	0.9551959037780762	nous	1	11	44	9	0	0	0	139	1120	nous	nsubj	1122	PRON	PRON	Plural	Ambiguous	1	2
+1193	1193	PER	0.9989790916442871	je	1	11	45	0	0	0	0	140	1193	je	nsubj	1195	PRON	PRON	Singular	Ambiguous	1	3
+1254	1254	PER	0.9415604472160339	notre	1	11	49	5	0	0	0	141	1254	notre	det	1255	DET	PRON	Plural	Ambiguous	1	2
+1263	1264	PER	0.9080025851726532	un faucheur	2	12	50	6	0	0	0	142	1264	faucheur	nsubj	1283	NOUN	NOM	Singular	Not_Assigned	3	33
+1268	1269	PER	0.9518546462059021	un propriétaire	2	12	50	11	0	0	0	143	1269	propriétaire	obl:arg	1266	NOUN	NOM	Singular	Male	3	12
+1270	1270	PER	0.977134644985199	qui	1	12	50	13	0	0	0	144	1270	qui	nsubj	1271	PRON	PRON	Ambiguous	Ambiguous	4	12
+1280	1281	TIME	0.8869872391223907	au printemps	2	12	50	23	0	0	0	145	1281	printemps	obl:mod	1279	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+1311	1311	PER	0.9930832386016846	monsieur	1	13	53	5	0	0	0	146	1311	monsieur	dep	1309	NOUN	NOM	Singular	Male	3	3
+1321	1321	PER	0.9630141258239746	votre	1	13	54	8	0	0	0	147	1321	votre	det	1322	DET	PRON	Ambiguous	Ambiguous	2	3
+1350	1350	PER	0.9848073720932007	cosette	1	15	57	0	0	0	0	148	1350	cosette	nsubj	1354	PROPN	PROP	Singular	Female	3	6
+1353	1353	PER	0.9847715497016907	sa	1	15	57	3	0	0	0	149	1353	sa	det	1354	DET	PRON	Singular	Ambiguous	3	6
+1371	1371	PER	0.9989792704582214	elle	1	15	58	0	0	0	0	150	1371	elle	nsubj	1374	PRON	PRON	Singular	Female	3	6
+1376	1376	PER	0.9991631507873535	elle	1	15	58	5	0	0	0	151	1376	elle	nsubj	1377	PRON	PRON	Singular	Female	3	6
+1378	1378	PER	0.9988024234771729	ses	1	15	58	7	0	0	0	152	1378	ses	det	1379	DET	PRON	Singular	Ambiguous	3	6
+1386	1386	PER	0.9994661211967468	elle	1	15	58	15	0	0	0	153	1386	elle	nsubj	1387	PRON	PRON	Singular	Female	3	6
+1398	1400	PER	0.7914294203122457	aux petites thénardier	3	15	58	27	0	0	0	154	1400	thénardier	obl:arg	1397	PROPN	PROP	Singular	Male	3	34
+1402	1405	PER	0.6289355605840683	un tout jeune chat	4	15	59	0	0	0	0	155	1405	chat	nsubj	1406	NOUN	NOM	Singular	Male	3	35
+1411	1411	PER	0.5941412448883057	on	1	15	60	0	0	0	0	156	1411	on	nsubj	1412	PRON	PRON	Ambiguous	Ambiguous	3	2
+1417	1419	FAC	0.774016002813975	une pièce voisine	3	15	60	6	0	0	0	157	1418	pièce	obl:mod	1413	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+1424	1424	PER	0.587858259677887	enfants	1	15	60	13	0	0	0	158	1424	enfants	nmod	1422	NOUN	NOM	Plural	Ambiguous	3	36
+1429	1431	PER	0.7478065292040507	éponine et azelma	3	15	60	18	0	1	2	159	1429	éponine	ROOT	1429	PROPN	PROP	Plural	Not_Assigned	3	37
+1429	1429	PER	0.9797856211662292	éponine	1	15	60	18	1	0	0	160	1429	éponine	ROOT	1429	PROPN	PROP	Singular	Female	3	38
+1431	1431	PER	0.9971247315406799	azelma	1	15	60	20	1	0	0	161	1431	azelma	conj	1429	PROPN	PROP	Singular	Female	3	39
+1453	1456	PER	0.8715483695268631	un très jeune enfant	4	17	62	6	0	0	0	162	1456	enfant	nmod	1451	NOUN	NOM	Singular	Male	3	0
+1458	1458	PER	0.98707515001297	qui	1	17	62	11	0	0	0	163	1458	qui	case	1461	PRON	PRON	Ambiguous	Ambiguous	4	0
+1463	1464	FAC	0.9483234584331512	la maison	2	17	62	16	0	0	0	164	1464	maison	dep	1461	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+1471	1472	FAC	0.8121947050094604	du cabaret	2	17	62	24	0	0	0	165	1472	cabaret	nmod	1470	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+1476	1478	PER	0.8999532063802084	un petit garçon	3	17	63	2	0	0	0	166	1478	garçon	ROOT	1478	NOUN	NOM	Singular	Male	3	0
+1479	1479	PER	0.9675896167755127	que	1	17	63	5	0	0	0	167	1479	que	obj	1483	PRON	PRON	Ambiguous	Ambiguous	4	0
+1480	1481	PER	0.9676096439361572	la thénardier	2	17	63	6	0	0	0	168	1481	thénardier	nsubj	1483	PROPN	PROP	Singular	Female	3	7
+1484	1487	TIME	0.7627585083246231	un des hivers précédents	4	17	63	10	0	0	0	169	1486	hivers	nmod	1484	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+1497	1497	PER	0.9991267323493958	-elle	1	17	63	23	0	0	0	170	1497	elle	nsubj	1496	PRON	PRON	Singular	Female	3	7
+1507	1507	PER	0.9861910343170166	qui	1	17	63	33	0	0	0	171	1507	qui	nsubj	1509	PRON	PRON	Ambiguous	Ambiguous	4	0
+1518	1519	PER	0.9924708306789398	la mère	2	17	64	0	0	0	0	172	1519	mère	nsubj	1522	NOUN	NOM	Singular	Female	3	7
+1520	1520	PER	0.9382712841033936	l’	1	17	64	2	0	0	0	173	1520	l'	obj	1522	PRON	PRON	Singular	Ambiguous	3	0
+1526	1526	PER	0.9576206207275391	l’	1	17	64	8	0	0	0	174	1526	l'	obj	1527	PRON	PRON	Singular	Ambiguous	3	0
+1534	1535	PER	0.8793395161628723	du mioche	2	17	65	4	0	0	0	175	1535	mioche	nmod	1532	NOUN	NOM	Singular	Not_Assigned	3	0
+1542	1543	PER	0.7993444502353668	ton fils	2	17	65	12	0	1	1	176	1543	fils	nsubj	1544	NOUN	NOM	Singular	Male	3	0
+1542	1542	PER	0.9910474419593811	ton	1	17	65	12	1	0	0	177	1542	ton	det	1543	DET	PRON	Singular	Ambiguous	2	7
+1547	1547	PER	0.998132050037384	thénardier	1	17	65	17	0	0	0	178	1547	thénardier	obj	1546	PROPN	PROP	Singular	Male	3	40
+1554	1554	PER	0.9907450675964355	il	1	17	65	24	0	0	0	179	1554	il	nsubj	1555	PRON	PRON	Singular	Male	3	0
+1562	1563	PER	0.9940105378627777	la mère	2	17	66	5	0	0	0	180	1563	mère	nsubj	1561	NOUN	NOM	Singular	Female	3	7
+1565	1565	PER	0.9938913583755493	il	1	17	66	8	0	0	0	181	1565	il	nsubj	1567	PRON	PRON	Singular	Male	3	0
+1566	1566	PER	0.9318941235542297	m’	1	17	66	9	0	0	0	182	1566	m'	iobj	1567	PRON	PRON	Singular	Ambiguous	1	7
+1571	1573	PER	0.9358959197998047	le petit abandonné	3	17	67	2	0	0	0	183	1572	petit	nsubj	1574	NOUN	NOM	Singular	Male	3	0

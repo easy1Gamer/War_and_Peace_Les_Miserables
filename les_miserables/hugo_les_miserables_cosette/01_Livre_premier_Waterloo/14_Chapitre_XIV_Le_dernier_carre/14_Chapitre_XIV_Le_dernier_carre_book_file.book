@@ -1,0 +1,232 @@
+[
+    {
+        "id": 0,
+        "count": {
+            "occurrence": 24,
+            "mention_ratio": 0.7273
+        },
+        "gender": {
+            "ratio": 0.0833,
+            "inference": {
+                "Male": 1.0,
+                "Female": 0.0
+            },
+            "max": 1.0,
+            "argmax": "Male"
+        },
+        "number": {
+            "ratio": 0.9583,
+            "inference": {
+                "Singular": 0.22,
+                "Plural": 0.78
+            },
+            "max": 0.78,
+            "argmax": "Plural"
+        },
+        "mentions": {
+            "proper": [
+                {
+                    "n": "un officier obscur nommé cambronne",
+                    "c": 1
+                }
+            ],
+            "common": [
+                {
+                    "n": "chaque régiment",
+                    "c": 1
+                },
+                {
+                    "n": "ce carré",
+                    "c": 1
+                },
+                {
+                    "n": "les fuyards",
+                    "c": 1
+                },
+                {
+                    "n": "cette légion",
+                    "c": 1
+                },
+                {
+                    "n": "une poignée",
+                    "c": 1
+                },
+                {
+                    "n": "le groupe vivant",
+                    "c": 1
+                },
+                {
+                    "n": "ces combattants",
+                    "c": 1
+                },
+                {
+                    "n": "ces hommes",
+                    "c": 1
+                },
+                {
+                    "n": "braves français",
+                    "c": 1
+                }
+            ],
+            "pronoun": [
+                {
+                    "n": "ils",
+                    "c": 3
+                },
+                {
+                    "n": "eux",
+                    "c": 3
+                },
+                {
+                    "n": "leur",
+                    "c": 2
+                },
+                {
+                    "n": "leurs",
+                    "c": 2
+                },
+                {
+                    "n": "des autres",
+                    "c": 1
+                },
+                {
+                    "n": "les uns",
+                    "c": 1
+                },
+                {
+                    "n": "il",
+                    "c": 1
+                },
+                {
+                    "n": "les",
+                    "c": 1
+                }
+            ]
+        },
+        "agent": [
+            {
+                "w": "attendre",
+                "i": 44
+            },
+            {
+                "w": "laisser",
+                "i": 55
+            },
+            {
+                "w": "mourir",
+                "i": 78
+            },
+            {
+                "w": "prendre",
+                "i": 85
+            },
+            {
+                "w": "lutter",
+                "i": 198
+            },
+            {
+                "w": "écouter",
+                "i": 247
+            },
+            {
+                "w": "avoir",
+                "i": 339
+            },
+            {
+                "w": "pouvoir",
+                "i": 403
+            },
+            {
+                "w": "crier",
+                "i": 478
+            }
+        ],
+        "patient": [
+            {
+                "w": "regarder",
+                "i": 400
+            }
+        ],
+        "mod": [
+            {
+                "w": "obscur",
+                "i": 206
+            },
+            {
+                "w": "poignée",
+                "i": 264
+            },
+            {
+                "w": "vivant",
+                "i": 300
+            },
+            {
+                "w": "français",
+                "i": 482
+            }
+        ],
+        "poss": [
+            {
+                "w": "drapeau",
+                "i": 268
+            },
+            {
+                "w": "fusil",
+                "i": 278
+            },
+            {
+                "w": "tête",
+                "i": 433
+            }
+        ]
+    },
+    {
+        "id": 1,
+        "count": {
+            "occurrence": 2,
+            "mention_ratio": 0.0606
+        },
+        "gender": {
+            "ratio": 0.5,
+            "inference": {
+                "Male": 1.0,
+                "Female": 0.0
+            },
+            "max": 1.0,
+            "argmax": "Male"
+        },
+        "number": {
+            "ratio": 1.0,
+            "inference": {
+                "Singular": 1.0,
+                "Plural": 0.0
+            },
+            "max": 1.0,
+            "argmax": "Singular"
+        },
+        "mentions": {
+            "proper": [
+                {
+                    "n": "colville",
+                    "c": 1
+                }
+            ],
+            "common": [
+                {
+                    "n": "un général anglais",
+                    "c": 1
+                }
+            ],
+            "pronoun": []
+        },
+        "agent": [],
+        "patient": [],
+        "mod": [
+            {
+                "w": "anglais",
+                "i": 465
+            }
+        ],
+        "poss": []
+    }
+]

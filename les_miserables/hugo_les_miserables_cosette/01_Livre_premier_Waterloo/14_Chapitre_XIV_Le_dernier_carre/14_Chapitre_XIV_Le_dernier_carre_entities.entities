@@ -1,0 +1,49 @@
+start_token	end_token	cat	confidence	text	mention_len	paragraph_ID	sentence_ID	start_token_ID_within_sentence	out_to_in_nested_level	in_to_out_nested_level	nested_entities_count	temp_index	head_id	head_word	head_dependency_relation	head_syntactic_head_ID	POS_tag	prop	number	gender	grammatical_person	COREF
+30	33	TIME	0.5854836255311966	jusqu’ à la nuit	4	1	1	24	0	0	0	0	33	nuit	obl:arg	29	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+35	36	TIME	0.748928964138031	la nuit	2	1	2	0	0	0	0	1	36	nuit	nsubj	37	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+43	43	PER	0.9516551494598389	ils	1	1	2	8	0	0	0	2	43	ils	nsubj	44	PRON	PRON	Plural	Ambiguous	3	0
+58	59	PER	0.48042015731334686	chaque régiment	2	1	3	0	0	0	0	3	59	régiment	nsubj	78	NOUN	NOM	Plural	Ambiguous	3	0
+62	63	PER	0.5567767024040222	des autres	2	1	3	4	0	0	0	4	63	autres	obl:arg	61	PRON	PRON	Plural	Ambiguous	3	0
+83	83	PER	0.9806757569313049	ils	1	1	4	0	0	0	0	5	83	ils	nsubj	85	PRON	PRON	Plural	Ambiguous	3	0
+94	95	PER	0.5665856897830963	les uns	2	1	4	11	0	0	0	6	95	uns	dep	85	PRON	PRON	Plural	Ambiguous	3	0
+100	100	GPE	0.7014279961585999	rossomme	1	1	4	17	0	0	0	7	100	rossomme	nmod	98	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+102	103	PER	0.6200839579105377	les autres	2	1	4	19	0	0	0	8	103	autres	conj	95	PRON	PRON	Plural	Ambiguous	3	2
+108	108	GPE	0.16887235641479492	mont-saint-jean	1	1	4	25	0	0	0	9	108	mont-saint-jean	nmod	106	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+110	110	FAC	0.5874261856079102	là	1	1	5	0	0	0	0	10	110	là	advmod	114	ADV	NOM	Not_Assigned	Not_Assigned	3	
+124	124	GPE	0.6433857083320618	ulm	1	1	6	0	0	0	0	11	124	ulm	nsubj	132	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+126	126	GPE	0.8302932381629944	wagram	1	1	6	2	0	0	0	12	126	wagram	conj	124	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+128	128	GPE	0.966478168964386	iéna	1	1	6	4	0	0	0	13	128	iéna	conj	124	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+130	130	GPE	0.9663996696472168	friedland	1	1	6	6	0	0	0	14	130	friedland	conj	124	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+134	134	PER	0.622367799282074	eux	1	1	6	10	0	0	0	15	134	eux	obl:arg	132	PRON	PRON	Plural	Ambiguous	3	0
+136	137	TIME	0.8578452467918396	au crépuscule	2	2	7	0	0	0	0	16	137	crépuscule	obl:mod	154	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+139	143	TIME	0.8898655891418457	vers neuf heures du soir	5	2	7	3	0	0	0	17	141	heures	obl:mod	154	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+145	150	LOC	0.6388899038235346	au bas du plateau de mont-saint-jean	6	2	7	9	0	1	1	18	146	bas	obl:mod	154	NOUN	PROP	Not_Assigned	Not_Assigned	3	
+147	150	LOC	0.4304202049970627	du plateau de mont-saint-jean	4	2	7	11	1	0	0	19	148	plateau	nmod	146	NOUN	PROP	Not_Assigned	Not_Assigned	3	
+158	160	LOC	0.5000904500484467	ce vallon funeste	3	2	8	1	0	0	0	20	159	vallon	obl:mod	198	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+169	170	PER	0.4283622056245804	les cuirassiers	2	2	8	12	0	0	0	21	170	cuirassiers	obl:agent	167	NOUN	NOM	Plural	Not_Assigned	3	3
+196	197	PER	0.7315280437469482	ce carré	2	2	8	39	0	0	0	22	197	carré	nsubj	198	NOUN	NOM	Singular	Not_Assigned	3	0
+200	200	PER	0.789965033531189	il	1	2	9	0	0	0	0	23	200	il	nsubj:pass	202	PRON	PRON	Singular	Male	3	0
+204	208	PER	0.9347200155258178	un officier obscur nommé cambronne	5	2	9	4	0	0	0	24	205	officier	obl:agent	202	NOUN	PROP	Singular	Male	3	0
+221	221	FAC	0.7765228152275085	il	1	2	11	0	0	0	0	25	221	il	nsubj	222	PRON	PRON	Not_Assigned	Not_Assigned	3	
+238	239	PER	0.7965352535247803	les fuyards	2	2	12	2	0	0	0	26	239	fuyards	nsubj	247	NOUN	NOM	Plural	Ambiguous	3	0
+257	258	PER	0.6516704261302948	cette légion	2	3	13	1	0	0	0	27	258	légion	nsubj	264	NOUN	NOM	Singular	Not_Assigned	3	0
+263	264	PER	0.5449205785989761	une poignée	2	3	13	7	0	0	0	28	264	poignée	ccomp	258	NOUN	NOM	Singular	Not_Assigned	3	0
+267	267	PER	0.9660879969596863	leur	1	3	13	11	0	0	0	29	267	leur	det	268	DET	PRON	Plural	Ambiguous	3	0
+277	277	PER	0.9684288501739502	leurs	1	3	13	21	0	0	0	30	277	leurs	det	278	DET	PRON	Plural	Ambiguous	3	0
+298	300	PER	0.6076028744379679	le groupe vivant	3	3	13	42	0	0	0	31	299	groupe	dep	296	NOUN	NOM	Plural	Ambiguous	3	0
+306	307	PER	0.7626711428165436	les vainqueurs	2	3	13	50	0	0	0	32	307	vainqueurs	obl:mod	304	NOUN	NOM	Plural	Ambiguous	3	4
+337	338	PER	0.9502969086170197	ces combattants	2	3	15	0	0	0	0	33	338	combattants	nsubj	339	NOUN	NOM	Plural	Ambiguous	3	0
+342	342	PER	0.9046962857246399	eux	1	3	15	5	0	0	0	34	342	eux	obl:arg	339	PRON	PRON	Plural	Ambiguous	3	0
+397	397	PER	0.9797588586807251	eux	1	3	15	60	0	0	0	35	397	eux	obl:arg	395	PRON	PRON	Plural	Ambiguous	3	0
+399	399	PER	0.9904631972312927	les	1	3	15	62	0	0	0	36	399	les	obj	400	PRON	PRON	Plural	Ambiguous	3	0
+402	402	PER	0.9925926327705383	ils	1	3	16	0	0	0	0	37	402	ils	nsubj	403	PRON	PRON	Plural	Ambiguous	3	0
+432	432	PER	0.9677327871322632	leurs	1	3	16	30	0	0	0	38	432	leurs	det	433	DET	PRON	Plural	Ambiguous	3	0
+435	442	PER	0.7323928996920586	tous les boute - feu des batteries anglaises	8	3	16	33	0	0	0	39	437	boute	obl:mod	427	NOUN	NOM	Not_Assigned	Not_Assigned	3	5
+460	461	PER	0.8870754241943359	ces hommes	2	3	16	58	0	0	0	40	461	hommes	dep	458	NOUN	NOM	Plural	Not_Assigned	3	0
+463	465	PER	0.776947538057963	un général anglais	3	3	16	61	0	0	0	41	464	général	conj	403	NOUN	NOM	Singular	Male	3	1
+467	467	PER	0.7716808915138245	colville	1	3	16	65	0	0	0	42	467	colville	appos	464	PROPN	PROP	Singular	Not_Assigned	3	1
+469	470	PER	0.6999401450157166	les uns	2	3	16	67	0	0	0	43	470	uns	nmod	467	PRON	PRON	Plural	Ambiguous	3	6
+474	475	PER	0.7622155845165253	les autres	2	3	16	72	0	0	0	44	475	autres	nmod	472	PRON	PRON	Plural	Ambiguous	3	7
+477	477	PER	0.9969505071640015	leur	1	3	16	75	0	0	0	45	477	leur	iobj	478	PRON	PRON	Plural	Ambiguous	3	0
+481	482	PER	0.8870109915733337	braves français	2	3	16	79	0	0	0	46	481	braves	conj	403	NOUN	NOM	Not_Assigned	Not_Assigned	3	0
+487	487	PER	0.9525238275527954	cambronne	1	3	17	0	0	0	0	47	487	cambronne	nsubj	488	PROPN	PROP	Singular	Male	3	8

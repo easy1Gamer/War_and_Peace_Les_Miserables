@@ -1,0 +1,1367 @@
+[
+    {
+        "id": 0,
+        "count": {
+            "occurrence": 111,
+            "mention_ratio": 0.5522
+        },
+        "gender": {
+            "ratio": 0.5045,
+            "inference": {
+                "Male": 1.0,
+                "Female": 0.0
+            },
+            "max": 1.0,
+            "argmax": "Male"
+        },
+        "number": {
+            "ratio": 0.9369,
+            "inference": {
+                "Singular": 0.95,
+                "Plural": 0.05
+            },
+            "max": 0.95,
+            "argmax": "Singular"
+        },
+        "mentions": {
+            "proper": [
+                {
+                    "n": "thénardier",
+                    "c": 11
+                },
+                {
+                    "n": "le thénardier",
+                    "c": 3
+                },
+                {
+                    "n": "  monsieur thénardier",
+                    "c": 1
+                }
+            ],
+            "common": [
+                {
+                    "n": "le mari",
+                    "c": 3
+                },
+                {
+                    "n": "son mari",
+                    "c": 3
+                },
+                {
+                    "n": "cet homme",
+                    "c": 2
+                },
+                {
+                    "n": "l’ homme",
+                    "c": 2
+                },
+                {
+                    "n": "les thénardier",
+                    "c": 1
+                },
+                {
+                    "n": "ce couple",
+                    "c": 1
+                },
+                {
+                    "n": "la femme et le mari",
+                    "c": 1
+                },
+                {
+                    "n": "un homme petit , maigre , blême , anguleux , osseux , chétif",
+                    "c": 1
+                },
+                {
+                    "n": "ce gredin de l’ ordre composite",
+                    "c": 1
+                },
+                {
+                    "n": "ce vivandier passé gargotier",
+                    "c": 1
+                },
+                {
+                    "n": "ce petit homme maigre et jaune",
+                    "c": 1
+                },
+                {
+                    "n": "le maître de la maison",
+                    "c": 1
+                },
+                {
+                    "n": "le maître et la maîtresse",
+                    "c": 1
+                },
+                {
+                    "n": "le maître",
+                    "c": 1
+                },
+                {
+                    "n": "le mastodonte",
+                    "c": 1
+                },
+                {
+                    "n": "cette montagne de bruit et de chair",
+                    "c": 1
+                },
+                {
+                    "n": "ce sans-le-sou",
+                    "c": 1
+                },
+                {
+                    "n": "du mari",
+                    "c": 1
+                }
+            ],
+            "pronoun": [
+                {
+                    "n": "il",
+                    "c": 37
+                },
+                {
+                    "n": "sa",
+                    "c": 9
+                },
+                {
+                    "n": "lui",
+                    "c": 7
+                },
+                {
+                    "n": "son",
+                    "c": 6
+                },
+                {
+                    "n": "le",
+                    "c": 5
+                },
+                {
+                    "n": "ses",
+                    "c": 4
+                },
+                {
+                    "n": "qui",
+                    "c": 3
+                },
+                {
+                    "n": "-il",
+                    "c": 1
+                }
+            ]
+        },
+        "agent": [
+            {
+                "w": "venir",
+                "i": 41
+            },
+            {
+                "w": "avoir",
+                "i": 394
+            },
+            {
+                "w": "porter",
+                "i": 401
+            },
+            {
+                "w": "sourire",
+                "i": 412
+            },
+            {
+                "w": "polir",
+                "i": 419
+            },
+            {
+                "w": "refuser",
+                "i": 434
+            },
+            {
+                "w": "avoir",
+                "i": 439
+            },
+            {
+                "w": "ressembler",
+                "i": 455
+            },
+            {
+                "w": "fumer",
+                "i": 482
+            },
+            {
+                "w": "porter",
+                "i": 489
+            },
+            {
+                "w": "avoir",
+                "i": 502
+            },
+            {
+                "w": "prononcer",
+                "i": 519
+            },
+            {
+                "w": "dire",
+                "i": 529
+            },
+            {
+                "w": "affirmer",
+                "i": 546
+            },
+            {
+                "w": "prétendre",
+                "i": 575
+            },
+            {
+                "w": "conter",
+                "i": 581
+            },
+            {
+                "w": "avoir",
+                "i": 603
+            },
+            {
+                "w": "souscrire",
+                "i": 680
+            },
+            {
+                "w": "étudier",
+                "i": 698
+            },
+            {
+                "w": "étudier",
+                "i": 709
+            },
+            {
+                "w": "exagérer",
+                "i": 768
+            },
+            {
+                "w": "appartenir",
+                "i": 812
+            },
+            {
+                "w": "dire",
+                "i": 882
+            },
+            {
+                "w": "venir",
+                "i": 893
+            },
+            {
+                "w": "avoir",
+                "i": 950
+            },
+            {
+                "w": "laisser",
+                "i": 988
+            },
+            {
+                "w": "faire",
+                "i": 1002
+            },
+            {
+                "w": "composer",
+                "i": 1012
+            },
+            {
+                "w": "trouver",
+                "i": 1027
+            },
+            {
+                "w": "dédaigner",
+                "i": 1046
+            },
+            {
+                "w": "devoir",
+                "i": 1077
+            },
+            {
+                "w": "vouloir",
+                "i": 1157
+            },
+            {
+                "w": "avoir",
+                "i": 1166
+            },
+            {
+                "w": "avoir",
+                "i": 1293
+            },
+            {
+                "w": "créer",
+                "i": 1365
+            },
+            {
+                "w": "diriger",
+                "i": 1368
+            },
+            {
+                "w": "obéir",
+                "i": 1392
+            },
+            {
+                "w": "mouvoir",
+                "i": 1538
+            },
+            {
+                "w": "avoir",
+                "i": 1700
+            },
+            {
+                "w": "réussir",
+                "i": 1712
+            },
+            {
+                "w": "ruiner",
+                "i": 1728
+            },
+            {
+                "w": "devenir",
+                "i": 1749
+            },
+            {
+                "w": "brouter",
+                "i": 1764
+            },
+            {
+                "w": "comprendre",
+                "i": 1834
+            },
+            {
+                "w": "avoir",
+                "i": 1885
+            },
+            {
+                "w": "avoir",
+                "i": 1909
+            },
+            {
+                "w": "insérer",
+                "i": 1915
+            },
+            {
+                "w": "dire",
+                "i": 1933
+            },
+            {
+                "w": "ruminer",
+                "i": 2126
+            },
+            {
+                "w": "combiner",
+                "i": 2128
+            },
+            {
+                "w": "avoir",
+                "i": 2200
+            }
+        ],
+        "patient": [
+            {
+                "w": "apercevoir",
+                "i": 10
+            },
+            {
+                "w": "regarder",
+                "i": 34
+            },
+            {
+                "w": "griser",
+                "i": 479
+            },
+            {
+                "w": "mener",
+                "i": 941
+            },
+            {
+                "w": "voilà",
+                "i": 1333
+            },
+            {
+                "w": "voir",
+                "i": 1622
+            },
+            {
+                "w": "sentir",
+                "i": 1635
+            },
+            {
+                "w": "craindre",
+                "i": 1654
+            },
+            {
+                "w": "rendre",
+                "i": 1812
+            }
+        ],
+        "mod": [
+            {
+                "w": "homme",
+                "i": 380
+            },
+            {
+                "w": "petit",
+                "i": 381
+            },
+            {
+                "w": "maigre",
+                "i": 383
+            },
+            {
+                "w": "blême",
+                "i": 385
+            },
+            {
+                "w": "anguleux",
+                "i": 387
+            },
+            {
+                "w": "osseux",
+                "i": 389
+            },
+            {
+                "w": "chétif",
+                "i": 391
+            },
+            {
+                "w": "libéral",
+                "i": 672
+            },
+            {
+                "w": "classique",
+                "i": 674
+            },
+            {
+                "w": "bonapartiste",
+                "i": 676
+            },
+            {
+                "w": "composite",
+                "i": 721
+            },
+            {
+                "w": "sournois",
+                "i": 1036
+            },
+            {
+                "w": "gourmand",
+                "i": 1038
+            },
+            {
+                "w": "habile",
+                "i": 1042
+            },
+            {
+                "w": "petit",
+                "i": 1072
+            },
+            {
+                "w": "maigre",
+                "i": 1074
+            },
+            {
+                "w": "jaune",
+                "i": 1076
+            },
+            {
+                "w": "coquin",
+                "i": 1102
+            },
+            {
+                "w": "capable",
+                "i": 1131
+            },
+            {
+                "w": "épouvantable",
+                "i": 1254
+            },
+            {
+                "w": "attentif",
+                "i": 1274
+            },
+            {
+                "w": "pénétrant",
+                "i": 1276
+            },
+            {
+                "w": "silencieux",
+                "i": 1278
+            },
+            {
+                "w": "homme",
+                "i": 1314
+            },
+            {
+                "w": "mari",
+                "i": 1359
+            }
+        ],
+        "poss": [
+            {
+                "w": "an",
+                "i": 46
+            },
+            {
+                "w": "air",
+                "i": 396
+            },
+            {
+                "w": "fourberie",
+                "i": 407
+            },
+            {
+                "w": "regard",
+                "i": 441
+            },
+            {
+                "w": "coquetterie",
+                "i": 465
+            },
+            {
+                "w": "blouse",
+                "i": 495
+            },
+            {
+                "w": "prétention",
+                "i": 504
+            },
+            {
+                "w": "corps",
+                "i": 618
+            },
+            {
+                "w": "mur",
+                "i": 641
+            },
+            {
+                "w": "enseigne",
+                "i": 645
+            },
+            {
+                "w": "auberge",
+                "i": 651
+            },
+            {
+                "w": "gredin",
+                "i": 717
+            },
+            {
+                "w": "prouesse",
+                "i": 751
+            },
+            {
+                "w": "existence",
+                "i": 789
+            },
+            {
+                "w": "servante",
+                "i": 1049
+            },
+            {
+                "w": "femme",
+                "i": 1056
+            },
+            {
+                "w": "femme",
+                "i": 1139
+            },
+            {
+                "w": "fournaise",
+                "i": 1171
+            },
+            {
+                "w": "fureur",
+                "i": 1262
+            },
+            {
+                "w": "qualité",
+                "i": 1270
+            },
+            {
+                "w": "chose",
+                "i": 1295
+            },
+            {
+                "w": "côté",
+                "i": 1554
+            },
+            {
+                "w": "empire",
+                "i": 1606
+            },
+            {
+                "w": "pensée",
+                "i": 1703
+            },
+            {
+                "w": "coup",
+                "i": 1880
+            },
+            {
+                "w": "rire",
+                "i": 1888
+            },
+            {
+                "w": "théorie",
+                "i": 1898
+            },
+            {
+                "w": "aphorisme",
+                "i": 1911
+            },
+            {
+                "w": "femme",
+                "i": 1921
+            },
+            {
+                "w": "manière",
+                "i": 2203
+            }
+        ]
+    },
+    {
+        "id": 1,
+        "count": {
+            "occurrence": 49,
+            "mention_ratio": 0.2438
+        },
+        "gender": {
+            "ratio": 0.6327,
+            "inference": {
+                "Male": 0.0,
+                "Female": 1.0
+            },
+            "max": 1.0,
+            "argmax": "Female"
+        },
+        "number": {
+            "ratio": 0.9796,
+            "inference": {
+                "Singular": 1.0,
+                "Plural": 0.0
+            },
+            "max": 1.0,
+            "argmax": "Singular"
+        },
+        "mentions": {
+            "proper": [
+                {
+                    "n": "la thénardier",
+                    "c": 4
+                },
+                {
+                    "n": "madame thénardier",
+                    "c": 1
+                },
+                {
+                    "n": "cette thénardier",
+                    "c": 1
+                }
+            ],
+            "common": [
+                {
+                    "n": "la femme",
+                    "c": 4
+                },
+                {
+                    "n": "cette femme",
+                    "c": 3
+                },
+                {
+                    "n": "la maîtresse",
+                    "c": 1
+                },
+                {
+                    "n": "ce despote frêle",
+                    "c": 1
+                },
+                {
+                    "n": "une créature formidable",
+                    "c": 1
+                },
+                {
+                    "n": "sa femme",
+                    "c": 1
+                }
+            ],
+            "pronoun": [
+                {
+                    "n": "elle",
+                    "c": 19
+                },
+                {
+                    "n": "sa",
+                    "c": 4
+                },
+                {
+                    "n": "son",
+                    "c": 4
+                },
+                {
+                    "n": "ses",
+                    "c": 2
+                },
+                {
+                    "n": "-elle",
+                    "c": 1
+                },
+                {
+                    "n": "qui",
+                    "c": 1
+                },
+                {
+                    "n": "lui",
+                    "c": 1
+                }
+            ]
+        },
+        "agent": [
+            {
+                "w": "toucher",
+                "i": 51
+            },
+            {
+                "w": "tenir",
+                "i": 115
+            },
+            {
+                "w": "faire",
+                "i": 144
+            },
+            {
+                "w": "avoir",
+                "i": 173
+            },
+            {
+                "w": "avoir",
+                "i": 223
+            },
+            {
+                "w": "jurer",
+                "i": 243
+            },
+            {
+                "w": "vanter",
+                "i": 249
+            },
+            {
+                "w": "lire",
+                "i": 266
+            },
+            {
+                "w": "reparaître",
+                "i": 276
+            },
+            {
+                "w": "faire",
+                "i": 1362
+            },
+            {
+                "w": "rendre",
+                "i": 1406
+            },
+            {
+                "w": "avoir",
+                "i": 1419
+            },
+            {
+                "w": "donner",
+                "i": 1455
+            },
+            {
+                "w": "commettre",
+                "i": 1472
+            },
+            {
+                "w": "voir",
+                "i": 1622
+            },
+            {
+                "w": "sentir",
+                "i": 1635
+            },
+            {
+                "w": "aimer",
+                "i": 1648
+            },
+            {
+                "w": "craindre",
+                "i": 1654
+            },
+            {
+                "w": "penser",
+                "i": 2136
+            },
+            {
+                "w": "avoir",
+                "i": 2143
+            },
+            {
+                "w": "vivre",
+                "i": 2152
+            }
+        ],
+        "patient": [
+            {
+                "w": "voir",
+                "i": 1328
+            }
+        ],
+        "mod": [
+            {
+                "w": "grand",
+                "i": 97
+            },
+            {
+                "w": "blond",
+                "i": 99
+            },
+            {
+                "w": "rouge",
+                "i": 101
+            },
+            {
+                "w": "gras",
+                "i": 103
+            },
+            {
+                "w": "charnu",
+                "i": 105
+            },
+            {
+                "w": "carré",
+                "i": 107
+            },
+            {
+                "w": "énorme",
+                "i": 109
+            },
+            {
+                "w": "agile",
+                "i": 111
+            },
+            {
+                "w": "maîtresse",
+                "i": 1348
+            },
+            {
+                "w": "dissentiment",
+                "i": 1435
+            },
+            {
+                "w": "frêle",
+                "i": 1546
+            },
+            {
+                "w": "créature",
+                "i": 1644
+            },
+            {
+                "w": "formidable",
+                "i": 1645
+            },
+            {
+                "w": "mère",
+                "i": 1661
+            },
+            {
+                "w": "mammifère",
+                "i": 1666
+            }
+        ],
+        "poss": [
+            {
+                "w": "cinquantaine",
+                "i": 59
+            },
+            {
+                "w": "apparition",
+                "i": 89
+            },
+            {
+                "w": "souvenir",
+                "i": 93
+            },
+            {
+                "w": "souris",
+                "i": 181
+            },
+            {
+                "w": "voix",
+                "i": 194
+            },
+            {
+                "w": "visage",
+                "i": 207
+            },
+            {
+                "w": "barbe",
+                "i": 226
+            },
+            {
+                "w": "vertu",
+                "i": 1421
+            },
+            {
+                "w": "façon",
+                "i": 1424
+            },
+            {
+                "w": "mari",
+                "i": 1460
+            },
+            {
+                "w": "soumission",
+                "i": 1522
+            },
+            {
+                "w": "mari",
+                "i": 1528
+            },
+            {
+                "w": "doigt",
+                "i": 1542
+            },
+            {
+                "w": "enfant",
+                "i": 1651
+            },
+            {
+                "w": "mari",
+                "i": 1657
+            },
+            {
+                "w": "maternité",
+                "i": 1672
+            },
+            {
+                "w": "fille",
+                "i": 1677
+            },
+            {
+                "w": "esprit",
+                "i": 1918
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "count": {
+            "occurrence": 7,
+            "mention_ratio": 0.0348
+        },
+        "gender": {
+            "ratio": 0,
+            "inference": {
+                "Male": 0,
+                "Female": 0
+            },
+            "max": 0,
+            "argmax": "Null"
+        },
+        "number": {
+            "ratio": 0.8571,
+            "inference": {
+                "Singular": 0.0,
+                "Plural": 1.0
+            },
+            "max": 1.0,
+            "argmax": "Plural"
+        },
+        "mentions": {
+            "proper": [],
+            "common": [
+                {
+                    "n": "cet homme et cette femme",
+                    "c": 1
+                },
+                {
+                    "n": "ces deux êtres",
+                    "c": 1
+                },
+                {
+                    "n": "l’ homme et la femme",
+                    "c": 1
+                }
+            ],
+            "pronoun": [
+                {
+                    "n": "leur",
+                    "c": 2
+                },
+                {
+                    "n": "eux",
+                    "c": 1
+                },
+                {
+                    "n": "chacun",
+                    "c": 1
+                }
+            ]
+        },
+        "agent": [
+            {
+                "w": "avoir",
+                "i": 2200
+            }
+        ],
+        "patient": [
+            {
+                "w": "avoir",
+                "i": 2200
+            }
+        ],
+        "mod": [
+            {
+                "w": "tel",
+                "i": 2161
+            }
+        ],
+        "poss": [
+            {
+                "w": "accord",
+                "i": 1505
+            },
+            {
+                "w": "pression",
+                "i": 2175
+            },
+            {
+                "w": "manière",
+                "i": 2203
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "count": {
+            "occurrence": 5,
+            "mention_ratio": 0.0249
+        },
+        "gender": {
+            "ratio": 0.6,
+            "inference": {
+                "Male": 0.0,
+                "Female": 1.0
+            },
+            "max": 1.0,
+            "argmax": "Female"
+        },
+        "number": {
+            "ratio": 1.0,
+            "inference": {
+                "Singular": 1.0,
+                "Plural": 0.0
+            },
+            "max": 1.0,
+            "argmax": "Singular"
+        },
+        "mentions": {
+            "proper": [
+                {
+                    "n": "cette thénardier",
+                    "c": 1
+                }
+            ],
+            "common": [],
+            "pronoun": [
+                {
+                    "n": "la",
+                    "c": 2
+                },
+                {
+                    "n": "l’",
+                    "c": 1
+                },
+                {
+                    "n": "lui",
+                    "c": 1
+                }
+            ]
+        },
+        "agent": [],
+        "patient": [
+            {
+                "w": "entendre",
+                "i": 321
+            },
+            {
+                "w": "regarder",
+                "i": 336
+            },
+            {
+                "w": "voir",
+                "i": 351
+            }
+        ],
+        "mod": [
+            {
+                "w": "produit",
+                "i": 307
+            }
+        ],
+        "poss": []
+    },
+    {
+        "id": 4,
+        "count": {
+            "occurrence": 5,
+            "mention_ratio": 0.0249
+        },
+        "gender": {
+            "ratio": 0.8,
+            "inference": {
+                "Male": 0.0,
+                "Female": 1.0
+            },
+            "max": 1.0,
+            "argmax": "Female"
+        },
+        "number": {
+            "ratio": 1.0,
+            "inference": {
+                "Singular": 1.0,
+                "Plural": 0.0
+            },
+            "max": 1.0,
+            "argmax": "Singular"
+        },
+        "mentions": {
+            "proper": [],
+            "common": [
+                {
+                    "n": "sa femme",
+                    "c": 2
+                },
+                {
+                    "n": "femme",
+                    "c": 1
+                },
+                {
+                    "n": "cette géante",
+                    "c": 1
+                }
+            ],
+            "pronoun": [
+                {
+                    "n": "lui",
+                    "c": 1
+                }
+            ]
+        },
+        "agent": [
+            {
+                "w": "avoir",
+                "i": 1059
+            }
+        ],
+        "patient": [],
+        "mod": [
+            {
+                "w": "jaloux",
+                "i": 1065
+            }
+        ],
+        "poss": []
+    },
+    {
+        "id": 5,
+        "count": {
+            "occurrence": 3,
+            "mention_ratio": 0.0149
+        },
+        "gender": {
+            "ratio": 0.6667,
+            "inference": {
+                "Male": 0.0,
+                "Female": 1.0
+            },
+            "max": 1.0,
+            "argmax": "Female"
+        },
+        "number": {
+            "ratio": 0.6667,
+            "inference": {
+                "Singular": 1.0,
+                "Plural": 0.0
+            },
+            "max": 1.0,
+            "argmax": "Singular"
+        },
+        "mentions": {
+            "proper": [
+                {
+                    "n": "cosette",
+                    "c": 1
+                }
+            ],
+            "common": [
+                {
+                    "n": "cosette",
+                    "c": 1
+                },
+                {
+                    "n": "la pauvre enfant",
+                    "c": 1
+                }
+            ],
+            "pronoun": []
+        },
+        "agent": [
+            {
+                "w": "monter",
+                "i": 2233
+            },
+            {
+                "w": "descendre",
+                "i": 2235
+            },
+            {
+                "w": "laver",
+                "i": 2237
+            },
+            {
+                "w": "brosser",
+                "i": 2239
+            },
+            {
+                "w": "frotter",
+                "i": 2241
+            },
+            {
+                "w": "balayer",
+                "i": 2243
+            },
+            {
+                "w": "courir",
+                "i": 2245
+            },
+            {
+                "w": "trimer",
+                "i": 2247
+            },
+            {
+                "w": "haleter",
+                "i": 2249
+            },
+            {
+                "w": "remuer",
+                "i": 2251
+            },
+            {
+                "w": "faire",
+                "i": 2261
+            },
+            {
+                "w": "taire",
+                "i": 2325
+            }
+        ],
+        "patient": [],
+        "mod": [
+            {
+                "w": "pauvre",
+                "i": 2319
+            },
+            {
+                "w": "passif",
+                "i": 2322
+            }
+        ],
+        "poss": []
+    },
+    {
+        "id": 6,
+        "count": {
+            "occurrence": 2,
+            "mention_ratio": 0.01
+        },
+        "gender": {
+            "ratio": 0,
+            "inference": {
+                "Male": 0,
+                "Female": 0
+            },
+            "max": 0,
+            "argmax": "Null"
+        },
+        "number": {
+            "ratio": 1.0,
+            "inference": {
+                "Singular": 0.0,
+                "Plural": 1.0
+            },
+            "max": 1.0,
+            "argmax": "Plural"
+        },
+        "mentions": {
+            "proper": [],
+            "common": [],
+            "pronoun": [
+                {
+                    "n": "nous",
+                    "c": 2
+                }
+            ]
+        },
+        "agent": [
+            {
+                "w": "croire",
+                "i": 704
+            },
+            {
+                "w": "avoir",
+                "i": 821
+            }
+        ],
+        "patient": [],
+        "mod": [],
+        "poss": []
+    },
+    {
+        "id": 7,
+        "count": {
+            "occurrence": 2,
+            "mention_ratio": 0.01
+        },
+        "gender": {
+            "ratio": 1.0,
+            "inference": {
+                "Male": 0.0,
+                "Female": 1.0
+            },
+            "max": 1.0,
+            "argmax": "Female"
+        },
+        "number": {
+            "ratio": 1.0,
+            "inference": {
+                "Singular": 1.0,
+                "Plural": 0.0
+            },
+            "max": 1.0,
+            "argmax": "Singular"
+        },
+        "mentions": {
+            "proper": [
+                {
+                    "n": "cosette",
+                    "c": 1
+                }
+            ],
+            "common": [],
+            "pronoun": [
+                {
+                    "n": "elle",
+                    "c": 1
+                }
+            ]
+        },
+        "agent": [
+            {
+                "w": "aller",
+                "i": 2221
+            }
+        ],
+        "patient": [],
+        "mod": [],
+        "poss": []
+    }
+]

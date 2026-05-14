@@ -1,0 +1,376 @@
+[
+    {
+        "id": 0,
+        "count": {
+            "occurrence": 18,
+            "mention_ratio": 0.3
+        },
+        "gender": {
+            "ratio": 0.6111,
+            "inference": {
+                "Male": 1.0,
+                "Female": 0.0
+            },
+            "max": 1.0,
+            "argmax": "Male"
+        },
+        "number": {
+            "ratio": 0.8889,
+            "inference": {
+                "Singular": 1.0,
+                "Plural": 0.0
+            },
+            "max": 1.0,
+            "argmax": "Singular"
+        },
+        "mentions": {
+            "proper": [
+                {
+                    "n": "napoléon",
+                    "c": 1
+                }
+            ],
+            "common": [
+                {
+                    "n": "ce prodigieux capitaine",
+                    "c": 1
+                },
+                {
+                    "n": "l’ homme",
+                    "c": 1
+                },
+                {
+                    "n": "ce sombre athlète du pugilat de la guerre",
+                    "c": 1
+                }
+            ],
+            "pronoun": [
+                {
+                    "n": "il",
+                    "c": 8
+                },
+                {
+                    "n": "lui",
+                    "c": 2
+                },
+                {
+                    "n": "qui",
+                    "c": 1
+                },
+                {
+                    "n": "ses",
+                    "c": 1
+                },
+                {
+                    "n": "sa",
+                    "c": 1
+                },
+                {
+                    "n": "son",
+                    "c": 1
+                }
+            ]
+        },
+        "agent": [
+            {
+                "w": "ressentir",
+                "i": 189
+            },
+            {
+                "w": "dire",
+                "i": 212
+            },
+            {
+                "w": "traiter",
+                "i": 253
+            },
+            {
+                "w": "battre",
+                "i": 266
+            },
+            {
+                "w": "accabler",
+                "i": 271
+            },
+            {
+                "w": "nouer",
+                "i": 280
+            },
+            {
+                "w": "dénouer",
+                "i": 282
+            },
+            {
+                "w": "confier",
+                "i": 332
+            },
+            {
+                "w": "compter",
+                "i": 369
+            },
+            {
+                "w": "avoir",
+                "i": 378
+            }
+        ],
+        "patient": [
+            {
+                "w": "faire",
+                "i": 349
+            }
+        ],
+        "mod": [
+            {
+                "w": "officier",
+                "i": 181
+            },
+            {
+                "w": "prodigieux",
+                "i": 195
+            },
+            {
+                "w": "sombre",
+                "i": 355
+            }
+        ],
+        "poss": [
+            {
+                "w": "fond",
+                "i": 192
+            },
+            {
+                "w": "plan",
+                "i": 226
+            },
+            {
+                "w": "clef",
+                "i": 248
+            },
+            {
+                "w": "génie",
+                "i": 296
+            },
+            {
+                "w": "nombre",
+                "i": 382
+            }
+        ]
+    },
+    {
+        "id": 1,
+        "count": {
+            "occurrence": 11,
+            "mention_ratio": 0.1833
+        },
+        "gender": {
+            "ratio": 0.5455,
+            "inference": {
+                "Male": 1.0,
+                "Female": 0.0
+            },
+            "max": 1.0,
+            "argmax": "Male"
+        },
+        "number": {
+            "ratio": 0.9091,
+            "inference": {
+                "Singular": 1.0,
+                "Plural": 0.0
+            },
+            "max": 1.0,
+            "argmax": "Singular"
+        },
+        "mentions": {
+            "proper": [
+                {
+                    "n": "napoléon",
+                    "c": 1
+                }
+            ],
+            "common": [],
+            "pronoun": [
+                {
+                    "n": "-il",
+                    "c": 5
+                },
+                {
+                    "n": "son",
+                    "c": 3
+                },
+                {
+                    "n": "lui",
+                    "c": 1
+                },
+                {
+                    "n": "qui",
+                    "c": 1
+                }
+            ]
+        },
+        "agent": [],
+        "patient": [],
+        "mod": [],
+        "poss": [
+            {
+                "w": "char",
+                "i": 721
+            },
+            {
+                "w": "attelage",
+                "i": 744
+            },
+            {
+                "w": "plan",
+                "i": 787
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "count": {
+            "occurrence": 11,
+            "mention_ratio": 0.1833
+        },
+        "gender": {
+            "ratio": 0,
+            "inference": {
+                "Male": 0,
+                "Female": 0
+            },
+            "max": 0,
+            "argmax": "Null"
+        },
+        "number": {
+            "ratio": 1.0,
+            "inference": {
+                "Singular": 0.0,
+                "Plural": 1.0
+            },
+            "max": 1.0,
+            "argmax": "Plural"
+        },
+        "mentions": {
+            "proper": [],
+            "common": [],
+            "pronoun": [
+                {
+                    "n": "nous",
+                    "c": 10
+                },
+                {
+                    "n": "notre",
+                    "c": 1
+                }
+            ]
+        },
+        "agent": [
+            {
+                "w": "penser",
+                "i": 783
+            },
+            {
+                "w": "prétendre",
+                "i": 889
+            },
+            {
+                "w": "raconter",
+                "i": 907
+            },
+            {
+                "w": "laisser",
+                "i": 965
+            },
+            {
+                "w": "avoir",
+                "i": 1008
+            },
+            {
+                "w": "avoir",
+                "i": 1038
+            },
+            {
+                "w": "juger",
+                "i": 1081
+            }
+        ],
+        "patient": [],
+        "mod": [],
+        "poss": [
+            {
+                "w": "sujet",
+                "i": 922
+            },
+            {
+                "w": "droit",
+                "i": 1011
+            },
+            {
+                "w": "pratique",
+                "i": 1041
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "count": {
+            "occurrence": 7,
+            "mention_ratio": 0.1167
+        },
+        "gender": {
+            "ratio": 0.8571,
+            "inference": {
+                "Male": 1.0,
+                "Female": 0.0
+            },
+            "max": 1.0,
+            "argmax": "Male"
+        },
+        "number": {
+            "ratio": 1.0,
+            "inference": {
+                "Singular": 1.0,
+                "Plural": 0.0
+            },
+            "max": 1.0,
+            "argmax": "Singular"
+        },
+        "mentions": {
+            "proper": [
+                {
+                    "n": "napoléon",
+                    "c": 1
+                }
+            ],
+            "common": [
+                {
+                    "n": "ce mystérieux accusé",
+                    "c": 1
+                }
+            ],
+            "pronoun": [
+                {
+                    "n": "-il",
+                    "c": 4
+                },
+                {
+                    "n": "son",
+                    "c": 1
+                }
+            ]
+        },
+        "agent": [],
+        "patient": [],
+        "mod": [
+            {
+                "w": "mystérieux",
+                "i": 1077
+            }
+        ],
+        "poss": [
+            {
+                "w": "déclin",
+                "i": 471
+            }
+        ]
+    }
+]

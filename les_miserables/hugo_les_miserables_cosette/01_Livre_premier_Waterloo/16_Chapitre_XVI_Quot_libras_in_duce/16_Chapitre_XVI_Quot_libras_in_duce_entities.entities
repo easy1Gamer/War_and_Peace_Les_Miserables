@@ -1,0 +1,183 @@
+start_token	end_token	cat	confidence	text	mention_len	paragraph_ID	sentence_ID	start_token_ID_within_sentence	out_to_in_nested_level	in_to_out_nested_level	nested_entities_count	temp_index	head_id	head_word	head_dependency_relation	head_syntactic_head_ID	POS_tag	prop	number	gender	grammatical_person	COREF
+12	15	TIME	0.590625450015068	la bataille de waterloo	4	1	2	0	0	1	1	0	13	bataille	nsubj	18	NOUN	PROP	Not_Assigned	Not_Assigned	3	
+15	15	GPE	0.8980437517166138	waterloo	1	1	2	3	1	0	0	1	15	waterloo	nmod	13	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+39	39	GPE	0.5236479043960571	napoléon	1	1	4	1	0	0	0	2	39	napoléon	obl:mod	44	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+49	49	PER	0.6273600459098816	blücher	1	1	5	0	0	0	0	3	49	blücher	nsubj	52	PROPN	PROP	Singular	Not_Assigned	3	16
+58	58	PER	0.909540057182312	wellington	1	1	5	9	0	0	0	4	58	wellington	nsubj	61	PROPN	PROP	Singular	Not_Assigned	3	17
+78	80	PER	0.5026386082172394	ceux - ci	3	1	8	0	0	0	0	5	78	ceux	nsubj	81	PRON	PRON	Plural	Ambiguous	3	18
+87	87	PER	0.8137425184249878	jomini	1	1	9	0	0	0	0	6	87	jomini	nsubj	88	PROPN	PROP	Singular	Not_Assigned	3	4
+89	92	TIME	0.656056821346283	la bataille de waterloo	4	1	9	2	0	1	1	7	90	bataille	obj	88	NOUN	PROP	Not_Assigned	Not_Assigned	3	
+92	92	GPE	0.858039379119873	waterloo	1	1	9	5	1	0	0	8	92	waterloo	nmod	90	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+112	112	PER	0.985671877861023	nous	1	1	9	25	0	0	0	9	112	nous	nsubj	113	PRON	PRON	Plural	Ambiguous	1	19
+118	118	PER	0.9973558187484741	lui	1	1	9	31	0	0	0	10	118	lui	dep	116	PRON	PRON	Singular	Ambiguous	3	4
+124	124	PER	0.968491792678833	son	1	1	9	37	0	0	0	11	124	son	det	126	DET	PRON	Singular	Ambiguous	3	4
+145	148	PER	0.6346492171287537	tous les autres historiens	4	1	10	0	0	0	0	12	148	historiens	nsubj	149	NOUN	NOM	Plural	Not_Assigned	3	20
+215	215	GPE	0.9186466336250305	waterloo	1	3	13	1	0	0	0	13	215	waterloo	obj	214	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+217	220	PER	0.7693819552659988	wellington et à blücher	4	3	13	3	0	1	2	14	220	blücher	conj	217	PROPN	PROP	Plural	Not_Assigned	3	21
+217	217	PER	0.9110468626022339	wellington	1	3	13	3	1	0	0	15	217	wellington	obl:arg	214	PROPN	PROP	Singular	Not_Assigned	3	22
+220	220	PER	0.6586897373199463	blücher	1	3	13	6	1	0	0	16	220	blücher	conj	217	PROPN	PROP	Singular	Not_Assigned	3	23
+228	229	GPE	0.6884022355079651	l’ angleterre	2	3	13	14	0	0	0	17	229	angleterre	obl:arg	224	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+232	233	GPE	0.8845596015453339	l’ allemagne	2	3	13	18	0	0	0	18	233	allemagne	conj	229	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+239	241	PER	0.2548117438952128	cette illustre angleterre	3	3	15	1	0	0	0	19	241	angleterre	nsubj	249	PROPN	PROP	Singular	Female	3	24
+243	245	GPE	0.5112680941820145	cette auguste allemagne	3	3	15	5	0	0	0	20	245	allemagne	conj	241	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+254	254	GPE	0.9447551965713501	waterloo	1	3	15	16	0	0	0	21	254	waterloo	nmod	252	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+274	275	GPE	0.806306004524231	l’ allemagne	2	3	17	1	0	0	0	22	275	allemagne	nsubj	286	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+278	279	GPE	0.6110406219959259	l’ angleterre	2	3	17	5	0	0	0	23	279	angleterre	conj	275	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+282	283	GPE	0.874605804681778	la france	2	3	17	9	0	0	0	24	283	france	conj	275	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+292	293	TIME	0.5798280984163284	cette époque	2	3	18	1	0	0	0	25	293	époque	obl:mod	309	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+294	294	TIME	0.6376565098762512	où	1	3	18	3	0	0	0	26	294	où	iobj	300	PRON	PRON	Not_Assigned	Not_Assigned	3	
+295	295	GPE	0.7590780258178711	waterloo	1	3	18	4	0	0	0	27	295	waterloo	nsubj	300	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+307	308	GPE	0.6924004852771759	l’ allemagne	2	3	18	16	0	0	0	28	308	allemagne	nsubj	309	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+314	314	PER	0.3623926639556885	wellington	1	3	18	23	0	0	0	29	314	wellington	dep	312	PROPN	PROP	Singular	Not_Assigned	3	25
+315	316	GPE	0.49091944098472595	l’ angleterre	2	3	18	24	0	0	0	30	316	angleterre	nsubj	317	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+335	336	GPE	0.5495970398187637	l’ angleterre	2	3	19	15	0	0	0	31	336	angleterre	nsubj	340	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+338	339	GPE	0.884907454252243	l’ allemagne	2	3	19	18	0	0	0	32	339	allemagne	conj	336	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+388	390	TIME	0.4971230129400889	au dix-neuvième siècle	3	3	22	6	0	0	0	33	390	siècle	nmod	382	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+394	394	GPE	0.8023346662521362	waterloo	1	3	22	12	0	0	0	34	394	waterloo	obj	392	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+432	436	TIME	0.6573860287666321	au temps où nous sommes	5	3	25	5	0	0	0	35	433	temps	nmod	428	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+548	548	GPE	0.9329831004142761	waterloo	1	3	32	3	0	0	0	36	548	waterloo	obl:arg	545	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+575	575	GPE	0.9408722519874573	waterloo	1	3	34	4	0	0	0	37	575	waterloo	dep	571	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+590	591	GPE	0.832977294921875	l’ europe	2	4	38	3	0	0	0	38	591	europe	obl:agent	588	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+595	596	GPE	0.8193424642086029	la france	2	4	38	8	0	0	0	39	596	france	obl:agent	593	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+611	611	GPE	0.9054083228111267	waterloo	1	6	40	0	0	0	0	40	611	waterloo	nsubj	618	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+625	627	PER	0.6891753077507019	napoléon et wellington	3	6	41	0	0	1	2	41	625	napoléon	ROOT	625	PROPN	PROP	Plural	Not_Assigned	3	26
+625	625	PER	0.4908984303474426	napoléon	1	6	41	0	1	0	0	42	625	napoléon	ROOT	625	PROPN	PROP	Singular	Male	3	27
+627	627	PER	0.6219977140426636	wellington	1	6	41	2	1	0	0	43	627	wellington	conj	625	PROPN	PROP	Singular	Not_Assigned	3	28
+801	802	LOC	0.8628919422626495	le fleuve	2	6	44	138	0	0	0	44	802	fleuve	conj	796	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+804	805	LOC	0.7299192249774933	la plaine	2	6	44	141	0	0	0	45	805	plaine	conj	796	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+807	808	LOC	0.8582446575164795	la forêt	2	6	44	144	0	0	0	46	808	forêt	conj	796	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+810	811	LOC	0.708698570728302	la colline	2	6	44	147	0	0	0	47	811	colline	conj	796	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+828	831	LOC	0.6419527232646942	le champ de bataille	4	6	44	165	0	0	0	48	829	champ	obj	827	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+851	851	PER	0.863513171672821	wellington	1	6	45	0	0	0	0	49	851	wellington	nsubj	854	PROPN	PROP	Singular	Not_Assigned	3	10
+878	880	PER	0.6156196196873983	des deux côtés	3	7	46	0	0	0	0	50	880	côtés	obl:mod	882	NOUN	NOM	Plural	Not_Assigned	3	29
+894	894	PER	0.6857362985610962	napoléon	1	7	48	0	0	0	0	51	894	napoléon	nsubj	895	PROPN	PROP	Singular	Male	3	30
+896	896	PER	0.9819371104240417	grouchy	1	7	48	2	0	0	0	52	896	grouchy	obj	895	PROPN	PROP	Singular	Not_Assigned	3	31
+899	899	PER	0.9711742401123047	il	1	7	48	5	0	0	0	53	899	il	nsubj	901	PRON	PRON	Singular	Male	3	10
+904	904	PER	0.8303567171096802	wellington	1	7	49	0	0	0	0	54	904	wellington	nsubj	905	PROPN	PROP	Singular	Not_Assigned	3	5
+906	906	PER	0.6617268323898315	blücher	1	7	49	2	0	0	0	55	906	blücher	obj	905	PROPN	PROP	Singular	Not_Assigned	3	32
+909	909	PER	0.9893262386322021	il	1	7	49	5	0	0	0	56	909	il	nsubj	910	PRON	PRON	Singular	Male	3	5
+912	912	PER	0.8597284555435181	wellington	1	8	50	0	0	0	0	57	912	wellington	dep	917	PROPN	PROP	Singular	Not_Assigned	3	0
+924	924	PER	0.45229843258857727	bonaparte	1	8	51	0	0	0	0	58	924	bonaparte	nsubj	932	PROPN	PROP	Singular	Male	3	6
+926	928	TIME	0.6395201881726583	à son aurore	3	8	51	2	0	0	0	59	928	aurore	obl:mod	932	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+934	934	GPE	0.9462795257568359	italie	1	8	51	10	0	0	0	60	934	italie	obl:mod	932	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+946	948	PER	0.5947337746620178	le jeune vautour	3	8	52	6	0	0	0	61	948	vautour	obl:arg	944	NOUN	NOM	Singular	Not_Assigned	3	0
+966	970	PER	0.7626645803451538	ce corse de vingt-six ans	5	8	54	4	0	0	0	62	967	corse	dep	962	PROPN	PROP	Singular	Male	3	0
+974	976	PER	0.7510724067687988	cet ignorant splendide	3	8	54	12	0	0	0	63	975	ignorant	nsubj	962	NOUN	NOM	Singular	Not_Assigned	3	0
+977	977	PER	0.8363983035087585	qui	1	8	54	15	0	0	0	64	977	qui	nsubj	979	PRON	PRON	Ambiguous	Ambiguous	4	0
+982	982	PER	0.7167817950248718	lui	1	8	54	20	0	0	0	65	982	lui	obl:arg	979	PRON	PRON	Singular	Ambiguous	3	0
+1016	1017	GPE	0.771196573972702	l’ europe	2	8	54	54	0	0	0	66	1017	europe	nmod	1015	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+1033	1035	PER	0.8985722064971924	ce forcené foudroyant	3	8	55	3	0	0	0	67	1034	forcené	ROOT	1034	NOUN	NOM	Singular	Not_Assigned	3	0
+1036	1036	PER	0.9655922651290894	qui	1	8	55	6	0	0	0	68	1036	qui	ROOT	1036	PRON	PRON	Ambiguous	Ambiguous	4	0
+1067	1067	GPE	0.4958288371562958	allemagne	1	8	55	37	0	0	0	69	1067	allemagne	nmod	1065	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+1070	1070	PER	0.4860518276691437	beaulieu	1	8	55	40	0	0	0	70	1070	beaulieu	obj	1069	PROPN	PROP	Singular	Not_Assigned	3	33
+1074	1074	PER	0.8474000692367554	wurmser	1	8	55	44	0	0	0	71	1074	wurmser	conj	1062	PROPN	PROP	Singular	Not_Assigned	3	5
+1076	1076	PER	0.736406683921814	beaulieu	1	8	55	46	0	0	0	72	1076	beaulieu	nmod	1074	PROPN	PROP	Singular	Not_Assigned	3	34
+1080	1080	PER	0.8609529137611389	wurmser	1	8	55	50	0	0	0	73	1080	wurmser	nmod	1078	PROPN	PROP	Singular	Not_Assigned	3	35
+1082	1082	PER	0.6589940190315247	mack	1	8	55	52	0	0	0	74	1082	mack	conj	1062	PROPN	PROP	Singular	Male	3	36
+1091	1096	PER	0.7645075619220734	ce nouveau venu de la guerre	6	8	56	4	0	0	0	75	1093	venu	dep	1087	NOUN	NOM	Not_Assigned	Not_Assigned	3	0
+1109	1109	PER	0.7284273505210876	l’	1	8	57	4	0	0	0	76	1109	l'	obj	1110	PRON	PRON	Singular	Ambiguous	3	0
+1143	1146	TIME	0.7663085907697678	le 18 juin 1815	4	8	59	0	0	0	0	77	1144	18	obl:mod	1150	NUM	NOM	Not_Assigned	Not_Assigned	3	
+1160	1160	GPE	0.9304871559143066	lodi	1	8	59	17	0	0	0	78	1160	lodi	nmod	1158	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+1163	1163	GPE	0.8768439292907715	montebello	1	8	59	20	0	0	0	79	1163	montebello	conj	1160	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+1166	1166	GPE	0.9096159338951111	montenotte	1	8	59	23	0	0	0	80	1166	montenotte	conj	1160	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+1169	1169	GPE	0.9141935706138611	mantoue	1	8	59	26	0	0	0	81	1169	mantoue	conj	1160	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+1172	1172	GPE	0.9563236236572266	marengo	1	8	59	29	0	0	0	82	1172	marengo	conj	1160	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+1175	1175	GPE	0.9088405966758728	arcole	1	8	59	32	0	0	0	83	1175	arcole	conj	1160	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+1181	1181	GPE	0.9526416659355164	waterloo	1	8	59	38	0	0	0	84	1181	waterloo	xcomp	1179	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+1198	1200	TIME	0.5039480080207189	à son déclin	3	8	62	0	0	1	1	85	1200	déclin	obl:mod	1203	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+1199	1199	PER	0.9113859534263611	son	1	8	62	1	1	0	0	86	1199	son	det	1200	DET	PRON	Singular	Ambiguous	3	6
+1202	1202	PER	0.6040506362915039	napoléon	1	8	62	4	0	0	0	87	1202	napoléon	nsubj	1203	PROPN	PROP	Singular	Male	3	37
+1205	1205	PER	0.8495608568191528	lui	1	8	62	7	0	0	0	88	1205	lui	obl:arg	1203	PRON	PRON	Singular	Ambiguous	3	6
+1206	1206	PER	0.4230024516582489	wurmser	1	8	62	8	0	0	0	89	1206	wurmser	obj	1203	PROPN	PROP	Singular	Not_Assigned	3	11
+1211	1211	PER	0.9802324771881104	wurmser	1	9	63	2	0	0	0	90	1211	wurmser	xcomp	1210	VERB	NOM	Not_Assigned	Not_Assigned	3	11
+1222	1222	PER	0.9896162748336792	wellington	1	9	63	13	0	0	0	91	1222	wellington	nmod	1220	PROPN	PROP	Singular	Not_Assigned	3	38
+1224	1224	GPE	0.9282734990119934	waterloo	1	10	64	0	0	0	0	92	1224	waterloo	nsubj	1227	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+1247	1247	GPE	0.8853045105934143	waterloo	1	11	65	9	0	0	0	93	1247	waterloo	nmod	1245	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+1251	1252	GPE	0.6157514452934265	l’ angleterre	2	11	65	13	0	0	0	94	1252	angleterre	ROOT	1252	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+1275	1276	GPE	0.6086899936199188	l’ angleterre	2	11	65	37	0	0	0	95	1276	angleterre	nsubj	1278	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+1284	1284	PER	0.688852846622467	lui	1	11	65	46	0	0	0	96	1284	lui	iobj	1286	PRON	PRON	Singular	Ambiguous	3	3
+1296	1297	PER	0.8173901736736298	son capitaine	2	11	66	4	0	1	1	97	1297	capitaine	ROOT	1297	NOUN	NOM	Singular	Male	3	0
+1296	1296	PER	0.8323965072631836	son	1	11	66	4	1	0	0	98	1296	son	det	1297	DET	PRON	Singular	Ambiguous	3	3
+1304	1304	PER	0.9846811294555664	wellington	1	12	67	0	0	0	0	99	1304	wellington	nsubj	1309	PROPN	PROP	Singular	Not_Assigned	3	12
+1314	1315	PER	0.8881987631320953	lord bathurst	2	12	67	10	0	0	0	100	1314	lord	nmod	1312	NOUN	PROP	Singular	Male	3	13
+1317	1317	PER	0.9529363512992859	son	1	12	67	13	0	0	0	101	1317	son	det	1318	DET	PRON	Singular	Ambiguous	3	12
+1325	1328	TIME	0.7098287492990494	le 18 juin 1815	4	12	67	21	0	0	0	102	1326	18	obl:mod	1324	NUM	NOM	Not_Assigned	Not_Assigned	3	
+1352	1352	GPE	0.9523349404335022	waterloo	1	12	67	48	0	0	0	103	1352	waterloo	nmod	1350	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+1355	1356	GPE	0.5423092544078827	l’ angleterre	2	13	68	0	0	0	0	104	1356	angleterre	nsubj	1360	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+1363	1363	PER	0.903739333152771	wellington	1	13	68	8	0	0	0	105	1363	wellington	dep	1361	PROPN	PROP	Singular	Not_Assigned	3	39
+1373	1374	GPE	0.6340610682964325	l’ angleterre	2	13	69	8	0	0	0	106	1374	angleterre	obj	1372	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+1377	1377	PER	0.9653752446174622	wellington	1	13	70	0	0	0	0	107	1377	wellington	nsubj	1382	PROPN	PROP	Singular	Not_Assigned	3	40
+1387	1389	PER	0.4117366373538971	ces écossais gris	3	13	71	0	0	0	0	108	1388	écossais	nsubj	1456	NOUN	NOM	Plural	Not_Assigned	3	14
+1391	1394	PER	0.651992067694664	ces horse - guards	4	13	71	4	0	0	0	109	1392	horse	conj	1388	NOUN	NOM	Plural	Not_Assigned	3	14
+1402	1402	PER	0.5188245177268982	mitchell	1	13	71	15	0	0	0	110	1402	mitchell	conj	1399	PROPN	PROP	Singular	Male	3	41
+1462	1462	PER	0.9518158435821533	wellington	1	13	72	0	0	0	0	111	1462	wellington	nsubj	1465	PROPN	PROP	Singular	Not_Assigned	3	1
+1470	1470	PER	0.951968252658844	son	1	13	72	8	0	0	0	112	1470	son	det	1471	DET	PRON	Singular	Ambiguous	3	1
+1474	1474	PER	0.9971449971199036	nous	1	13	72	12	0	0	0	113	1474	nous	nsubj	1478	PRON	PRON	Plural	Ambiguous	1	2
+1477	1477	PER	0.9807934761047363	lui	1	13	72	15	0	0	0	114	1477	lui	iobj	1478	PRON	PRON	Singular	Ambiguous	3	1
+1485	1486	PER	0.4407424330711365	ses fantassins	2	13	72	23	0	1	1	115	1486	fantassins	nmod	1483	NOUN	NOM	Plural	Not_Assigned	3	42
+1485	1485	PER	0.9471439719200134	ses	1	13	72	23	1	0	0	116	1485	ses	det	1486	DET	PRON	Singular	Ambiguous	3	1
+1489	1490	PER	0.7629022598266602	ses cavaliers	2	13	72	27	0	1	1	117	1490	cavaliers	conj	1486	NOUN	NOM	Plural	Ambiguous	3	43
+1489	1489	PER	0.9635200500488281	ses	1	13	72	27	1	0	0	118	1489	ses	det	1490	DET	PRON	Singular	Ambiguous	3	1
+1497	1497	PER	0.8466104865074158	lui	1	13	72	35	0	0	0	119	1497	lui	dep	1495	PRON	PRON	Singular	Ambiguous	3	1
+1514	1514	PER	0.9963764548301697	nous	1	13	74	2	0	0	0	120	1514	nous	obl:mod	1519	PRON	PRON	Plural	Ambiguous	1	2
+1517	1517	PER	0.991601288318634	notre	1	13	74	5	0	0	0	121	1517	notre	det	1518	DET	PRON	Plural	Ambiguous	1	2
+1542	1543	GPE	0.6762112677097321	l’ angleterre	2	13	75	9	0	0	0	122	1543	angleterre	ROOT	1543	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+1553	1553	GPE	0.9543337821960449	waterloo	1	13	76	3	0	0	0	123	1553	waterloo	nmod	1551	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+1579	1581	GPE	0.5629227757453918	cette grande angleterre	3	14	77	1	0	0	0	124	1581	angleterre	nsubj	1583	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+1587	1587	PER	0.9976879358291626	nous	1	14	77	9	0	0	0	125	1587	nous	nsubj	1588	PRON	PRON	Plural	Ambiguous	1	2
+1591	1591	PER	0.6526957154273987	elle	1	14	78	0	0	0	0	126	1591	elle	nsubj	1592	PRON	PRON	Singular	Female	3	3
+1595	1600	TIME	0.5492619226376215	après son 1688 et notre 1789	6	14	78	4	0	1	2	127	1597	1688	obl:mod	1592	NUM	NOM	Not_Assigned	Not_Assigned	3	
+1596	1596	PER	0.7574228644371033	son	1	14	78	5	1	0	0	128	1596	son	det	1597	DET	PRON	Singular	Ambiguous	3	3
+1599	1599	PER	0.7743639945983887	notre	1	14	78	8	1	0	0	129	1599	notre	det	1600	DET	PRON	Plural	Ambiguous	1	2
+1616	1617	PER	0.8902987241744995	ce peuple	2	14	80	0	0	0	0	130	1617	peuple	nsubj	1630	NOUN	NOM	Plural	Ambiguous	3	44
+1675	1678	TIME	0.5992370396852493	la bataille d’ inkermann	4	14	83	5	0	1	1	131	1676	bataille	obl:mod	1695	NOUN	PROP	Not_Assigned	Not_Assigned	3	
+1678	1678	GPE	0.6835967302322388	inkermann	1	14	83	8	1	0	0	132	1678	inkermann	nmod	1676	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+1679	1680	PER	0.6595820188522339	un sergent	2	14	83	9	0	0	0	133	1680	sergent	nmod	1676	NOUN	NOM	Singular	Male	3	0
+1681	1681	PER	0.8237425684928894	qui	1	14	83	11	0	0	0	134	1681	qui	nsubj	1690	PRON	PRON	Ambiguous	Ambiguous	4	0
+1699	1700	PER	0.8262231349945068	lord raglan	2	14	83	29	0	0	0	135	1699	lord	obl:agent	1697	NOUN	PROP	Singular	Male	3	13
+1725	1725	PER	0.995750904083252	nous	1	15	84	2	0	0	0	136	1725	nous	nsubj	1726	PRON	PRON	Plural	Ambiguous	1	2
+1740	1740	GPE	0.9385328888893127	waterloo	1	15	84	17	0	0	0	137	1740	waterloo	nmod	1738	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+1755	1755	GPE	0.886081337928772	hougomont	1	15	85	5	0	0	0	138	1755	hougomont	nmod	1753	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+1760	1760	GPE	0.8489618897438049	ohain	1	15	85	10	0	0	0	139	1760	ohain	nmod	1757	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+1762	1762	PER	0.961349606513977	grouchy	1	15	85	12	0	0	0	140	1762	grouchy	conj	1750	PROPN	PROP	Singular	Not_Assigned	3	7
+1769	1769	GPE	0.5700992345809937	napoléon	1	15	85	19	0	0	0	141	1769	napoléon	nmod	1767	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+1770	1770	PER	0.6768163442611694	qui	1	15	85	20	0	0	0	142	1770	qui	nsubj	1772	PRON	PRON	Ambiguous	Ambiguous	4	7
+1771	1771	PER	0.922982931137085	le	1	15	85	21	0	0	0	143	1771	le	obj	1772	PRON	PRON	Singular	Male	3	7
+1776	1776	PER	0.8234108090400696	bülow	1	15	85	26	0	0	0	144	1776	bülow	nmod	1774	PROPN	PROP	Singular	Not_Assigned	3	15
+1777	1777	PER	0.8188870549201965	qui	1	15	85	27	0	0	0	145	1777	qui	nsubj	1779	PRON	PRON	Ambiguous	Ambiguous	4	15
+1800	1800	GPE	0.9541078805923462	waterloo	1	16	86	11	0	0	0	146	1800	waterloo	obl:mod	1798	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+1808	1808	GPE	0.9486562609672546	waterloo	1	17	87	0	0	0	0	147	1808	waterloo	case	1813	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+1829	1829	GPE	0.5024945735931396	napoléon	1	17	88	0	0	0	0	148	1829	napoléon	ROOT	1829	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+1836	1836	PER	0.7625676393508911	wellington	1	17	88	7	0	0	0	149	1836	wellington	conj	1832	PROPN	PROP	Singular	Not_Assigned	3	45
+1842	1847	PER	0.5589957584937414	soixante-douze mille combattants de chaque côté	6	17	88	13	0	0	0	150	1844	combattants	ROOT	1844	NOUN	NOM	Plural	Not_Assigned	3	8
+1873	1873	GPE	0.9238221645355225	austerlitz	1	18	90	17	0	0	0	151	1873	austerlitz	nmod	1875	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+1882	1882	PER	0.5244531035423279	russes	1	18	90	26	0	0	0	152	1882	russes	ROOT	1882	NOUN	NOM	Not_Assigned	Ambiguous	3	9
+1888	1888	GPE	0.4723502993583679	autrichiens	1	18	90	32	0	0	0	153	1888	autrichiens	nmod	1882	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+1897	1897	GPE	0.5018810629844666	wagram	1	18	91	1	0	0	0	154	1897	wagram	nmod	1899	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+1906	1906	PER	0.4867144823074341	autrichiens	1	18	91	10	0	0	0	155	1906	autrichiens	ROOT	1906	NOUN	NOM	Not_Assigned	Not_Assigned	3	46
+1911	1912	GPE	0.5979949831962585	la moskowa	2	18	92	1	0	0	0	156	1912	moskowa	nmod	1914	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+1921	1921	PER	0.5882864594459534	russes	1	18	92	11	0	0	0	157	1921	russes	ROOT	1921	NOUN	NOM	Not_Assigned	Ambiguous	3	9
+1928	1928	GPE	0.8751152753829956	bautzen	1	18	93	1	0	0	0	158	1928	bautzen	nmod	1930	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+1930	1930	PER	0.6533921957015991	français	1	18	93	3	0	0	0	159	1930	français	ROOT	1930	NOUN	NOM	Ambiguous	Not_Assigned	3	8
+1937	1937	PER	0.5598838329315186	russes	1	18	93	10	0	0	0	160	1937	russes	ROOT	1937	NOUN	NOM	Not_Assigned	Ambiguous	3	9
+1939	1939	PER	0.5644632577896118	prussiens	1	18	93	12	0	0	0	161	1939	prussiens	conj	1937	NOUN	NOM	Not_Assigned	Ambiguous	3	47
+1944	1944	GPE	0.9351176023483276	waterloo	1	18	94	1	0	0	0	162	1944	waterloo	nmod	1946	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+1946	1946	PER	0.599915623664856	français	1	18	94	3	0	0	0	163	1946	français	ROOT	1946	NOUN	NOM	Ambiguous	Not_Assigned	3	8
+1955	1955	PER	0.8302842378616333	alliés	1	18	94	12	0	0	0	164	1955	alliés	ROOT	1955	NOUN	NOM	Not_Assigned	Not_Assigned	3	48
+1963	1963	GPE	0.9701387286186218	waterloo	1	18	95	2	0	0	0	165	1963	waterloo	nmod	1961	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+1979	1981	PER	0.5353163679440817	soixante mille morts	3	18	96	8	0	0	0	166	1981	morts	ROOT	1981	NOUN	NOM	Plural	Ambiguous	3	49
+1986	1989	LOC	0.5511953830718994	le champ de waterloo	4	19	97	0	0	1	1	167	1987	champ	nsubj	1991	NOUN	PROP	Not_Assigned	Not_Assigned	3	
+1989	1989	GPE	0.7943828105926514	waterloo	1	19	97	3	1	0	0	168	1989	waterloo	nmod	1987	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+2007	2007	LOC	0.826633095741272	il	1	19	97	21	0	0	0	169	2007	il	nsubj	2008	PRON	PRON	Not_Assigned	Not_Assigned	3	
+2014	2015	TIME	0.809816837310791	la nuit	2	20	98	0	0	0	0	170	2015	nuit	nsubj	2024	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+2031	2031	LOC	0.4469987452030182	y	1	20	98	17	0	0	0	171	2031	y	iobj	2032	PRON	PRON	Not_Assigned	Not_Assigned	3	
+2052	2052	GPE	0.6298366785049438	philippes	1	20	98	38	0	0	0	172	2052	philippes	nmod	2050	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+2086	2089	LOC	0.6828503012657166	le champ de bataille	4	20	99	21	0	0	0	173	2087	champ	nsubj	2090	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+2101	2102	LOC	0.7945752441883087	la plaine	2	20	99	36	0	0	0	174	2102	plaine	obl:mod	2099	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+2164	2165	PER	0.5491361916065216	les grenadiers	2	20	99	99	0	0	0	175	2165	grenadiers	ROOT	2165	NOUN	NOM	Plural	Not_Assigned	3	50
+2182	2182	GPE	0.8153936266899109	napoléon	1	20	99	117	0	0	0	176	2182	napoléon	ROOT	2182	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+2240	2240	GPE	0.6260265707969666	mont-saint-jean	1	20	99	175	0	0	0	177	2240	mont-saint-jean	appos	2237	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+2242	2242	GPE	0.8304818272590637	hougomont	1	20	99	177	0	0	0	178	2242	hougomont	conj	2240	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+2244	2244	GPE	0.8003194332122803	frischemont	1	20	99	179	0	0	0	179	2244	frischemont	conj	2240	PROPN	PROP	Not_Assigned	Not_Assigned	3	
+2246	2246	GPE	0.7511051297187805	papelotte	1	20	99	181	0	0	0	180	2246	papelotte	conj	2240	NOUN	NOM	Not_Assigned	Not_Assigned	3	
+2248	2248	GPE	0.8994762301445007	plancenoit	1	20	99	183	0	0	0	181	2248	plancenoit	conj	2240	PROPN	PROP	Not_Assigned	Not_Assigned	3	
