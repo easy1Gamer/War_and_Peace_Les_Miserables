@@ -4,7 +4,10 @@
       "Bash(python -c ':*)",
       "Bash(pip install:*)",
       "Bash(ls -d \"C:\\\\Users\\\\kovre\\\\PycharmProjects\\\\balzac_characters\"/*/)",
-      "WebFetch(domain:github.com)"
+      "WebFetch(domain:github.com)",
+      "Bash(grep -E \"\\\\.\\(py|ipynb\\)$\")",
+      "Bash(python3 -c ':*)",
+      "Bash(awk -F'/' '{print NF}')"
     ]
   }
 }
