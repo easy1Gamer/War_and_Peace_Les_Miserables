@@ -1,1 +1,11 @@
 propp-fr==0.0.93
+ebooklib==0.17.1
+beautifulsoup4==4.14.3
+torch==2.11.0
+pandas==3.0.2
+numpy==2.4.4
+scikit-learn==1.8.0
+matplotlib==3.10.8
+tqdm==4.67.3
+# spacy French transformer model (used by propp_fr)
+fr_dep_news_trf @ https://github.com/explosion/spacy-models/releases/download/fr_dep_news_trf-3.8.0/fr_dep_news_trf-3.8.0-py3-none-any.whl#sha256=df243e539bbc365390744a411aa574fb03eb2ee2f948cf6149ad722c59ab419b
