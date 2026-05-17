@@ -15,9 +15,9 @@ Tolstoy_Hugo_characters/
 ├── data/
 │   ├── guerre_et_paix.csv              # 7,874 rows × 30 columns
 │   ├── les_miserables.csv              # 5,463 rows × 30 columns
-│   ├── Codebook GP.md
+│   ├── Codebook_war_and_peace.md
 │   └── codebook_les_miserables.md
-├── other_files/
+├── other_files/                                # Technical files used to set up data_preparation 
 │   ├── 0_train_ontology_classifier.ipynb
 │   ├── 1_propp_process_annotated_datasets.ipynb
 │   ├── AntoineBourgois/                        # Local NER + coreference model weights
@@ -27,8 +27,10 @@ Tolstoy_Hugo_characters/
 │   ├── ontology_17Classes_classification_report.md
 │   ├── syntactic_role_mapping.json             # Maps syntactic roles to one-hot indices
 │   └── training_label_mapping.json             # Maps class names to label indices
-├── data_preparation.ipynb              # Full text extraction + NLP pipeline
-├── analysis.ipynb                      # Statistical analysis
+├── data_preparation.ipynb              
+├── analysis.ipynb                      
+├── rapport.pdf                         
+├── support_oral.pdf                    
 └── requirements.txt
 ```
 
